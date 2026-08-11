@@ -2,45 +2,52 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "1ff4c0762857e6717e0f8b7b8e049bbe08da37163445d31c291e0a2bc6a59a2f",
-    "publish-history.jsonl": "2169f74caceff2d4f3fba5bd7882d51e2f69cc033231c87e26d01fb037c5ef65",
-    "publish-report.md": "5488fa1a90b7cd05e862abcaba7322cc9df3aeca11f065a444b9e29ba3fdce16"
+    "index.html": "5abd1afd2e78129acd691bd796f30cc6ebf5bc688e181f56a81b200aac943b5c",
+    "publish-history.jsonl": "a0ee9d812a701fcb2dd5dfec53d785e4a2fc7adf24091ec570d6e14dc7faba79",
+    "publish-report.md": "4274fa2470a730067f27a1c21d70941e2c07dfc91e9fea92402b05b8bb67041d"
   },
   "changes": {
-    "added": [
-      "01-可以少放辣吗",
-      "02-我家停电了",
-      "03-今天几点关门"
-    ],
+    "added": [],
     "changed": [],
     "removed": [],
-    "unchanged": []
+    "unchanged": [
+      "01-外卖少了一样",
+      "02-可以少放辣吗",
+      "03-今天几点关门",
+      "04-你周末有空吗",
+      "05-我想查物流",
+      "06-我家停电了",
+      "07-文件打不开",
+      "08-有大一号吗",
+      "09-需要预约维修",
+      "10-预约剪头发"
+    ]
   },
-  "generated_at": "2026-08-11T15:08:04Z",
+  "generated_at": "2026-08-11T15:19:50Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
     "index.html",
-    "notes/01-可以少放辣吗/original/1_cover.png",
-    "notes/01-可以少放辣吗/original/2_page1.png",
-    "notes/01-可以少放辣吗/original/3_page2.png",
-    "notes/01-可以少放辣吗/original/4_page3.png",
-    "notes/01-可以少放辣吗/original/5_page4.png",
-    "notes/01-可以少放辣吗/web/1_cover.webp",
-    "notes/01-可以少放辣吗/web/2_page1.webp",
-    "notes/01-可以少放辣吗/web/3_page2.webp",
-    "notes/01-可以少放辣吗/web/4_page3.webp",
-    "notes/01-可以少放辣吗/web/5_page4.webp",
-    "notes/02-我家停电了/original/1_cover.png",
-    "notes/02-我家停电了/original/2_page1.png",
-    "notes/02-我家停电了/original/3_page2.png",
-    "notes/02-我家停电了/original/4_page3.png",
-    "notes/02-我家停电了/original/5_page4.png",
-    "notes/02-我家停电了/web/1_cover.webp",
-    "notes/02-我家停电了/web/2_page1.webp",
-    "notes/02-我家停电了/web/3_page2.webp",
-    "notes/02-我家停电了/web/4_page3.webp",
-    "notes/02-我家停电了/web/5_page4.webp",
+    "notes/01-外卖少了一样/original/1_cover.png",
+    "notes/01-外卖少了一样/original/2_page1.png",
+    "notes/01-外卖少了一样/original/3_page2.png",
+    "notes/01-外卖少了一样/original/4_page3.png",
+    "notes/01-外卖少了一样/original/5_page4.png",
+    "notes/01-外卖少了一样/web/1_cover.webp",
+    "notes/01-外卖少了一样/web/2_page1.webp",
+    "notes/01-外卖少了一样/web/3_page2.webp",
+    "notes/01-外卖少了一样/web/4_page3.webp",
+    "notes/01-外卖少了一样/web/5_page4.webp",
+    "notes/02-可以少放辣吗/original/1_cover.png",
+    "notes/02-可以少放辣吗/original/2_page1.png",
+    "notes/02-可以少放辣吗/original/3_page2.png",
+    "notes/02-可以少放辣吗/original/4_page3.png",
+    "notes/02-可以少放辣吗/original/5_page4.png",
+    "notes/02-可以少放辣吗/web/1_cover.webp",
+    "notes/02-可以少放辣吗/web/2_page1.webp",
+    "notes/02-可以少放辣吗/web/3_page2.webp",
+    "notes/02-可以少放辣吗/web/4_page3.webp",
+    "notes/02-可以少放辣吗/web/5_page4.webp",
     "notes/03-今天几点关门/original/1_cover.png",
     "notes/03-今天几点关门/original/2_page1.png",
     "notes/03-今天几点关门/original/3_page2.png",
@@ -51,6 +58,76 @@
     "notes/03-今天几点关门/web/3_page2.webp",
     "notes/03-今天几点关门/web/4_page3.webp",
     "notes/03-今天几点关门/web/5_page4.webp",
+    "notes/04-你周末有空吗/original/1_cover.png",
+    "notes/04-你周末有空吗/original/2_page1.png",
+    "notes/04-你周末有空吗/original/3_page2.png",
+    "notes/04-你周末有空吗/original/4_page3.png",
+    "notes/04-你周末有空吗/original/5_page4.png",
+    "notes/04-你周末有空吗/web/1_cover.webp",
+    "notes/04-你周末有空吗/web/2_page1.webp",
+    "notes/04-你周末有空吗/web/3_page2.webp",
+    "notes/04-你周末有空吗/web/4_page3.webp",
+    "notes/04-你周末有空吗/web/5_page4.webp",
+    "notes/05-我想查物流/original/1_cover.png",
+    "notes/05-我想查物流/original/2_page1.png",
+    "notes/05-我想查物流/original/3_page2.png",
+    "notes/05-我想查物流/original/4_page3.png",
+    "notes/05-我想查物流/original/5_page4.png",
+    "notes/05-我想查物流/web/1_cover.webp",
+    "notes/05-我想查物流/web/2_page1.webp",
+    "notes/05-我想查物流/web/3_page2.webp",
+    "notes/05-我想查物流/web/4_page3.webp",
+    "notes/05-我想查物流/web/5_page4.webp",
+    "notes/06-我家停电了/original/1_cover.png",
+    "notes/06-我家停电了/original/2_page1.png",
+    "notes/06-我家停电了/original/3_page2.png",
+    "notes/06-我家停电了/original/4_page3.png",
+    "notes/06-我家停电了/original/5_page4.png",
+    "notes/06-我家停电了/web/1_cover.webp",
+    "notes/06-我家停电了/web/2_page1.webp",
+    "notes/06-我家停电了/web/3_page2.webp",
+    "notes/06-我家停电了/web/4_page3.webp",
+    "notes/06-我家停电了/web/5_page4.webp",
+    "notes/07-文件打不开/original/1_cover.png",
+    "notes/07-文件打不开/original/2_page1.png",
+    "notes/07-文件打不开/original/3_page2.png",
+    "notes/07-文件打不开/original/4_page3.png",
+    "notes/07-文件打不开/original/5_page4.png",
+    "notes/07-文件打不开/web/1_cover.webp",
+    "notes/07-文件打不开/web/2_page1.webp",
+    "notes/07-文件打不开/web/3_page2.webp",
+    "notes/07-文件打不开/web/4_page3.webp",
+    "notes/07-文件打不开/web/5_page4.webp",
+    "notes/08-有大一号吗/original/1_cover.png",
+    "notes/08-有大一号吗/original/2_page1.png",
+    "notes/08-有大一号吗/original/3_page2.png",
+    "notes/08-有大一号吗/original/4_page3.png",
+    "notes/08-有大一号吗/original/5_page4.png",
+    "notes/08-有大一号吗/web/1_cover.webp",
+    "notes/08-有大一号吗/web/2_page1.webp",
+    "notes/08-有大一号吗/web/3_page2.webp",
+    "notes/08-有大一号吗/web/4_page3.webp",
+    "notes/08-有大一号吗/web/5_page4.webp",
+    "notes/09-需要预约维修/original/1_cover.png",
+    "notes/09-需要预约维修/original/2_page1.png",
+    "notes/09-需要预约维修/original/3_page2.png",
+    "notes/09-需要预约维修/original/4_page3.png",
+    "notes/09-需要预约维修/original/5_page4.png",
+    "notes/09-需要预约维修/web/1_cover.webp",
+    "notes/09-需要预约维修/web/2_page1.webp",
+    "notes/09-需要预约维修/web/3_page2.webp",
+    "notes/09-需要预约维修/web/4_page3.webp",
+    "notes/09-需要预约维修/web/5_page4.webp",
+    "notes/10-预约剪头发/original/1_cover.png",
+    "notes/10-预约剪头发/original/2_page1.png",
+    "notes/10-预约剪头发/original/3_page2.png",
+    "notes/10-预约剪头发/original/4_page3.png",
+    "notes/10-预约剪头发/original/5_page4.png",
+    "notes/10-预约剪头发/web/1_cover.webp",
+    "notes/10-预约剪头发/web/2_page1.webp",
+    "notes/10-预约剪头发/web/3_page2.webp",
+    "notes/10-预约剪头发/web/4_page3.webp",
+    "notes/10-预约剪头发/web/5_page4.webp",
     "publish-history.jsonl",
     "publish-manifest.json",
     "publish-report.md"
@@ -60,15 +137,128 @@
   "notes": [
     {
       "account": "小帮英语",
+      "fingerprint": "1ff7d17101d33c7680e4e55919d527e80a97900451fd63955390c4eb3288da0e",
+      "id": "01-外卖少了一样",
+      "images": [
+        {
+          "alt": "外卖少了一样 的真实生活场景",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/01-外卖少了一样/original/1_cover.png",
+            "sha256": "548d7aea37c171aef4dd3b2f4f0fbf8bf7420244e5d9bdbb08a888edbd3c7993",
+            "size": 1087180
+          },
+          "source": "00_已发布/外卖少了一样_已发布/gemini-preview/1_cover.png",
+          "source_sha256": "548d7aea37c171aef4dd3b2f4f0fbf8bf7420244e5d9bdbb08a888edbd3c7993",
+          "web": {
+            "format": "webp",
+            "path": "notes/01-外卖少了一样/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "662564ab21853acf65af70ade6c381be4e8d32b5e638b81fc3af9aa486b73fac",
+            "size": 59720
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先把需求说清楚",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/01-外卖少了一样/original/2_page1.png",
+            "sha256": "efeee9fe400a6e6f49615c3c975c0670526471bb9115e281075a880c7b43c334",
+            "size": 1273611
+          },
+          "source": "00_已发布/外卖少了一样_已发布/gemini-preview/2_page1.png",
+          "source_sha256": "efeee9fe400a6e6f49615c3c975c0670526471bb9115e281075a880c7b43c334",
+          "web": {
+            "format": "webp",
+            "path": "notes/01-外卖少了一样/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "75031e722f1b0379f2abc695ad280fec3a05e407d492ec47405f25daa7ea7e78",
+            "size": 117918
+          },
+          "width": 1086
+        },
+        {
+          "alt": "补充具体细节",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/01-外卖少了一样/original/3_page2.png",
+            "sha256": "c1a30602e01bb9bc0bb5f231253baa2151fb37cb495b5d2c2d8bb0102b33703d",
+            "size": 1573691
+          },
+          "source": "00_已发布/外卖少了一样_已发布/gemini-preview/3_page2.png",
+          "source_sha256": "c1a30602e01bb9bc0bb5f231253baa2151fb37cb495b5d2c2d8bb0102b33703d",
+          "web": {
+            "format": "webp",
+            "path": "notes/01-外卖少了一样/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "55109b37d7f29c9a9225abdace561e07a9b96c0ce1ac265c9cc1da1671d1bdca",
+            "size": 124772
+          },
+          "width": 1086
+        },
+        {
+          "alt": "礼貌地请求帮助",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/01-外卖少了一样/original/4_page3.png",
+            "sha256": "e4f531d6519ec9ed2f1575ddd203e964b5605a71ccfdeace8bb0fe4993b5763e",
+            "size": 1529213
+          },
+          "source": "00_已发布/外卖少了一样_已发布/gemini-preview/4_page3.png",
+          "source_sha256": "e4f531d6519ec9ed2f1575ddd203e964b5605a71ccfdeace8bb0fe4993b5763e",
+          "web": {
+            "format": "webp",
+            "path": "notes/01-外卖少了一样/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "960b52d3d1dd6f23e75650dfa1427ea5a576072559a35e76f7ab700f1ad9a4cb",
+            "size": 118166
+          },
+          "width": 1086
+        },
+        {
+          "alt": "真实场景直接用",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/01-外卖少了一样/original/5_page4.png",
+            "sha256": "51ada96c4c32773b64be40288ad2fd742091884b76d47f817de59ef440071391",
+            "size": 1583691
+          },
+          "source": "00_已发布/外卖少了一样_已发布/gemini-preview/5_page4.png",
+          "source_sha256": "51ada96c4c32773b64be40288ad2fd742091884b76d47f817de59ef440071391",
+          "web": {
+            "format": "webp",
+            "path": "notes/01-外卖少了一样/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "6b327e33e7d8019c33e0deb229b486a879d0ae922a5cfee313b1f45e994cd019",
+            "size": 125494
+          },
+          "width": 1086
+        }
+      ],
+      "order": 1,
+      "source_note": "00_已发布/外卖少了一样_已发布/外卖少了一样_xhs.md",
+      "source_note_sha256": "0018db0f069375436ad59ce416b6b779f68fcdeea21b22c21b5242b32b31118d",
+      "status": "已发布",
+      "style": "Mixed：封面用小黑/场景插画呈现问题，内页用 GoodNotes 便签拆解表达。",
+      "title": "少送了一份东西，客服英语这样说最快"
+    },
+    {
+      "account": "小帮英语",
       "fingerprint": "02ae2b5f652a6ecb7e22648c8e55bf4d9f4ebb38a6482a4f9d0f85acd299757f",
-      "id": "01-可以少放辣吗",
+      "id": "02-可以少放辣吗",
       "images": [
         {
           "alt": "可以少放辣吗 的真实生活场景",
           "filename": "1_cover.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-可以少放辣吗/original/1_cover.png",
+            "path": "notes/02-可以少放辣吗/original/1_cover.png",
             "sha256": "49f48215afe03027a23a091198e49d33ee182737a0a8596ab24c844657252e0e",
             "size": 1117354
           },
@@ -76,7 +266,7 @@
           "source_sha256": "49f48215afe03027a23a091198e49d33ee182737a0a8596ab24c844657252e0e",
           "web": {
             "format": "webp",
-            "path": "notes/01-可以少放辣吗/web/1_cover.webp",
+            "path": "notes/02-可以少放辣吗/web/1_cover.webp",
             "quality": 82,
             "sha256": "6333c2bcb2cf20163a97f7fb4e66dd91e37e68c7d3ce0e4c9b369752cffa0cbf",
             "size": 69704
@@ -88,7 +278,7 @@
           "filename": "2_page1.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-可以少放辣吗/original/2_page1.png",
+            "path": "notes/02-可以少放辣吗/original/2_page1.png",
             "sha256": "94b20a0bce5c2fef0e2855265bcf074492484e9040b813efa2a94f22db628232",
             "size": 1912628
           },
@@ -96,7 +286,7 @@
           "source_sha256": "94b20a0bce5c2fef0e2855265bcf074492484e9040b813efa2a94f22db628232",
           "web": {
             "format": "webp",
-            "path": "notes/01-可以少放辣吗/web/2_page1.webp",
+            "path": "notes/02-可以少放辣吗/web/2_page1.webp",
             "quality": 82,
             "sha256": "a4627ffc7ba9b491df7bece1f955fb3cb581565baf2ad53de2b52406858d7463",
             "size": 144260
@@ -108,7 +298,7 @@
           "filename": "3_page2.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-可以少放辣吗/original/3_page2.png",
+            "path": "notes/02-可以少放辣吗/original/3_page2.png",
             "sha256": "7c63a0827366f9a8b6162c0e4a0da9c85889cb960ce0862f6801c5f3cb15c290",
             "size": 1803971
           },
@@ -116,7 +306,7 @@
           "source_sha256": "7c63a0827366f9a8b6162c0e4a0da9c85889cb960ce0862f6801c5f3cb15c290",
           "web": {
             "format": "webp",
-            "path": "notes/01-可以少放辣吗/web/3_page2.webp",
+            "path": "notes/02-可以少放辣吗/web/3_page2.webp",
             "quality": 82,
             "sha256": "caa9b562ea55803a231d43ea863d387f2c5b98d9db2c7300153f6df4d1818a76",
             "size": 114734
@@ -128,7 +318,7 @@
           "filename": "4_page3.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-可以少放辣吗/original/4_page3.png",
+            "path": "notes/02-可以少放辣吗/original/4_page3.png",
             "sha256": "b40d67f3a8c0843a06f2080062b58a1c5621e3a2028a3ade06f989d74439ca2c",
             "size": 1619512
           },
@@ -136,7 +326,7 @@
           "source_sha256": "b40d67f3a8c0843a06f2080062b58a1c5621e3a2028a3ade06f989d74439ca2c",
           "web": {
             "format": "webp",
-            "path": "notes/01-可以少放辣吗/web/4_page3.webp",
+            "path": "notes/02-可以少放辣吗/web/4_page3.webp",
             "quality": 82,
             "sha256": "7b61eec62c8de27ac2381d97cdbc8a23b4346e5f07e8913ed24fa353f4dd807a",
             "size": 111870
@@ -148,7 +338,7 @@
           "filename": "5_page4.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-可以少放辣吗/original/5_page4.png",
+            "path": "notes/02-可以少放辣吗/original/5_page4.png",
             "sha256": "43073e8c6de9c201a3953994da93a69cee8c54a340edb1008ed2896f7a9d1a0e",
             "size": 1660002
           },
@@ -156,7 +346,7 @@
           "source_sha256": "43073e8c6de9c201a3953994da93a69cee8c54a340edb1008ed2896f7a9d1a0e",
           "web": {
             "format": "webp",
-            "path": "notes/01-可以少放辣吗/web/5_page4.webp",
+            "path": "notes/02-可以少放辣吗/web/5_page4.webp",
             "quality": 82,
             "sha256": "b66c28276605e9f60951c3bdeccd760d72ee5179ec7800c8955e5eb7a003be25",
             "size": 144214
@@ -164,125 +354,12 @@
           "width": 1086
         }
       ],
-      "order": 1,
+      "order": 2,
       "source_note": "00_已发布/可以少放辣吗_已发布/可以少放辣吗_xhs.md",
       "source_note_sha256": "04ef38767248eed7107620d8840b7d70230b82b756943e38371350229090a008",
       "status": "已发布",
       "style": "Mixed：封面用小黑/场景插画呈现问题，内页用 GoodNotes 便签拆解表达。",
       "title": "可以少放辣吗？英文怎么说"
-    },
-    {
-      "account": "",
-      "fingerprint": "ec9bb9764c0d11c02d415bf15fc8b0284e14455c9780ed61c5c0ccff9a03dd89",
-      "id": "02-我家停电了",
-      "images": [
-        {
-          "alt": "封面：停电了英文怎么说？",
-          "filename": "1_cover.png",
-          "height": 1448,
-          "original": {
-            "path": "notes/02-我家停电了/original/1_cover.png",
-            "sha256": "92398cfe65dfd292e1e3e192a2a273c42fd0c4791802639ad974e36c82ea63ee",
-            "size": 1354352
-          },
-          "source": "00_已发布/我家停电了_已发布/gemini-preview/1_cover.png",
-          "source_sha256": "92398cfe65dfd292e1e3e192a2a273c42fd0c4791802639ad974e36c82ea63ee",
-          "web": {
-            "format": "webp",
-            "path": "notes/02-我家停电了/web/1_cover.webp",
-            "quality": 82,
-            "sha256": "5b28a6dec241ebc704bac3931e27336a731960f16d614ea31182a146314f925e",
-            "size": 54328
-          },
-          "width": 1086
-        },
-        {
-          "alt": "基础表达，脱口而出！：停电了 / 停电通知 / 电力中断 / 来电了",
-          "filename": "2_page1.png",
-          "height": 1448,
-          "original": {
-            "path": "notes/02-我家停电了/original/2_page1.png",
-            "sha256": "437fbe774258b4c713cb8fcf5981c673c23dbeb37268b2b2b6fccb9accaa08ea",
-            "size": 1628071
-          },
-          "source": "00_已发布/我家停电了_已发布/gemini-preview/2_page1.png",
-          "source_sha256": "437fbe774258b4c713cb8fcf5981c673c23dbeb37268b2b2b6fccb9accaa08ea",
-          "web": {
-            "format": "webp",
-            "path": "notes/02-我家停电了/web/2_page1.webp",
-            "quality": 82,
-            "sha256": "0d6d1d967796454415266e03c64555e9fa87323fcb32cf5c2c36593a71d62e59",
-            "size": 118782
-          },
-          "width": 1086
-        },
-        {
-          "alt": "停电原因，秒懂！：跳闸了 / 电路故障 / 负荷过大 / 电线杆倒了",
-          "filename": "3_page2.png",
-          "height": 1448,
-          "original": {
-            "path": "notes/02-我家停电了/original/3_page2.png",
-            "sha256": "d0ce450b609ffa9f48e80dfe8b4a8cee4b8cbbb0081eb849f93df93ade378d64",
-            "size": 1644775
-          },
-          "source": "00_已发布/我家停电了_已发布/gemini-preview/3_page2.png",
-          "source_sha256": "d0ce450b609ffa9f48e80dfe8b4a8cee4b8cbbb0081eb849f93df93ade378d64",
-          "web": {
-            "format": "webp",
-            "path": "notes/02-我家停电了/web/3_page2.webp",
-            "quality": 82,
-            "sha256": "7a56ece2b97f0929b9b7e2b25cbd99358aef0cbd8fe575e4e1554f9e20c39c7a",
-            "size": 125106
-          },
-          "width": 1086
-        },
-        {
-          "alt": "停电影响，吐槽必备！：一片漆黑 / 冰箱里的食物会坏 / 生活受到影响 / 无聊死了",
-          "filename": "4_page3.png",
-          "height": 1448,
-          "original": {
-            "path": "notes/02-我家停电了/original/4_page3.png",
-            "sha256": "4fa36d3c6dbcc33192f85ba8fd829876366eb9e08c5d6a5a593869e72670eedd",
-            "size": 1650425
-          },
-          "source": "00_已发布/我家停电了_已发布/gemini-preview/4_page3.png",
-          "source_sha256": "4fa36d3c6dbcc33192f85ba8fd829876366eb9e08c5d6a5a593869e72670eedd",
-          "web": {
-            "format": "webp",
-            "path": "notes/02-我家停电了/web/4_page3.webp",
-            "quality": 82,
-            "sha256": "30a5b3c7057289e45421157e85fadebc4f4468b96f5d66d8975b8f5f35a5a294",
-            "size": 124316
-          },
-          "width": 1086
-        },
-        {
-          "alt": "求助恢复，有备无患！：什么时候来电？ / 给电力公司打电话 / 用发电机 / 电力已恢复",
-          "filename": "5_page4.png",
-          "height": 1448,
-          "original": {
-            "path": "notes/02-我家停电了/original/5_page4.png",
-            "sha256": "32b46eaf9ff189fcb868c201494612496149167322617777930635c55b00edaa",
-            "size": 1767523
-          },
-          "source": "00_已发布/我家停电了_已发布/gemini-preview/5_page4.png",
-          "source_sha256": "32b46eaf9ff189fcb868c201494612496149167322617777930635c55b00edaa",
-          "web": {
-            "format": "webp",
-            "path": "notes/02-我家停电了/web/5_page4.webp",
-            "quality": 82,
-            "sha256": "9b03e23ada1236d3e39439a93970b9f01dc845ea3afe3281444e9beb95d00819",
-            "size": 144218
-          },
-          "width": 1086
-        }
-      ],
-      "order": 2,
-      "source_note": "00_已发布/我家停电了_已发布/我家停电了_xhs.md",
-      "source_note_sha256": "baba0a38ea0212aba5a36153eb299b29713d2af42945116268b3936b03c63f89",
-      "status": "已发布",
-      "style": "",
-      "title": "“停电了”英文怎么说？"
     },
     {
       "account": "",
@@ -396,9 +473,801 @@
       "status": "已发布",
       "style": "",
       "title": "“今天几点关门？”英文怎么说？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "0a910f6ad781d356c990c732836b866e0424758aad841f16edb8ad166a45c658",
+      "id": "04-你周末有空吗",
+      "images": [
+        {
+          "alt": "你周末有空吗 的真实生活场景",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/04-你周末有空吗/original/1_cover.png",
+            "sha256": "90aa6b3ce7c1cb979d03aa6cdb314eeb1ceaa28efc1fa8e4aa7e56af87df1235",
+            "size": 1398444
+          },
+          "source": "00_已发布/你周末有空吗_已发布/gemini-preview/1_cover.png",
+          "source_sha256": "90aa6b3ce7c1cb979d03aa6cdb314eeb1ceaa28efc1fa8e4aa7e56af87df1235",
+          "web": {
+            "format": "webp",
+            "path": "notes/04-你周末有空吗/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "02aceacd8cbe59b926ebb99b5d3db4d00c0e2e4dff89f9be890df501527d56db",
+            "size": 68578
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先把需求说清楚",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/04-你周末有空吗/original/2_page1.png",
+            "sha256": "3ee98f2516e53d3f2bc1b8d8f7ef3365cf12a9f2bbea1592f996d91d443eeab1",
+            "size": 1632839
+          },
+          "source": "00_已发布/你周末有空吗_已发布/gemini-preview/2_page1.png",
+          "source_sha256": "3ee98f2516e53d3f2bc1b8d8f7ef3365cf12a9f2bbea1592f996d91d443eeab1",
+          "web": {
+            "format": "webp",
+            "path": "notes/04-你周末有空吗/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "6c44a479d97ed8cf1cb818b81e5bcab55d8e15e69ea06e75d7c488aed2be5206",
+            "size": 124006
+          },
+          "width": 1086
+        },
+        {
+          "alt": "补充具体细节",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/04-你周末有空吗/original/3_page2.png",
+            "sha256": "42a78d4c79789fcfff7333b051231b48566b85cbfeae0bfc7348810e4add5920",
+            "size": 1579939
+          },
+          "source": "00_已发布/你周末有空吗_已发布/gemini-preview/3_page2.png",
+          "source_sha256": "42a78d4c79789fcfff7333b051231b48566b85cbfeae0bfc7348810e4add5920",
+          "web": {
+            "format": "webp",
+            "path": "notes/04-你周末有空吗/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "efeea36c3d7b2a0722a1e5deb4921f2200c65286ebac1d32837b755846351e30",
+            "size": 117548
+          },
+          "width": 1086
+        },
+        {
+          "alt": "礼貌地请求帮助",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/04-你周末有空吗/original/4_page3.png",
+            "sha256": "0cfedff33e0c76f459e466f5ad4d3cd083da2b4d98da4a3d9b4044f1e8ed9171",
+            "size": 1780074
+          },
+          "source": "00_已发布/你周末有空吗_已发布/gemini-preview/4_page3.png",
+          "source_sha256": "0cfedff33e0c76f459e466f5ad4d3cd083da2b4d98da4a3d9b4044f1e8ed9171",
+          "web": {
+            "format": "webp",
+            "path": "notes/04-你周末有空吗/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "636217cc671a9e00b2cf5ccbada621d2b241b895ac18805af1c02fcdc254e470",
+            "size": 131630
+          },
+          "width": 1086
+        },
+        {
+          "alt": "真实场景直接用",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/04-你周末有空吗/original/5_page4.png",
+            "sha256": "066d73e35f654efc87d425e9200adc2db1d802afd101a0204efc81e16215831f",
+            "size": 1608101
+          },
+          "source": "00_已发布/你周末有空吗_已发布/gemini-preview/5_page4.png",
+          "source_sha256": "066d73e35f654efc87d425e9200adc2db1d802afd101a0204efc81e16215831f",
+          "web": {
+            "format": "webp",
+            "path": "notes/04-你周末有空吗/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "97128cd1f3f7f6d8ac67603f21678ea9be73556c5863d85ea5374d9bc36bf3a7",
+            "size": 124938
+          },
+          "width": 1086
+        }
+      ],
+      "order": 4,
+      "source_note": "00_已发布/你周末有空吗_已发布/你周末有空吗_xhs.md",
+      "source_note_sha256": "e1f7376ea282198dbd28c91e7a7ef413a7d53893f0d05493c690f0372f3e0637",
+      "status": "已发布",
+      "style": "Mixed：封面用小黑/场景插画呈现问题，内页用 GoodNotes 便签拆解表达。",
+      "title": "你周末有空吗？英文怎么说"
+    },
+    {
+      "account": "",
+      "fingerprint": "c7b9bf5b1b8d19a8ca1894712589a2599b66c92a40c7539ffe5be91332457f23",
+      "id": "05-我想查物流",
+      "images": [
+        {
+          "alt": "封面：我想查物流。英文怎么说？",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/05-我想查物流/original/1_cover.png",
+            "sha256": "a6a83b6b9c8e906c32f3b84f5b5e59bd166007cf98549e9bca0ffa9715385bf1",
+            "size": 1775792
+          },
+          "source": "00_已发布/我想查物流_已发布/gemini-preview/1_cover.png",
+          "source_sha256": "a6a83b6b9c8e906c32f3b84f5b5e59bd166007cf98549e9bca0ffa9715385bf1",
+          "web": {
+            "format": "webp",
+            "path": "notes/05-我想查物流/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "100e55e58e42f8bfcd6a6e326d45f46847c2f1d6c927eef9cd66e383e8de80bc",
+            "size": 68324
+          },
+          "width": 1086
+        },
+        {
+          "alt": "🔍 查件基础篇：我想查物流。 / 我的包裹还在路上吗？ / 物流信息多久更新一次？ / 有追踪号码吗？",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/05-我想查物流/original/2_page1.png",
+            "sha256": "c707a7e1202bfcfab244262ca0eb0a46e83afa86bd0d271983b89824f0ea6406",
+            "size": 1685484
+          },
+          "source": "00_已发布/我想查物流_已发布/gemini-preview/2_page1.png",
+          "source_sha256": "c707a7e1202bfcfab244262ca0eb0a46e83afa86bd0d271983b89824f0ea6406",
+          "web": {
+            "format": "webp",
+            "path": "notes/05-我想查物流/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "cb44b3e8a475c452516d60a663da42d3e72395d465553616f20c540232dda098",
+            "size": 130786
+          },
+          "width": 1086
+        },
+        {
+          "alt": "📦 配送问题篇：包裹派送失败了。 / 我的包裹被退回了。 / 包裹丢了。 / 可以更改收货地址吗？",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/05-我想查物流/original/3_page2.png",
+            "sha256": "7707796637c0de9118a555482aa658c0cbbdccf4e0381af4ef9a99b2538b3076",
+            "size": 1706179
+          },
+          "source": "00_已发布/我想查物流_已发布/gemini-preview/3_page2.png",
+          "source_sha256": "7707796637c0de9118a555482aa658c0cbbdccf4e0381af4ef9a99b2538b3076",
+          "web": {
+            "format": "webp",
+            "path": "notes/05-我想查物流/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "3474325b819f28c73fb58faca4c659efee4018ce0353761496feca6c3554e007",
+            "size": 130772
+          },
+          "width": 1086
+        },
+        {
+          "alt": "📞 催促投诉篇：什么时候能收到货？ / 可以帮我催一下吗？ / 配送太慢了。 / 我想投诉。",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/05-我想查物流/original/4_page3.png",
+            "sha256": "49806433577afdd32c8ebe7c819ed1bd8e72f60195dbe34a5566931fe4bb2896",
+            "size": 1648344
+          },
+          "source": "00_已发布/我想查物流_已发布/gemini-preview/4_page3.png",
+          "source_sha256": "49806433577afdd32c8ebe7c819ed1bd8e72f60195dbe34a5566931fe4bb2896",
+          "web": {
+            "format": "webp",
+            "path": "notes/05-我想查物流/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "3c55707f24cfaf6e28be94ce25a4754fea1762a241bd7047e38380dbbde119be",
+            "size": 119706
+          },
+          "width": 1086
+        },
+        {
+          "alt": "✈️ 海淘专属篇：清关需要多久？ / 会产生关税吗？ / 我的包裹被海关扣了。 / 请问运费是多少？",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/05-我想查物流/original/5_page4.png",
+            "sha256": "a9317b68a026b4ce367004fa5bb8f62665221316ee520b65f74e4dd6c447c5ea",
+            "size": 1651113
+          },
+          "source": "00_已发布/我想查物流_已发布/gemini-preview/5_page4.png",
+          "source_sha256": "a9317b68a026b4ce367004fa5bb8f62665221316ee520b65f74e4dd6c447c5ea",
+          "web": {
+            "format": "webp",
+            "path": "notes/05-我想查物流/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "a07d34a8c83d74e572ee799dd2ce937da251dce4acc318d4df2bbbf93bf7d337",
+            "size": 130662
+          },
+          "width": 1086
+        }
+      ],
+      "order": 5,
+      "source_note": "00_已发布/我想查物流_已发布/我想查物流_xhs.md",
+      "source_note_sha256": "52348753da4ce0a88b16825808d5e474ea837a59aa1b69d9f04c57e3d9a07ed2",
+      "status": "已发布",
+      "style": "",
+      "title": "“我想查物流。”英文怎么说？"
+    },
+    {
+      "account": "",
+      "fingerprint": "ec9bb9764c0d11c02d415bf15fc8b0284e14455c9780ed61c5c0ccff9a03dd89",
+      "id": "06-我家停电了",
+      "images": [
+        {
+          "alt": "封面：停电了英文怎么说？",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/06-我家停电了/original/1_cover.png",
+            "sha256": "92398cfe65dfd292e1e3e192a2a273c42fd0c4791802639ad974e36c82ea63ee",
+            "size": 1354352
+          },
+          "source": "00_已发布/我家停电了_已发布/gemini-preview/1_cover.png",
+          "source_sha256": "92398cfe65dfd292e1e3e192a2a273c42fd0c4791802639ad974e36c82ea63ee",
+          "web": {
+            "format": "webp",
+            "path": "notes/06-我家停电了/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "5b28a6dec241ebc704bac3931e27336a731960f16d614ea31182a146314f925e",
+            "size": 54328
+          },
+          "width": 1086
+        },
+        {
+          "alt": "基础表达，脱口而出！：停电了 / 停电通知 / 电力中断 / 来电了",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/06-我家停电了/original/2_page1.png",
+            "sha256": "437fbe774258b4c713cb8fcf5981c673c23dbeb37268b2b2b6fccb9accaa08ea",
+            "size": 1628071
+          },
+          "source": "00_已发布/我家停电了_已发布/gemini-preview/2_page1.png",
+          "source_sha256": "437fbe774258b4c713cb8fcf5981c673c23dbeb37268b2b2b6fccb9accaa08ea",
+          "web": {
+            "format": "webp",
+            "path": "notes/06-我家停电了/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "0d6d1d967796454415266e03c64555e9fa87323fcb32cf5c2c36593a71d62e59",
+            "size": 118782
+          },
+          "width": 1086
+        },
+        {
+          "alt": "停电原因，秒懂！：跳闸了 / 电路故障 / 负荷过大 / 电线杆倒了",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/06-我家停电了/original/3_page2.png",
+            "sha256": "d0ce450b609ffa9f48e80dfe8b4a8cee4b8cbbb0081eb849f93df93ade378d64",
+            "size": 1644775
+          },
+          "source": "00_已发布/我家停电了_已发布/gemini-preview/3_page2.png",
+          "source_sha256": "d0ce450b609ffa9f48e80dfe8b4a8cee4b8cbbb0081eb849f93df93ade378d64",
+          "web": {
+            "format": "webp",
+            "path": "notes/06-我家停电了/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "7a56ece2b97f0929b9b7e2b25cbd99358aef0cbd8fe575e4e1554f9e20c39c7a",
+            "size": 125106
+          },
+          "width": 1086
+        },
+        {
+          "alt": "停电影响，吐槽必备！：一片漆黑 / 冰箱里的食物会坏 / 生活受到影响 / 无聊死了",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/06-我家停电了/original/4_page3.png",
+            "sha256": "4fa36d3c6dbcc33192f85ba8fd829876366eb9e08c5d6a5a593869e72670eedd",
+            "size": 1650425
+          },
+          "source": "00_已发布/我家停电了_已发布/gemini-preview/4_page3.png",
+          "source_sha256": "4fa36d3c6dbcc33192f85ba8fd829876366eb9e08c5d6a5a593869e72670eedd",
+          "web": {
+            "format": "webp",
+            "path": "notes/06-我家停电了/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "30a5b3c7057289e45421157e85fadebc4f4468b96f5d66d8975b8f5f35a5a294",
+            "size": 124316
+          },
+          "width": 1086
+        },
+        {
+          "alt": "求助恢复，有备无患！：什么时候来电？ / 给电力公司打电话 / 用发电机 / 电力已恢复",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/06-我家停电了/original/5_page4.png",
+            "sha256": "32b46eaf9ff189fcb868c201494612496149167322617777930635c55b00edaa",
+            "size": 1767523
+          },
+          "source": "00_已发布/我家停电了_已发布/gemini-preview/5_page4.png",
+          "source_sha256": "32b46eaf9ff189fcb868c201494612496149167322617777930635c55b00edaa",
+          "web": {
+            "format": "webp",
+            "path": "notes/06-我家停电了/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "9b03e23ada1236d3e39439a93970b9f01dc845ea3afe3281444e9beb95d00819",
+            "size": 144218
+          },
+          "width": 1086
+        }
+      ],
+      "order": 6,
+      "source_note": "00_已发布/我家停电了_已发布/我家停电了_xhs.md",
+      "source_note_sha256": "baba0a38ea0212aba5a36153eb299b29713d2af42945116268b3936b03c63f89",
+      "status": "已发布",
+      "style": "",
+      "title": "“停电了”英文怎么说？"
+    },
+    {
+      "account": "卖煎饼的司机",
+      "fingerprint": "c7003991e282ab733fbcbc163799e9d7a2092a756f50f29ac48074743bea44c3",
+      "id": "07-文件打不开",
+      "images": [
+        {
+          "alt": "文件打不开 的真实工作/生活场景",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/07-文件打不开/original/1_cover.png",
+            "sha256": "a9322ff4b726be59b504ed45ed48d90fe96a0d2fada6c84f5c82b3b563cf2490",
+            "size": 1120439
+          },
+          "source": "00_已发布/文件打不开_已发布/gemini-preview/1_cover.png",
+          "source_sha256": "a9322ff4b726be59b504ed45ed48d90fe96a0d2fada6c84f5c82b3b563cf2490",
+          "web": {
+            "format": "webp",
+            "path": "notes/07-文件打不开/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "d411d862fc842828c9bd7f366298e4af250892332914cd090f8714ac121b0b6f",
+            "size": 77024
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先把需求说清楚",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/07-文件打不开/original/2_page1.png",
+            "sha256": "42f6aab48ec9e3e5915c1e7ed3d6cdce51d4a56571dd727fa7121e3eabe3caaa",
+            "size": 1753031
+          },
+          "source": "00_已发布/文件打不开_已发布/gemini-preview/2_page1.png",
+          "source_sha256": "42f6aab48ec9e3e5915c1e7ed3d6cdce51d4a56571dd727fa7121e3eabe3caaa",
+          "web": {
+            "format": "webp",
+            "path": "notes/07-文件打不开/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "2042a122de87d0a9ec277437f8a666f644defa341ea6c8448e37b0974e14a32d",
+            "size": 99862
+          },
+          "width": 1086
+        },
+        {
+          "alt": "补充具体细节",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/07-文件打不开/original/3_page2.png",
+            "sha256": "154c6ca2b7cd57d50a19769744e83cb3fdb4f596cb3d4e7c452549ebd272488d",
+            "size": 1501491
+          },
+          "source": "00_已发布/文件打不开_已发布/gemini-preview/3_page2.png",
+          "source_sha256": "154c6ca2b7cd57d50a19769744e83cb3fdb4f596cb3d4e7c452549ebd272488d",
+          "web": {
+            "format": "webp",
+            "path": "notes/07-文件打不开/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "5982912865b143c3b9f46eaa88e9ccff34708a2207df889214efa31600b21bbd",
+            "size": 105978
+          },
+          "width": 1086
+        },
+        {
+          "alt": "礼貌地请求帮助",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/07-文件打不开/original/4_page3.png",
+            "sha256": "3c8f91962e43c79aeae72d365501cc4d517a093b42c5f7ab65a39fae4584adf8",
+            "size": 1551220
+          },
+          "source": "00_已发布/文件打不开_已发布/gemini-preview/4_page3.png",
+          "source_sha256": "3c8f91962e43c79aeae72d365501cc4d517a093b42c5f7ab65a39fae4584adf8",
+          "web": {
+            "format": "webp",
+            "path": "notes/07-文件打不开/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "2db67796ece203b3e22d61a02519e9ca750dc7872a344c79835bed2c40107287",
+            "size": 104772
+          },
+          "width": 1086
+        },
+        {
+          "alt": "真实场景直接用",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/07-文件打不开/original/5_page4.png",
+            "sha256": "87071a6f4f989248096810b61c3beb333eef4b13c84666fed06a638bc00b8faf",
+            "size": 1485678
+          },
+          "source": "00_已发布/文件打不开_已发布/gemini-preview/5_page4.png",
+          "source_sha256": "87071a6f4f989248096810b61c3beb333eef4b13c84666fed06a638bc00b8faf",
+          "web": {
+            "format": "webp",
+            "path": "notes/07-文件打不开/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "4dd5994672f9e37625336a75212f0f5b3ff051714bd0f460d928ce2ce4747174",
+            "size": 100784
+          },
+          "width": 1086
+        }
+      ],
+      "order": 7,
+      "source_note": "00_已发布/文件打不开_已发布/文件打不开_xhs.md",
+      "source_note_sha256": "09b2eb02a48aacc98a922c04c63761df34bfa1afebf55e9400d64b7c1c6fdbc2",
+      "status": "已发布",
+      "style": "Mixed：封面用小黑/场景插画呈现问题，内页用 GoodNotes 便签拆解表达。",
+      "title": "文件打不开？英文这样说"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "ca0cef74bb83826e98b27971b8b30d55c1774436c814b845ae7b78b9185dce92",
+      "id": "08-有大一号吗",
+      "images": [
+        {
+          "alt": "有大一号吗 的真实生活场景",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/08-有大一号吗/original/1_cover.png",
+            "sha256": "a8628437c35dacbe8a8094e4878c0e52962dfd7893566b451c0862df3464db4d",
+            "size": 1199743
+          },
+          "source": "00_已发布/有大一号吗_已发布/gemini-preview/1_cover.png",
+          "source_sha256": "a8628437c35dacbe8a8094e4878c0e52962dfd7893566b451c0862df3464db4d",
+          "web": {
+            "format": "webp",
+            "path": "notes/08-有大一号吗/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "a9a5c3204db0344d203bd95ad6fa21e5607abcabbc9adce577b4e757213ba284",
+            "size": 87392
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先把需求说清楚",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/08-有大一号吗/original/2_page1.png",
+            "sha256": "fd3341768199ef40684aee0fdbd3aa7bf896fd357248966401ddd12909f73219",
+            "size": 1523894
+          },
+          "source": "00_已发布/有大一号吗_已发布/gemini-preview/2_page1.png",
+          "source_sha256": "fd3341768199ef40684aee0fdbd3aa7bf896fd357248966401ddd12909f73219",
+          "web": {
+            "format": "webp",
+            "path": "notes/08-有大一号吗/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "0e430f3b295ee36608315d045d1ae2096449949d2ef8c40dc5c9778ac4155f66",
+            "size": 97172
+          },
+          "width": 1086
+        },
+        {
+          "alt": "补充具体细节",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/08-有大一号吗/original/3_page2.png",
+            "sha256": "d5dde167dac53ac0bad036b173cd3688b4d498204e198d52cfc5d696e2d87016",
+            "size": 1467867
+          },
+          "source": "00_已发布/有大一号吗_已发布/gemini-preview/3_page2.png",
+          "source_sha256": "d5dde167dac53ac0bad036b173cd3688b4d498204e198d52cfc5d696e2d87016",
+          "web": {
+            "format": "webp",
+            "path": "notes/08-有大一号吗/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "3335ee89a098ee9679c8761f1929a6e399e8d4880bb1d66ad3be0460e29051d0",
+            "size": 86434
+          },
+          "width": 1086
+        },
+        {
+          "alt": "礼貌地请求帮助",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/08-有大一号吗/original/4_page3.png",
+            "sha256": "df2694c7f37d581693bc9926524e4add909a55beb1a2af99a9c2945836f6ade0",
+            "size": 1526164
+          },
+          "source": "00_已发布/有大一号吗_已发布/gemini-preview/4_page3.png",
+          "source_sha256": "df2694c7f37d581693bc9926524e4add909a55beb1a2af99a9c2945836f6ade0",
+          "web": {
+            "format": "webp",
+            "path": "notes/08-有大一号吗/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "a1faabc144762ff0f5345c0c12fb241e9f7eaa83b7109dafa1024a9d46add520",
+            "size": 102770
+          },
+          "width": 1086
+        },
+        {
+          "alt": "真实场景直接用",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/08-有大一号吗/original/5_page4.png",
+            "sha256": "d40bda907c04b1937bc860cf03f8eb1244612e7d304cb3669f444d0686dbfbcc",
+            "size": 1433739
+          },
+          "source": "00_已发布/有大一号吗_已发布/gemini-preview/5_page4.png",
+          "source_sha256": "d40bda907c04b1937bc860cf03f8eb1244612e7d304cb3669f444d0686dbfbcc",
+          "web": {
+            "format": "webp",
+            "path": "notes/08-有大一号吗/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "3bb37d3eb382c18e079940ec61d329684968c7bbfde863cfc3dad677f4126c7b",
+            "size": 81642
+          },
+          "width": 1086
+        }
+      ],
+      "order": 8,
+      "source_note": "00_已发布/有大一号吗_已发布/有大一号吗_xhs.md",
+      "source_note_sha256": "11a2fef63e1032a75a9a9a36f29f32b0c21450ea0db745cb4f6a63876252263f",
+      "status": "已发布",
+      "style": "Mixed：封面用小黑/场景插画呈现问题，内页用 GoodNotes 便签拆解表达。",
+      "title": "小了想换大一号，英文其实很简单"
+    },
+    {
+      "account": "卖煎饼的司机",
+      "fingerprint": "c0aae3651f40fe3753443916a5ca686288e7c725c3d11922b873dc1096790aec",
+      "id": "09-需要预约维修",
+      "images": [
+        {
+          "alt": "需要预约维修 的真实工作/生活场景",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/09-需要预约维修/original/1_cover.png",
+            "sha256": "1e31b10bb53495dc36fe24cfe36dc6ded831dec56844c7f4f09792836a8daa99",
+            "size": 1137397
+          },
+          "source": "00_已发布/需要预约维修_已发布/gemini-preview/1_cover.png",
+          "source_sha256": "1e31b10bb53495dc36fe24cfe36dc6ded831dec56844c7f4f09792836a8daa99",
+          "web": {
+            "format": "webp",
+            "path": "notes/09-需要预约维修/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "b9e6b601230a07474a3ffc455f20801a298a6a5f216d8158ae63812e224f4a6c",
+            "size": 94224
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先把需求说清楚",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/09-需要预约维修/original/2_page1.png",
+            "sha256": "80acbd5a422017b03548edd37a8851b7d621a5afa5bbb80d42db2281ec5a7075",
+            "size": 1532745
+          },
+          "source": "00_已发布/需要预约维修_已发布/gemini-preview/2_page1.png",
+          "source_sha256": "80acbd5a422017b03548edd37a8851b7d621a5afa5bbb80d42db2281ec5a7075",
+          "web": {
+            "format": "webp",
+            "path": "notes/09-需要预约维修/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "1de60e65495b1bf9a1af24329cb039336f3d278da6e36ea9c9a55f63a296dc01",
+            "size": 99772
+          },
+          "width": 1086
+        },
+        {
+          "alt": "补充具体细节",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/09-需要预约维修/original/3_page2.png",
+            "sha256": "3fc8b5c51a92396411272a7b0a1452326ab02420ab9277d7251b505686bc7595",
+            "size": 1541206
+          },
+          "source": "00_已发布/需要预约维修_已发布/gemini-preview/3_page2.png",
+          "source_sha256": "3fc8b5c51a92396411272a7b0a1452326ab02420ab9277d7251b505686bc7595",
+          "web": {
+            "format": "webp",
+            "path": "notes/09-需要预约维修/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "98f865ee5799493fd4d235adf7b558896006c543b0ea43a6587407117a257df9",
+            "size": 102072
+          },
+          "width": 1086
+        },
+        {
+          "alt": "礼貌地请求帮助",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/09-需要预约维修/original/4_page3.png",
+            "sha256": "bca4fa46639f5933cf7d45bc1f056990bd6a71c4a2751b35726f602130d17631",
+            "size": 1515047
+          },
+          "source": "00_已发布/需要预约维修_已发布/gemini-preview/4_page3.png",
+          "source_sha256": "bca4fa46639f5933cf7d45bc1f056990bd6a71c4a2751b35726f602130d17631",
+          "web": {
+            "format": "webp",
+            "path": "notes/09-需要预约维修/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "8599773f252988179a1edd2ac731646741fbbc0c2ae99ab040bcfeda0fe417b8",
+            "size": 92890
+          },
+          "width": 1086
+        },
+        {
+          "alt": "真实场景直接用",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/09-需要预约维修/original/5_page4.png",
+            "sha256": "ccf96e062642e2590051aaca1a10ad6d8a4f6ce5521a8b22f1064f9b63cf750f",
+            "size": 1509429
+          },
+          "source": "00_已发布/需要预约维修_已发布/gemini-preview/5_page4.png",
+          "source_sha256": "ccf96e062642e2590051aaca1a10ad6d8a4f6ce5521a8b22f1064f9b63cf750f",
+          "web": {
+            "format": "webp",
+            "path": "notes/09-需要预约维修/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "df2eba2b5573f3556b551816b2a0077e93fb1fb2e3d427dbe92af0d6aee8fe94",
+            "size": 104094
+          },
+          "width": 1086
+        }
+      ],
+      "order": 9,
+      "source_note": "00_已发布/需要预约维修_已发布/需要预约维修_xhs.md",
+      "source_note_sha256": "6b8271124c962f4e4da7e77d3c326fc20eb0e5d422e5c46ce0600cb7eb170fdb",
+      "status": "已发布",
+      "style": "Mixed：封面用小黑/场景插画呈现问题，内页用 GoodNotes 便签拆解表达。",
+      "title": "家里东西坏了，怎么和房东约维修时间？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "2404052cfd51fc7ad543067e7ee415d2977897181f4153b46e5ad75fbe0efc10",
+      "id": "10-预约剪头发",
+      "images": [
+        {
+          "alt": "预约剪头发 的真实生活场景",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/10-预约剪头发/original/1_cover.png",
+            "sha256": "56d915bebfc707cb0b63804ded4eb46f5d1fd01d54d5eaa5924529cdae46c1c9",
+            "size": 1166356
+          },
+          "source": "00_已发布/预约剪头发_已发布/gemini-preview/1_cover.png",
+          "source_sha256": "56d915bebfc707cb0b63804ded4eb46f5d1fd01d54d5eaa5924529cdae46c1c9",
+          "web": {
+            "format": "webp",
+            "path": "notes/10-预约剪头发/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "e6a24f04fd1e74c9e24b525ea6da7702a9f6cb41cc724cd8e926f734ae784f39",
+            "size": 84084
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先把需求说清楚",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/10-预约剪头发/original/2_page1.png",
+            "sha256": "0a86b8196a36b26b1089a5082f3d091eb03a00b5a411b3222962b2d294a4d64f",
+            "size": 1168043
+          },
+          "source": "00_已发布/预约剪头发_已发布/gemini-preview/2_page1.png",
+          "source_sha256": "0a86b8196a36b26b1089a5082f3d091eb03a00b5a411b3222962b2d294a4d64f",
+          "web": {
+            "format": "webp",
+            "path": "notes/10-预约剪头发/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "c1f99873facbe8f889807a1184ff3397348a5e337908192f0578ccba119838e6",
+            "size": 97986
+          },
+          "width": 1086
+        },
+        {
+          "alt": "补充具体细节",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/10-预约剪头发/original/3_page2.png",
+            "sha256": "c93e8d3771e904f61bb46ff82e153bbb5004c1fc34406ff9fb7040fd33f16544",
+            "size": 1483053
+          },
+          "source": "00_已发布/预约剪头发_已发布/gemini-preview/3_page2.png",
+          "source_sha256": "c93e8d3771e904f61bb46ff82e153bbb5004c1fc34406ff9fb7040fd33f16544",
+          "web": {
+            "format": "webp",
+            "path": "notes/10-预约剪头发/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "1c00c81a1e54ec71a016311819fcd7018e31cd3b52d48d59dedf448637c4447b",
+            "size": 85448
+          },
+          "width": 1086
+        },
+        {
+          "alt": "礼貌地请求帮助",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/10-预约剪头发/original/4_page3.png",
+            "sha256": "01a2b2fa170cc86c5ffdcab0fc8bbe59d1b46676f85bc13979eb9e6a5d90a1f0",
+            "size": 1501211
+          },
+          "source": "00_已发布/预约剪头发_已发布/gemini-preview/4_page3.png",
+          "source_sha256": "01a2b2fa170cc86c5ffdcab0fc8bbe59d1b46676f85bc13979eb9e6a5d90a1f0",
+          "web": {
+            "format": "webp",
+            "path": "notes/10-预约剪头发/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "586741f64fb508e1b13a9a1ec374b6070d7c78d126a691d68691fcd7fd1932b0",
+            "size": 98908
+          },
+          "width": 1086
+        },
+        {
+          "alt": "真实场景直接用",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/10-预约剪头发/original/5_page4.png",
+            "sha256": "4262c523ea0c14d4aa80a6c2baa87eef2c4e7181c4276a3161b426274c897548",
+            "size": 1590049
+          },
+          "source": "00_已发布/预约剪头发_已发布/gemini-preview/5_page4.png",
+          "source_sha256": "4262c523ea0c14d4aa80a6c2baa87eef2c4e7181c4276a3161b426274c897548",
+          "web": {
+            "format": "webp",
+            "path": "notes/10-预约剪头发/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "dbac574b9a0bbc3073d23e27cee51f359f4dfbbd1fc20040e6a2b37104260fe4",
+            "size": 118940
+          },
+          "width": 1086
+        }
+      ],
+      "order": 10,
+      "source_note": "00_已发布/预约剪头发_已发布/预约剪头发_xhs.md",
+      "source_note_sha256": "94b3faad423cbb04c0f38b0cac41131ac7f4811fca43a8e6d23034c7c0e0e001",
+      "status": "已发布",
+      "style": "Mixed：封面用小黑/场景插画呈现问题，内页用 GoodNotes 便签拆解表达。",
+      "title": "剪头发预约、改时间，一组表达搞定"
     }
   ],
-  "output_digest": "e7183e0e041b62068fe4791b01f4651ea3161eec8ee562de83e590237ae9352b",
+  "output_digest": "429c039e23873554f53b0f54fc1da9bcae1bc75a36e7c8a6bde02b19e4d88c4f",
+  "pruned_files": [],
   "schema_version": 1,
   "site": {
     "accent": "#c44536",
@@ -408,15 +1277,15 @@
     "access_gate": true,
     "pages_url": "https://passmetheplay.github.io/xhs-english-notes-deploy/",
     "repository_url": "https://github.com/passmetheplay/xhs-english-notes-deploy",
-    "subtitle": "本批 3 篇 · 2026-08-11",
-    "title": "小帮英语｜生活口语笔记合集"
+    "subtitle": "小黑风 · 第二批 10 篇 · 2026-08-11",
+    "title": "小红书英语口语｜第二批 10 篇合集"
   },
   "source_root_hint": "小红书轮播图",
   "totals": {
-    "images": 15,
-    "notes": 3,
-    "original_bytes": 23043403,
-    "savings_percent": 92.08479754487651,
-    "webp_bytes": 1823932
+    "images": 50,
+    "notes": 10,
+    "original_bytes": 75264900,
+    "savings_percent": 92.77325818542242,
+    "webp_bytes": 5439200
   }
 }
