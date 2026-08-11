@@ -2,12 +2,25 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "5abd1afd2e78129acd691bd796f30cc6ebf5bc688e181f56a81b200aac943b5c",
-    "publish-history.jsonl": "a0ee9d812a701fcb2dd5dfec53d785e4a2fc7adf24091ec570d6e14dc7faba79",
-    "publish-report.md": "4274fa2470a730067f27a1c21d70941e2c07dfc91e9fea92402b05b8bb67041d"
+    "index.html": "c17d86908a94d5f67090400f1513e3ed15eef387c6bfbe4028345e0f806370c7",
+    "publish-history.jsonl": "08dedb6a20a31f1c0d2b8cd049d9fe6a23d2ecab873e99bef9af56246a961d0a",
+    "publish-report.md": "d5efcd3add1e9d6adf06747069c70abdc4b2315333f81435410b87dbe2f5fff1"
   },
   "changes": {
-    "added": [],
+    "added": [
+      "11-可以少放点油吗",
+      "12-可以少放点盐吗",
+      "13-可以换一道不辣的吗",
+      "14-可以推荐一道不辣的吗",
+      "15-今天几点开门",
+      "16-今天正常营业吗",
+      "17-现在还能点餐吗",
+      "18-家里停水了",
+      "19-家里断网了",
+      "20-这个插座没电",
+      "21-暖气停了",
+      "22-家里煤气停了"
+    ],
     "changed": [],
     "removed": [],
     "unchanged": [
@@ -23,7 +36,7 @@
       "10-预约剪头发"
     ]
   },
-  "generated_at": "2026-08-11T15:19:50Z",
+  "generated_at": "2026-08-11T18:19:39Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
@@ -128,6 +141,126 @@
     "notes/10-预约剪头发/web/3_page2.webp",
     "notes/10-预约剪头发/web/4_page3.webp",
     "notes/10-预约剪头发/web/5_page4.webp",
+    "notes/11-可以少放点油吗/original/1_cover.png",
+    "notes/11-可以少放点油吗/original/2_page1.png",
+    "notes/11-可以少放点油吗/original/3_page2.png",
+    "notes/11-可以少放点油吗/original/4_page3.png",
+    "notes/11-可以少放点油吗/original/5_page4.png",
+    "notes/11-可以少放点油吗/web/1_cover.webp",
+    "notes/11-可以少放点油吗/web/2_page1.webp",
+    "notes/11-可以少放点油吗/web/3_page2.webp",
+    "notes/11-可以少放点油吗/web/4_page3.webp",
+    "notes/11-可以少放点油吗/web/5_page4.webp",
+    "notes/12-可以少放点盐吗/original/1_cover.png",
+    "notes/12-可以少放点盐吗/original/2_page1.png",
+    "notes/12-可以少放点盐吗/original/3_page2.png",
+    "notes/12-可以少放点盐吗/original/4_page3.png",
+    "notes/12-可以少放点盐吗/original/5_page4.png",
+    "notes/12-可以少放点盐吗/web/1_cover.webp",
+    "notes/12-可以少放点盐吗/web/2_page1.webp",
+    "notes/12-可以少放点盐吗/web/3_page2.webp",
+    "notes/12-可以少放点盐吗/web/4_page3.webp",
+    "notes/12-可以少放点盐吗/web/5_page4.webp",
+    "notes/13-可以换一道不辣的吗/original/1_cover.png",
+    "notes/13-可以换一道不辣的吗/original/2_page1.png",
+    "notes/13-可以换一道不辣的吗/original/3_page2.png",
+    "notes/13-可以换一道不辣的吗/original/4_page3.png",
+    "notes/13-可以换一道不辣的吗/original/5_page4.png",
+    "notes/13-可以换一道不辣的吗/web/1_cover.webp",
+    "notes/13-可以换一道不辣的吗/web/2_page1.webp",
+    "notes/13-可以换一道不辣的吗/web/3_page2.webp",
+    "notes/13-可以换一道不辣的吗/web/4_page3.webp",
+    "notes/13-可以换一道不辣的吗/web/5_page4.webp",
+    "notes/14-可以推荐一道不辣的吗/original/1_cover.png",
+    "notes/14-可以推荐一道不辣的吗/original/2_page1.png",
+    "notes/14-可以推荐一道不辣的吗/original/3_page2.png",
+    "notes/14-可以推荐一道不辣的吗/original/4_page3.png",
+    "notes/14-可以推荐一道不辣的吗/original/5_page4.png",
+    "notes/14-可以推荐一道不辣的吗/web/1_cover.webp",
+    "notes/14-可以推荐一道不辣的吗/web/2_page1.webp",
+    "notes/14-可以推荐一道不辣的吗/web/3_page2.webp",
+    "notes/14-可以推荐一道不辣的吗/web/4_page3.webp",
+    "notes/14-可以推荐一道不辣的吗/web/5_page4.webp",
+    "notes/15-今天几点开门/original/1_cover.png",
+    "notes/15-今天几点开门/original/2_page1.png",
+    "notes/15-今天几点开门/original/3_page2.png",
+    "notes/15-今天几点开门/original/4_page3.png",
+    "notes/15-今天几点开门/original/5_page4.png",
+    "notes/15-今天几点开门/web/1_cover.webp",
+    "notes/15-今天几点开门/web/2_page1.webp",
+    "notes/15-今天几点开门/web/3_page2.webp",
+    "notes/15-今天几点开门/web/4_page3.webp",
+    "notes/15-今天几点开门/web/5_page4.webp",
+    "notes/16-今天正常营业吗/original/1_cover.png",
+    "notes/16-今天正常营业吗/original/2_page1.png",
+    "notes/16-今天正常营业吗/original/3_page2.png",
+    "notes/16-今天正常营业吗/original/4_page3.png",
+    "notes/16-今天正常营业吗/original/5_page4.png",
+    "notes/16-今天正常营业吗/web/1_cover.webp",
+    "notes/16-今天正常营业吗/web/2_page1.webp",
+    "notes/16-今天正常营业吗/web/3_page2.webp",
+    "notes/16-今天正常营业吗/web/4_page3.webp",
+    "notes/16-今天正常营业吗/web/5_page4.webp",
+    "notes/17-现在还能点餐吗/original/1_cover.png",
+    "notes/17-现在还能点餐吗/original/2_page1.png",
+    "notes/17-现在还能点餐吗/original/3_page2.png",
+    "notes/17-现在还能点餐吗/original/4_page3.png",
+    "notes/17-现在还能点餐吗/original/5_page4.png",
+    "notes/17-现在还能点餐吗/web/1_cover.webp",
+    "notes/17-现在还能点餐吗/web/2_page1.webp",
+    "notes/17-现在还能点餐吗/web/3_page2.webp",
+    "notes/17-现在还能点餐吗/web/4_page3.webp",
+    "notes/17-现在还能点餐吗/web/5_page4.webp",
+    "notes/18-家里停水了/original/1_cover.png",
+    "notes/18-家里停水了/original/2_page1.png",
+    "notes/18-家里停水了/original/3_page2.png",
+    "notes/18-家里停水了/original/4_page3.png",
+    "notes/18-家里停水了/original/5_page4.png",
+    "notes/18-家里停水了/web/1_cover.webp",
+    "notes/18-家里停水了/web/2_page1.webp",
+    "notes/18-家里停水了/web/3_page2.webp",
+    "notes/18-家里停水了/web/4_page3.webp",
+    "notes/18-家里停水了/web/5_page4.webp",
+    "notes/19-家里断网了/original/1_cover.png",
+    "notes/19-家里断网了/original/2_page1.png",
+    "notes/19-家里断网了/original/3_page2.png",
+    "notes/19-家里断网了/original/4_page3.png",
+    "notes/19-家里断网了/original/5_page4.png",
+    "notes/19-家里断网了/web/1_cover.webp",
+    "notes/19-家里断网了/web/2_page1.webp",
+    "notes/19-家里断网了/web/3_page2.webp",
+    "notes/19-家里断网了/web/4_page3.webp",
+    "notes/19-家里断网了/web/5_page4.webp",
+    "notes/20-这个插座没电/original/1_cover.png",
+    "notes/20-这个插座没电/original/2_page1.png",
+    "notes/20-这个插座没电/original/3_page2.png",
+    "notes/20-这个插座没电/original/4_page3.png",
+    "notes/20-这个插座没电/original/5_page4.png",
+    "notes/20-这个插座没电/web/1_cover.webp",
+    "notes/20-这个插座没电/web/2_page1.webp",
+    "notes/20-这个插座没电/web/3_page2.webp",
+    "notes/20-这个插座没电/web/4_page3.webp",
+    "notes/20-这个插座没电/web/5_page4.webp",
+    "notes/21-暖气停了/original/1_cover.png",
+    "notes/21-暖气停了/original/2_page1.png",
+    "notes/21-暖气停了/original/3_page2.png",
+    "notes/21-暖气停了/original/4_page3.png",
+    "notes/21-暖气停了/original/5_page4.png",
+    "notes/21-暖气停了/web/1_cover.webp",
+    "notes/21-暖气停了/web/2_page1.webp",
+    "notes/21-暖气停了/web/3_page2.webp",
+    "notes/21-暖气停了/web/4_page3.webp",
+    "notes/21-暖气停了/web/5_page4.webp",
+    "notes/22-家里煤气停了/original/1_cover.png",
+    "notes/22-家里煤气停了/original/2_page1.png",
+    "notes/22-家里煤气停了/original/3_page2.png",
+    "notes/22-家里煤气停了/original/4_page3.png",
+    "notes/22-家里煤气停了/original/5_page4.png",
+    "notes/22-家里煤气停了/web/1_cover.webp",
+    "notes/22-家里煤气停了/web/2_page1.webp",
+    "notes/22-家里煤气停了/web/3_page2.webp",
+    "notes/22-家里煤气停了/web/4_page3.webp",
+    "notes/22-家里煤气停了/web/5_page4.webp",
     "publish-history.jsonl",
     "publish-manifest.json",
     "publish-report.md"
@@ -1264,9 +1397,1365 @@
       "status": "已发布",
       "style": "Mixed：封面用小黑/场景插画呈现问题，内页用 GoodNotes 便签拆解表达。",
       "title": "剪头发预约、改时间，一组表达搞定"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "8bad4cd53cf93d9051c945a8a013e3cae9c23ede7aa228a717b645e0be88f8eb",
+      "id": "11-可以少放点油吗",
+      "images": [
+        {
+          "alt": "可以少放点油吗",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/11-可以少放点油吗/original/1_cover.png",
+            "sha256": "32a2eb0694b06e3067dc163fedf91b1b4a65418dfef35713d8b10de8e073844f",
+            "size": 1221263
+          },
+          "source": "【预览图】可以少放点油吗/gemini-preview/1_cover.png",
+          "source_sha256": "32a2eb0694b06e3067dc163fedf91b1b4a65418dfef35713d8b10de8e073844f",
+          "web": {
+            "format": "webp",
+            "path": "notes/11-可以少放点油吗/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "2d647e2916da90f61f050227a5d38324d9ef70c60656a9bafb1da28ecaeec086",
+            "size": 60188
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说核心请求",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/11-可以少放点油吗/original/2_page1.png",
+            "sha256": "4f7b353e3c8d51b7ee79ab903f68d502bb7e18fb69e6873a32d7f14bfce58447",
+            "size": 1570346
+          },
+          "source": "【预览图】可以少放点油吗/gemini-preview/2_page1.png",
+          "source_sha256": "4f7b353e3c8d51b7ee79ab903f68d502bb7e18fb69e6873a32d7f14bfce58447",
+          "web": {
+            "format": "webp",
+            "path": "notes/11-可以少放点油吗/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "b5a3789d757b095b69a9f9e21fc9208524292a39ff6e163a994cc2bfaed0619b",
+            "size": 75638
+          },
+          "width": 1086
+        },
+        {
+          "alt": "说明你的偏好",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/11-可以少放点油吗/original/3_page2.png",
+            "sha256": "6ea6f0bd670c36d71cd0942a649715cf661a5fc50dd925e6cc5116e57834b666",
+            "size": 1888367
+          },
+          "source": "【预览图】可以少放点油吗/gemini-preview/3_page2.png",
+          "source_sha256": "6ea6f0bd670c36d71cd0942a649715cf661a5fc50dd925e6cc5116e57834b666",
+          "web": {
+            "format": "webp",
+            "path": "notes/11-可以少放点油吗/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "ce6712b54ee579e6e571e2213961de03b5b9ba0b03a256e13ef7a3be9375da79",
+            "size": 96180
+          },
+          "width": 1086
+        },
+        {
+          "alt": "点单前先确认",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/11-可以少放点油吗/original/4_page3.png",
+            "sha256": "90f5caa411573c74fae8073ca1a9e460ff6a70f406a86a2651205e2a61ffa5b8",
+            "size": 1594292
+          },
+          "source": "【预览图】可以少放点油吗/gemini-preview/4_page3.png",
+          "source_sha256": "90f5caa411573c74fae8073ca1a9e460ff6a70f406a86a2651205e2a61ffa5b8",
+          "web": {
+            "format": "webp",
+            "path": "notes/11-可以少放点油吗/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "ccdb89dfa6b7d2cf774aedb5369762200ecc83d083e73e25ae4f05cae62f7907",
+            "size": 100682
+          },
+          "width": 1086
+        },
+        {
+          "alt": "小对话直接用",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/11-可以少放点油吗/original/5_page4.png",
+            "sha256": "8d0613f853c9f53c4c4d0b033b54450330878e0b464dcabeadba8cf1daa4208a",
+            "size": 2023307
+          },
+          "source": "【预览图】可以少放点油吗/gemini-preview/5_page4.png",
+          "source_sha256": "8d0613f853c9f53c4c4d0b033b54450330878e0b464dcabeadba8cf1daa4208a",
+          "web": {
+            "format": "webp",
+            "path": "notes/11-可以少放点油吗/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "b0c78064e5767c0d600b7545eb3ba88f09a50947c51ec997464e2f1059fbc8f1",
+            "size": 107822
+          },
+          "width": 1086
+        }
+      ],
+      "order": 11,
+      "source_note": "【预览图】可以少放点油吗/可以少放点油吗_xhs.md",
+      "source_note_sha256": "c5b033adcbac9f1058af2047a8d44917220931a342b838596f7282c20c17f8c7",
+      "status": "待发布",
+      "style": "GoodNotes：iPad 手写学习笔记风，极简封面，内页中英对照。",
+      "title": "想吃清淡点，少放油怎么说？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "65f2725c931aae65bf15728612923c5066dd0a3bc6743ccb47c058fcd4ba7b68",
+      "id": "12-可以少放点盐吗",
+      "images": [
+        {
+          "alt": "可以少放点盐吗",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/12-可以少放点盐吗/original/1_cover.png",
+            "sha256": "bb8fb165a261366379c470663f7eb6fc5424627430f7224d576c6401a3b0d489",
+            "size": 2203715
+          },
+          "source": "【预览图】可以少放点盐吗/gemini-preview/1_cover.png",
+          "source_sha256": "bb8fb165a261366379c470663f7eb6fc5424627430f7224d576c6401a3b0d489",
+          "web": {
+            "format": "webp",
+            "path": "notes/12-可以少放点盐吗/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "d1743552e07bf9037509f7649ba4b3d81d31459d22d435036a8b037cd7804075",
+            "size": 107354
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说核心请求",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/12-可以少放点盐吗/original/2_page1.png",
+            "sha256": "0bd1f2518132687ffaad09d29b814b5c075a3c1c5eeb70f965203de7ca43ad42",
+            "size": 2057473
+          },
+          "source": "【预览图】可以少放点盐吗/gemini-preview/2_page1.png",
+          "source_sha256": "0bd1f2518132687ffaad09d29b814b5c075a3c1c5eeb70f965203de7ca43ad42",
+          "web": {
+            "format": "webp",
+            "path": "notes/12-可以少放点盐吗/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "faacffa4f01e504929baeb0675d862c9ecf964439911fa9776ec6e66c9052c1e",
+            "size": 99226
+          },
+          "width": 1086
+        },
+        {
+          "alt": "换个自然说法",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/12-可以少放点盐吗/original/3_page2.png",
+            "sha256": "b1c0672327bd55903d0f241d06ba40a6f3f7c8ed6b73962e3c347d91108416d3",
+            "size": 1846433
+          },
+          "source": "【预览图】可以少放点盐吗/gemini-preview/3_page2.png",
+          "source_sha256": "b1c0672327bd55903d0f241d06ba40a6f3f7c8ed6b73962e3c347d91108416d3",
+          "web": {
+            "format": "webp",
+            "path": "notes/12-可以少放点盐吗/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "7678f4acc1363f203010f9d10d511c83c0c3c153a902ee270347d7baae2bc549",
+            "size": 143046
+          },
+          "width": 1086
+        },
+        {
+          "alt": "提前确认口味",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/12-可以少放点盐吗/original/4_page3.png",
+            "sha256": "24da4d7d5a450bdadde5705c88f95619ac275fa545cefb5bac2bd3d0eeec58cb",
+            "size": 2429745
+          },
+          "source": "【预览图】可以少放点盐吗/gemini-preview/4_page3.png",
+          "source_sha256": "24da4d7d5a450bdadde5705c88f95619ac275fa545cefb5bac2bd3d0eeec58cb",
+          "web": {
+            "format": "webp",
+            "path": "notes/12-可以少放点盐吗/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "a30ba4ba2b4a62c872d02dc768548d0be6455cc83762381387502cab7944c1e4",
+            "size": 127458
+          },
+          "width": 1086
+        },
+        {
+          "alt": "小对话直接用",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/12-可以少放点盐吗/original/5_page4.png",
+            "sha256": "c1b7caf2cd4a1c2dc3898e2e09211b454fb949e4ef179517bdc03375cdd05d75",
+            "size": 1969898
+          },
+          "source": "【预览图】可以少放点盐吗/gemini-preview/5_page4.png",
+          "source_sha256": "c1b7caf2cd4a1c2dc3898e2e09211b454fb949e4ef179517bdc03375cdd05d75",
+          "web": {
+            "format": "webp",
+            "path": "notes/12-可以少放点盐吗/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "233aa6c640f8bc0481a1467a7b7648853ba7e15070c679626e51f9c4f1241c61",
+            "size": 117766
+          },
+          "width": 1086
+        }
+      ],
+      "order": 12,
+      "source_note": "【预览图】可以少放点盐吗/可以少放点盐吗_xhs.md",
+      "source_note_sha256": "0e9d55c7dbcbdfd1c9f8901e1fc09678a52cb4342462963fb1ab1b16410fbacc",
+      "status": "待发布",
+      "style": "GoodNotes：iPad 手写学习笔记风，极简封面，内页中英对照。",
+      "title": "怕菜太咸，少放盐怎么说？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "eb565a7a3a1ea52a839abb68747cc63348b8b284507538d5c77a095c5bdd38ee",
+      "id": "13-可以换一道不辣的吗",
+      "images": [
+        {
+          "alt": "菜太辣，能换一道吗",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/13-可以换一道不辣的吗/original/1_cover.png",
+            "sha256": "baee9885e7336fd5bd40faf8296c526aed0c80e21b4ffa958df6bbf2464021c7",
+            "size": 1874241
+          },
+          "source": "【预览图】可以换一道不辣的吗/gemini-preview/1_cover.png",
+          "source_sha256": "baee9885e7336fd5bd40faf8296c526aed0c80e21b4ffa958df6bbf2464021c7",
+          "web": {
+            "format": "webp",
+            "path": "notes/13-可以换一道不辣的吗/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "a4b141e354f7d131a8c5e14ee99e7b54eefefa6d9e6457cd2b8dc78617686306",
+            "size": 90188
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说明问题",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/13-可以换一道不辣的吗/original/2_page1.png",
+            "sha256": "52ee5b3113f561aa766b0bb64080c490ce7e5f54ef67548c4c0a4c6f15333751",
+            "size": 2082648
+          },
+          "source": "【预览图】可以换一道不辣的吗/gemini-preview/2_page1.png",
+          "source_sha256": "52ee5b3113f561aa766b0bb64080c490ce7e5f54ef67548c4c0a4c6f15333751",
+          "web": {
+            "format": "webp",
+            "path": "notes/13-可以换一道不辣的吗/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "85703b81bf9de838edf59721f61b00b78a686ec37362c889d6496fe0cd9b8d81",
+            "size": 102232
+          },
+          "width": 1086
+        },
+        {
+          "alt": "提出更换请求",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/13-可以换一道不辣的吗/original/3_page2.png",
+            "sha256": "efb5b8054e5506dd9c8c7790aeb5452f26b28c776f93b938a2e00357fd1e0e9c",
+            "size": 2020434
+          },
+          "source": "【预览图】可以换一道不辣的吗/gemini-preview/3_page2.png",
+          "source_sha256": "efb5b8054e5506dd9c8c7790aeb5452f26b28c776f93b938a2e00357fd1e0e9c",
+          "web": {
+            "format": "webp",
+            "path": "notes/13-可以换一道不辣的吗/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "455fe747dc6b815739025d8c00bdd9889baa1ac6d16ab62ecd38804acf8b2d51",
+            "size": 113950
+          },
+          "width": 1086
+        },
+        {
+          "alt": "补充当前情况",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/13-可以换一道不辣的吗/original/4_page3.png",
+            "sha256": "d2787679fa2244f4f0bec42512fa47874e4e219c123a5fd0ed432b3ea0410d02",
+            "size": 1831801
+          },
+          "source": "【预览图】可以换一道不辣的吗/gemini-preview/4_page3.png",
+          "source_sha256": "d2787679fa2244f4f0bec42512fa47874e4e219c123a5fd0ed432b3ea0410d02",
+          "web": {
+            "format": "webp",
+            "path": "notes/13-可以换一道不辣的吗/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "1463d20b8d0d906d0fe582740df9eb474ac1138d0888489a524f1b7c57994cde",
+            "size": 96116
+          },
+          "width": 1086
+        },
+        {
+          "alt": "确认是否加钱",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/13-可以换一道不辣的吗/original/5_page4.png",
+            "sha256": "2177530a154ecc079445eb558602bcc654633d287cdb540eb498308e448efc24",
+            "size": 2025137
+          },
+          "source": "【预览图】可以换一道不辣的吗/gemini-preview/5_page4.png",
+          "source_sha256": "2177530a154ecc079445eb558602bcc654633d287cdb540eb498308e448efc24",
+          "web": {
+            "format": "webp",
+            "path": "notes/13-可以换一道不辣的吗/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "81f3bbc494f29a3d745e4451b0c4ea807edd3a53e5dab95f5261efcad2d54a54",
+            "size": 107996
+          },
+          "width": 1086
+        }
+      ],
+      "order": 13,
+      "source_note": "【预览图】可以换一道不辣的吗/可以换一道不辣的吗_xhs.md",
+      "source_note_sha256": "059534601902378bf98e9f29a20d6f66d5571949ffd6871c9cb101bbe9fa5c82",
+      "status": "待发布",
+      "style": "GoodNotes：iPad 手写学习笔记风，极简封面，内页中英对照。",
+      "title": "菜太辣吃不了，怎么换一道？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "ba3f3fc787a2ec08476ba51e7c55bef07005ba615f57052cf3e309ac4163e21a",
+      "id": "14-可以推荐一道不辣的吗",
+      "images": [
+        {
+          "alt": "可以推荐不辣的吗",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/14-可以推荐一道不辣的吗/original/1_cover.png",
+            "sha256": "c1a698f0177f5a6d81e8d4d0a3ac9ffedb1beff78e06c42a711dbe87bb9fb70f",
+            "size": 2238889
+          },
+          "source": "【预览图】可以推荐一道不辣的吗/gemini-preview/1_cover.png",
+          "source_sha256": "c1a698f0177f5a6d81e8d4d0a3ac9ffedb1beff78e06c42a711dbe87bb9fb70f",
+          "web": {
+            "format": "webp",
+            "path": "notes/14-可以推荐一道不辣的吗/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "8b5c76ed0c4108f9cec8c7e2c68b63b5a54c97c4ef658123b832fcc91e02dff5",
+            "size": 111312
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先请对方推荐",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/14-可以推荐一道不辣的吗/original/2_page1.png",
+            "sha256": "ff43deaaa0a287f11ac13608bdf07f3247e55a4cc1a164066b7ea10ba1e0cccf",
+            "size": 1902517
+          },
+          "source": "【预览图】可以推荐一道不辣的吗/gemini-preview/2_page1.png",
+          "source_sha256": "ff43deaaa0a287f11ac13608bdf07f3247e55a4cc1a164066b7ea10ba1e0cccf",
+          "web": {
+            "format": "webp",
+            "path": "notes/14-可以推荐一道不辣的吗/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "2c2eb912ddba697c21ad47f2d33d9c74e1149d8a41fedeacb263475974dc2c76",
+            "size": 115874
+          },
+          "width": 1086
+        },
+        {
+          "alt": "确认这道辣不辣",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/14-可以推荐一道不辣的吗/original/3_page2.png",
+            "sha256": "1b4078518501a733dc0b8d524eb0f917d290d4223751f0606aaab59a41a6fbf4",
+            "size": 2068787
+          },
+          "source": "【预览图】可以推荐一道不辣的吗/gemini-preview/3_page2.png",
+          "source_sha256": "1b4078518501a733dc0b8d524eb0f917d290d4223751f0606aaab59a41a6fbf4",
+          "web": {
+            "format": "webp",
+            "path": "notes/14-可以推荐一道不辣的吗/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "19cfbc09ed7796fd97646f916c3a50a0bfaaee5a6631348ac42b6b4b18664aea",
+            "size": 98816
+          },
+          "width": 1086
+        },
+        {
+          "alt": "再问具体配料",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/14-可以推荐一道不辣的吗/original/4_page3.png",
+            "sha256": "09b4e18e98b4d7a00273f181ee70679f8c60c40567e43c9ed0d5e71d1d6c370c",
+            "size": 2165974
+          },
+          "source": "【预览图】可以推荐一道不辣的吗/gemini-preview/4_page3.png",
+          "source_sha256": "09b4e18e98b4d7a00273f181ee70679f8c60c40567e43c9ed0d5e71d1d6c370c",
+          "web": {
+            "format": "webp",
+            "path": "notes/14-可以推荐一道不辣的吗/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "1584918f0cf9ffd266f991041c183542590f7de80080082fe4fceb6a7a4e1b08",
+            "size": 110380
+          },
+          "width": 1086
+        },
+        {
+          "alt": "选好后这样说",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/14-可以推荐一道不辣的吗/original/5_page4.png",
+            "sha256": "2e1bc4673eb58a466e9aa7fc054bedb376a579b6bcca2a3d0a51326c540838de",
+            "size": 1633580
+          },
+          "source": "【预览图】可以推荐一道不辣的吗/gemini-preview/5_page4.png",
+          "source_sha256": "2e1bc4673eb58a466e9aa7fc054bedb376a579b6bcca2a3d0a51326c540838de",
+          "web": {
+            "format": "webp",
+            "path": "notes/14-可以推荐一道不辣的吗/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "a15aa3717334799327895dccb0b13384b146ebd83b568458209b6fa54b042e5c",
+            "size": 94414
+          },
+          "width": 1086
+        }
+      ],
+      "order": 14,
+      "source_note": "【预览图】可以推荐一道不辣的吗/可以推荐一道不辣的吗_xhs.md",
+      "source_note_sha256": "c6cffb115e9f688dca435dbfdc1b0e57f6597a8e3320f1ee961e4781466bd777",
+      "status": "待发布",
+      "style": "GoodNotes：iPad 手写学习笔记风，极简封面，内页中英对照。",
+      "title": "想吃不辣的，怎么请人推荐？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "20703c11309c4fb6909cee1b83743294123688d0dc0723900dcdf1c1185afaf1",
+      "id": "15-今天几点开门",
+      "images": [
+        {
+          "alt": "今天几点开门",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/15-今天几点开门/original/1_cover.png",
+            "sha256": "6688a7634fabb77bca2e227f2024bec0cfd5c254d426a055eb1907ebeb8fbefd",
+            "size": 1669491
+          },
+          "source": "【预览图】今天几点开门/gemini-preview/1_cover.png",
+          "source_sha256": "6688a7634fabb77bca2e227f2024bec0cfd5c254d426a055eb1907ebeb8fbefd",
+          "web": {
+            "format": "webp",
+            "path": "notes/15-今天几点开门/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "302a682bece00d41f0b16499b0d9056de1b86ec2c56587e9879e6a02b8e41e21",
+            "size": 77800
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先问开门时间",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/15-今天几点开门/original/2_page1.png",
+            "sha256": "27361f61528c247646d379fe7db308330f2a92d2025c10f7a82cd53f6648f061",
+            "size": 2146696
+          },
+          "source": "【预览图】今天几点开门/gemini-preview/2_page1.png",
+          "source_sha256": "27361f61528c247646d379fe7db308330f2a92d2025c10f7a82cd53f6648f061",
+          "web": {
+            "format": "webp",
+            "path": "notes/15-今天几点开门/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "9a55604a0c4d2a51e6ac4b52df5af426b94a2fad2c6fae7c84123e2f98ef099b",
+            "size": 93670
+          },
+          "width": 1086
+        },
+        {
+          "alt": "到了以后确认",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/15-今天几点开门/original/3_page2.png",
+            "sha256": "4a4020badf10111320a506340ca03ebd9e949a846d8d02efbb7eaeba6cf0031a",
+            "size": 2061456
+          },
+          "source": "【预览图】今天几点开门/gemini-preview/3_page2.png",
+          "source_sha256": "4a4020badf10111320a506340ca03ebd9e949a846d8d02efbb7eaeba6cf0031a",
+          "web": {
+            "format": "webp",
+            "path": "notes/15-今天几点开门/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "0c4a20e5ea66407532072766342dfa5b086d890ae4389b3f10fafa86ec8991d3",
+            "size": 94396
+          },
+          "width": 1086
+        },
+        {
+          "alt": "确认明天安排",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/15-今天几点开门/original/4_page3.png",
+            "sha256": "090951a38d2d4577639420e9f6900dd7b4b89e3b8fb9773aa1ba12bdad83c082",
+            "size": 1963657
+          },
+          "source": "【预览图】今天几点开门/gemini-preview/4_page3.png",
+          "source_sha256": "090951a38d2d4577639420e9f6900dd7b4b89e3b8fb9773aa1ba12bdad83c082",
+          "web": {
+            "format": "webp",
+            "path": "notes/15-今天几点开门/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "0f76fbf4eeb87cdfe8efb87d28a77498521a7f211bd161a88df690a671ac77cc",
+            "size": 93744
+          },
+          "width": 1086
+        },
+        {
+          "alt": "小对话直接用",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/15-今天几点开门/original/5_page4.png",
+            "sha256": "d4e11e8872a2c6aaee5cbdbeb16602b59a5e99b8ca6d3c90e78eb3bc1d5e6505",
+            "size": 2112680
+          },
+          "source": "【预览图】今天几点开门/gemini-preview/5_page4.png",
+          "source_sha256": "d4e11e8872a2c6aaee5cbdbeb16602b59a5e99b8ca6d3c90e78eb3bc1d5e6505",
+          "web": {
+            "format": "webp",
+            "path": "notes/15-今天几点开门/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "fdece0e8f77d63d4a6ce3893b3de5bc87722b58c41c14ac897a2fd1c474a9896",
+            "size": 79892
+          },
+          "width": 1086
+        }
+      ],
+      "order": 15,
+      "source_note": "【预览图】今天几点开门/今天几点开门_xhs.md",
+      "source_note_sha256": "a32669a0d1f81a83f24ffb6593c7ebd2e57d2909290e396df605657766b5af66",
+      "status": "待发布",
+      "style": "GoodNotes：iPad 手写学习笔记风，极简封面，内页中英对照。",
+      "title": "怕去早了，怎么问几点开门？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "fe6175dea11ba0cad4c61f5432350f668e0d0aba55e659017becdb1f50e455c9",
+      "id": "16-今天正常营业吗",
+      "images": [
+        {
+          "alt": "今天正常营业吗",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/16-今天正常营业吗/original/1_cover.png",
+            "sha256": "4ad6e51b922ee2da583565aa2e392e670376b47e88341916d085f7469ef9f3c7",
+            "size": 1792453
+          },
+          "source": "【预览图】今天正常营业吗/gemini-preview/1_cover.png",
+          "source_sha256": "4ad6e51b922ee2da583565aa2e392e670376b47e88341916d085f7469ef9f3c7",
+          "web": {
+            "format": "webp",
+            "path": "notes/16-今天正常营业吗/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "f10ee7f177a83373615a81e7a726273b1eb4c01348b33fc330b27ec95dbbf392",
+            "size": 97830
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先确认是否营业",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/16-今天正常营业吗/original/2_page1.png",
+            "sha256": "cc787fa57941665a89e6ccbd8d39490370d8551f1da296baa4190cf36e424fb0",
+            "size": 2117345
+          },
+          "source": "【预览图】今天正常营业吗/gemini-preview/2_page1.png",
+          "source_sha256": "cc787fa57941665a89e6ccbd8d39490370d8551f1da296baa4190cf36e424fb0",
+          "web": {
+            "format": "webp",
+            "path": "notes/16-今天正常营业吗/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "b22bca3a085ee4a85e47c581f7539b2a83c5fbedd837541702a51abbba9ef5b7",
+            "size": 107236
+          },
+          "width": 1086
+        },
+        {
+          "alt": "确认正常时间",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/16-今天正常营业吗/original/3_page2.png",
+            "sha256": "c74b16d7fac6b18663119f945e30e1c719ed7f21d16089f74de56c481682b868",
+            "size": 2264368
+          },
+          "source": "【预览图】今天正常营业吗/gemini-preview/3_page2.png",
+          "source_sha256": "c74b16d7fac6b18663119f945e30e1c719ed7f21d16089f74de56c481682b868",
+          "web": {
+            "format": "webp",
+            "path": "notes/16-今天正常营业吗/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "86849eed0d2d457076c9cb50625bf56a45d9ddf31a22cb7ef71afee84ba0dadc",
+            "size": 130300
+          },
+          "width": 1086
+        },
+        {
+          "alt": "询问时间变化",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/16-今天正常营业吗/original/4_page3.png",
+            "sha256": "ce899892f318c7a49f301607930918f2b179d8cb869a8d8e8724a6ef5ac0790d",
+            "size": 1985262
+          },
+          "source": "【预览图】今天正常营业吗/gemini-preview/4_page3.png",
+          "source_sha256": "ce899892f318c7a49f301607930918f2b179d8cb869a8d8e8724a6ef5ac0790d",
+          "web": {
+            "format": "webp",
+            "path": "notes/16-今天正常营业吗/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "f626c1170a49691c9ad1bc619480d3e07736fa99e21ae5f044d01436af14ecbe",
+            "size": 84910
+          },
+          "width": 1086
+        },
+        {
+          "alt": "小对话直接用",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/16-今天正常营业吗/original/5_page4.png",
+            "sha256": "3e030ec0801196f86ef127f6184ea20fa718694bc08c04168db4c4521ef35db0",
+            "size": 1807158
+          },
+          "source": "【预览图】今天正常营业吗/gemini-preview/5_page4.png",
+          "source_sha256": "3e030ec0801196f86ef127f6184ea20fa718694bc08c04168db4c4521ef35db0",
+          "web": {
+            "format": "webp",
+            "path": "notes/16-今天正常营业吗/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "ce623e664db2250ce9472f95fc96373b9aff7a2175e2e3fe91a644853c8c6240",
+            "size": 88556
+          },
+          "width": 1086
+        }
+      ],
+      "order": 16,
+      "source_note": "【预览图】今天正常营业吗/今天正常营业吗_xhs.md",
+      "source_note_sha256": "1fb426d3ca8b3fd60f277aaf0da6c3b1b392a296cdcca68807f995b7b604db60",
+      "status": "待发布",
+      "style": "GoodNotes：iPad 手写学习笔记风，极简封面，内页中英对照。",
+      "title": "节假日怕白跑，怎么确认营业？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "930f4e6ea30b8ca4efc87650cfabb824ff54b4acbc4ab94d4fea7ca4e1c849a6",
+      "id": "17-现在还能点餐吗",
+      "images": [
+        {
+          "alt": "现在还能点餐吗",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/17-现在还能点餐吗/original/1_cover.png",
+            "sha256": "50caca7a5caefccde8f8465d73f7f1b28ab97a6943ad54a427be8a9a8743f636",
+            "size": 2095130
+          },
+          "source": "【预览图】现在还能点餐吗/gemini-preview/1_cover.png",
+          "source_sha256": "50caca7a5caefccde8f8465d73f7f1b28ab97a6943ad54a427be8a9a8743f636",
+          "web": {
+            "format": "webp",
+            "path": "notes/17-现在还能点餐吗/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "824d88bcfb1e86500307b7efa91ebf1b49b28a8234416008a098104f4ae961c0",
+            "size": 104560
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先问还能不能点",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/17-现在还能点餐吗/original/2_page1.png",
+            "sha256": "b7e26023e87c293553ded9088e80fcc16d4a1fbce77a4d6a1403f8afb65e500b",
+            "size": 1859211
+          },
+          "source": "【预览图】现在还能点餐吗/gemini-preview/2_page1.png",
+          "source_sha256": "b7e26023e87c293553ded9088e80fcc16d4a1fbce77a4d6a1403f8afb65e500b",
+          "web": {
+            "format": "webp",
+            "path": "notes/17-现在还能点餐吗/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "170aad5456e41c8a96ea66d846d3f93da7034d29c90a6a55fb43732b08b78226",
+            "size": 103726
+          },
+          "width": 1086
+        },
+        {
+          "alt": "确认厨房状态",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/17-现在还能点餐吗/original/3_page2.png",
+            "sha256": "df7e3912b1365eab7e6ec57bbec725b769c22d74fd68ee03e6ea7a15e1a018e2",
+            "size": 2279458
+          },
+          "source": "【预览图】现在还能点餐吗/gemini-preview/3_page2.png",
+          "source_sha256": "df7e3912b1365eab7e6ec57bbec725b769c22d74fd68ee03e6ea7a15e1a018e2",
+          "web": {
+            "format": "webp",
+            "path": "notes/17-现在还能点餐吗/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "2a69952137130b6afa53c3be6dbfbaefd9165bd6b5b952767be654906de50c22",
+            "size": 143510
+          },
+          "width": 1086
+        },
+        {
+          "alt": "提出下单请求",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/17-现在还能点餐吗/original/4_page3.png",
+            "sha256": "e49e7aca342268df7bbff8b8d7f0b6df767e0bc845574794ac627cbea0bb1127",
+            "size": 1685380
+          },
+          "source": "【预览图】现在还能点餐吗/gemini-preview/4_page3.png",
+          "source_sha256": "e49e7aca342268df7bbff8b8d7f0b6df767e0bc845574794ac627cbea0bb1127",
+          "web": {
+            "format": "webp",
+            "path": "notes/17-现在还能点餐吗/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "61b451f9b9512c669a4781e6696a0b77cfff5f9ce5718f88de9a8b0e6f27f3a0",
+            "size": 115706
+          },
+          "width": 1086
+        },
+        {
+          "alt": "确认最后时间",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/17-现在还能点餐吗/original/5_page4.png",
+            "sha256": "916f932c933a791296fc94f181fabc5b9b2cf950451878844141848a1866beef",
+            "size": 2187796
+          },
+          "source": "【预览图】现在还能点餐吗/gemini-preview/5_page4.png",
+          "source_sha256": "916f932c933a791296fc94f181fabc5b9b2cf950451878844141848a1866beef",
+          "web": {
+            "format": "webp",
+            "path": "notes/17-现在还能点餐吗/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "3d589638df33be407a3f2e16dd5da5ca94fb8983faa18e5d910a2656ee50859d",
+            "size": 129390
+          },
+          "width": 1086
+        }
+      ],
+      "order": 17,
+      "source_note": "【预览图】现在还能点餐吗/现在还能点餐吗_xhs.md",
+      "source_note_sha256": "a047b1e0c29536557e2a19764f76aeae9367ac34d637dfdb15612725a2e6e6b9",
+      "status": "待发布",
+      "style": "GoodNotes：iPad 手写学习笔记风，极简封面，内页中英对照。",
+      "title": "快打烊了，还能点餐吗？"
+    },
+    {
+      "account": "卖煎饼的司机",
+      "fingerprint": "273acfb7236fec172c78f7730f7713a5d3d49b93eba60ef05e76242e48a3830c",
+      "id": "18-家里停水了",
+      "images": [
+        {
+          "alt": "家里停水了",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/18-家里停水了/original/1_cover.png",
+            "sha256": "a8df2b85556f25ff4bcda74f1e26c312eada11ac61363644a1828f1145351793",
+            "size": 1679467
+          },
+          "source": "【预览图】家里停水了/gemini-preview/1_cover.png",
+          "source_sha256": "a8df2b85556f25ff4bcda74f1e26c312eada11ac61363644a1828f1145351793",
+          "web": {
+            "format": "webp",
+            "path": "notes/18-家里停水了/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "8310c7535039ad3bd5e7c4de20f5fb7c5edd3d5da950e9b3a64e0e58f0008f99",
+            "size": 70214
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说明停水",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/18-家里停水了/original/2_page1.png",
+            "sha256": "7285663cbdf5ec5b185b267688af8a3c2a84c0ba033967e94e105c48baf487f1",
+            "size": 1694638
+          },
+          "source": "【预览图】家里停水了/gemini-preview/2_page1.png",
+          "source_sha256": "7285663cbdf5ec5b185b267688af8a3c2a84c0ba033967e94e105c48baf487f1",
+          "web": {
+            "format": "webp",
+            "path": "notes/18-家里停水了/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "c8972e68b7feb1e2f910972e8a49aeefdfaf7c13be4b8be0109208f9bf11a2c9",
+            "size": 100172
+          },
+          "width": 1086
+        },
+        {
+          "alt": "确认影响范围",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/18-家里停水了/original/3_page2.png",
+            "sha256": "5e2adcd48bd437f9e7b6ac2fb50db2976e8bed6acd965846ad3d727c30ec2047",
+            "size": 1722172
+          },
+          "source": "【预览图】家里停水了/gemini-preview/3_page2.png",
+          "source_sha256": "5e2adcd48bd437f9e7b6ac2fb50db2976e8bed6acd965846ad3d727c30ec2047",
+          "web": {
+            "format": "webp",
+            "path": "notes/18-家里停水了/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "b6180399e0d67931f25e1bda18b4b6663c81df8019fc435ddff3a19dbd0ca5c6",
+            "size": 99386
+          },
+          "width": 1086
+        },
+        {
+          "alt": "询问恢复时间",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/18-家里停水了/original/4_page3.png",
+            "sha256": "fd8f90bb38ad56f5971cc4fb56d6e6636d7ed1ef394a7f5298a38145acd847fb",
+            "size": 1954494
+          },
+          "source": "【预览图】家里停水了/gemini-preview/4_page3.png",
+          "source_sha256": "fd8f90bb38ad56f5971cc4fb56d6e6636d7ed1ef394a7f5298a38145acd847fb",
+          "web": {
+            "format": "webp",
+            "path": "notes/18-家里停水了/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "c3bab83881d657272acb4586d44a8e30114cf3adacdddbe3a3030624a717b6f9",
+            "size": 87926
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请求尽快检查",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/18-家里停水了/original/5_page4.png",
+            "sha256": "ba6dfe1e9dcd6a937e6513ff04013b3c33700044b777532a688c47253ab16bb8",
+            "size": 1883733
+          },
+          "source": "【预览图】家里停水了/gemini-preview/5_page4.png",
+          "source_sha256": "ba6dfe1e9dcd6a937e6513ff04013b3c33700044b777532a688c47253ab16bb8",
+          "web": {
+            "format": "webp",
+            "path": "notes/18-家里停水了/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "9f92df2868931b9c5025084a3d2c5943a70e622ba91eebbf5f6c78087f4b2145",
+            "size": 105128
+          },
+          "width": 1086
+        }
+      ],
+      "order": 18,
+      "source_note": "【预览图】家里停水了/家里停水了_xhs.md",
+      "source_note_sha256": "db9a09ce285e49a0dd90af314134fc59f067dc06462b24198dfe9c3ace2b4760",
+      "status": "待发布",
+      "style": "GoodNotes：iPad 手写学习笔记风，极简封面，内页中英对照。",
+      "title": "家里突然停水，怎么报修？"
+    },
+    {
+      "account": "卖煎饼的司机",
+      "fingerprint": "3821ad19ec144f3dd0bc3b37bb967a2cbee3112843b15b2fda643499e28bd1b4",
+      "id": "19-家里断网了",
+      "images": [
+        {
+          "alt": "家里断网了",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/19-家里断网了/original/1_cover.png",
+            "sha256": "fb114ef2f6bbc98738687e7e3b9428ce02a9a89067aad29ed40891c3efe3bbe7",
+            "size": 1863185
+          },
+          "source": "【预览图】家里断网了/gemini-preview/1_cover.png",
+          "source_sha256": "fb114ef2f6bbc98738687e7e3b9428ce02a9a89067aad29ed40891c3efe3bbe7",
+          "web": {
+            "format": "webp",
+            "path": "notes/19-家里断网了/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "cb81658247cdd74ca7c3f72896da8f9576f2247153a5d54f9f95d193bc7fc4ab",
+            "size": 115806
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说明断网",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/19-家里断网了/original/2_page1.png",
+            "sha256": "6304511cfb10f4d1f30e271c8f65e17e5f38e05a8843fce479593046f941c346",
+            "size": 2012354
+          },
+          "source": "【预览图】家里断网了/gemini-preview/2_page1.png",
+          "source_sha256": "6304511cfb10f4d1f30e271c8f65e17e5f38e05a8843fce479593046f941c346",
+          "web": {
+            "format": "webp",
+            "path": "notes/19-家里断网了/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "385c37a823c004b6d265a977cbecb605c0b4fb362cd079676f77eac1388bb073",
+            "size": 96664
+          },
+          "width": 1086
+        },
+        {
+          "alt": "说明不是单台设备",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/19-家里断网了/original/3_page2.png",
+            "sha256": "fd755803963ab127339ebb2443f9fc30e9f3cb0858da9243ace433899d02b993",
+            "size": 1721690
+          },
+          "source": "【预览图】家里断网了/gemini-preview/3_page2.png",
+          "source_sha256": "fd755803963ab127339ebb2443f9fc30e9f3cb0858da9243ace433899d02b993",
+          "web": {
+            "format": "webp",
+            "path": "notes/19-家里断网了/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "a734a9d3d11f74c5b8d25a8372bd98cf4472e24453163d38c779e209ad867129",
+            "size": 101126
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请求检查线路",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/19-家里断网了/original/4_page3.png",
+            "sha256": "68efdc1ca3a14a0ecd2fa8f686989374aa25e6ee4d40ce0c133c070c1b29bb0b",
+            "size": 1736803
+          },
+          "source": "【预览图】家里断网了/gemini-preview/4_page3.png",
+          "source_sha256": "68efdc1ca3a14a0ecd2fa8f686989374aa25e6ee4d40ce0c133c070c1b29bb0b",
+          "web": {
+            "format": "webp",
+            "path": "notes/19-家里断网了/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "9375b60e1f70e7d7981e2351e44204372ff1dcca1de33079349ba4851973cc97",
+            "size": 95250
+          },
+          "width": 1086
+        },
+        {
+          "alt": "确认上门时间",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/19-家里断网了/original/5_page4.png",
+            "sha256": "214f0b62618ab040f1b2ddfb97e2bb89b0a72d7fa6364dd835880c5eab2bb247",
+            "size": 2144135
+          },
+          "source": "【预览图】家里断网了/gemini-preview/5_page4.png",
+          "source_sha256": "214f0b62618ab040f1b2ddfb97e2bb89b0a72d7fa6364dd835880c5eab2bb247",
+          "web": {
+            "format": "webp",
+            "path": "notes/19-家里断网了/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "a6cb7afe557f5df458c240b33ad8a1131d11336605af631784695269a5b170e6",
+            "size": 136522
+          },
+          "width": 1086
+        }
+      ],
+      "order": 19,
+      "source_note": "【预览图】家里断网了/家里断网了_xhs.md",
+      "source_note_sha256": "1c6e3dca4f0d1a85aeeafce21f07300128f3cd688e545b65b7105f45bd331fd1",
+      "status": "待发布",
+      "style": "GoodNotes：iPad 手写学习笔记风，极简封面，内页中英对照。",
+      "title": "家里突然断网，怎么报修？"
+    },
+    {
+      "account": "卖煎饼的司机",
+      "fingerprint": "669fbe78e90dee74bbc68c43f1d4f5db1f2451dd838d273b849cecfc8d3404a3",
+      "id": "20-这个插座没电",
+      "images": [
+        {
+          "alt": "这个插座没电",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/20-这个插座没电/original/1_cover.png",
+            "sha256": "531d9d8416667046589accfbf503e156442df1ec271cb9ee9a3812b040e38625",
+            "size": 2075558
+          },
+          "source": "【预览图】这个插座没电/gemini-preview/1_cover.png",
+          "source_sha256": "531d9d8416667046589accfbf503e156442df1ec271cb9ee9a3812b040e38625",
+          "web": {
+            "format": "webp",
+            "path": "notes/20-这个插座没电/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "425370f6e0a3363065da45e2c808cf2abe0491d0371de6dc40296d63f9026334",
+            "size": 94110
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说明插座坏了",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/20-这个插座没电/original/2_page1.png",
+            "sha256": "45aae88326eeca967021e16da02cd935af55e752df1a2e4d26fb9905efd9297c",
+            "size": 2066302
+          },
+          "source": "【预览图】这个插座没电/gemini-preview/2_page1.png",
+          "source_sha256": "45aae88326eeca967021e16da02cd935af55e752df1a2e4d26fb9905efd9297c",
+          "web": {
+            "format": "webp",
+            "path": "notes/20-这个插座没电/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "96b5c527177909004bd1f8b32db1ad4b4f02834ce497cf741fbff01a3ba3edab",
+            "size": 88138
+          },
+          "width": 1086
+        },
+        {
+          "alt": "说明具体表现",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/20-这个插座没电/original/3_page2.png",
+            "sha256": "b76037559ed79cd36d1f28d73153d1f182b05ffdea36596695f8e724b60c6251",
+            "size": 1974192
+          },
+          "source": "【预览图】这个插座没电/gemini-preview/3_page2.png",
+          "source_sha256": "b76037559ed79cd36d1f28d73153d1f182b05ffdea36596695f8e724b60c6251",
+          "web": {
+            "format": "webp",
+            "path": "notes/20-这个插座没电/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "4caeaed356ec45a70625ad6ed9d98b17952b5475a58c67fd1394ce88494c936e",
+            "size": 109080
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请求检查一下",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/20-这个插座没电/original/4_page3.png",
+            "sha256": "3d9baa66e830c27b34d687290545a62d6fbfce0b60b2da54132cefa5779e3f50",
+            "size": 1918530
+          },
+          "source": "【预览图】这个插座没电/gemini-preview/4_page3.png",
+          "source_sha256": "3d9baa66e830c27b34d687290545a62d6fbfce0b60b2da54132cefa5779e3f50",
+          "web": {
+            "format": "webp",
+            "path": "notes/20-这个插座没电/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "b7292359d3df9fcc1b6d42f01092c7ce528872b10b850641d85156893f4234ff",
+            "size": 83018
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先找替代插座",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/20-这个插座没电/original/5_page4.png",
+            "sha256": "b4efd7da773a010f9c43c8a74033b795e05e6ac88241bf80c394fad07ff09adc",
+            "size": 2146921
+          },
+          "source": "【预览图】这个插座没电/gemini-preview/5_page4.png",
+          "source_sha256": "b4efd7da773a010f9c43c8a74033b795e05e6ac88241bf80c394fad07ff09adc",
+          "web": {
+            "format": "webp",
+            "path": "notes/20-这个插座没电/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "40590e900733493a7ea3f29186ed31e058a31968975acd0e8048a258f4a3300b",
+            "size": 132072
+          },
+          "width": 1086
+        }
+      ],
+      "order": 20,
+      "source_note": "【预览图】这个插座没电/这个插座没电_xhs.md",
+      "source_note_sha256": "7f6ff74c42d8a98c1d0f7ccad7ee2f46c3ba2c439683d8f36a00b3d8953e3527",
+      "status": "待发布",
+      "style": "GoodNotes：iPad 手写学习笔记风，极简封面，内页中英对照。",
+      "title": "插座没电，怎么请人检查？"
+    },
+    {
+      "account": "卖煎饼的司机",
+      "fingerprint": "28f1fe4abb4d9238c2f4f4a777fc4c64fa5ae1964ae834fbe3df54c7d6d75e33",
+      "id": "21-暖气停了",
+      "images": [
+        {
+          "alt": "暖气停了",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/21-暖气停了/original/1_cover.png",
+            "sha256": "0d69fd732d93faa7eb71cdf5c950a0d672c2d8b72425fdf1f076eb6f0e79229c",
+            "size": 1951050
+          },
+          "source": "【预览图】暖气停了/gemini-preview/1_cover.png",
+          "source_sha256": "0d69fd732d93faa7eb71cdf5c950a0d672c2d8b72425fdf1f076eb6f0e79229c",
+          "web": {
+            "format": "webp",
+            "path": "notes/21-暖气停了/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "c954dfa7f16d21af722345435a266dc62000b96deb3f9622c242da4dd1f9176a",
+            "size": 127906
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说明暖气故障",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/21-暖气停了/original/2_page1.png",
+            "sha256": "fe1dfd898790b83cdbc5f062e7ead7913b90cf9c5da756659bc3ac648ba38c73",
+            "size": 2297490
+          },
+          "source": "【预览图】暖气停了/gemini-preview/2_page1.png",
+          "source_sha256": "fe1dfd898790b83cdbc5f062e7ead7913b90cf9c5da756659bc3ac648ba38c73",
+          "web": {
+            "format": "webp",
+            "path": "notes/21-暖气停了/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "2728b444d687df72be37ca201fd1e258b0623a3bbb38468f60cb940236094864",
+            "size": 125528
+          },
+          "width": 1086
+        },
+        {
+          "alt": "说明当前影响",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/21-暖气停了/original/3_page2.png",
+            "sha256": "873d6471c9533d0b3a8d5572a7135368864ae3e1f21746b6332acf8dc6205387",
+            "size": 1825008
+          },
+          "source": "【预览图】暖气停了/gemini-preview/3_page2.png",
+          "source_sha256": "873d6471c9533d0b3a8d5572a7135368864ae3e1f21746b6332acf8dc6205387",
+          "web": {
+            "format": "webp",
+            "path": "notes/21-暖气停了/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "b8a6a59d8560dd2d6b364ac99c375a4c5311c2d1d6a2b79ccf787c56a0a6d6bc",
+            "size": 98040
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请求尽快处理",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/21-暖气停了/original/4_page3.png",
+            "sha256": "a854a2ca381ce0c6ed5f121eefba70c09e406a970fbe184da6fb9a5d055422db",
+            "size": 1928882
+          },
+          "source": "【预览图】暖气停了/gemini-preview/4_page3.png",
+          "source_sha256": "a854a2ca381ce0c6ed5f121eefba70c09e406a970fbe184da6fb9a5d055422db",
+          "web": {
+            "format": "webp",
+            "path": "notes/21-暖气停了/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "e6a53563d1a479e6c1705ecbec4ed0fb1b444e8eadc0114ecae009de776ce701",
+            "size": 117606
+          },
+          "width": 1086
+        },
+        {
+          "alt": "确认修复时间",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/21-暖气停了/original/5_page4.png",
+            "sha256": "cdcc59d9ee96bd3b2112d82e926b45e8d39d22e8131fb0558eb4da3c302012dc",
+            "size": 1857529
+          },
+          "source": "【预览图】暖气停了/gemini-preview/5_page4.png",
+          "source_sha256": "cdcc59d9ee96bd3b2112d82e926b45e8d39d22e8131fb0558eb4da3c302012dc",
+          "web": {
+            "format": "webp",
+            "path": "notes/21-暖气停了/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "b59eabde56c71f65f0e62c9797e81a6e6ab9162580bdeddc41bb41e98a8175e8",
+            "size": 112620
+          },
+          "width": 1086
+        }
+      ],
+      "order": 21,
+      "source_note": "【预览图】暖气停了/暖气停了_xhs.md",
+      "source_note_sha256": "2bedcbd50719fc7f32ea3007e2f69ab290ee90a461fec43f1001b6afb332893f",
+      "status": "待发布",
+      "style": "GoodNotes：iPad 手写学习笔记风，极简封面，内页中英对照。",
+      "title": "天冷暖气停了，怎么报修？"
+    },
+    {
+      "account": "卖煎饼的司机",
+      "fingerprint": "15bf9c2821c36080a6f880f78d08def8866cc346e5e76573d47e2ea326e7fb05",
+      "id": "22-家里煤气停了",
+      "images": [
+        {
+          "alt": "家里没煤气了",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/22-家里煤气停了/original/1_cover.png",
+            "sha256": "6b59875b2111697adb02648ecebddd84313ea0120f08eac36935e5d02f0b059a",
+            "size": 1896127
+          },
+          "source": "【预览图】家里煤气停了/gemini-preview/1_cover.png",
+          "source_sha256": "6b59875b2111697adb02648ecebddd84313ea0120f08eac36935e5d02f0b059a",
+          "web": {
+            "format": "webp",
+            "path": "notes/22-家里煤气停了/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "64523e15a1d96c350360124091e5248ace834df8edfb5f872fb56dd309c1e046",
+            "size": 96030
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说明燃气不能用",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/22-家里煤气停了/original/2_page1.png",
+            "sha256": "afbfe9f6a07f4fd78c250b8698f3eddd9b754b22dfd95390911d87fada6b79e9",
+            "size": 1757674
+          },
+          "source": "【预览图】家里煤气停了/gemini-preview/2_page1.png",
+          "source_sha256": "afbfe9f6a07f4fd78c250b8698f3eddd9b754b22dfd95390911d87fada6b79e9",
+          "web": {
+            "format": "webp",
+            "path": "notes/22-家里煤气停了/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "ac231fa5c6bdbcfb196939bf1f546f011cd22e376abef50ea982170724c8ac5a",
+            "size": 107544
+          },
+          "width": 1086
+        },
+        {
+          "alt": "确认是否统一停气",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/22-家里煤气停了/original/3_page2.png",
+            "sha256": "fc919470344feb183389acb54ddf74c366b2a16d4da2290a7c0d21c0624bd957",
+            "size": 1896757
+          },
+          "source": "【预览图】家里煤气停了/gemini-preview/3_page2.png",
+          "source_sha256": "fc919470344feb183389acb54ddf74c366b2a16d4da2290a7c0d21c0624bd957",
+          "web": {
+            "format": "webp",
+            "path": "notes/22-家里煤气停了/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "77b69c47ca93fd09a59aa0a1aa9e35ea61cb10fa8f880d3cfba4fc9882cd51ec",
+            "size": 90346
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请专业人员检查",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/22-家里煤气停了/original/4_page3.png",
+            "sha256": "fbe06857567da473a23827ab20dc7015939104f1beaf6a1a818d4d0ed8fba8b9",
+            "size": 2140674
+          },
+          "source": "【预览图】家里煤气停了/gemini-preview/4_page3.png",
+          "source_sha256": "fbe06857567da473a23827ab20dc7015939104f1beaf6a1a818d4d0ed8fba8b9",
+          "web": {
+            "format": "webp",
+            "path": "notes/22-家里煤气停了/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "f17e32ae8f8320abd3199122db4f3db3ea00e8da2a81b199bc3c9b2af29ab979",
+            "size": 99452
+          },
+          "width": 1086
+        },
+        {
+          "alt": "确认联系对象",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/22-家里煤气停了/original/5_page4.png",
+            "sha256": "7fb7398e5bb1b1c486573cc1be34f908df19cbac7fdd38ed2755b0424d5d3a9f",
+            "size": 2055149
+          },
+          "source": "【预览图】家里煤气停了/gemini-preview/5_page4.png",
+          "source_sha256": "7fb7398e5bb1b1c486573cc1be34f908df19cbac7fdd38ed2755b0424d5d3a9f",
+          "web": {
+            "format": "webp",
+            "path": "notes/22-家里煤气停了/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "b6e905d5cd93dfe793ac86888894bfa840fcfb345a947d158b13ab4f550bb31f",
+            "size": 98432
+          },
+          "width": 1086
+        }
+      ],
+      "order": 22,
+      "source_note": "【预览图】家里煤气停了/家里煤气停了_xhs.md",
+      "source_note_sha256": "b657b19296104deaf8b9a54f3434a0be92e5bfc369d7916f289b28b98294f1d7",
+      "status": "待发布",
+      "style": "GoodNotes：iPad 手写学习笔记风，极简封面，内页中英对照。",
+      "title": "家里没煤气，怎么安全报修？"
     }
   ],
-  "output_digest": "429c039e23873554f53b0f54fc1da9bcae1bc75a36e7c8a6bde02b19e4d88c4f",
+  "output_digest": "3bf68e56364f16e2cf53506bd20bed3d43483806863cb200fcf02461f5818615",
   "pruned_files": [],
   "schema_version": 1,
   "site": {
@@ -1277,15 +2766,15 @@
     "access_gate": true,
     "pages_url": "https://passmetheplay.github.io/xhs-english-notes-deploy/",
     "repository_url": "https://github.com/passmetheplay/xhs-english-notes-deploy",
-    "subtitle": "小黑风 · 第二批 10 篇 · 2026-08-11",
-    "title": "小红书英语口语｜第二批 10 篇合集"
+    "subtitle": "爆款母题扩展 · 22 篇 · 2026-08-12",
+    "title": "小红书英语口语｜22 篇生活高频合集"
   },
   "source_root_hint": "小红书轮播图",
   "totals": {
-    "images": 50,
-    "notes": 10,
-    "original_bytes": 75264900,
-    "savings_percent": 92.77325818542242,
-    "webp_bytes": 5439200
+    "images": 110,
+    "notes": 22,
+    "original_bytes": 192141802,
+    "savings_percent": 93.9371964461955,
+    "webp_bytes": 11649180
   }
 }
