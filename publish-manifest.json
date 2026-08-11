@@ -1,0 +1,422 @@
+{
+  "artifacts": {
+    "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
+    "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
+    "index.html": "1ff4c0762857e6717e0f8b7b8e049bbe08da37163445d31c291e0a2bc6a59a2f",
+    "publish-history.jsonl": "2169f74caceff2d4f3fba5bd7882d51e2f69cc033231c87e26d01fb037c5ef65",
+    "publish-report.md": "5488fa1a90b7cd05e862abcaba7322cc9df3aeca11f065a444b9e29ba3fdce16"
+  },
+  "changes": {
+    "added": [
+      "01-可以少放辣吗",
+      "02-我家停电了",
+      "03-今天几点关门"
+    ],
+    "changed": [],
+    "removed": [],
+    "unchanged": []
+  },
+  "generated_at": "2026-08-11T15:08:04Z",
+  "generated_files": [
+    "assets/site.css",
+    "assets/site.js",
+    "index.html",
+    "notes/01-可以少放辣吗/original/1_cover.png",
+    "notes/01-可以少放辣吗/original/2_page1.png",
+    "notes/01-可以少放辣吗/original/3_page2.png",
+    "notes/01-可以少放辣吗/original/4_page3.png",
+    "notes/01-可以少放辣吗/original/5_page4.png",
+    "notes/01-可以少放辣吗/web/1_cover.webp",
+    "notes/01-可以少放辣吗/web/2_page1.webp",
+    "notes/01-可以少放辣吗/web/3_page2.webp",
+    "notes/01-可以少放辣吗/web/4_page3.webp",
+    "notes/01-可以少放辣吗/web/5_page4.webp",
+    "notes/02-我家停电了/original/1_cover.png",
+    "notes/02-我家停电了/original/2_page1.png",
+    "notes/02-我家停电了/original/3_page2.png",
+    "notes/02-我家停电了/original/4_page3.png",
+    "notes/02-我家停电了/original/5_page4.png",
+    "notes/02-我家停电了/web/1_cover.webp",
+    "notes/02-我家停电了/web/2_page1.webp",
+    "notes/02-我家停电了/web/3_page2.webp",
+    "notes/02-我家停电了/web/4_page3.webp",
+    "notes/02-我家停电了/web/5_page4.webp",
+    "notes/03-今天几点关门/original/1_cover.png",
+    "notes/03-今天几点关门/original/2_page1.png",
+    "notes/03-今天几点关门/original/3_page2.png",
+    "notes/03-今天几点关门/original/4_page3.png",
+    "notes/03-今天几点关门/original/5_page4.png",
+    "notes/03-今天几点关门/web/1_cover.webp",
+    "notes/03-今天几点关门/web/2_page1.webp",
+    "notes/03-今天几点关门/web/3_page2.webp",
+    "notes/03-今天几点关门/web/4_page3.webp",
+    "notes/03-今天几点关门/web/5_page4.webp",
+    "publish-history.jsonl",
+    "publish-manifest.json",
+    "publish-report.md"
+  ],
+  "generator_version": "1.0.0",
+  "history_record_appended": true,
+  "notes": [
+    {
+      "account": "小帮英语",
+      "fingerprint": "02ae2b5f652a6ecb7e22648c8e55bf4d9f4ebb38a6482a4f9d0f85acd299757f",
+      "id": "01-可以少放辣吗",
+      "images": [
+        {
+          "alt": "可以少放辣吗 的真实生活场景",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/01-可以少放辣吗/original/1_cover.png",
+            "sha256": "49f48215afe03027a23a091198e49d33ee182737a0a8596ab24c844657252e0e",
+            "size": 1117354
+          },
+          "source": "00_已发布/可以少放辣吗_已发布/gemini-preview/1_cover.png",
+          "source_sha256": "49f48215afe03027a23a091198e49d33ee182737a0a8596ab24c844657252e0e",
+          "web": {
+            "format": "webp",
+            "path": "notes/01-可以少放辣吗/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "6333c2bcb2cf20163a97f7fb4e66dd91e37e68c7d3ce0e4c9b369752cffa0cbf",
+            "size": 69704
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先把需求说清楚",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/01-可以少放辣吗/original/2_page1.png",
+            "sha256": "94b20a0bce5c2fef0e2855265bcf074492484e9040b813efa2a94f22db628232",
+            "size": 1912628
+          },
+          "source": "00_已发布/可以少放辣吗_已发布/gemini-preview/2_page1.png",
+          "source_sha256": "94b20a0bce5c2fef0e2855265bcf074492484e9040b813efa2a94f22db628232",
+          "web": {
+            "format": "webp",
+            "path": "notes/01-可以少放辣吗/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "a4627ffc7ba9b491df7bece1f955fb3cb581565baf2ad53de2b52406858d7463",
+            "size": 144260
+          },
+          "width": 1086
+        },
+        {
+          "alt": "补充具体细节",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/01-可以少放辣吗/original/3_page2.png",
+            "sha256": "7c63a0827366f9a8b6162c0e4a0da9c85889cb960ce0862f6801c5f3cb15c290",
+            "size": 1803971
+          },
+          "source": "00_已发布/可以少放辣吗_已发布/gemini-preview/3_page2.png",
+          "source_sha256": "7c63a0827366f9a8b6162c0e4a0da9c85889cb960ce0862f6801c5f3cb15c290",
+          "web": {
+            "format": "webp",
+            "path": "notes/01-可以少放辣吗/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "caa9b562ea55803a231d43ea863d387f2c5b98d9db2c7300153f6df4d1818a76",
+            "size": 114734
+          },
+          "width": 1086
+        },
+        {
+          "alt": "礼貌地请求帮助",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/01-可以少放辣吗/original/4_page3.png",
+            "sha256": "b40d67f3a8c0843a06f2080062b58a1c5621e3a2028a3ade06f989d74439ca2c",
+            "size": 1619512
+          },
+          "source": "00_已发布/可以少放辣吗_已发布/gemini-preview/4_page3.png",
+          "source_sha256": "b40d67f3a8c0843a06f2080062b58a1c5621e3a2028a3ade06f989d74439ca2c",
+          "web": {
+            "format": "webp",
+            "path": "notes/01-可以少放辣吗/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "7b61eec62c8de27ac2381d97cdbc8a23b4346e5f07e8913ed24fa353f4dd807a",
+            "size": 111870
+          },
+          "width": 1086
+        },
+        {
+          "alt": "真实场景直接用",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/01-可以少放辣吗/original/5_page4.png",
+            "sha256": "43073e8c6de9c201a3953994da93a69cee8c54a340edb1008ed2896f7a9d1a0e",
+            "size": 1660002
+          },
+          "source": "00_已发布/可以少放辣吗_已发布/gemini-preview/5_page4.png",
+          "source_sha256": "43073e8c6de9c201a3953994da93a69cee8c54a340edb1008ed2896f7a9d1a0e",
+          "web": {
+            "format": "webp",
+            "path": "notes/01-可以少放辣吗/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "b66c28276605e9f60951c3bdeccd760d72ee5179ec7800c8955e5eb7a003be25",
+            "size": 144214
+          },
+          "width": 1086
+        }
+      ],
+      "order": 1,
+      "source_note": "00_已发布/可以少放辣吗_已发布/可以少放辣吗_xhs.md",
+      "source_note_sha256": "04ef38767248eed7107620d8840b7d70230b82b756943e38371350229090a008",
+      "status": "已发布",
+      "style": "Mixed：封面用小黑/场景插画呈现问题，内页用 GoodNotes 便签拆解表达。",
+      "title": "可以少放辣吗？英文怎么说"
+    },
+    {
+      "account": "",
+      "fingerprint": "ec9bb9764c0d11c02d415bf15fc8b0284e14455c9780ed61c5c0ccff9a03dd89",
+      "id": "02-我家停电了",
+      "images": [
+        {
+          "alt": "封面：停电了英文怎么说？",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/02-我家停电了/original/1_cover.png",
+            "sha256": "92398cfe65dfd292e1e3e192a2a273c42fd0c4791802639ad974e36c82ea63ee",
+            "size": 1354352
+          },
+          "source": "00_已发布/我家停电了_已发布/gemini-preview/1_cover.png",
+          "source_sha256": "92398cfe65dfd292e1e3e192a2a273c42fd0c4791802639ad974e36c82ea63ee",
+          "web": {
+            "format": "webp",
+            "path": "notes/02-我家停电了/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "5b28a6dec241ebc704bac3931e27336a731960f16d614ea31182a146314f925e",
+            "size": 54328
+          },
+          "width": 1086
+        },
+        {
+          "alt": "基础表达，脱口而出！：停电了 / 停电通知 / 电力中断 / 来电了",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/02-我家停电了/original/2_page1.png",
+            "sha256": "437fbe774258b4c713cb8fcf5981c673c23dbeb37268b2b2b6fccb9accaa08ea",
+            "size": 1628071
+          },
+          "source": "00_已发布/我家停电了_已发布/gemini-preview/2_page1.png",
+          "source_sha256": "437fbe774258b4c713cb8fcf5981c673c23dbeb37268b2b2b6fccb9accaa08ea",
+          "web": {
+            "format": "webp",
+            "path": "notes/02-我家停电了/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "0d6d1d967796454415266e03c64555e9fa87323fcb32cf5c2c36593a71d62e59",
+            "size": 118782
+          },
+          "width": 1086
+        },
+        {
+          "alt": "停电原因，秒懂！：跳闸了 / 电路故障 / 负荷过大 / 电线杆倒了",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/02-我家停电了/original/3_page2.png",
+            "sha256": "d0ce450b609ffa9f48e80dfe8b4a8cee4b8cbbb0081eb849f93df93ade378d64",
+            "size": 1644775
+          },
+          "source": "00_已发布/我家停电了_已发布/gemini-preview/3_page2.png",
+          "source_sha256": "d0ce450b609ffa9f48e80dfe8b4a8cee4b8cbbb0081eb849f93df93ade378d64",
+          "web": {
+            "format": "webp",
+            "path": "notes/02-我家停电了/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "7a56ece2b97f0929b9b7e2b25cbd99358aef0cbd8fe575e4e1554f9e20c39c7a",
+            "size": 125106
+          },
+          "width": 1086
+        },
+        {
+          "alt": "停电影响，吐槽必备！：一片漆黑 / 冰箱里的食物会坏 / 生活受到影响 / 无聊死了",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/02-我家停电了/original/4_page3.png",
+            "sha256": "4fa36d3c6dbcc33192f85ba8fd829876366eb9e08c5d6a5a593869e72670eedd",
+            "size": 1650425
+          },
+          "source": "00_已发布/我家停电了_已发布/gemini-preview/4_page3.png",
+          "source_sha256": "4fa36d3c6dbcc33192f85ba8fd829876366eb9e08c5d6a5a593869e72670eedd",
+          "web": {
+            "format": "webp",
+            "path": "notes/02-我家停电了/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "30a5b3c7057289e45421157e85fadebc4f4468b96f5d66d8975b8f5f35a5a294",
+            "size": 124316
+          },
+          "width": 1086
+        },
+        {
+          "alt": "求助恢复，有备无患！：什么时候来电？ / 给电力公司打电话 / 用发电机 / 电力已恢复",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/02-我家停电了/original/5_page4.png",
+            "sha256": "32b46eaf9ff189fcb868c201494612496149167322617777930635c55b00edaa",
+            "size": 1767523
+          },
+          "source": "00_已发布/我家停电了_已发布/gemini-preview/5_page4.png",
+          "source_sha256": "32b46eaf9ff189fcb868c201494612496149167322617777930635c55b00edaa",
+          "web": {
+            "format": "webp",
+            "path": "notes/02-我家停电了/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "9b03e23ada1236d3e39439a93970b9f01dc845ea3afe3281444e9beb95d00819",
+            "size": 144218
+          },
+          "width": 1086
+        }
+      ],
+      "order": 2,
+      "source_note": "00_已发布/我家停电了_已发布/我家停电了_xhs.md",
+      "source_note_sha256": "baba0a38ea0212aba5a36153eb299b29713d2af42945116268b3936b03c63f89",
+      "status": "已发布",
+      "style": "",
+      "title": "“停电了”英文怎么说？"
+    },
+    {
+      "account": "",
+      "fingerprint": "2c76ceaebc4b81f38b149edffcf94661c87b7536392ff7911ea907ed54d10833",
+      "id": "03-今天几点关门",
+      "images": [
+        {
+          "alt": "封面：今天几点关门？英文怎么说？",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/03-今天几点关门/original/1_cover.png",
+            "sha256": "650980a4704aab372f697e7c92943729b0213325334df1398224af72173f3364",
+            "size": 1455723
+          },
+          "source": "00_已发布/今天几点关门_已发布/gemini-preview/1_cover.png",
+          "source_sha256": "650980a4704aab372f697e7c92943729b0213325334df1398224af72173f3364",
+          "web": {
+            "format": "webp",
+            "path": "notes/03-今天几点关门/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "ed4408fea1509d5777d2ec264284b1f95c29f9b3904adfc73da7779b3122ec7a",
+            "size": 95810
+          },
+          "width": 1086
+        },
+        {
+          "alt": "询问营业时间：今天几点关门？ / 你们几点开门？ / 营业时间是？ / 周末营业吗？",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/03-今天几点关门/original/2_page1.png",
+            "sha256": "2cac79570396c4bd5ebe9e7c4ba0286ee91e22f6871356eea2666a3067c50733",
+            "size": 1356538
+          },
+          "source": "00_已发布/今天几点关门_已发布/gemini-preview/2_page1.png",
+          "source_sha256": "2cac79570396c4bd5ebe9e7c4ba0286ee91e22f6871356eea2666a3067c50733",
+          "web": {
+            "format": "webp",
+            "path": "notes/03-今天几点关门/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "6a524cce95a00f747d49f562702f2f908d1c7f887ab18733b33e5ed767fe708c",
+            "size": 138192
+          },
+          "width": 1086
+        },
+        {
+          "alt": "确认是否营业：已经关门了 / 还没开门呢 / 我们不营业 / 打烊了",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/03-今天几点关门/original/3_page2.png",
+            "sha256": "98ebbbaa41e37b795dd15727b54da11803fc0fe496bc6454f5416bfbc883ff61",
+            "size": 1331421
+          },
+          "source": "00_已发布/今天几点关门_已发布/gemini-preview/3_page2.png",
+          "source_sha256": "98ebbbaa41e37b795dd15727b54da11803fc0fe496bc6454f5416bfbc883ff61",
+          "web": {
+            "format": "webp",
+            "path": "notes/03-今天几点关门/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "c2b8f9383b0cf473999ae19e2836557f8cbece53d0b48c5982a2915f6b7da68f",
+            "size": 143292
+          },
+          "width": 1086
+        },
+        {
+          "alt": "预约与到访：需要预约吗？ / 现在有空吗？ / 我能晚点来吗？ / 你们最晚几点？",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/03-今天几点关门/original/4_page3.png",
+            "sha256": "b272d259b5b458849cdfdb58e3150c2dbec3b536dd6a42b9cef9d36c2a60d3a9",
+            "size": 1374379
+          },
+          "source": "00_已发布/今天几点关门_已发布/gemini-preview/4_page3.png",
+          "source_sha256": "b272d259b5b458849cdfdb58e3150c2dbec3b536dd6a42b9cef9d36c2a60d3a9",
+          "web": {
+            "format": "webp",
+            "path": "notes/03-今天几点关门/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "5aca8bb905d0678bde5437f5f95a6f4c515bb06ce7f6b664048bd61c307bf0a6",
+            "size": 146272
+          },
+          "width": 1086
+        },
+        {
+          "alt": "特殊时间询问：午饭时间营业吗？ / 几点停止服务？ / 节假日营业吗？ / 通常营业到几点？",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/03-今天几点关门/original/5_page4.png",
+            "sha256": "8c4e995b65f9b6ae99e697f265c59df4f2b781c5232413b654002e13cc8dbb4c",
+            "size": 1366729
+          },
+          "source": "00_已发布/今天几点关门_已发布/gemini-preview/5_page4.png",
+          "source_sha256": "8c4e995b65f9b6ae99e697f265c59df4f2b781c5232413b654002e13cc8dbb4c",
+          "web": {
+            "format": "webp",
+            "path": "notes/03-今天几点关门/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "9dc2ba180a46b9c7f2430d099cbcf158311869adce0e73b71a61eacb32845d88",
+            "size": 148834
+          },
+          "width": 1086
+        }
+      ],
+      "order": 3,
+      "source_note": "00_已发布/今天几点关门_已发布/今天几点关门_xhs.md",
+      "source_note_sha256": "a393beee237950db7c83c1807d2289306e042be1fca660cc80922db5adf56047",
+      "status": "已发布",
+      "style": "",
+      "title": "“今天几点关门？”英文怎么说？"
+    }
+  ],
+  "output_digest": "e7183e0e041b62068fe4791b01f4651ea3161eec8ee562de83e590237ae9352b",
+  "schema_version": 1,
+  "site": {
+    "accent": "#c44536",
+    "accent_dark": "#953429",
+    "accent_soft": "#f8e9e7",
+    "access_code_sha256": "10e586b2b183dfeed54cc94d5600474a0f360281ee0de6898bf324120e5811eb",
+    "access_gate": true,
+    "pages_url": "https://passmetheplay.github.io/xhs-english-notes-deploy/",
+    "repository_url": "https://github.com/passmetheplay/xhs-english-notes-deploy",
+    "subtitle": "本批 3 篇 · 2026-08-11",
+    "title": "小帮英语｜生活口语笔记合集"
+  },
+  "source_root_hint": "小红书轮播图",
+  "totals": {
+    "images": 15,
+    "notes": 3,
+    "original_bytes": 23043403,
+    "savings_percent": 92.08479754487651,
+    "webp_bytes": 1823932
+  }
+}
