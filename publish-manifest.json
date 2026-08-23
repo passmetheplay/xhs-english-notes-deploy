@@ -4,11 +4,14 @@
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
     "index.html": "3b8dea147a705b78b3c6cb49d0a0217bced22370521599a3f000633cb32f4045",
     "publish-history.jsonl": "08dedb6a20a31f1c0d2b8cd049d9fe6a23d2ecab873e99bef9af56246a961d0a",
-    "publish-report.md": "ae1b6f2a5af166891de2d60b6475bf7dafe779fcb5da3a12676acbd3347ee92a"
+    "publish-report.md": "2c50b0ff9cb554a44e67bf6def0f355fc3921574198fceeb3c7c9e64c549edd5"
   },
   "changes": {
     "added": [],
     "changed": [
+      "05-我想查物流",
+      "06-我家停电了",
+      "10-预约剪头发",
       "11-可以少放点油吗",
       "12-可以少放点盐吗",
       "13-可以换一道不辣的吗",
@@ -28,15 +31,12 @@
       "02-可以少放辣吗",
       "03-今天几点关门",
       "04-你周末有空吗",
-      "05-我想查物流",
-      "06-我家停电了",
       "07-文件打不开",
       "08-有大一号吗",
-      "09-需要预约维修",
-      "10-预约剪头发"
+      "09-需要预约维修"
     ]
   },
-  "generated_at": "2026-08-23T02:58:34.306055Z",
+  "generated_at": "2026-08-23T03:23:38.810051Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
@@ -731,8 +731,8 @@
           "height": 1448,
           "original": {
             "path": "notes/05-我想查物流/original/1_cover.png",
-            "sha256": "a6a83b6b9c8e906c32f3b84f5b5e59bd166007cf98549e9bca0ffa9715385bf1",
-            "size": 1775792
+            "sha256": "08daa27fe229f2e4dc3e10e5edff858696416c6a6a46622aa84c8d464a7e8181",
+            "size": 1192368
           },
           "source": "00_已发布/我想查物流_已发布/gemini-preview/1_cover.png",
           "source_sha256": "a6a83b6b9c8e906c32f3b84f5b5e59bd166007cf98549e9bca0ffa9715385bf1",
@@ -740,8 +740,8 @@
             "format": "webp",
             "path": "notes/05-我想查物流/web/1_cover.webp",
             "quality": 82,
-            "sha256": "100e55e58e42f8bfcd6a6e326d45f46847c2f1d6c927eef9cd66e383e8de80bc",
-            "size": 68324
+            "sha256": "49cb14c5896985cf0db02cc882df30faec4fa69dc86c8fdafb9163f56744f3ba",
+            "size": 66612
           },
           "width": 1086
         },
@@ -751,8 +751,8 @@
           "height": 1448,
           "original": {
             "path": "notes/05-我想查物流/original/2_page1.png",
-            "sha256": "c707a7e1202bfcfab244262ca0eb0a46e83afa86bd0d271983b89824f0ea6406",
-            "size": 1685484
+            "sha256": "411bde00084387b0e0d2daab0be07b7277c09e5383ea742efc119c15201a74d7",
+            "size": 1519738
           },
           "source": "00_已发布/我想查物流_已发布/gemini-preview/2_page1.png",
           "source_sha256": "c707a7e1202bfcfab244262ca0eb0a46e83afa86bd0d271983b89824f0ea6406",
@@ -760,8 +760,8 @@
             "format": "webp",
             "path": "notes/05-我想查物流/web/2_page1.webp",
             "quality": 82,
-            "sha256": "cb44b3e8a475c452516d60a663da42d3e72395d465553616f20c540232dda098",
-            "size": 130786
+            "sha256": "865c86796770acd13b66c4f67873a9a15daf8c1d07ecb71cc6c10c061fe2b8f3",
+            "size": 149914
           },
           "width": 1086
         },
@@ -771,8 +771,8 @@
           "height": 1448,
           "original": {
             "path": "notes/05-我想查物流/original/3_page2.png",
-            "sha256": "7707796637c0de9118a555482aa658c0cbbdccf4e0381af4ef9a99b2538b3076",
-            "size": 1706179
+            "sha256": "be9d55dcb68ccd290c8acc24a278297ca1c74e72c24ea09f71c5c8f5c9136bbf",
+            "size": 1627243
           },
           "source": "00_已发布/我想查物流_已发布/gemini-preview/3_page2.png",
           "source_sha256": "7707796637c0de9118a555482aa658c0cbbdccf4e0381af4ef9a99b2538b3076",
@@ -780,8 +780,8 @@
             "format": "webp",
             "path": "notes/05-我想查物流/web/3_page2.webp",
             "quality": 82,
-            "sha256": "3474325b819f28c73fb58faca4c659efee4018ce0353761496feca6c3554e007",
-            "size": 130772
+            "sha256": "b9111d74313881ae236847e1d920c20aae7f3bf990e8db570134a8b1456ac6a9",
+            "size": 158566
           },
           "width": 1086
         },
@@ -791,8 +791,8 @@
           "height": 1448,
           "original": {
             "path": "notes/05-我想查物流/original/4_page3.png",
-            "sha256": "49806433577afdd32c8ebe7c819ed1bd8e72f60195dbe34a5566931fe4bb2896",
-            "size": 1648344
+            "sha256": "8d4e66d51d3ae652bf26e500f83f558e6320369c8919bbee0111b7487813fa10",
+            "size": 1565470
           },
           "source": "00_已发布/我想查物流_已发布/gemini-preview/4_page3.png",
           "source_sha256": "49806433577afdd32c8ebe7c819ed1bd8e72f60195dbe34a5566931fe4bb2896",
@@ -800,8 +800,8 @@
             "format": "webp",
             "path": "notes/05-我想查物流/web/4_page3.webp",
             "quality": 82,
-            "sha256": "3c55707f24cfaf6e28be94ce25a4754fea1762a241bd7047e38380dbbde119be",
-            "size": 119706
+            "sha256": "edc503e12b7d000f431023f1e79a20d34bb6c14c7d89a8336d6e2b9969e9aa78",
+            "size": 139100
           },
           "width": 1086
         },
@@ -811,8 +811,8 @@
           "height": 1448,
           "original": {
             "path": "notes/05-我想查物流/original/5_page4.png",
-            "sha256": "a9317b68a026b4ce367004fa5bb8f62665221316ee520b65f74e4dd6c447c5ea",
-            "size": 1651113
+            "sha256": "cb52199ae735b91486e47b9004f9759f911533560e2115127a8c6d8d45f0a444",
+            "size": 1586214
           },
           "source": "00_已发布/我想查物流_已发布/gemini-preview/5_page4.png",
           "source_sha256": "a9317b68a026b4ce367004fa5bb8f62665221316ee520b65f74e4dd6c447c5ea",
@@ -820,8 +820,8 @@
             "format": "webp",
             "path": "notes/05-我想查物流/web/5_page4.webp",
             "quality": 82,
-            "sha256": "a07d34a8c83d74e572ee799dd2ce937da251dce4acc318d4df2bbbf93bf7d337",
-            "size": 130662
+            "sha256": "9b36616d1e9913b7804ec369f7c070606e89d86626f6cb880744a2e8280a63e9",
+            "size": 149614
           },
           "width": 1086
         }
@@ -844,8 +844,8 @@
           "height": 1448,
           "original": {
             "path": "notes/06-我家停电了/original/1_cover.png",
-            "sha256": "92398cfe65dfd292e1e3e192a2a273c42fd0c4791802639ad974e36c82ea63ee",
-            "size": 1354352
+            "sha256": "876cbf7464b33be74ab75e6bc1f429edfef14fa3e3cd6ae246aaf3199b740e1f",
+            "size": 1114406
           },
           "source": "00_已发布/我家停电了_已发布/gemini-preview/1_cover.png",
           "source_sha256": "92398cfe65dfd292e1e3e192a2a273c42fd0c4791802639ad974e36c82ea63ee",
@@ -853,8 +853,8 @@
             "format": "webp",
             "path": "notes/06-我家停电了/web/1_cover.webp",
             "quality": 82,
-            "sha256": "5b28a6dec241ebc704bac3931e27336a731960f16d614ea31182a146314f925e",
-            "size": 54328
+            "sha256": "d1a10b5a83beef5a2832c895faa9da0b20667147d621b18ff5975b0599616e6f",
+            "size": 62154
           },
           "width": 1086
         },
@@ -864,8 +864,8 @@
           "height": 1448,
           "original": {
             "path": "notes/06-我家停电了/original/2_page1.png",
-            "sha256": "437fbe774258b4c713cb8fcf5981c673c23dbeb37268b2b2b6fccb9accaa08ea",
-            "size": 1628071
+            "sha256": "912ab6830ac0ed3e7fe845544319eb6ce68531a2476ea691c59c48479a445627",
+            "size": 1501977
           },
           "source": "00_已发布/我家停电了_已发布/gemini-preview/2_page1.png",
           "source_sha256": "437fbe774258b4c713cb8fcf5981c673c23dbeb37268b2b2b6fccb9accaa08ea",
@@ -873,8 +873,8 @@
             "format": "webp",
             "path": "notes/06-我家停电了/web/2_page1.webp",
             "quality": 82,
-            "sha256": "0d6d1d967796454415266e03c64555e9fa87323fcb32cf5c2c36593a71d62e59",
-            "size": 118782
+            "sha256": "060a40bac71cad80ab69f42eeae0a08b3c32cd2b7c35e08aec8a0f0a7cda7170",
+            "size": 138092
           },
           "width": 1086
         },
@@ -884,8 +884,8 @@
           "height": 1448,
           "original": {
             "path": "notes/06-我家停电了/original/3_page2.png",
-            "sha256": "d0ce450b609ffa9f48e80dfe8b4a8cee4b8cbbb0081eb849f93df93ade378d64",
-            "size": 1644775
+            "sha256": "4912630a92b8c904c8b3c5caf918692cb6a2d4f1ae8c48335e62a9e8352faf5a",
+            "size": 1560913
           },
           "source": "00_已发布/我家停电了_已发布/gemini-preview/3_page2.png",
           "source_sha256": "d0ce450b609ffa9f48e80dfe8b4a8cee4b8cbbb0081eb849f93df93ade378d64",
@@ -893,8 +893,8 @@
             "format": "webp",
             "path": "notes/06-我家停电了/web/3_page2.webp",
             "quality": 82,
-            "sha256": "7a56ece2b97f0929b9b7e2b25cbd99358aef0cbd8fe575e4e1554f9e20c39c7a",
-            "size": 125106
+            "sha256": "960c7c59db50c80a7735d8d7b9ade2e7f404aa2d5243dc8ac15a9edcf02b2ac8",
+            "size": 142854
           },
           "width": 1086
         },
@@ -904,8 +904,8 @@
           "height": 1448,
           "original": {
             "path": "notes/06-我家停电了/original/4_page3.png",
-            "sha256": "4fa36d3c6dbcc33192f85ba8fd829876366eb9e08c5d6a5a593869e72670eedd",
-            "size": 1650425
+            "sha256": "ffb01d6eb54aba1527e9cf73e0ff173e361e96676b14b9b2d116061898be0331",
+            "size": 1490851
           },
           "source": "00_已发布/我家停电了_已发布/gemini-preview/4_page3.png",
           "source_sha256": "4fa36d3c6dbcc33192f85ba8fd829876366eb9e08c5d6a5a593869e72670eedd",
@@ -913,8 +913,8 @@
             "format": "webp",
             "path": "notes/06-我家停电了/web/4_page3.webp",
             "quality": 82,
-            "sha256": "30a5b3c7057289e45421157e85fadebc4f4468b96f5d66d8975b8f5f35a5a294",
-            "size": 124316
+            "sha256": "02e040be3167964d7e660d91ce1751bb077704652d3480cf46938b77abde26a5",
+            "size": 138814
           },
           "width": 1086
         },
@@ -924,8 +924,8 @@
           "height": 1448,
           "original": {
             "path": "notes/06-我家停电了/original/5_page4.png",
-            "sha256": "32b46eaf9ff189fcb868c201494612496149167322617777930635c55b00edaa",
-            "size": 1767523
+            "sha256": "ee0feed00bd4b27be8583639c968e5a3f2c49fd32f7f0f81c1a407b8c0099bd0",
+            "size": 1617746
           },
           "source": "00_已发布/我家停电了_已发布/gemini-preview/5_page4.png",
           "source_sha256": "32b46eaf9ff189fcb868c201494612496149167322617777930635c55b00edaa",
@@ -933,8 +933,8 @@
             "format": "webp",
             "path": "notes/06-我家停电了/web/5_page4.webp",
             "quality": 82,
-            "sha256": "9b03e23ada1236d3e39439a93970b9f01dc845ea3afe3281444e9beb95d00819",
-            "size": 144218
+            "sha256": "0461d6f8f3c1fca2d879d0dc1665ec0dea70b2e4ef5051080e246c7a57bab459",
+            "size": 158170
           },
           "width": 1086
         }
@@ -1296,8 +1296,8 @@
           "height": 1448,
           "original": {
             "path": "notes/10-预约剪头发/original/1_cover.png",
-            "sha256": "56d915bebfc707cb0b63804ded4eb46f5d1fd01d54d5eaa5924529cdae46c1c9",
-            "size": 1166356
+            "sha256": "0c6a7cb93055b8bc6fe6e6654c5da7805b02b8dee3df956998ddfe30aee2835d",
+            "size": 1426560
           },
           "source": "00_已发布/预约剪头发_已发布/gemini-preview/1_cover.png",
           "source_sha256": "56d915bebfc707cb0b63804ded4eb46f5d1fd01d54d5eaa5924529cdae46c1c9",
@@ -1305,8 +1305,8 @@
             "format": "webp",
             "path": "notes/10-预约剪头发/web/1_cover.webp",
             "quality": 82,
-            "sha256": "e6a24f04fd1e74c9e24b525ea6da7702a9f6cb41cc724cd8e926f734ae784f39",
-            "size": 84084
+            "sha256": "7de720a4388dd7f0f0ad753b41eccf484e1f6679fcf9a0a5a262356964fe49e4",
+            "size": 77192
           },
           "width": 1086
         },
@@ -2755,7 +2755,7 @@
       "title": "家里没煤气，怎么安全报修？"
     }
   ],
-  "output_digest": "674197abdf56c83aaf777ba032c7ee606819e25b6076b5809968c4e821ecb982",
+  "output_digest": "af401f48885e5d22c063f8493d286712f44e0766f616ffa66f979446cf07d4dc",
   "pruned_files": [],
   "schema_version": 1,
   "site": {
@@ -2773,8 +2773,8 @@
   "totals": {
     "images": 110,
     "notes": 22,
-    "original_bytes": 144516434,
-    "savings_percent": 92.93869512445899,
-    "webp_bytes": 10204746
+    "original_bytes": 143041506,
+    "savings_percent": 92.76102140591277,
+    "webp_bytes": 10354744
   }
 }
