@@ -4,10 +4,11 @@
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
     "index.html": "c17d86908a94d5f67090400f1513e3ed15eef387c6bfbe4028345e0f806370c7",
     "publish-history.jsonl": "08dedb6a20a31f1c0d2b8cd049d9fe6a23d2ecab873e99bef9af56246a961d0a",
-    "publish-report.md": "d5efcd3add1e9d6adf06747069c70abdc4b2315333f81435410b87dbe2f5fff1"
+    "publish-report.md": "71b31e39c06519bb2430824a2dbda59f9567a31b1c56c2b6a08eb9363e27ec0f"
   },
   "changes": {
-    "added": [
+    "added": [],
+    "changed": [
       "11-可以少放点油吗",
       "12-可以少放点盐吗",
       "13-可以换一道不辣的吗",
@@ -21,7 +22,6 @@
       "21-暖气停了",
       "22-家里煤气停了"
     ],
-    "changed": [],
     "removed": [],
     "unchanged": [
       "01-外卖少了一样",
@@ -36,7 +36,7 @@
       "10-预约剪头发"
     ]
   },
-  "generated_at": "2026-08-11T18:19:39Z",
+  "generated_at": "2026-08-23T01:18:38Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
@@ -266,7 +266,7 @@
     "publish-report.md"
   ],
   "generator_version": "1.0.0",
-  "history_record_appended": true,
+  "history_record_appended": false,
   "notes": [
     {
       "account": "小帮英语",
@@ -1400,7 +1400,7 @@
     },
     {
       "account": "小帮英语",
-      "fingerprint": "8bad4cd53cf93d9051c945a8a013e3cae9c23ede7aa228a717b645e0be88f8eb",
+      "fingerprint": "452b3da8bf1894e41fa465d607d783a9dd5934740291411d672958993270744b",
       "id": "11-可以少放点油吗",
       "images": [
         {
@@ -1409,8 +1409,8 @@
           "height": 1448,
           "original": {
             "path": "notes/11-可以少放点油吗/original/1_cover.png",
-            "sha256": "32a2eb0694b06e3067dc163fedf91b1b4a65418dfef35713d8b10de8e073844f",
-            "size": 1221263
+            "sha256": "dd2115cec106d022d5c64a9d864e73a708fafe3266a72e63dccd88d4b59f4f24",
+            "size": 30490
           },
           "source": "【预览图】可以少放点油吗/gemini-preview/1_cover.png",
           "source_sha256": "32a2eb0694b06e3067dc163fedf91b1b4a65418dfef35713d8b10de8e073844f",
@@ -1418,8 +1418,8 @@
             "format": "webp",
             "path": "notes/11-可以少放点油吗/web/1_cover.webp",
             "quality": 82,
-            "sha256": "2d647e2916da90f61f050227a5d38324d9ef70c60656a9bafb1da28ecaeec086",
-            "size": 60188
+            "sha256": "4fd92943c2443f4a83ff1cd304e1631d4c361b2f3a794445cd0c73ca1397dd53",
+            "size": 56500
           },
           "width": 1086
         },
@@ -1429,8 +1429,8 @@
           "height": 1448,
           "original": {
             "path": "notes/11-可以少放点油吗/original/2_page1.png",
-            "sha256": "4f7b353e3c8d51b7ee79ab903f68d502bb7e18fb69e6873a32d7f14bfce58447",
-            "size": 1570346
+            "sha256": "f34210bd254cd3daf5deacb13e1969c3aeb383237dac4a422d2a7b1d02f425f5",
+            "size": 36500
           },
           "source": "【预览图】可以少放点油吗/gemini-preview/2_page1.png",
           "source_sha256": "4f7b353e3c8d51b7ee79ab903f68d502bb7e18fb69e6873a32d7f14bfce58447",
@@ -1438,8 +1438,8 @@
             "format": "webp",
             "path": "notes/11-可以少放点油吗/web/2_page1.webp",
             "quality": 82,
-            "sha256": "b5a3789d757b095b69a9f9e21fc9208524292a39ff6e163a994cc2bfaed0619b",
-            "size": 75638
+            "sha256": "2aa89f9247efe00922a242abc1133033c1ee4b5232b02560471b2d68ab58f64c",
+            "size": 70984
           },
           "width": 1086
         },
@@ -1449,8 +1449,8 @@
           "height": 1448,
           "original": {
             "path": "notes/11-可以少放点油吗/original/3_page2.png",
-            "sha256": "6ea6f0bd670c36d71cd0942a649715cf661a5fc50dd925e6cc5116e57834b666",
-            "size": 1888367
+            "sha256": "369651350c0fc07a4974dba50b9fed79356b164214ac32e8227f96265e95b53d",
+            "size": 41030
           },
           "source": "【预览图】可以少放点油吗/gemini-preview/3_page2.png",
           "source_sha256": "6ea6f0bd670c36d71cd0942a649715cf661a5fc50dd925e6cc5116e57834b666",
@@ -1458,8 +1458,8 @@
             "format": "webp",
             "path": "notes/11-可以少放点油吗/web/3_page2.webp",
             "quality": 82,
-            "sha256": "ce6712b54ee579e6e571e2213961de03b5b9ba0b03a256e13ef7a3be9375da79",
-            "size": 96180
+            "sha256": "91e744973489c2034130e0d3d79e73d86180816526d122fde077200331238a8f",
+            "size": 80972
           },
           "width": 1086
         },
@@ -1469,8 +1469,8 @@
           "height": 1448,
           "original": {
             "path": "notes/11-可以少放点油吗/original/4_page3.png",
-            "sha256": "90f5caa411573c74fae8073ca1a9e460ff6a70f406a86a2651205e2a61ffa5b8",
-            "size": 1594292
+            "sha256": "bb52091e10ea2be91baa9611515768974fb4aac339596dd623e6444e526fb76b",
+            "size": 39079
           },
           "source": "【预览图】可以少放点油吗/gemini-preview/4_page3.png",
           "source_sha256": "90f5caa411573c74fae8073ca1a9e460ff6a70f406a86a2651205e2a61ffa5b8",
@@ -1478,8 +1478,8 @@
             "format": "webp",
             "path": "notes/11-可以少放点油吗/web/4_page3.webp",
             "quality": 82,
-            "sha256": "ccdb89dfa6b7d2cf774aedb5369762200ecc83d083e73e25ae4f05cae62f7907",
-            "size": 100682
+            "sha256": "ebe1363ab63b7259cd38d3c2d2f269813f6678b308c5af3eb117c315da30d13d",
+            "size": 78404
           },
           "width": 1086
         },
@@ -1489,8 +1489,8 @@
           "height": 1448,
           "original": {
             "path": "notes/11-可以少放点油吗/original/5_page4.png",
-            "sha256": "8d0613f853c9f53c4c4d0b033b54450330878e0b464dcabeadba8cf1daa4208a",
-            "size": 2023307
+            "sha256": "3202ac22ddcfa564d645efb213638c572b4d52e0c5193227af0d365ac38b8e81",
+            "size": 43903
           },
           "source": "【预览图】可以少放点油吗/gemini-preview/5_page4.png",
           "source_sha256": "8d0613f853c9f53c4c4d0b033b54450330878e0b464dcabeadba8cf1daa4208a",
@@ -1498,8 +1498,8 @@
             "format": "webp",
             "path": "notes/11-可以少放点油吗/web/5_page4.webp",
             "quality": 82,
-            "sha256": "b0c78064e5767c0d600b7545eb3ba88f09a50947c51ec997464e2f1059fbc8f1",
-            "size": 107822
+            "sha256": "d0cc0ed4f1d9040238ac5d4f54c630fb67cac28fa7311b8add7899294391a0d9",
+            "size": 85938
           },
           "width": 1086
         }
@@ -1513,7 +1513,7 @@
     },
     {
       "account": "小帮英语",
-      "fingerprint": "65f2725c931aae65bf15728612923c5066dd0a3bc6743ccb47c058fcd4ba7b68",
+      "fingerprint": "e4c82346248df4c0930de3f57eb97039c9a16c66ededbc348eb3ba375e481ece",
       "id": "12-可以少放点盐吗",
       "images": [
         {
@@ -1522,8 +1522,8 @@
           "height": 1448,
           "original": {
             "path": "notes/12-可以少放点盐吗/original/1_cover.png",
-            "sha256": "bb8fb165a261366379c470663f7eb6fc5424627430f7224d576c6401a3b0d489",
-            "size": 2203715
+            "sha256": "9063d3862bfab1423d14b4a11e720d109172c3de8d03809fe0bfef33975beab7",
+            "size": 43812
           },
           "source": "【预览图】可以少放点盐吗/gemini-preview/1_cover.png",
           "source_sha256": "bb8fb165a261366379c470663f7eb6fc5424627430f7224d576c6401a3b0d489",
@@ -1531,8 +1531,8 @@
             "format": "webp",
             "path": "notes/12-可以少放点盐吗/web/1_cover.webp",
             "quality": 82,
-            "sha256": "d1743552e07bf9037509f7649ba4b3d81d31459d22d435036a8b037cd7804075",
-            "size": 107354
+            "sha256": "4905d98a41b2ecf189b9ac85afc3b0ce3b7505651b8076d2a64f65af1e63540b",
+            "size": 82176
           },
           "width": 1086
         },
@@ -1542,8 +1542,8 @@
           "height": 1448,
           "original": {
             "path": "notes/12-可以少放点盐吗/original/2_page1.png",
-            "sha256": "0bd1f2518132687ffaad09d29b814b5c075a3c1c5eeb70f965203de7ca43ad42",
-            "size": 2057473
+            "sha256": "cbeccf8135f5a3cafc365da5539c89b7e38ac0ac449410525f2e934f71b3b786",
+            "size": 47347
           },
           "source": "【预览图】可以少放点盐吗/gemini-preview/2_page1.png",
           "source_sha256": "0bd1f2518132687ffaad09d29b814b5c075a3c1c5eeb70f965203de7ca43ad42",
@@ -1551,8 +1551,8 @@
             "format": "webp",
             "path": "notes/12-可以少放点盐吗/web/2_page1.webp",
             "quality": 82,
-            "sha256": "faacffa4f01e504929baeb0675d862c9ecf964439911fa9776ec6e66c9052c1e",
-            "size": 99226
+            "sha256": "abe2f88d37344ef8f9e8c6c04e2d0dace43c66338675fa7414bf3e059189bc84",
+            "size": 91100
           },
           "width": 1086
         },
@@ -1562,8 +1562,8 @@
           "height": 1448,
           "original": {
             "path": "notes/12-可以少放点盐吗/original/3_page2.png",
-            "sha256": "b1c0672327bd55903d0f241d06ba40a6f3f7c8ed6b73962e3c347d91108416d3",
-            "size": 1846433
+            "sha256": "675388689a56451b5f2de0423d103b7b821b4ec545f4911ac9ea627f0ddaf03c",
+            "size": 55681
           },
           "source": "【预览图】可以少放点盐吗/gemini-preview/3_page2.png",
           "source_sha256": "b1c0672327bd55903d0f241d06ba40a6f3f7c8ed6b73962e3c347d91108416d3",
@@ -1571,8 +1571,8 @@
             "format": "webp",
             "path": "notes/12-可以少放点盐吗/web/3_page2.webp",
             "quality": 82,
-            "sha256": "7678f4acc1363f203010f9d10d511c83c0c3c153a902ee270347d7baae2bc549",
-            "size": 143046
+            "sha256": "168edd43fe49009f34043dbbe6eb81614747693b2486f872d33f89d20a2466b9",
+            "size": 108062
           },
           "width": 1086
         },
@@ -1582,8 +1582,8 @@
           "height": 1448,
           "original": {
             "path": "notes/12-可以少放点盐吗/original/4_page3.png",
-            "sha256": "24da4d7d5a450bdadde5705c88f95619ac275fa545cefb5bac2bd3d0eeec58cb",
-            "size": 2429745
+            "sha256": "aef04299576b087095536d07c139125839633ba0e889c51b8a53efb11bcdd99a",
+            "size": 53046
           },
           "source": "【预览图】可以少放点盐吗/gemini-preview/4_page3.png",
           "source_sha256": "24da4d7d5a450bdadde5705c88f95619ac275fa545cefb5bac2bd3d0eeec58cb",
@@ -1591,8 +1591,8 @@
             "format": "webp",
             "path": "notes/12-可以少放点盐吗/web/4_page3.webp",
             "quality": 82,
-            "sha256": "a30ba4ba2b4a62c872d02dc768548d0be6455cc83762381387502cab7944c1e4",
-            "size": 127458
+            "sha256": "3cc5d304a24eba291d7caf4f903cf3c929169a3b29cf053bc9f77f4aa20f66e9",
+            "size": 101406
           },
           "width": 1086
         },
@@ -1602,8 +1602,8 @@
           "height": 1448,
           "original": {
             "path": "notes/12-可以少放点盐吗/original/5_page4.png",
-            "sha256": "c1b7caf2cd4a1c2dc3898e2e09211b454fb949e4ef179517bdc03375cdd05d75",
-            "size": 1969898
+            "sha256": "8a355d747c96cff7160c5ba97993c9d1c843f9552d518aa81fc39420863528e0",
+            "size": 45093
           },
           "source": "【预览图】可以少放点盐吗/gemini-preview/5_page4.png",
           "source_sha256": "c1b7caf2cd4a1c2dc3898e2e09211b454fb949e4ef179517bdc03375cdd05d75",
@@ -1611,8 +1611,8 @@
             "format": "webp",
             "path": "notes/12-可以少放点盐吗/web/5_page4.webp",
             "quality": 82,
-            "sha256": "233aa6c640f8bc0481a1467a7b7648853ba7e15070c679626e51f9c4f1241c61",
-            "size": 117766
+            "sha256": "2092491b97567a8ae2a0b31ac3687b61c36c3a9d8fa3746c1aaf598d3be87437",
+            "size": 88150
           },
           "width": 1086
         }
@@ -1626,7 +1626,7 @@
     },
     {
       "account": "小帮英语",
-      "fingerprint": "eb565a7a3a1ea52a839abb68747cc63348b8b284507538d5c77a095c5bdd38ee",
+      "fingerprint": "0726bfff0524b517af964ab69ce38caed37fdfeeefd1e427c6f88bcf837a196c",
       "id": "13-可以换一道不辣的吗",
       "images": [
         {
@@ -1635,8 +1635,8 @@
           "height": 1448,
           "original": {
             "path": "notes/13-可以换一道不辣的吗/original/1_cover.png",
-            "sha256": "baee9885e7336fd5bd40faf8296c526aed0c80e21b4ffa958df6bbf2464021c7",
-            "size": 1874241
+            "sha256": "982a4641e92a57b06d62da1fdcbb8e17623571c4fa3c6b1112b93dbd9e7e2f1a",
+            "size": 42620
           },
           "source": "【预览图】可以换一道不辣的吗/gemini-preview/1_cover.png",
           "source_sha256": "baee9885e7336fd5bd40faf8296c526aed0c80e21b4ffa958df6bbf2464021c7",
@@ -1644,8 +1644,8 @@
             "format": "webp",
             "path": "notes/13-可以换一道不辣的吗/web/1_cover.webp",
             "quality": 82,
-            "sha256": "a4b141e354f7d131a8c5e14ee99e7b54eefefa6d9e6457cd2b8dc78617686306",
-            "size": 90188
+            "sha256": "a713758a0f095c895e5d4f9a133113e1175f804dc48a4bbcc66e90a9b3811c04",
+            "size": 83940
           },
           "width": 1086
         },
@@ -1655,8 +1655,8 @@
           "height": 1448,
           "original": {
             "path": "notes/13-可以换一道不辣的吗/original/2_page1.png",
-            "sha256": "52ee5b3113f561aa766b0bb64080c490ce7e5f54ef67548c4c0a4c6f15333751",
-            "size": 2082648
+            "sha256": "c8ece8765f86737718579283857572c714ca32c37044d7d5641ff8625beb33c7",
+            "size": 45057
           },
           "source": "【预览图】可以换一道不辣的吗/gemini-preview/2_page1.png",
           "source_sha256": "52ee5b3113f561aa766b0bb64080c490ce7e5f54ef67548c4c0a4c6f15333751",
@@ -1664,8 +1664,8 @@
             "format": "webp",
             "path": "notes/13-可以换一道不辣的吗/web/2_page1.webp",
             "quality": 82,
-            "sha256": "85703b81bf9de838edf59721f61b00b78a686ec37362c889d6496fe0cd9b8d81",
-            "size": 102232
+            "sha256": "632213f63400894b23898c0cf861d0ed39fbbb1b4e1091ee6ff78af436886578",
+            "size": 94172
           },
           "width": 1086
         },
@@ -1675,8 +1675,8 @@
           "height": 1448,
           "original": {
             "path": "notes/13-可以换一道不辣的吗/original/3_page2.png",
-            "sha256": "efb5b8054e5506dd9c8c7790aeb5452f26b28c776f93b938a2e00357fd1e0e9c",
-            "size": 2020434
+            "sha256": "dec1afcde785650ea8ff773f514afdc22ddf57866cd929f050f86408a4939d95",
+            "size": 42778
           },
           "source": "【预览图】可以换一道不辣的吗/gemini-preview/3_page2.png",
           "source_sha256": "efb5b8054e5506dd9c8c7790aeb5452f26b28c776f93b938a2e00357fd1e0e9c",
@@ -1684,8 +1684,8 @@
             "format": "webp",
             "path": "notes/13-可以换一道不辣的吗/web/3_page2.webp",
             "quality": 82,
-            "sha256": "455fe747dc6b815739025d8c00bdd9889baa1ac6d16ab62ecd38804acf8b2d51",
-            "size": 113950
+            "sha256": "d0b2e009e7581e31267a1fe5bdcedb55c9136abbab9af1a49844f87ec842df7a",
+            "size": 86762
           },
           "width": 1086
         },
@@ -1695,8 +1695,8 @@
           "height": 1448,
           "original": {
             "path": "notes/13-可以换一道不辣的吗/original/4_page3.png",
-            "sha256": "d2787679fa2244f4f0bec42512fa47874e4e219c123a5fd0ed432b3ea0410d02",
-            "size": 1831801
+            "sha256": "8b3bd543874e20360d07fa69cc4243cc5645179268fac65b15de1a4c3f5d9c91",
+            "size": 38702
           },
           "source": "【预览图】可以换一道不辣的吗/gemini-preview/4_page3.png",
           "source_sha256": "d2787679fa2244f4f0bec42512fa47874e4e219c123a5fd0ed432b3ea0410d02",
@@ -1704,8 +1704,8 @@
             "format": "webp",
             "path": "notes/13-可以换一道不辣的吗/web/4_page3.webp",
             "quality": 82,
-            "sha256": "1463d20b8d0d906d0fe582740df9eb474ac1138d0888489a524f1b7c57994cde",
-            "size": 96116
+            "sha256": "b928001f3ce604c537f912e056174c7ab0e9f6282ec467c8c5ea982d9bda8340",
+            "size": 75570
           },
           "width": 1086
         },
@@ -1715,8 +1715,8 @@
           "height": 1448,
           "original": {
             "path": "notes/13-可以换一道不辣的吗/original/5_page4.png",
-            "sha256": "2177530a154ecc079445eb558602bcc654633d287cdb540eb498308e448efc24",
-            "size": 2025137
+            "sha256": "ed666d8ad756f0f7a43fb91e29f1c46fd0efb29e44ce0750d25604c82b7f0218",
+            "size": 48139
           },
           "source": "【预览图】可以换一道不辣的吗/gemini-preview/5_page4.png",
           "source_sha256": "2177530a154ecc079445eb558602bcc654633d287cdb540eb498308e448efc24",
@@ -1724,8 +1724,8 @@
             "format": "webp",
             "path": "notes/13-可以换一道不辣的吗/web/5_page4.webp",
             "quality": 82,
-            "sha256": "81f3bbc494f29a3d745e4451b0c4ea807edd3a53e5dab95f5261efcad2d54a54",
-            "size": 107996
+            "sha256": "1bbf4c33060123fafe905c4f3e8bf829c86328acfae4c4a14ed0bce275cbcb88",
+            "size": 98284
           },
           "width": 1086
         }
@@ -1739,7 +1739,7 @@
     },
     {
       "account": "小帮英语",
-      "fingerprint": "ba3f3fc787a2ec08476ba51e7c55bef07005ba615f57052cf3e309ac4163e21a",
+      "fingerprint": "78cdbc57614bf8f4110b1e03b85c611f0508572815c14d0b8d53066d51339d62",
       "id": "14-可以推荐一道不辣的吗",
       "images": [
         {
@@ -1748,8 +1748,8 @@
           "height": 1448,
           "original": {
             "path": "notes/14-可以推荐一道不辣的吗/original/1_cover.png",
-            "sha256": "c1a698f0177f5a6d81e8d4d0a3ac9ffedb1beff78e06c42a711dbe87bb9fb70f",
-            "size": 2238889
+            "sha256": "ed25e2bf5938aad34fb57c7193ca4c0a8a2d38d9941d68d906cac3cb31ca6345",
+            "size": 46634
           },
           "source": "【预览图】可以推荐一道不辣的吗/gemini-preview/1_cover.png",
           "source_sha256": "c1a698f0177f5a6d81e8d4d0a3ac9ffedb1beff78e06c42a711dbe87bb9fb70f",
@@ -1757,8 +1757,8 @@
             "format": "webp",
             "path": "notes/14-可以推荐一道不辣的吗/web/1_cover.webp",
             "quality": 82,
-            "sha256": "8b5c76ed0c4108f9cec8c7e2c68b63b5a54c97c4ef658123b832fcc91e02dff5",
-            "size": 111312
+            "sha256": "22281d20a2f405c444c70df7c697073a7802c3fa374fc3b1f0dc9cba7394f401",
+            "size": 90010
           },
           "width": 1086
         },
@@ -1768,8 +1768,8 @@
           "height": 1448,
           "original": {
             "path": "notes/14-可以推荐一道不辣的吗/original/2_page1.png",
-            "sha256": "ff43deaaa0a287f11ac13608bdf07f3247e55a4cc1a164066b7ea10ba1e0cccf",
-            "size": 1902517
+            "sha256": "a17f7ade2047333e4f24ce9690e915886944d2e24f61087a8f918158abfed1d7",
+            "size": 55627
           },
           "source": "【预览图】可以推荐一道不辣的吗/gemini-preview/2_page1.png",
           "source_sha256": "ff43deaaa0a287f11ac13608bdf07f3247e55a4cc1a164066b7ea10ba1e0cccf",
@@ -1777,8 +1777,8 @@
             "format": "webp",
             "path": "notes/14-可以推荐一道不辣的吗/web/2_page1.webp",
             "quality": 82,
-            "sha256": "2c2eb912ddba697c21ad47f2d33d9c74e1149d8a41fedeacb263475974dc2c76",
-            "size": 115874
+            "sha256": "4d9f9a753804ca52ed469e55d301bcda1d0a4a5cb7e1ca888e4e543857d4e485",
+            "size": 122620
           },
           "width": 1086
         },
@@ -1788,8 +1788,8 @@
           "height": 1448,
           "original": {
             "path": "notes/14-可以推荐一道不辣的吗/original/3_page2.png",
-            "sha256": "1b4078518501a733dc0b8d524eb0f917d290d4223751f0606aaab59a41a6fbf4",
-            "size": 2068787
+            "sha256": "8e750ce3118a019068a2ab96c1fd1e78d9643ef0923f45463cd1a4f14186668a",
+            "size": 50929
           },
           "source": "【预览图】可以推荐一道不辣的吗/gemini-preview/3_page2.png",
           "source_sha256": "1b4078518501a733dc0b8d524eb0f917d290d4223751f0606aaab59a41a6fbf4",
@@ -1797,8 +1797,8 @@
             "format": "webp",
             "path": "notes/14-可以推荐一道不辣的吗/web/3_page2.webp",
             "quality": 82,
-            "sha256": "19cfbc09ed7796fd97646f916c3a50a0bfaaee5a6631348ac42b6b4b18664aea",
-            "size": 98816
+            "sha256": "83ad568a2294f95138d8d684bad77f8b207d66711a6aa8aadfa12a46540f385c",
+            "size": 103238
           },
           "width": 1086
         },
@@ -1808,8 +1808,8 @@
           "height": 1448,
           "original": {
             "path": "notes/14-可以推荐一道不辣的吗/original/4_page3.png",
-            "sha256": "09b4e18e98b4d7a00273f181ee70679f8c60c40567e43c9ed0d5e71d1d6c370c",
-            "size": 2165974
+            "sha256": "933a7bbf651c73d252ac1b6fb6b58efcad00b1440cf94ef9d77eeb0f1a323c05",
+            "size": 57324
           },
           "source": "【预览图】可以推荐一道不辣的吗/gemini-preview/4_page3.png",
           "source_sha256": "09b4e18e98b4d7a00273f181ee70679f8c60c40567e43c9ed0d5e71d1d6c370c",
@@ -1817,8 +1817,8 @@
             "format": "webp",
             "path": "notes/14-可以推荐一道不辣的吗/web/4_page3.webp",
             "quality": 82,
-            "sha256": "1584918f0cf9ffd266f991041c183542590f7de80080082fe4fceb6a7a4e1b08",
-            "size": 110380
+            "sha256": "5dda6eed98bb3b9839a66c882126e21c0687e6226699b722b04bb55ecdd2dc07",
+            "size": 116840
           },
           "width": 1086
         },
@@ -1828,8 +1828,8 @@
           "height": 1448,
           "original": {
             "path": "notes/14-可以推荐一道不辣的吗/original/5_page4.png",
-            "sha256": "2e1bc4673eb58a466e9aa7fc054bedb376a579b6bcca2a3d0a51326c540838de",
-            "size": 1633580
+            "sha256": "215d7060451e880cd9c907221c3303b915455b28bea455ee98fd8662ee79e36c",
+            "size": 40033
           },
           "source": "【预览图】可以推荐一道不辣的吗/gemini-preview/5_page4.png",
           "source_sha256": "2e1bc4673eb58a466e9aa7fc054bedb376a579b6bcca2a3d0a51326c540838de",
@@ -1837,8 +1837,8 @@
             "format": "webp",
             "path": "notes/14-可以推荐一道不辣的吗/web/5_page4.webp",
             "quality": 82,
-            "sha256": "a15aa3717334799327895dccb0b13384b146ebd83b568458209b6fa54b042e5c",
-            "size": 94414
+            "sha256": "a9949f66a506a7d4530e81f339d5a5f970d81bdce4642203c2c1980a3c583666",
+            "size": 79794
           },
           "width": 1086
         }
@@ -1852,7 +1852,7 @@
     },
     {
       "account": "小帮英语",
-      "fingerprint": "20703c11309c4fb6909cee1b83743294123688d0dc0723900dcdf1c1185afaf1",
+      "fingerprint": "39c768bd19d5ba91f090a2263e1760c100dadf3e4c12b5781f3e90cfdc6fb92d",
       "id": "15-今天几点开门",
       "images": [
         {
@@ -1861,8 +1861,8 @@
           "height": 1448,
           "original": {
             "path": "notes/15-今天几点开门/original/1_cover.png",
-            "sha256": "6688a7634fabb77bca2e227f2024bec0cfd5c254d426a055eb1907ebeb8fbefd",
-            "size": 1669491
+            "sha256": "c117c939c213b9961278e572e986b076b5196d1d665271f2c92ad95d239f3695",
+            "size": 35352
           },
           "source": "【预览图】今天几点开门/gemini-preview/1_cover.png",
           "source_sha256": "6688a7634fabb77bca2e227f2024bec0cfd5c254d426a055eb1907ebeb8fbefd",
@@ -1870,8 +1870,8 @@
             "format": "webp",
             "path": "notes/15-今天几点开门/web/1_cover.webp",
             "quality": 82,
-            "sha256": "302a682bece00d41f0b16499b0d9056de1b86ec2c56587e9879e6a02b8e41e21",
-            "size": 77800
+            "sha256": "d81729ba70275dab61df479372740501bba4dc441bf8fdb8887cf7d00cc6bec5",
+            "size": 64342
           },
           "width": 1086
         },
@@ -1881,8 +1881,8 @@
           "height": 1448,
           "original": {
             "path": "notes/15-今天几点开门/original/2_page1.png",
-            "sha256": "27361f61528c247646d379fe7db308330f2a92d2025c10f7a82cd53f6648f061",
-            "size": 2146696
+            "sha256": "d28159098595a6f872177a5ef2bbb03045226889a183f609e143d62a2ac747ca",
+            "size": 45869
           },
           "source": "【预览图】今天几点开门/gemini-preview/2_page1.png",
           "source_sha256": "27361f61528c247646d379fe7db308330f2a92d2025c10f7a82cd53f6648f061",
@@ -1890,8 +1890,8 @@
             "format": "webp",
             "path": "notes/15-今天几点开门/web/2_page1.webp",
             "quality": 82,
-            "sha256": "9a55604a0c4d2a51e6ac4b52df5af426b94a2fad2c6fae7c84123e2f98ef099b",
-            "size": 93670
+            "sha256": "eedad5fa4c600c37a00615ab9e486ad6a7670f185ce2b30290a4283010a0bfa0",
+            "size": 93204
           },
           "width": 1086
         },
@@ -1901,8 +1901,8 @@
           "height": 1448,
           "original": {
             "path": "notes/15-今天几点开门/original/3_page2.png",
-            "sha256": "4a4020badf10111320a506340ca03ebd9e949a846d8d02efbb7eaeba6cf0031a",
-            "size": 2061456
+            "sha256": "de266f5d7312f543ccf34b17f26a8d15a9fc48b58a77619a902d723127128e06",
+            "size": 44011
           },
           "source": "【预览图】今天几点开门/gemini-preview/3_page2.png",
           "source_sha256": "4a4020badf10111320a506340ca03ebd9e949a846d8d02efbb7eaeba6cf0031a",
@@ -1910,8 +1910,8 @@
             "format": "webp",
             "path": "notes/15-今天几点开门/web/3_page2.webp",
             "quality": 82,
-            "sha256": "0c4a20e5ea66407532072766342dfa5b086d890ae4389b3f10fafa86ec8991d3",
-            "size": 94396
+            "sha256": "4326d4a3ce232df68d7b68df28824eaef5b8619801f4d142e8fc6d5faf6f6cb4",
+            "size": 88402
           },
           "width": 1086
         },
@@ -1921,8 +1921,8 @@
           "height": 1448,
           "original": {
             "path": "notes/15-今天几点开门/original/4_page3.png",
-            "sha256": "090951a38d2d4577639420e9f6900dd7b4b89e3b8fb9773aa1ba12bdad83c082",
-            "size": 1963657
+            "sha256": "3e76b7b870d20ff179db2669cd6cedaff3260668e8247ba49c27c0254455f537",
+            "size": 42144
           },
           "source": "【预览图】今天几点开门/gemini-preview/4_page3.png",
           "source_sha256": "090951a38d2d4577639420e9f6900dd7b4b89e3b8fb9773aa1ba12bdad83c082",
@@ -1930,8 +1930,8 @@
             "format": "webp",
             "path": "notes/15-今天几点开门/web/4_page3.webp",
             "quality": 82,
-            "sha256": "0f76fbf4eeb87cdfe8efb87d28a77498521a7f211bd161a88df690a671ac77cc",
-            "size": 93744
+            "sha256": "69d003886a395e0e63a3b47ad0fbfcae1a232ad40c285ac1df3be1ef5b165a93",
+            "size": 86924
           },
           "width": 1086
         },
@@ -1941,8 +1941,8 @@
           "height": 1448,
           "original": {
             "path": "notes/15-今天几点开门/original/5_page4.png",
-            "sha256": "d4e11e8872a2c6aaee5cbdbeb16602b59a5e99b8ca6d3c90e78eb3bc1d5e6505",
-            "size": 2112680
+            "sha256": "b071893ab4e09e22d5daeea45d98df2a00080a9a4e6ff4ac37aa68341199bb0c",
+            "size": 42150
           },
           "source": "【预览图】今天几点开门/gemini-preview/5_page4.png",
           "source_sha256": "d4e11e8872a2c6aaee5cbdbeb16602b59a5e99b8ca6d3c90e78eb3bc1d5e6505",
@@ -1950,8 +1950,8 @@
             "format": "webp",
             "path": "notes/15-今天几点开门/web/5_page4.webp",
             "quality": 82,
-            "sha256": "fdece0e8f77d63d4a6ce3893b3de5bc87722b58c41c14ac897a2fd1c474a9896",
-            "size": 79892
+            "sha256": "aa61f33b4dbad85c033103e651c0c92dd23ef49eb7d889c74165587e6e4bbcd1",
+            "size": 80260
           },
           "width": 1086
         }
@@ -1965,7 +1965,7 @@
     },
     {
       "account": "小帮英语",
-      "fingerprint": "fe6175dea11ba0cad4c61f5432350f668e0d0aba55e659017becdb1f50e455c9",
+      "fingerprint": "ae647acf10a313d431a313e075600e4d568c315aeca1f4e8e97f703e78c8cda2",
       "id": "16-今天正常营业吗",
       "images": [
         {
@@ -1974,8 +1974,8 @@
           "height": 1448,
           "original": {
             "path": "notes/16-今天正常营业吗/original/1_cover.png",
-            "sha256": "4ad6e51b922ee2da583565aa2e392e670376b47e88341916d085f7469ef9f3c7",
-            "size": 1792453
+            "sha256": "14afaab1ede2acd9fd47f59eee6541dbf3544fff4cb6ba78be26f0e35d80a30f",
+            "size": 49709
           },
           "source": "【预览图】今天正常营业吗/gemini-preview/1_cover.png",
           "source_sha256": "4ad6e51b922ee2da583565aa2e392e670376b47e88341916d085f7469ef9f3c7",
@@ -1983,8 +1983,8 @@
             "format": "webp",
             "path": "notes/16-今天正常营业吗/web/1_cover.webp",
             "quality": 82,
-            "sha256": "f10ee7f177a83373615a81e7a726273b1eb4c01348b33fc330b27ec95dbbf392",
-            "size": 97830
+            "sha256": "97d4760f90a39c6203aaafe6b1f64e52863a869b70431ed03d53f1ae37f27d25",
+            "size": 90012
           },
           "width": 1086
         },
@@ -1994,8 +1994,8 @@
           "height": 1448,
           "original": {
             "path": "notes/16-今天正常营业吗/original/2_page1.png",
-            "sha256": "cc787fa57941665a89e6ccbd8d39490370d8551f1da296baa4190cf36e424fb0",
-            "size": 2117345
+            "sha256": "d44805cb4a29b15ea49a48dbaa7fecb8227da8c1914518a1225d1418c4add7ae",
+            "size": 57530
           },
           "source": "【预览图】今天正常营业吗/gemini-preview/2_page1.png",
           "source_sha256": "cc787fa57941665a89e6ccbd8d39490370d8551f1da296baa4190cf36e424fb0",
@@ -2003,8 +2003,8 @@
             "format": "webp",
             "path": "notes/16-今天正常营业吗/web/2_page1.webp",
             "quality": 82,
-            "sha256": "b22bca3a085ee4a85e47c581f7539b2a83c5fbedd837541702a51abbba9ef5b7",
-            "size": 107236
+            "sha256": "73cab552f727944f0237afac489c0eb632500ca12dd08b13b91b8feac4bd6856",
+            "size": 115722
           },
           "width": 1086
         },
@@ -2014,8 +2014,8 @@
           "height": 1448,
           "original": {
             "path": "notes/16-今天正常营业吗/original/3_page2.png",
-            "sha256": "c74b16d7fac6b18663119f945e30e1c719ed7f21d16089f74de56c481682b868",
-            "size": 2264368
+            "sha256": "a630988e3072fd89930b411d72e97ee5b781393cad5b1d52c29d89525428339f",
+            "size": 66047
           },
           "source": "【预览图】今天正常营业吗/gemini-preview/3_page2.png",
           "source_sha256": "c74b16d7fac6b18663119f945e30e1c719ed7f21d16089f74de56c481682b868",
@@ -2023,8 +2023,8 @@
             "format": "webp",
             "path": "notes/16-今天正常营业吗/web/3_page2.webp",
             "quality": 82,
-            "sha256": "86849eed0d2d457076c9cb50625bf56a45d9ddf31a22cb7ef71afee84ba0dadc",
-            "size": 130300
+            "sha256": "12cf1632115a2e87d822c1597b582198e5ed276c664d46aa5553aa32ae7cdd36",
+            "size": 133592
           },
           "width": 1086
         },
@@ -2034,8 +2034,8 @@
           "height": 1448,
           "original": {
             "path": "notes/16-今天正常营业吗/original/4_page3.png",
-            "sha256": "ce899892f318c7a49f301607930918f2b179d8cb869a8d8e8724a6ef5ac0790d",
-            "size": 1985262
+            "sha256": "33be2c945d417d224a06398a27153ed2ec1dfe3f16d53fa94e30c97e56c9c93a",
+            "size": 36648
           },
           "source": "【预览图】今天正常营业吗/gemini-preview/4_page3.png",
           "source_sha256": "ce899892f318c7a49f301607930918f2b179d8cb869a8d8e8724a6ef5ac0790d",
@@ -2043,8 +2043,8 @@
             "format": "webp",
             "path": "notes/16-今天正常营业吗/web/4_page3.webp",
             "quality": 82,
-            "sha256": "f626c1170a49691c9ad1bc619480d3e07736fa99e21ae5f044d01436af14ecbe",
-            "size": 84910
+            "sha256": "76b1974915185e957fb30e761a4941c4121863eb74c96925730a3a081176c5c3",
+            "size": 75076
           },
           "width": 1086
         },
@@ -2054,8 +2054,8 @@
           "height": 1448,
           "original": {
             "path": "notes/16-今天正常营业吗/original/5_page4.png",
-            "sha256": "3e030ec0801196f86ef127f6184ea20fa718694bc08c04168db4c4521ef35db0",
-            "size": 1807158
+            "sha256": "b7b9bb22c1a04b6f76c14d2b447a188e0874061ec529a3f499e431677a6fdb38",
+            "size": 38449
           },
           "source": "【预览图】今天正常营业吗/gemini-preview/5_page4.png",
           "source_sha256": "3e030ec0801196f86ef127f6184ea20fa718694bc08c04168db4c4521ef35db0",
@@ -2063,8 +2063,8 @@
             "format": "webp",
             "path": "notes/16-今天正常营业吗/web/5_page4.webp",
             "quality": 82,
-            "sha256": "ce623e664db2250ce9472f95fc96373b9aff7a2175e2e3fe91a644853c8c6240",
-            "size": 88556
+            "sha256": "178187f8801a2ba228f9d1b96f9f73700379e95f4a8374e3ebfd77729ec02210",
+            "size": 73824
           },
           "width": 1086
         }
@@ -2078,7 +2078,7 @@
     },
     {
       "account": "小帮英语",
-      "fingerprint": "930f4e6ea30b8ca4efc87650cfabb824ff54b4acbc4ab94d4fea7ca4e1c849a6",
+      "fingerprint": "4458a966ab2f28c65ec6da3a9ac662fe23bb402ca14c4853f171329da1da1c74",
       "id": "17-现在还能点餐吗",
       "images": [
         {
@@ -2087,8 +2087,8 @@
           "height": 1448,
           "original": {
             "path": "notes/17-现在还能点餐吗/original/1_cover.png",
-            "sha256": "50caca7a5caefccde8f8465d73f7f1b28ab97a6943ad54a427be8a9a8743f636",
-            "size": 2095130
+            "sha256": "e2d8d6fb03916ea6b9192ca03c2993c8e82207e0f0901cca9f07bfa9f0fce8b3",
+            "size": 45899
           },
           "source": "【预览图】现在还能点餐吗/gemini-preview/1_cover.png",
           "source_sha256": "50caca7a5caefccde8f8465d73f7f1b28ab97a6943ad54a427be8a9a8743f636",
@@ -2096,8 +2096,8 @@
             "format": "webp",
             "path": "notes/17-现在还能点餐吗/web/1_cover.webp",
             "quality": 82,
-            "sha256": "824d88bcfb1e86500307b7efa91ebf1b49b28a8234416008a098104f4ae961c0",
-            "size": 104560
+            "sha256": "ae46dfd28decb3f7f99e92ff180f63ef13e704e6507ac787d03ef6e138c118d5",
+            "size": 88038
           },
           "width": 1086
         },
@@ -2107,8 +2107,8 @@
           "height": 1448,
           "original": {
             "path": "notes/17-现在还能点餐吗/original/2_page1.png",
-            "sha256": "b7e26023e87c293553ded9088e80fcc16d4a1fbce77a4d6a1403f8afb65e500b",
-            "size": 1859211
+            "sha256": "ad48f56534a3144ef441a87463be20b75c965f35c37a9c6d885ba6121612794b",
+            "size": 46001
           },
           "source": "【预览图】现在还能点餐吗/gemini-preview/2_page1.png",
           "source_sha256": "b7e26023e87c293553ded9088e80fcc16d4a1fbce77a4d6a1403f8afb65e500b",
@@ -2116,8 +2116,8 @@
             "format": "webp",
             "path": "notes/17-现在还能点餐吗/web/2_page1.webp",
             "quality": 82,
-            "sha256": "170aad5456e41c8a96ea66d846d3f93da7034d29c90a6a55fb43732b08b78226",
-            "size": 103726
+            "sha256": "38844fdcceef4bcbae6ce92d60bb064518d22063e84e3c282905f1ea0c0ad450",
+            "size": 86442
           },
           "width": 1086
         },
@@ -2127,8 +2127,8 @@
           "height": 1448,
           "original": {
             "path": "notes/17-现在还能点餐吗/original/3_page2.png",
-            "sha256": "df7e3912b1365eab7e6ec57bbec725b769c22d74fd68ee03e6ea7a15e1a018e2",
-            "size": 2279458
+            "sha256": "2313f849e885820a168967f5057fb823734775cd554f36a5cb6154cba5f6a2c1",
+            "size": 48742
           },
           "source": "【预览图】现在还能点餐吗/gemini-preview/3_page2.png",
           "source_sha256": "df7e3912b1365eab7e6ec57bbec725b769c22d74fd68ee03e6ea7a15e1a018e2",
@@ -2136,8 +2136,8 @@
             "format": "webp",
             "path": "notes/17-现在还能点餐吗/web/3_page2.webp",
             "quality": 82,
-            "sha256": "2a69952137130b6afa53c3be6dbfbaefd9165bd6b5b952767be654906de50c22",
-            "size": 143510
+            "sha256": "6faa4154c3a7ba3fad4d032bdc3c351e6f1104b59c2377a329bb45f6383f5db6",
+            "size": 94696
           },
           "width": 1086
         },
@@ -2147,8 +2147,8 @@
           "height": 1448,
           "original": {
             "path": "notes/17-现在还能点餐吗/original/4_page3.png",
-            "sha256": "e49e7aca342268df7bbff8b8d7f0b6df767e0bc845574794ac627cbea0bb1127",
-            "size": 1685380
+            "sha256": "4fec05a8e9b8c6f82c0cf1c8319e07ed95e7461a927a50decaa94f5d5dfdcb71",
+            "size": 47555
           },
           "source": "【预览图】现在还能点餐吗/gemini-preview/4_page3.png",
           "source_sha256": "e49e7aca342268df7bbff8b8d7f0b6df767e0bc845574794ac627cbea0bb1127",
@@ -2156,8 +2156,8 @@
             "format": "webp",
             "path": "notes/17-现在还能点餐吗/web/4_page3.webp",
             "quality": 82,
-            "sha256": "61b451f9b9512c669a4781e6696a0b77cfff5f9ce5718f88de9a8b0e6f27f3a0",
-            "size": 115706
+            "sha256": "f5a14effff0d5f74cf9bbd5d56da6f1c7168bb4f974bff9a7d40f928f24f4cb7",
+            "size": 95852
           },
           "width": 1086
         },
@@ -2167,8 +2167,8 @@
           "height": 1448,
           "original": {
             "path": "notes/17-现在还能点餐吗/original/5_page4.png",
-            "sha256": "916f932c933a791296fc94f181fabc5b9b2cf950451878844141848a1866beef",
-            "size": 2187796
+            "sha256": "06c908bf4792b82566a33966603fb6da200b94573af22d57d409a17b0aad99df",
+            "size": 55274
           },
           "source": "【预览图】现在还能点餐吗/gemini-preview/5_page4.png",
           "source_sha256": "916f932c933a791296fc94f181fabc5b9b2cf950451878844141848a1866beef",
@@ -2176,8 +2176,8 @@
             "format": "webp",
             "path": "notes/17-现在还能点餐吗/web/5_page4.webp",
             "quality": 82,
-            "sha256": "3d589638df33be407a3f2e16dd5da5ca94fb8983faa18e5d910a2656ee50859d",
-            "size": 129390
+            "sha256": "97ad78f79e14e3964d9793b993e584513614d897fb50c5e0940a2e93d8521392",
+            "size": 111450
           },
           "width": 1086
         }
@@ -2191,7 +2191,7 @@
     },
     {
       "account": "卖煎饼的司机",
-      "fingerprint": "273acfb7236fec172c78f7730f7713a5d3d49b93eba60ef05e76242e48a3830c",
+      "fingerprint": "43b9c9db5b16c05174b4c07f9cc98a48efbc62fa52010429e571707d4477e2b2",
       "id": "18-家里停水了",
       "images": [
         {
@@ -2200,8 +2200,8 @@
           "height": 1448,
           "original": {
             "path": "notes/18-家里停水了/original/1_cover.png",
-            "sha256": "a8df2b85556f25ff4bcda74f1e26c312eada11ac61363644a1828f1145351793",
-            "size": 1679467
+            "sha256": "1f585f79dda5baf73e0aeaa0d44420d04a8a4dcc833a2be09ba782950bfa58bd",
+            "size": 33803
           },
           "source": "【预览图】家里停水了/gemini-preview/1_cover.png",
           "source_sha256": "a8df2b85556f25ff4bcda74f1e26c312eada11ac61363644a1828f1145351793",
@@ -2209,8 +2209,8 @@
             "format": "webp",
             "path": "notes/18-家里停水了/web/1_cover.webp",
             "quality": 82,
-            "sha256": "8310c7535039ad3bd5e7c4de20f5fb7c5edd3d5da950e9b3a64e0e58f0008f99",
-            "size": 70214
+            "sha256": "a2fe22747025309d6e0e5897e2a480f3a8975ee9d7d7a7d05eea8e7dd92532ab",
+            "size": 64412
           },
           "width": 1086
         },
@@ -2220,8 +2220,8 @@
           "height": 1448,
           "original": {
             "path": "notes/18-家里停水了/original/2_page1.png",
-            "sha256": "7285663cbdf5ec5b185b267688af8a3c2a84c0ba033967e94e105c48baf487f1",
-            "size": 1694638
+            "sha256": "d45e242407d1bd65da434e374fea949ad5bdb8059c977589885d8ab063c1dfe3",
+            "size": 46063
           },
           "source": "【预览图】家里停水了/gemini-preview/2_page1.png",
           "source_sha256": "7285663cbdf5ec5b185b267688af8a3c2a84c0ba033967e94e105c48baf487f1",
@@ -2229,8 +2229,8 @@
             "format": "webp",
             "path": "notes/18-家里停水了/web/2_page1.webp",
             "quality": 82,
-            "sha256": "c8972e68b7feb1e2f910972e8a49aeefdfaf7c13be4b8be0109208f9bf11a2c9",
-            "size": 100172
+            "sha256": "69c81aedd80b1c2f9c01681942eaaad2bb32b942a3e5b24adf46d28228c06dad",
+            "size": 90642
           },
           "width": 1086
         },
@@ -2240,8 +2240,8 @@
           "height": 1448,
           "original": {
             "path": "notes/18-家里停水了/original/3_page2.png",
-            "sha256": "5e2adcd48bd437f9e7b6ac2fb50db2976e8bed6acd965846ad3d727c30ec2047",
-            "size": 1722172
+            "sha256": "27cde8a2ab44e8a44e287b52024ffef2018c32e41d3c8d4a07c0acb0d45fd216",
+            "size": 45607
           },
           "source": "【预览图】家里停水了/gemini-preview/3_page2.png",
           "source_sha256": "5e2adcd48bd437f9e7b6ac2fb50db2976e8bed6acd965846ad3d727c30ec2047",
@@ -2249,8 +2249,8 @@
             "format": "webp",
             "path": "notes/18-家里停水了/web/3_page2.webp",
             "quality": 82,
-            "sha256": "b6180399e0d67931f25e1bda18b4b6663c81df8019fc435ddff3a19dbd0ca5c6",
-            "size": 99386
+            "sha256": "a8eac5a425cf8c8d72512b836207efaf5d19bc5fbd0f9163b4104743846df1fe",
+            "size": 97782
           },
           "width": 1086
         },
@@ -2260,8 +2260,8 @@
           "height": 1448,
           "original": {
             "path": "notes/18-家里停水了/original/4_page3.png",
-            "sha256": "fd8f90bb38ad56f5971cc4fb56d6e6636d7ed1ef394a7f5298a38145acd847fb",
-            "size": 1954494
+            "sha256": "575135bd15045bf437dbc473ac86c6c4eecef86d378fa063e8033c17458074fd",
+            "size": 42823
           },
           "source": "【预览图】家里停水了/gemini-preview/4_page3.png",
           "source_sha256": "fd8f90bb38ad56f5971cc4fb56d6e6636d7ed1ef394a7f5298a38145acd847fb",
@@ -2269,8 +2269,8 @@
             "format": "webp",
             "path": "notes/18-家里停水了/web/4_page3.webp",
             "quality": 82,
-            "sha256": "c3bab83881d657272acb4586d44a8e30114cf3adacdddbe3a3030624a717b6f9",
-            "size": 87926
+            "sha256": "7153833fe0af00820c68ff3640a0fd6a2d1d2695c7ef82acc45d29c0a77d6a8c",
+            "size": 85030
           },
           "width": 1086
         },
@@ -2280,8 +2280,8 @@
           "height": 1448,
           "original": {
             "path": "notes/18-家里停水了/original/5_page4.png",
-            "sha256": "ba6dfe1e9dcd6a937e6513ff04013b3c33700044b777532a688c47253ab16bb8",
-            "size": 1883733
+            "sha256": "48a5a0ad2ae36c578110d9103a4db3e0a2016e1fbcc3d57442fbd38c0269f7ad",
+            "size": 47096
           },
           "source": "【预览图】家里停水了/gemini-preview/5_page4.png",
           "source_sha256": "ba6dfe1e9dcd6a937e6513ff04013b3c33700044b777532a688c47253ab16bb8",
@@ -2289,8 +2289,8 @@
             "format": "webp",
             "path": "notes/18-家里停水了/web/5_page4.webp",
             "quality": 82,
-            "sha256": "9f92df2868931b9c5025084a3d2c5943a70e622ba91eebbf5f6c78087f4b2145",
-            "size": 105128
+            "sha256": "71e7df970dec9c0c186e8505fc41f3ceffb5ed58ed93a1dbfae0826f1a70e6d0",
+            "size": 91222
           },
           "width": 1086
         }
@@ -2304,7 +2304,7 @@
     },
     {
       "account": "卖煎饼的司机",
-      "fingerprint": "3821ad19ec144f3dd0bc3b37bb967a2cbee3112843b15b2fda643499e28bd1b4",
+      "fingerprint": "ad57f445aca5118ad4177de38b2c70228dca70dc52f41ed02249ab5254aa1188",
       "id": "19-家里断网了",
       "images": [
         {
@@ -2313,8 +2313,8 @@
           "height": 1448,
           "original": {
             "path": "notes/19-家里断网了/original/1_cover.png",
-            "sha256": "fb114ef2f6bbc98738687e7e3b9428ce02a9a89067aad29ed40891c3efe3bbe7",
-            "size": 1863185
+            "sha256": "0ccf7619379722b3d4e3363b4b7497658ca3a3b97cd3437e56a33ac7846de416",
+            "size": 48410
           },
           "source": "【预览图】家里断网了/gemini-preview/1_cover.png",
           "source_sha256": "fb114ef2f6bbc98738687e7e3b9428ce02a9a89067aad29ed40891c3efe3bbe7",
@@ -2322,8 +2322,8 @@
             "format": "webp",
             "path": "notes/19-家里断网了/web/1_cover.webp",
             "quality": 82,
-            "sha256": "cb81658247cdd74ca7c3f72896da8f9576f2247153a5d54f9f95d193bc7fc4ab",
-            "size": 115806
+            "sha256": "a3ebadb3caab07b7c0b98d660abc1d76beb2104c4223ac2ade464abaa2629971",
+            "size": 95224
           },
           "width": 1086
         },
@@ -2333,8 +2333,8 @@
           "height": 1448,
           "original": {
             "path": "notes/19-家里断网了/original/2_page1.png",
-            "sha256": "6304511cfb10f4d1f30e271c8f65e17e5f38e05a8843fce479593046f941c346",
-            "size": 2012354
+            "sha256": "e09ffc1dfa621fee7e078fe8451c12da73cb7aeb79fb4a8f9d8b8c6a071b5920",
+            "size": 41485
           },
           "source": "【预览图】家里断网了/gemini-preview/2_page1.png",
           "source_sha256": "6304511cfb10f4d1f30e271c8f65e17e5f38e05a8843fce479593046f941c346",
@@ -2342,8 +2342,8 @@
             "format": "webp",
             "path": "notes/19-家里断网了/web/2_page1.webp",
             "quality": 82,
-            "sha256": "385c37a823c004b6d265a977cbecb605c0b4fb362cd079676f77eac1388bb073",
-            "size": 96664
+            "sha256": "5f833f36dff2a8c5f50c0f0b72aaba251314ee20dbdbd5c73627ea85fbdfe9a2",
+            "size": 84298
           },
           "width": 1086
         },
@@ -2353,8 +2353,8 @@
           "height": 1448,
           "original": {
             "path": "notes/19-家里断网了/original/3_page2.png",
-            "sha256": "fd755803963ab127339ebb2443f9fc30e9f3cb0858da9243ace433899d02b993",
-            "size": 1721690
+            "sha256": "b813d025816ad9d36aac931a944ef5aa95b64bfb4add0a6f2bfc1cbb4489226b",
+            "size": 53553
           },
           "source": "【预览图】家里断网了/gemini-preview/3_page2.png",
           "source_sha256": "fd755803963ab127339ebb2443f9fc30e9f3cb0858da9243ace433899d02b993",
@@ -2362,8 +2362,8 @@
             "format": "webp",
             "path": "notes/19-家里断网了/web/3_page2.webp",
             "quality": 82,
-            "sha256": "a734a9d3d11f74c5b8d25a8372bd98cf4472e24453163d38c779e209ad867129",
-            "size": 101126
+            "sha256": "f76bbde36dd07c24318e98faa7d0435f0a4e0c3826c95924ecb4db9bded6b15a",
+            "size": 108472
           },
           "width": 1086
         },
@@ -2373,8 +2373,8 @@
           "height": 1448,
           "original": {
             "path": "notes/19-家里断网了/original/4_page3.png",
-            "sha256": "68efdc1ca3a14a0ecd2fa8f686989374aa25e6ee4d40ce0c133c070c1b29bb0b",
-            "size": 1736803
+            "sha256": "7a85593649c50b02fed4f1dabb88c990e16275f0af1a87e63c0d52f5ebf4ffb7",
+            "size": 46911
           },
           "source": "【预览图】家里断网了/gemini-preview/4_page3.png",
           "source_sha256": "68efdc1ca3a14a0ecd2fa8f686989374aa25e6ee4d40ce0c133c070c1b29bb0b",
@@ -2382,8 +2382,8 @@
             "format": "webp",
             "path": "notes/19-家里断网了/web/4_page3.webp",
             "quality": 82,
-            "sha256": "9375b60e1f70e7d7981e2351e44204372ff1dcca1de33079349ba4851973cc97",
-            "size": 95250
+            "sha256": "1a6e4f824c44ecfe93792d98d5c7bd93cf0d029701101f122adf887189fe25db",
+            "size": 89088
           },
           "width": 1086
         },
@@ -2393,8 +2393,8 @@
           "height": 1448,
           "original": {
             "path": "notes/19-家里断网了/original/5_page4.png",
-            "sha256": "214f0b62618ab040f1b2ddfb97e2bb89b0a72d7fa6364dd835880c5eab2bb247",
-            "size": 2144135
+            "sha256": "d47941c2deeebbfe2e8ce788daaff1620d3ba249ca34c2d44885753479aabf04",
+            "size": 79840
           },
           "source": "【预览图】家里断网了/gemini-preview/5_page4.png",
           "source_sha256": "214f0b62618ab040f1b2ddfb97e2bb89b0a72d7fa6364dd835880c5eab2bb247",
@@ -2402,8 +2402,8 @@
             "format": "webp",
             "path": "notes/19-家里断网了/web/5_page4.webp",
             "quality": 82,
-            "sha256": "a6cb7afe557f5df458c240b33ad8a1131d11336605af631784695269a5b170e6",
-            "size": 136522
+            "sha256": "7a88516b3e0a7e19c163bb3ffb5a811f9a3d327cd0923f62ce95d9eaae86af73",
+            "size": 148518
           },
           "width": 1086
         }
@@ -2417,7 +2417,7 @@
     },
     {
       "account": "卖煎饼的司机",
-      "fingerprint": "669fbe78e90dee74bbc68c43f1d4f5db1f2451dd838d273b849cecfc8d3404a3",
+      "fingerprint": "da4d1ec3a55a0dcae7e8d0a25be2e0f2a3576838f9aa0aafc9d1102f04723e89",
       "id": "20-这个插座没电",
       "images": [
         {
@@ -2426,8 +2426,8 @@
           "height": 1448,
           "original": {
             "path": "notes/20-这个插座没电/original/1_cover.png",
-            "sha256": "531d9d8416667046589accfbf503e156442df1ec271cb9ee9a3812b040e38625",
-            "size": 2075558
+            "sha256": "ba98fd72f12d3b142066e9f4e01db99b6d7ea02524649448e67ab76c945a9ae3",
+            "size": 40104
           },
           "source": "【预览图】这个插座没电/gemini-preview/1_cover.png",
           "source_sha256": "531d9d8416667046589accfbf503e156442df1ec271cb9ee9a3812b040e38625",
@@ -2435,8 +2435,8 @@
             "format": "webp",
             "path": "notes/20-这个插座没电/web/1_cover.webp",
             "quality": 82,
-            "sha256": "425370f6e0a3363065da45e2c808cf2abe0491d0371de6dc40296d63f9026334",
-            "size": 94110
+            "sha256": "2b231b6773bd6bbba62322fd75ec4a3ad396b1583b23bd3da5cdb34dbf92f194",
+            "size": 77080
           },
           "width": 1086
         },
@@ -2446,8 +2446,8 @@
           "height": 1448,
           "original": {
             "path": "notes/20-这个插座没电/original/2_page1.png",
-            "sha256": "45aae88326eeca967021e16da02cd935af55e752df1a2e4d26fb9905efd9297c",
-            "size": 2066302
+            "sha256": "ebde5305157b4b52496622a0b8110366cc00fd4b7b713d7b7b4690e53f16f0d4",
+            "size": 54838
           },
           "source": "【预览图】这个插座没电/gemini-preview/2_page1.png",
           "source_sha256": "45aae88326eeca967021e16da02cd935af55e752df1a2e4d26fb9905efd9297c",
@@ -2455,8 +2455,8 @@
             "format": "webp",
             "path": "notes/20-这个插座没电/web/2_page1.webp",
             "quality": 82,
-            "sha256": "96b5c527177909004bd1f8b32db1ad4b4f02834ce497cf741fbff01a3ba3edab",
-            "size": 88138
+            "sha256": "88643fe9db66681c34a16eee7fa0f2ba4b35cac5b9081e1e4cee5b36dd16718d",
+            "size": 107752
           },
           "width": 1086
         },
@@ -2466,8 +2466,8 @@
           "height": 1448,
           "original": {
             "path": "notes/20-这个插座没电/original/3_page2.png",
-            "sha256": "b76037559ed79cd36d1f28d73153d1f182b05ffdea36596695f8e724b60c6251",
-            "size": 1974192
+            "sha256": "546a733168129c3687c47e1d02fa1c293a9115691d44366c914915bf3581d2e1",
+            "size": 56301
           },
           "source": "【预览图】这个插座没电/gemini-preview/3_page2.png",
           "source_sha256": "b76037559ed79cd36d1f28d73153d1f182b05ffdea36596695f8e724b60c6251",
@@ -2475,8 +2475,8 @@
             "format": "webp",
             "path": "notes/20-这个插座没电/web/3_page2.webp",
             "quality": 82,
-            "sha256": "4caeaed356ec45a70625ad6ed9d98b17952b5475a58c67fd1394ce88494c936e",
-            "size": 109080
+            "sha256": "03f2ce9c6bf85f627d0202d5ed78b4c301577879a007dabfd7252e2d0184384a",
+            "size": 104712
           },
           "width": 1086
         },
@@ -2486,8 +2486,8 @@
           "height": 1448,
           "original": {
             "path": "notes/20-这个插座没电/original/4_page3.png",
-            "sha256": "3d9baa66e830c27b34d687290545a62d6fbfce0b60b2da54132cefa5779e3f50",
-            "size": 1918530
+            "sha256": "2d0f7267d42415b49153e26907d85d3d6e0099c787505f5a2ca8c5f547b17932",
+            "size": 37873
           },
           "source": "【预览图】这个插座没电/gemini-preview/4_page3.png",
           "source_sha256": "3d9baa66e830c27b34d687290545a62d6fbfce0b60b2da54132cefa5779e3f50",
@@ -2495,8 +2495,8 @@
             "format": "webp",
             "path": "notes/20-这个插座没电/web/4_page3.webp",
             "quality": 82,
-            "sha256": "b7292359d3df9fcc1b6d42f01092c7ce528872b10b850641d85156893f4234ff",
-            "size": 83018
+            "sha256": "00fe8eb7f594a2c20281e923dfd271f0ef6c3c6490a7d5e21a55d433f6587e50",
+            "size": 72942
           },
           "width": 1086
         },
@@ -2506,8 +2506,8 @@
           "height": 1448,
           "original": {
             "path": "notes/20-这个插座没电/original/5_page4.png",
-            "sha256": "b4efd7da773a010f9c43c8a74033b795e05e6ac88241bf80c394fad07ff09adc",
-            "size": 2146921
+            "sha256": "187b57b071dba913fa4f9f2dd595a8f00935cf74fb3746a7931e7beaaf1caddc",
+            "size": 68795
           },
           "source": "【预览图】这个插座没电/gemini-preview/5_page4.png",
           "source_sha256": "b4efd7da773a010f9c43c8a74033b795e05e6ac88241bf80c394fad07ff09adc",
@@ -2515,8 +2515,8 @@
             "format": "webp",
             "path": "notes/20-这个插座没电/web/5_page4.webp",
             "quality": 82,
-            "sha256": "40590e900733493a7ea3f29186ed31e058a31968975acd0e8048a258f4a3300b",
-            "size": 132072
+            "sha256": "426cbf467115823e0e77697a57c525eac3f35ec07d6d07095e3b7c14b5d72295",
+            "size": 136928
           },
           "width": 1086
         }
@@ -2530,7 +2530,7 @@
     },
     {
       "account": "卖煎饼的司机",
-      "fingerprint": "28f1fe4abb4d9238c2f4f4a777fc4c64fa5ae1964ae834fbe3df54c7d6d75e33",
+      "fingerprint": "5022bef01bce833dc5adad327338a5cedee60c1ea30d3a0109d138eaf43cf80d",
       "id": "21-暖气停了",
       "images": [
         {
@@ -2539,8 +2539,8 @@
           "height": 1448,
           "original": {
             "path": "notes/21-暖气停了/original/1_cover.png",
-            "sha256": "0d69fd732d93faa7eb71cdf5c950a0d672c2d8b72425fdf1f076eb6f0e79229c",
-            "size": 1951050
+            "sha256": "eff28a9a401c3af6807cbfda14a0cbe6ebbb6fac898930f2ddfbe8063239a12a",
+            "size": 54702
           },
           "source": "【预览图】暖气停了/gemini-preview/1_cover.png",
           "source_sha256": "0d69fd732d93faa7eb71cdf5c950a0d672c2d8b72425fdf1f076eb6f0e79229c",
@@ -2548,8 +2548,8 @@
             "format": "webp",
             "path": "notes/21-暖气停了/web/1_cover.webp",
             "quality": 82,
-            "sha256": "c954dfa7f16d21af722345435a266dc62000b96deb3f9622c242da4dd1f9176a",
-            "size": 127906
+            "sha256": "bec2f10b2768c9ab1ef7efe3ef75c7fca7971a0ae27db8262cdd83c98363093f",
+            "size": 107484
           },
           "width": 1086
         },
@@ -2559,8 +2559,8 @@
           "height": 1448,
           "original": {
             "path": "notes/21-暖气停了/original/2_page1.png",
-            "sha256": "fe1dfd898790b83cdbc5f062e7ead7913b90cf9c5da756659bc3ac648ba38c73",
-            "size": 2297490
+            "sha256": "ad78beeccabaf741438bfb948f77b0bb9a4e3756e2888898db4ef7c5e74952b4",
+            "size": 53870
           },
           "source": "【预览图】暖气停了/gemini-preview/2_page1.png",
           "source_sha256": "fe1dfd898790b83cdbc5f062e7ead7913b90cf9c5da756659bc3ac648ba38c73",
@@ -2568,8 +2568,8 @@
             "format": "webp",
             "path": "notes/21-暖气停了/web/2_page1.webp",
             "quality": 82,
-            "sha256": "2728b444d687df72be37ca201fd1e258b0623a3bbb38468f60cb940236094864",
-            "size": 125528
+            "sha256": "8cfc5fae4319103b9ea146b7f280c73b961c554dd82514694ac44029ee66f748",
+            "size": 107488
           },
           "width": 1086
         },
@@ -2579,8 +2579,8 @@
           "height": 1448,
           "original": {
             "path": "notes/21-暖气停了/original/3_page2.png",
-            "sha256": "873d6471c9533d0b3a8d5572a7135368864ae3e1f21746b6332acf8dc6205387",
-            "size": 1825008
+            "sha256": "e7dc836f401efef9e59e1a9298742ef377ff41982c26730861079832577a92aa",
+            "size": 52178
           },
           "source": "【预览图】暖气停了/gemini-preview/3_page2.png",
           "source_sha256": "873d6471c9533d0b3a8d5572a7135368864ae3e1f21746b6332acf8dc6205387",
@@ -2588,8 +2588,8 @@
             "format": "webp",
             "path": "notes/21-暖气停了/web/3_page2.webp",
             "quality": 82,
-            "sha256": "b8a6a59d8560dd2d6b364ac99c375a4c5311c2d1d6a2b79ccf787c56a0a6d6bc",
-            "size": 98040
+            "sha256": "17727da76a687383046916e32316ccd70908fea6b1d1858708d44d49b0446a51",
+            "size": 98022
           },
           "width": 1086
         },
@@ -2599,8 +2599,8 @@
           "height": 1448,
           "original": {
             "path": "notes/21-暖气停了/original/4_page3.png",
-            "sha256": "a854a2ca381ce0c6ed5f121eefba70c09e406a970fbe184da6fb9a5d055422db",
-            "size": 1928882
+            "sha256": "1ead19dd02766316efaeeec428190bdb45ae607d16eedd08d0d394c847b3e4b7",
+            "size": 55628
           },
           "source": "【预览图】暖气停了/gemini-preview/4_page3.png",
           "source_sha256": "a854a2ca381ce0c6ed5f121eefba70c09e406a970fbe184da6fb9a5d055422db",
@@ -2608,8 +2608,8 @@
             "format": "webp",
             "path": "notes/21-暖气停了/web/4_page3.webp",
             "quality": 82,
-            "sha256": "e6a53563d1a479e6c1705ecbec4ed0fb1b444e8eadc0114ecae009de776ce701",
-            "size": 117606
+            "sha256": "02d8d339e55c8052abaa4f97ae5b568cdf2f5c759dcbbfee9a12c0c44056dd54",
+            "size": 116052
           },
           "width": 1086
         },
@@ -2619,8 +2619,8 @@
           "height": 1448,
           "original": {
             "path": "notes/21-暖气停了/original/5_page4.png",
-            "sha256": "cdcc59d9ee96bd3b2112d82e926b45e8d39d22e8131fb0558eb4da3c302012dc",
-            "size": 1857529
+            "sha256": "42cda378bfc794a5429b04187a3164ca919120fc56b9038a79d9b2726de84896",
+            "size": 51845
           },
           "source": "【预览图】暖气停了/gemini-preview/5_page4.png",
           "source_sha256": "cdcc59d9ee96bd3b2112d82e926b45e8d39d22e8131fb0558eb4da3c302012dc",
@@ -2628,8 +2628,8 @@
             "format": "webp",
             "path": "notes/21-暖气停了/web/5_page4.webp",
             "quality": 82,
-            "sha256": "b59eabde56c71f65f0e62c9797e81a6e6ab9162580bdeddc41bb41e98a8175e8",
-            "size": 112620
+            "sha256": "bd2a75c0c1ddd7d3f435d4514bdbc59f8fdc393db352de6452a79e7dad6d9a28",
+            "size": 105088
           },
           "width": 1086
         }
@@ -2643,7 +2643,7 @@
     },
     {
       "account": "卖煎饼的司机",
-      "fingerprint": "15bf9c2821c36080a6f880f78d08def8866cc346e5e76573d47e2ea326e7fb05",
+      "fingerprint": "e81f2c146fa4492296907cbf0b83582d90e5fc2d44c2d92ce74023de201579d3",
       "id": "22-家里煤气停了",
       "images": [
         {
@@ -2652,8 +2652,8 @@
           "height": 1448,
           "original": {
             "path": "notes/22-家里煤气停了/original/1_cover.png",
-            "sha256": "6b59875b2111697adb02648ecebddd84313ea0120f08eac36935e5d02f0b059a",
-            "size": 1896127
+            "sha256": "939b3254ff4e8aaabb2eb23f672dd9ef611911e6f3e3c50bd6dd25612581e028",
+            "size": 40633
           },
           "source": "【预览图】家里煤气停了/gemini-preview/1_cover.png",
           "source_sha256": "6b59875b2111697adb02648ecebddd84313ea0120f08eac36935e5d02f0b059a",
@@ -2661,8 +2661,8 @@
             "format": "webp",
             "path": "notes/22-家里煤气停了/web/1_cover.webp",
             "quality": 82,
-            "sha256": "64523e15a1d96c350360124091e5248ace834df8edfb5f872fb56dd309c1e046",
-            "size": 96030
+            "sha256": "7a00e68c20cd9613f1d13da3b8b65df88a1f9851fdd9e0ec5b38fda28b5f0c76",
+            "size": 79974
           },
           "width": 1086
         },
@@ -2672,8 +2672,8 @@
           "height": 1448,
           "original": {
             "path": "notes/22-家里煤气停了/original/2_page1.png",
-            "sha256": "afbfe9f6a07f4fd78c250b8698f3eddd9b754b22dfd95390911d87fada6b79e9",
-            "size": 1757674
+            "sha256": "57ba7dafd7ed23ba8c248c720a6c4c1df4370660187fce5f37d089d332731440",
+            "size": 39984
           },
           "source": "【预览图】家里煤气停了/gemini-preview/2_page1.png",
           "source_sha256": "afbfe9f6a07f4fd78c250b8698f3eddd9b754b22dfd95390911d87fada6b79e9",
@@ -2681,8 +2681,8 @@
             "format": "webp",
             "path": "notes/22-家里煤气停了/web/2_page1.webp",
             "quality": 82,
-            "sha256": "ac231fa5c6bdbcfb196939bf1f546f011cd22e376abef50ea982170724c8ac5a",
-            "size": 107544
+            "sha256": "284fef03c5d99d72a85df3ab7c2e13115576771dac0f8672ce5a1e4238b44513",
+            "size": 85260
           },
           "width": 1086
         },
@@ -2692,8 +2692,8 @@
           "height": 1448,
           "original": {
             "path": "notes/22-家里煤气停了/original/3_page2.png",
-            "sha256": "fc919470344feb183389acb54ddf74c366b2a16d4da2290a7c0d21c0624bd957",
-            "size": 1896757
+            "sha256": "179a4f7cdf04cd19333caa1245e95a0bca0b1aa10a8c514f86bc86a530326091",
+            "size": 39122
           },
           "source": "【预览图】家里煤气停了/gemini-preview/3_page2.png",
           "source_sha256": "fc919470344feb183389acb54ddf74c366b2a16d4da2290a7c0d21c0624bd957",
@@ -2701,8 +2701,8 @@
             "format": "webp",
             "path": "notes/22-家里煤气停了/web/3_page2.webp",
             "quality": 82,
-            "sha256": "77b69c47ca93fd09a59aa0a1aa9e35ea61cb10fa8f880d3cfba4fc9882cd51ec",
-            "size": 90346
+            "sha256": "101a67ee0b5eca2d3c77f9eb58d6f6915594de81355b66ecb9bc1521c43f8ca5",
+            "size": 82352
           },
           "width": 1086
         },
@@ -2712,8 +2712,8 @@
           "height": 1448,
           "original": {
             "path": "notes/22-家里煤气停了/original/4_page3.png",
-            "sha256": "fbe06857567da473a23827ab20dc7015939104f1beaf6a1a818d4d0ed8fba8b9",
-            "size": 2140674
+            "sha256": "e58af0dd72ab25ec7e8fe8d94308e2394c57ebd6bb28b29fb4db8ac5cfbbeed5",
+            "size": 40412
           },
           "source": "【预览图】家里煤气停了/gemini-preview/4_page3.png",
           "source_sha256": "fbe06857567da473a23827ab20dc7015939104f1beaf6a1a818d4d0ed8fba8b9",
@@ -2721,8 +2721,8 @@
             "format": "webp",
             "path": "notes/22-家里煤气停了/web/4_page3.webp",
             "quality": 82,
-            "sha256": "f17e32ae8f8320abd3199122db4f3db3ea00e8da2a81b199bc3c9b2af29ab979",
-            "size": 99452
+            "sha256": "7ae73b65e8bfed6dd45225dbb72927da46f7117157fe2a31489290dbb2f4bb36",
+            "size": 81692
           },
           "width": 1086
         },
@@ -2732,8 +2732,8 @@
           "height": 1448,
           "original": {
             "path": "notes/22-家里煤气停了/original/5_page4.png",
-            "sha256": "7fb7398e5bb1b1c486573cc1be34f908df19cbac7fdd38ed2755b0424d5d3a9f",
-            "size": 2055149
+            "sha256": "61c0aa0cc7d8a6305bedcf62ece029756cb6e87979c83d1cb339eb1b6dd72a28",
+            "size": 39563
           },
           "source": "【预览图】家里煤气停了/gemini-preview/5_page4.png",
           "source_sha256": "7fb7398e5bb1b1c486573cc1be34f908df19cbac7fdd38ed2755b0424d5d3a9f",
@@ -2741,8 +2741,8 @@
             "format": "webp",
             "path": "notes/22-家里煤气停了/web/5_page4.webp",
             "quality": 82,
-            "sha256": "b6e905d5cd93dfe793ac86888894bfa840fcfb345a947d158b13ab4f550bb31f",
-            "size": 98432
+            "sha256": "e84f6ffec6a8e4bfcb24b6f9a19875bcd90ba0857ae3568387fa58dcd1c65404",
+            "size": 84212
           },
           "width": 1086
         }
@@ -2755,7 +2755,7 @@
       "title": "家里没煤气，怎么安全报修？"
     }
   ],
-  "output_digest": "3bf68e56364f16e2cf53506bd20bed3d43483806863cb200fcf02461f5818615",
+  "output_digest": "e7267c20599dea829a66fe7750da117a5b656c92e8234c89731f175034a21388",
   "pruned_files": [],
   "schema_version": 1,
   "site": {
@@ -2771,10 +2771,10 @@
   },
   "source_root_hint": "小红书轮播图",
   "totals": {
-    "images": 110,
     "notes": 22,
-    "original_bytes": 192141802,
-    "savings_percent": 93.9371964461955,
-    "webp_bytes": 11649180
+    "images": 110,
+    "original_bytes": 78081543,
+    "webp_bytes": 11013684,
+    "savings_percent": 85.89463837824005
   }
 }
