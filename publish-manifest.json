@@ -2,15 +2,26 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "3b8dea147a705b78b3c6cb49d0a0217bced22370521599a3f000633cb32f4045",
-    "publish-history.jsonl": "08dedb6a20a31f1c0d2b8cd049d9fe6a23d2ecab873e99bef9af56246a961d0a",
-    "publish-report.md": "28b050edba98da2c239c9abbdc3f44641e1262f35f079ca4d92851632b89b058"
+    "index.html": "eef739d620290ed9835f7d8b399cfd659f44101ce98acdefccb8407167cb89d7",
+    "publish-history.jsonl": "af75826ab5463c5854b3e3d5adb53507684543d3113bbbe21f8e85703a4c7ce2",
+    "publish-report.md": "45ffeafffa278c35f7c3c1b6e8d83223987687ee5454d167fa9971366d472c69"
   },
   "changes": {
-    "added": [],
-    "changed": [
+    "added": [
+      "23-别插队"
+    ],
+    "changed": [],
+    "removed": [],
+    "unchanged": [
+      "01-外卖少了一样",
+      "02-可以少放辣吗",
+      "03-今天几点关门",
+      "04-你周末有空吗",
       "05-我想查物流",
       "06-我家停电了",
+      "07-文件打不开",
+      "08-有大一号吗",
+      "09-需要预约维修",
       "10-预约剪头发",
       "11-可以少放点油吗",
       "12-可以少放点盐吗",
@@ -24,19 +35,9 @@
       "20-这个插座没电",
       "21-暖气停了",
       "22-家里煤气停了"
-    ],
-    "removed": [],
-    "unchanged": [
-      "01-外卖少了一样",
-      "02-可以少放辣吗",
-      "03-今天几点关门",
-      "04-你周末有空吗",
-      "07-文件打不开",
-      "08-有大一号吗",
-      "09-需要预约维修"
     ]
   },
-  "generated_at": "2026-08-23T03:41:12.343422Z",
+  "generated_at": "2026-09-02T09:50:48Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
@@ -263,10 +264,19 @@
     "notes/22-家里煤气停了/web/5_page4.webp",
     "publish-history.jsonl",
     "publish-manifest.json",
-    "publish-report.md"
+    "publish-report.md",
+    "notes/23-别插队/original/1_cover.png",
+    "notes/23-别插队/original/2_page1.png",
+    "notes/23-别插队/original/3_page2.png",
+    "notes/23-别插队/original/4_page3.png",
+    "notes/23-别插队/original/5_page4.png",
+    "notes/23-别插队/web/1_cover.webp",
+    "notes/23-别插队/web/2_page1.webp",
+    "notes/23-别插队/web/3_page2.webp",
+    "notes/23-别插队/web/4_page3.webp",
+    "notes/23-别插队/web/5_page4.webp"
   ],
   "generator_version": "1.0.0",
-  "history_record_appended": false,
   "notes": [
     {
       "account": "小帮英语",
@@ -2753,10 +2763,122 @@
       "status": "待发布",
       "style": "GoodNotes：iPad 手写学习笔记风，极简封面，内页中英对照。",
       "title": "家里没煤气，怎么安全报修？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "6ccabbab3062f5b6a4b2da66d3fb3dac508fa909aa70328a0aaf9a90e45d2053",
+      "id": "23-别插队",
+      "images": [
+        {
+          "alt": "前面有人插队｜怎么礼貌提醒？",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/23-别插队/original/1_cover.png",
+            "sha256": "31a892d725c6abf644fb6fa7099b0cbff37d081b8d87267dc21a6053817d7718",
+            "size": 1344145
+          },
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】别插队/gemini-preview/1_cover.png",
+          "source_sha256": "31a892d725c6abf644fb6fa7099b0cbff37d081b8d87267dc21a6053817d7718",
+          "web": {
+            "format": "webp",
+            "path": "notes/23-别插队/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "284d62d931be5aa00ab68d41148d5c99b64de9f248c376e54b44236c087d1b92",
+            "size": 75594
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说明队伍在哪",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/23-别插队/original/2_page1.png",
+            "sha256": "5764ab9116ac9149fc6c840a301b7c6a2c4cb21cda67b334e3e69ce71c30d4d3",
+            "size": 1187779
+          },
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】别插队/gemini-preview/2_page1.png",
+          "source_sha256": "5764ab9116ac9149fc6c840a301b7c6a2c4cb21cda67b334e3e69ce71c30d4d3",
+          "web": {
+            "format": "webp",
+            "path": "notes/23-别插队/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "28246cd8f2f33ac35a9bd47bc40ea755042df8f58ff9bcce41a32bd2896a38ca",
+            "size": 69394
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先给对方台阶",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/23-别插队/original/3_page2.png",
+            "sha256": "5b353095d56929b0ff8c0c38a7bae4109a83c4f1191602c027cbc8bac5e18e1f",
+            "size": 1432856
+          },
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】别插队/gemini-preview/3_page2.png",
+          "source_sha256": "5b353095d56929b0ff8c0c38a7bae4109a83c4f1191602c027cbc8bac5e18e1f",
+          "web": {
+            "format": "webp",
+            "path": "notes/23-别插队/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "25e43fddfe2f6c9633ef7fbd0e1112fd3951b2b4446b9b0f4f5452307bdc549a",
+            "size": 77916
+          },
+          "width": 1086
+        },
+        {
+          "alt": "对方还不排队",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/23-别插队/original/4_page3.png",
+            "sha256": "a2d0c574523db90d9ef0508f89aece2a757300992273cb316cf94ec76cec2d63",
+            "size": 1565553
+          },
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】别插队/gemini-preview/4_page3.png",
+          "source_sha256": "a2d0c574523db90d9ef0508f89aece2a757300992273cb316cf94ec76cec2d63",
+          "web": {
+            "format": "webp",
+            "path": "notes/23-别插队/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "e37d0015c858df790f58667458d3a0c72f18ed5a04fb4b321f7c6c8f184e1ce6",
+            "size": 81956
+          },
+          "width": 1086
+        },
+        {
+          "alt": "小对话直接用",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/23-别插队/original/5_page4.png",
+            "sha256": "5572a6d0ef9e49534d810b417e68424cc3a501808537cb9645434a47da75c37a",
+            "size": 1207046
+          },
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】别插队/gemini-preview/5_page4.png",
+          "source_sha256": "5572a6d0ef9e49534d810b417e68424cc3a501808537cb9645434a47da75c37a",
+          "web": {
+            "format": "webp",
+            "path": "notes/23-别插队/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "d4bdb6ccb1586a599dcbb148bd00d2bad7e1fec490cca28897ffceac9534f7a6",
+            "size": 102292
+          },
+          "width": 1086
+        }
+      ],
+      "order": 23,
+      "source_note": "obsidian-notes/社媒/小红书轮播图/【预览图】别插队/别插队_xhs.md",
+      "source_note_sha256": "7c462ae035a798a3e13af74a1f4e234ca1a88bb5882abe3a1007dba906e9f40a",
+      "status": "待发布",
+      "style": "Mixed：封面用小黑手绘呈现排队冲突，内页用 GoodNotes 拆解礼貌提醒和短对话。",
+      "title": "别插队，英语怎么礼貌说？"
     }
   ],
-  "output_digest": "4cb11aef3049206fd6126ebae46b03d6967f1bb43965e08df4c25d3707a6a1fb",
-  "pruned_files": [],
+  "output_digest": "0f18ed32b02cee820888f01c59eab8170b8856eac1ef093324c1b61f012c3d25",
   "schema_version": 1,
   "site": {
     "accent": "#c44536",
@@ -2766,15 +2888,15 @@
     "access_gate": true,
     "pages_url": "https://passmetheplay.github.io/xhs-english-notes-deploy/",
     "repository_url": "https://github.com/passmetheplay/xhs-english-notes-deploy",
-    "subtitle": "爆款母题扩展 · 22 篇 · 2026-08-12",
-    "title": "小红书英语口语｜22 篇生活高频合集"
+    "subtitle": "爆款母题扩展 · 23 篇 · 2026-09-02",
+    "title": "小红书英语口语｜23 篇生活高频合集"
   },
   "source_root_hint": "小红书轮播图",
   "totals": {
-    "images": 110,
-    "notes": 22,
-    "original_bytes": 141292741,
-    "savings_percent": 92.67260446168285,
-    "webp_bytes": 10353078
+    "images": 115,
+    "notes": 23,
+    "original_bytes": 148030120,
+    "savings_percent": 92.73105365313492,
+    "webp_bytes": 10760230
   }
 }
