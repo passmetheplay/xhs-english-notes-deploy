@@ -2,35 +2,35 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "ea2eba5310bb53734a8222c41deff19b8b535c99188f0008182b6489a1202309",
-    "publish-history.jsonl": "019c9c176c1791b37cefee0f36b25789bc5a83bea35f5ea4f1d9b077dd20c710",
-    "publish-report.md": "478e39752195ecdce790632b6b15120eb207c7bef2185deb79ad6f77a3517098"
+    "index.html": "51699f6b6315f07e82eab5ec7628e99530c90e98966ade2ed2192bf1445e0b44",
+    "publish-history.jsonl": "1223e8629377d43c5fa1f706d8377360ba19ba144c6f7e508d686fc94cd703e3",
+    "publish-report.md": "5abc228a813d588fc0667bfee54ef4165d9a50b407bda28ad0accc3379e15eb8"
   },
   "changes": {
     "added": [
-      "01-先听我说完"
+      "01-你接着说"
     ],
     "changed": [],
     "removed": [
-      "23-别插队"
+      "01-先听我说完"
     ],
     "unchanged": []
   },
-  "generated_at": "2026-09-03T07:11:22Z",
+  "generated_at": "2026-09-03T07:32:40Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
     "index.html",
-    "notes/01-先听我说完/original/1_cover.png",
-    "notes/01-先听我说完/original/2_page1.png",
-    "notes/01-先听我说完/original/3_page2.png",
-    "notes/01-先听我说完/original/4_page3.png",
-    "notes/01-先听我说完/original/5_page4.png",
-    "notes/01-先听我说完/web/1_cover.webp",
-    "notes/01-先听我说完/web/2_page1.webp",
-    "notes/01-先听我说完/web/3_page2.webp",
-    "notes/01-先听我说完/web/4_page3.webp",
-    "notes/01-先听我说完/web/5_page4.webp",
+    "notes/01-你接着说/original/1_cover.png",
+    "notes/01-你接着说/original/2_page1.png",
+    "notes/01-你接着说/original/3_page2.png",
+    "notes/01-你接着说/original/4_page3.png",
+    "notes/01-你接着说/original/5_page4.png",
+    "notes/01-你接着说/web/1_cover.webp",
+    "notes/01-你接着说/web/2_page1.webp",
+    "notes/01-你接着说/web/3_page2.webp",
+    "notes/01-你接着说/web/4_page3.webp",
+    "notes/01-你接着说/web/5_page4.webp",
     "publish-history.jsonl",
     "publish-manifest.json",
     "publish-report.md"
@@ -40,130 +40,130 @@
   "notes": [
     {
       "account": "小帮英语",
-      "fingerprint": "a970c251603f2214d93aee86a9bb5813da79ea0bde7bd73484b1afe5806fbecb",
-      "id": "01-先听我说完",
+      "fingerprint": "4f389c4f7c204369e8b078574a1f806a88c340cd4a5384964dc16113046128cc",
+      "id": "01-你接着说",
       "images": [
         {
-          "alt": "朋友总打断，怎么说“先听我说完”？",
+          "alt": "朋友话说一半，怎么说“你接着说”？",
           "filename": "1_cover.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-先听我说完/original/1_cover.png",
-            "sha256": "356ef1de0bfc9e3efe71db77d4bed5538fdd712ed69659188c6030ecf6cd0564",
-            "size": 1342858
+            "path": "notes/01-你接着说/original/1_cover.png",
+            "sha256": "31950810ea5f92bf6e78442e986eb87e0f3b9eae847b4cec1c5ff1b84d316b0a",
+            "size": 1231717
           },
-          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】先听我说完/gemini-preview/1_cover.png",
-          "source_sha256": "356ef1de0bfc9e3efe71db77d4bed5538fdd712ed69659188c6030ecf6cd0564",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】你接着说/gemini-preview/1_cover.png",
+          "source_sha256": "31950810ea5f92bf6e78442e986eb87e0f3b9eae847b4cec1c5ff1b84d316b0a",
           "web": {
             "format": "webp",
-            "path": "notes/01-先听我说完/web/1_cover.webp",
+            "path": "notes/01-你接着说/web/1_cover.webp",
             "quality": 82,
-            "sha256": "d8cac64d7b0b3c741140d3f7b059a943f4867d2a77ce597d45c3c2461f5d7827",
-            "size": 60806
+            "sha256": "ad8c55e79fd0a20253f31ddd3d8828d34bf8906656ff7d272ad89c55b70ba059",
+            "size": 74998
           },
           "width": 1086
         },
         {
-          "alt": "最直接又礼貌",
+          "alt": "最自然的简短回应",
           "filename": "2_page1.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-先听我说完/original/2_page1.png",
-            "sha256": "94b15ea0808eb752cb5c6fda5ee814296188fe153a8d67c8690c6964c50509a0",
-            "size": 1294304
+            "path": "notes/01-你接着说/original/2_page1.png",
+            "sha256": "af94dce78caa8827474df6681463b1f80287f7bfb5b231f232f384e512b1bb0a",
+            "size": 1099078
           },
-          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】先听我说完/gemini-preview/2_page1.png",
-          "source_sha256": "94b15ea0808eb752cb5c6fda5ee814296188fe153a8d67c8690c6964c50509a0",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】你接着说/gemini-preview/2_page1.png",
+          "source_sha256": "af94dce78caa8827474df6681463b1f80287f7bfb5b231f232f384e512b1bb0a",
           "web": {
             "format": "webp",
-            "path": "notes/01-先听我说完/web/2_page1.webp",
+            "path": "notes/01-你接着说/web/2_page1.webp",
             "quality": 82,
-            "sha256": "764f89fc2b6f0463b705e15ffabe6db7903e7192ebc2049cece20b336c0f12e2",
-            "size": 51060
+            "sha256": "27f03d1ff4523fd3f1adcacc8d544bc12ce3eda7dc908348ca66813368c148b3",
+            "size": 78304
           },
           "width": 1086
         },
         {
-          "alt": "请对方先完整听完",
+          "alt": "稍正式地请他继续",
           "filename": "3_page2.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-先听我说完/original/3_page2.png",
-            "sha256": "afde1b6ec8d9ddd7ee9093177cb78a57021bb77ccceda581009130e3bc63636d",
-            "size": 1354541
+            "path": "notes/01-你接着说/original/3_page2.png",
+            "sha256": "5c30025560f6ef6c192030acf3c160d26c878c10884ad9b95b383386fef7aae3",
+            "size": 1124223
           },
-          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】先听我说完/gemini-preview/3_page2.png",
-          "source_sha256": "afde1b6ec8d9ddd7ee9093177cb78a57021bb77ccceda581009130e3bc63636d",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】你接着说/gemini-preview/3_page2.png",
+          "source_sha256": "5c30025560f6ef6c192030acf3c160d26c878c10884ad9b95b383386fef7aae3",
           "web": {
             "format": "webp",
-            "path": "notes/01-先听我说完/web/3_page2.webp",
+            "path": "notes/01-你接着说/web/3_page2.webp",
             "quality": 82,
-            "sha256": "b07de80c6a140cea5a097d6e5aad6763b5cb87d58e7cd5aabc3f51096a2d9a2a",
-            "size": 55946
+            "sha256": "8d34bbd7d4209c4c1cc512d809742222dfa4145a64fa112298d5c158497e9049",
+            "size": 80900
           },
           "width": 1086
         },
         {
-          "alt": "被打断后接着说",
+          "alt": "帮对方接回原话",
           "filename": "4_page3.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-先听我说完/original/4_page3.png",
-            "sha256": "6cba1141855c51f2dd6c76ac2f689f5658df078487503c17dfb72558d11cee9d",
-            "size": 1345097
+            "path": "notes/01-你接着说/original/4_page3.png",
+            "sha256": "e1636825124148d6e0d88703093dbaed7771e5f311e7056bb4434d404d8c7632",
+            "size": 1153744
           },
-          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】先听我说完/gemini-preview/4_page3.png",
-          "source_sha256": "6cba1141855c51f2dd6c76ac2f689f5658df078487503c17dfb72558d11cee9d",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】你接着说/gemini-preview/4_page3.png",
+          "source_sha256": "e1636825124148d6e0d88703093dbaed7771e5f311e7056bb4434d404d8c7632",
           "web": {
             "format": "webp",
-            "path": "notes/01-先听我说完/web/4_page3.webp",
+            "path": "notes/01-你接着说/web/4_page3.webp",
             "quality": 82,
-            "sha256": "d703fe846fcf85ecfa3ce34d259ad0330aaa314478a9b6315e1bf1c5b04e5e9a",
-            "size": 59448
+            "sha256": "a61e2e0f5ced3867c6bfd3bc5794a3aa2cd4f166edb6044e7d0251b3393a9640",
+            "size": 89900
           },
           "width": 1086
         },
         {
-          "alt": "被打断时这样说",
+          "alt": "邀请对方继续说",
           "filename": "5_page4.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-先听我说完/original/5_page4.png",
-            "sha256": "fd16b460d0817416fec64c858d48cc2814cc757b49b0aa52755fa720623a61f4",
-            "size": 1057788
+            "path": "notes/01-你接着说/original/5_page4.png",
+            "sha256": "87575b73e5b164aae96c3635bc238d26a894e7c833de9eb11ae1d26c1d6b2637",
+            "size": 1429502
           },
-          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】先听我说完/gemini-preview/5_page4.png",
-          "source_sha256": "fd16b460d0817416fec64c858d48cc2814cc757b49b0aa52755fa720623a61f4",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】你接着说/gemini-preview/5_page4.png",
+          "source_sha256": "87575b73e5b164aae96c3635bc238d26a894e7c833de9eb11ae1d26c1d6b2637",
           "web": {
             "format": "webp",
-            "path": "notes/01-先听我说完/web/5_page4.webp",
+            "path": "notes/01-你接着说/web/5_page4.webp",
             "quality": 82,
-            "sha256": "b3e70f27bff96baa1b680fe22b7735b74a04f7d0c8e733911210fd3d1f78b004",
-            "size": 76960
+            "sha256": "5770596f4c1dcfda1205ab9d1e0842f47d52ed7c8bd54e4d547912d7cf6c29d3",
+            "size": 85680
           },
           "width": 1086
         }
       ],
       "order": 1,
-      "source_note": "obsidian-notes/社媒/小红书轮播图/【预览图】先听我说完/先听我说完_xhs.md",
-      "source_note_sha256": "c9e5e26344f6a31184ec776ebde12a43cae507c85fb289a698b2eedf907cb58b",
+      "source_note": "obsidian-notes/社媒/小红书轮播图/【预览图】你接着说/你接着说_xhs.md",
+      "source_note_sha256": "6658347479862f0bcb4b9ed696941bbda3dfdc639ae554cb0cd79b4fbb9d88b7",
       "status": "待发布",
       "style": "小黑纯手绘：白底留白，红色页标题、黑色英文与必要说明、蓝色中文、橙色动作提示，小黑承担核心动作。",
-      "title": "朋友总打断，怎么说“先听我说完”？"
+      "title": "朋友话说一半，怎么说“你接着说”？"
     }
   ],
-  "output_digest": "880ec39bad94594c67bb5968fe0b1df369fd7ab19c67684a99aa12791b3f31b0",
+  "output_digest": "c752ff9fdfe6ab43991ac22c8b92e925acc2b23a936481b0b4fa12f8b8bcaae7",
   "pruned_files": [
-    "notes/23-别插队/web/5_page4.webp",
-    "notes/23-别插队/web/4_page3.webp",
-    "notes/23-别插队/web/3_page2.webp",
-    "notes/23-别插队/web/2_page1.webp",
-    "notes/23-别插队/web/1_cover.webp",
-    "notes/23-别插队/original/5_page4.png",
-    "notes/23-别插队/original/4_page3.png",
-    "notes/23-别插队/original/3_page2.png",
-    "notes/23-别插队/original/2_page1.png",
-    "notes/23-别插队/original/1_cover.png"
+    "notes/01-先听我说完/web/5_page4.webp",
+    "notes/01-先听我说完/web/4_page3.webp",
+    "notes/01-先听我说完/web/3_page2.webp",
+    "notes/01-先听我说完/web/2_page1.webp",
+    "notes/01-先听我说完/web/1_cover.webp",
+    "notes/01-先听我说完/original/5_page4.png",
+    "notes/01-先听我说完/original/4_page3.png",
+    "notes/01-先听我说完/original/3_page2.png",
+    "notes/01-先听我说完/original/2_page1.png",
+    "notes/01-先听我说完/original/1_cover.png"
   ],
   "schema_version": 1,
   "site": {
@@ -181,8 +181,8 @@
   "totals": {
     "images": 5,
     "notes": 1,
-    "original_bytes": 6394588,
-    "savings_percent": 95.24253947244138,
-    "webp_bytes": 304220
+    "original_bytes": 6038264,
+    "savings_percent": 93.2135792671536,
+    "webp_bytes": 409782
   }
 }
