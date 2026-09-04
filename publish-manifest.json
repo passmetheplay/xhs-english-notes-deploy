@@ -2,35 +2,33 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "cf73fcfd3156d0b1c92bc6188715f02681a39baa8f8d884f3f992c27d53c74ad",
-    "publish-history.jsonl": "3677031aa143642415ab46e128969daca642c45b8b21a67e94042a895c776a35",
-    "publish-report.md": "0eaec330a7d084b81da98b9cf59beeb6fae127405aeaac8e37283293cd5ef57d"
+    "index.html": "063c780d577c486f102997803cdde77c470e7182f6a1fa9c480c90675ce2097b",
+    "publish-history.jsonl": "2bf0e8c1b59a20cbb0e52cf489e8f6d6c9dc8cce39ed0cad3f17573828fdd5bc",
+    "publish-report.md": "3323c10d981bc81faadb18499ff890ba0d73049a1013ef88fa133f51b4000290"
   },
   "changes": {
-    "added": [
-      "01-我在减肥"
+    "added": [],
+    "changed": [
+      "01-我吃不下了"
     ],
-    "changed": [],
-    "removed": [
-      "01-你接着说"
-    ],
+    "removed": [],
     "unchanged": []
   },
-  "generated_at": "2026-09-04T06:22:57Z",
+  "generated_at": "2026-09-04T08:00:09Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
     "index.html",
-    "notes/01-我在减肥/original/1_cover.png",
-    "notes/01-我在减肥/original/2_page1.png",
-    "notes/01-我在减肥/original/3_page2.png",
-    "notes/01-我在减肥/original/4_page3.png",
-    "notes/01-我在减肥/original/5_page4.png",
-    "notes/01-我在减肥/web/1_cover.webp",
-    "notes/01-我在减肥/web/2_page1.webp",
-    "notes/01-我在减肥/web/3_page2.webp",
-    "notes/01-我在减肥/web/4_page3.webp",
-    "notes/01-我在减肥/web/5_page4.webp",
+    "notes/01-我吃不下了/original/1_cover.png",
+    "notes/01-我吃不下了/original/2_page1.png",
+    "notes/01-我吃不下了/original/3_page2.png",
+    "notes/01-我吃不下了/original/4_page3.png",
+    "notes/01-我吃不下了/original/5_page4.png",
+    "notes/01-我吃不下了/web/1_cover.webp",
+    "notes/01-我吃不下了/web/2_page1.webp",
+    "notes/01-我吃不下了/web/3_page2.webp",
+    "notes/01-我吃不下了/web/4_page3.webp",
+    "notes/01-我吃不下了/web/5_page4.webp",
     "publish-history.jsonl",
     "publish-manifest.json",
     "publish-report.md"
@@ -40,131 +38,120 @@
   "notes": [
     {
       "account": "小帮英语",
-      "fingerprint": "3f7b1690c00a0ea36e32249ba6d04a7d53838c3870a98c04900887aae7d95a34",
-      "id": "01-我在减肥",
+      "fingerprint": "12eb8efae090e596fee7a5b3aa247461dd344d300a5bc1a743c69fb48bc4f37d",
+      "id": "01-我吃不下了",
       "images": [
         {
-          "alt": "“我在减肥”英文怎么说？",
+          "alt": "1_cover",
           "filename": "1_cover.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-我在减肥/original/1_cover.png",
-            "sha256": "a7d02798baff5cb8ecae3136a34ec6e7b4521a67190f8f3cff145ab6a784f0ae",
-            "size": 1413489
+            "path": "notes/01-我吃不下了/original/1_cover.png",
+            "sha256": "746f964805331e7b6df920d518068674e41a2e7bd49ce88f8ee8c8964ec11c3a",
+            "size": 1360418
           },
-          "source": "社媒/小红书轮播图/【预览图】我在减肥/gemini-preview/1_cover.png",
-          "source_sha256": "a7d02798baff5cb8ecae3136a34ec6e7b4521a67190f8f3cff145ab6a784f0ae",
+          "source": "社媒/小红书轮播图/【预览图】我吃不下了/gemini-preview/1_cover.png",
+          "source_sha256": "746f964805331e7b6df920d518068674e41a2e7bd49ce88f8ee8c8964ec11c3a",
           "web": {
             "format": "webp",
-            "path": "notes/01-我在减肥/web/1_cover.webp",
+            "path": "notes/01-我吃不下了/web/1_cover.webp",
             "quality": 82,
-            "sha256": "4d5302e4e20eab1fe0ef511886fd111f64de47e26d8c270e22107442dda8ada5",
-            "size": 77932
+            "sha256": "b7e01e66bb900056cb4af3d5059d9bd9a401f37b874be2342076500b987b850b",
+            "size": 68026
           },
           "width": 1086
         },
         {
-          "alt": "先说自己在减肥",
+          "alt": "2_page1",
           "filename": "2_page1.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-我在减肥/original/2_page1.png",
-            "sha256": "fac8be51dcc5f818974b5086eec58ee9d1fd12f27f0feadde2d81f06e62b88c0",
-            "size": 1115014
+            "path": "notes/01-我吃不下了/original/2_page1.png",
+            "sha256": "1f8fc4da305a5cd09e84e099d89bb3b5a2590dd425adf494e88f33b1ed94ba37",
+            "size": 1325150
           },
-          "source": "社媒/小红书轮播图/【预览图】我在减肥/gemini-preview/2_page1.png",
-          "source_sha256": "fac8be51dcc5f818974b5086eec58ee9d1fd12f27f0feadde2d81f06e62b88c0",
+          "source": "社媒/小红书轮播图/【预览图】我吃不下了/gemini-preview/2_page1.png",
+          "source_sha256": "1f8fc4da305a5cd09e84e099d89bb3b5a2590dd425adf494e88f33b1ed94ba37",
           "web": {
             "format": "webp",
-            "path": "notes/01-我在减肥/web/2_page1.webp",
+            "path": "notes/01-我吃不下了/web/2_page1.webp",
             "quality": 82,
-            "sha256": "6ac241875d553ab7473a76aa2d94872d7955e9173eb0e9092744266cbab54c70",
-            "size": 71306
+            "sha256": "9cf84f1ce677ff0110e0e7d45861d681659f270678b30079e228a3f31e8fcb80",
+            "size": 71522
           },
           "width": 1086
         },
         {
-          "alt": "说自己正在努力减重",
+          "alt": "3_page2",
           "filename": "3_page2.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-我在减肥/original/3_page2.png",
-            "sha256": "c096b6e4419646c20c94acc69aa25b84450cbce60e38885b175af48ac7bf8a87",
-            "size": 1151615
+            "path": "notes/01-我吃不下了/original/3_page2.png",
+            "sha256": "9dc56d91ba9d1c721ddb008f252647f88032f7d106709dd4075cbc2f4caf5792",
+            "size": 1161276
           },
-          "source": "社媒/小红书轮播图/【预览图】我在减肥/gemini-preview/3_page2.png",
-          "source_sha256": "c096b6e4419646c20c94acc69aa25b84450cbce60e38885b175af48ac7bf8a87",
+          "source": "社媒/小红书轮播图/【预览图】我吃不下了/gemini-preview/3_page2.png",
+          "source_sha256": "9dc56d91ba9d1c721ddb008f252647f88032f7d106709dd4075cbc2f4caf5792",
           "web": {
             "format": "webp",
-            "path": "notes/01-我在减肥/web/3_page2.webp",
+            "path": "notes/01-我吃不下了/web/3_page2.webp",
             "quality": 82,
-            "sha256": "cbea2a846a2b8479cd3a10d052fb59fe391f0e568f2ac9c435bf1f4007312354",
-            "size": 83298
+            "sha256": "0f05d620c0f39b201a7f19ee3fe8ff6696a0ddec40ac70926413dcd376b87d3a",
+            "size": 83138
           },
           "width": 1086
         },
         {
-          "alt": "不想说得太直接",
+          "alt": "4_page3",
           "filename": "4_page3.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-我在减肥/original/4_page3.png",
-            "sha256": "2aec75df3748af4b4c5190e182bb31192aab2f28ad1f913ba095caff7668f9cf",
-            "size": 1429636
+            "path": "notes/01-我吃不下了/original/4_page3.png",
+            "sha256": "f5e5dc48179acb59a3bd4c6da57243b873aceaf35b2f174527267ebdd0386eae",
+            "size": 1341423
           },
-          "source": "社媒/小红书轮播图/【预览图】我在减肥/gemini-preview/4_page3.png",
-          "source_sha256": "2aec75df3748af4b4c5190e182bb31192aab2f28ad1f913ba095caff7668f9cf",
+          "source": "社媒/小红书轮播图/【预览图】我吃不下了/gemini-preview/4_page3.png",
+          "source_sha256": "f5e5dc48179acb59a3bd4c6da57243b873aceaf35b2f174527267ebdd0386eae",
           "web": {
             "format": "webp",
-            "path": "notes/01-我在减肥/web/4_page3.webp",
+            "path": "notes/01-我吃不下了/web/4_page3.webp",
             "quality": 82,
-            "sha256": "f341ccd2dd934a7ee0ddec981c61e1ed4e6c4b59467727e71d57de2c02e687e3",
-            "size": 85074
+            "sha256": "49c4a3e403d805d2e75a45ebd879c5e8c387ec5640c836a813d2b2eafe69a19e",
+            "size": 76942
           },
           "width": 1086
         },
         {
-          "alt": "礼貌地拒绝甜点",
+          "alt": "5_page4",
           "filename": "5_page4.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-我在减肥/original/5_page4.png",
-            "sha256": "4defc9688cc674f10699601e7b93c56555b301ca220dc6847af23344fe9fc57d",
-            "size": 1335695
+            "path": "notes/01-我吃不下了/original/5_page4.png",
+            "sha256": "d72b77edc9d6308d56962f5d3e85f1a0d172b383ad6428a8c2dd5499e65debcb",
+            "size": 1312651
           },
-          "source": "社媒/小红书轮播图/【预览图】我在减肥/gemini-preview/5_page4.png",
-          "source_sha256": "4defc9688cc674f10699601e7b93c56555b301ca220dc6847af23344fe9fc57d",
+          "source": "社媒/小红书轮播图/【预览图】我吃不下了/gemini-preview/5_page4.png",
+          "source_sha256": "d72b77edc9d6308d56962f5d3e85f1a0d172b383ad6428a8c2dd5499e65debcb",
           "web": {
             "format": "webp",
-            "path": "notes/01-我在减肥/web/5_page4.webp",
+            "path": "notes/01-我吃不下了/web/5_page4.webp",
             "quality": 82,
-            "sha256": "95a0faddb9342425c98bda4ad3fb513127089af312c2190d84b7b6f946dbcae1",
-            "size": 80176
+            "sha256": "a99ffe794747eab310a628661c3735033f37d97313c76d27941b312b2097f98f",
+            "size": 65448
           },
           "width": 1086
         }
       ],
       "order": 1,
-      "source_note": "社媒/小红书轮播图/【预览图】我在减肥/我在减肥_xhs.md",
-      "source_note_sha256": "78a569716a3962e692f757cffbaa505a2e0ef66a3d0a7ea12131a697979f1ec4",
+      "source_note": "社媒/小红书轮播图/【预览图】我吃不下了/我吃不下了_xhs.md",
+      "source_note_sha256": "e1a27c4dff74254697e049378cd3bd836faeb5a04c0a71210b009d0354ccd5dd",
       "status": "未发布",
-      "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现“英文怎么说？”，并执行小黑人一致性审计。",
-      "title": "“我在减肥”英文怎么说？"
+      "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现餐桌场景与“英文怎么说？”，并执行小黑人一致性审计。",
+      "title": "“我吃不下了”英文怎么说？"
     }
   ],
-  "output_digest": "b40b627b0ab53aa8f514daa98f4469f1ef402bcf2d94c8af3603685707dd0816",
-  "pruned_files": [
-    "notes/01-你接着说/web/5_page4.webp",
-    "notes/01-你接着说/web/4_page3.webp",
-    "notes/01-你接着说/web/3_page2.webp",
-    "notes/01-你接着说/web/2_page1.webp",
-    "notes/01-你接着说/web/1_cover.webp",
-    "notes/01-你接着说/original/5_page4.png",
-    "notes/01-你接着说/original/4_page3.png",
-    "notes/01-你接着说/original/3_page2.png",
-    "notes/01-你接着说/original/2_page1.png",
-    "notes/01-你接着说/original/1_cover.png"
-  ],
+  "output_digest": "d6db8c6ee4c8ef6e27910674b0be31e87e7f6d8e6590dbf43a791e29dd0d6b08",
+  "pruned_files": [],
   "schema_version": 1,
   "site": {
     "accent": "#c44536",
@@ -181,8 +168,8 @@
   "totals": {
     "images": 5,
     "notes": 1,
-    "original_bytes": 6445449,
-    "savings_percent": 93.82842064222369,
-    "webp_bytes": 397786
+    "original_bytes": 6500918,
+    "savings_percent": 94.38423927205358,
+    "webp_bytes": 365076
   }
 }
