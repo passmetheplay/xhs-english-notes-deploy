@@ -2,35 +2,35 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "51699f6b6315f07e82eab5ec7628e99530c90e98966ade2ed2192bf1445e0b44",
-    "publish-history.jsonl": "1223e8629377d43c5fa1f706d8377360ba19ba144c6f7e508d686fc94cd703e3",
-    "publish-report.md": "5abc228a813d588fc0667bfee54ef4165d9a50b407bda28ad0accc3379e15eb8"
+    "index.html": "cf73fcfd3156d0b1c92bc6188715f02681a39baa8f8d884f3f992c27d53c74ad",
+    "publish-history.jsonl": "3677031aa143642415ab46e128969daca642c45b8b21a67e94042a895c776a35",
+    "publish-report.md": "0eaec330a7d084b81da98b9cf59beeb6fae127405aeaac8e37283293cd5ef57d"
   },
   "changes": {
     "added": [
-      "01-你接着说"
+      "01-我在减肥"
     ],
     "changed": [],
     "removed": [
-      "01-先听我说完"
+      "01-你接着说"
     ],
     "unchanged": []
   },
-  "generated_at": "2026-09-03T07:32:40Z",
+  "generated_at": "2026-09-04T06:22:57Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
     "index.html",
-    "notes/01-你接着说/original/1_cover.png",
-    "notes/01-你接着说/original/2_page1.png",
-    "notes/01-你接着说/original/3_page2.png",
-    "notes/01-你接着说/original/4_page3.png",
-    "notes/01-你接着说/original/5_page4.png",
-    "notes/01-你接着说/web/1_cover.webp",
-    "notes/01-你接着说/web/2_page1.webp",
-    "notes/01-你接着说/web/3_page2.webp",
-    "notes/01-你接着说/web/4_page3.webp",
-    "notes/01-你接着说/web/5_page4.webp",
+    "notes/01-我在减肥/original/1_cover.png",
+    "notes/01-我在减肥/original/2_page1.png",
+    "notes/01-我在减肥/original/3_page2.png",
+    "notes/01-我在减肥/original/4_page3.png",
+    "notes/01-我在减肥/original/5_page4.png",
+    "notes/01-我在减肥/web/1_cover.webp",
+    "notes/01-我在减肥/web/2_page1.webp",
+    "notes/01-我在减肥/web/3_page2.webp",
+    "notes/01-我在减肥/web/4_page3.webp",
+    "notes/01-我在减肥/web/5_page4.webp",
     "publish-history.jsonl",
     "publish-manifest.json",
     "publish-report.md"
@@ -40,130 +40,130 @@
   "notes": [
     {
       "account": "小帮英语",
-      "fingerprint": "4f389c4f7c204369e8b078574a1f806a88c340cd4a5384964dc16113046128cc",
-      "id": "01-你接着说",
+      "fingerprint": "3f7b1690c00a0ea36e32249ba6d04a7d53838c3870a98c04900887aae7d95a34",
+      "id": "01-我在减肥",
       "images": [
         {
-          "alt": "朋友话说一半，怎么说“你接着说”？",
+          "alt": "“我在减肥”英文怎么说？",
           "filename": "1_cover.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-你接着说/original/1_cover.png",
-            "sha256": "31950810ea5f92bf6e78442e986eb87e0f3b9eae847b4cec1c5ff1b84d316b0a",
-            "size": 1231717
+            "path": "notes/01-我在减肥/original/1_cover.png",
+            "sha256": "a7d02798baff5cb8ecae3136a34ec6e7b4521a67190f8f3cff145ab6a784f0ae",
+            "size": 1413489
           },
-          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】你接着说/gemini-preview/1_cover.png",
-          "source_sha256": "31950810ea5f92bf6e78442e986eb87e0f3b9eae847b4cec1c5ff1b84d316b0a",
+          "source": "社媒/小红书轮播图/【预览图】我在减肥/gemini-preview/1_cover.png",
+          "source_sha256": "a7d02798baff5cb8ecae3136a34ec6e7b4521a67190f8f3cff145ab6a784f0ae",
           "web": {
             "format": "webp",
-            "path": "notes/01-你接着说/web/1_cover.webp",
+            "path": "notes/01-我在减肥/web/1_cover.webp",
             "quality": 82,
-            "sha256": "ad8c55e79fd0a20253f31ddd3d8828d34bf8906656ff7d272ad89c55b70ba059",
-            "size": 74998
+            "sha256": "4d5302e4e20eab1fe0ef511886fd111f64de47e26d8c270e22107442dda8ada5",
+            "size": 77932
           },
           "width": 1086
         },
         {
-          "alt": "最自然的简短回应",
+          "alt": "先说自己在减肥",
           "filename": "2_page1.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-你接着说/original/2_page1.png",
-            "sha256": "af94dce78caa8827474df6681463b1f80287f7bfb5b231f232f384e512b1bb0a",
-            "size": 1099078
+            "path": "notes/01-我在减肥/original/2_page1.png",
+            "sha256": "fac8be51dcc5f818974b5086eec58ee9d1fd12f27f0feadde2d81f06e62b88c0",
+            "size": 1115014
           },
-          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】你接着说/gemini-preview/2_page1.png",
-          "source_sha256": "af94dce78caa8827474df6681463b1f80287f7bfb5b231f232f384e512b1bb0a",
+          "source": "社媒/小红书轮播图/【预览图】我在减肥/gemini-preview/2_page1.png",
+          "source_sha256": "fac8be51dcc5f818974b5086eec58ee9d1fd12f27f0feadde2d81f06e62b88c0",
           "web": {
             "format": "webp",
-            "path": "notes/01-你接着说/web/2_page1.webp",
+            "path": "notes/01-我在减肥/web/2_page1.webp",
             "quality": 82,
-            "sha256": "27f03d1ff4523fd3f1adcacc8d544bc12ce3eda7dc908348ca66813368c148b3",
-            "size": 78304
+            "sha256": "6ac241875d553ab7473a76aa2d94872d7955e9173eb0e9092744266cbab54c70",
+            "size": 71306
           },
           "width": 1086
         },
         {
-          "alt": "稍正式地请他继续",
+          "alt": "说自己正在努力减重",
           "filename": "3_page2.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-你接着说/original/3_page2.png",
-            "sha256": "5c30025560f6ef6c192030acf3c160d26c878c10884ad9b95b383386fef7aae3",
-            "size": 1124223
+            "path": "notes/01-我在减肥/original/3_page2.png",
+            "sha256": "c096b6e4419646c20c94acc69aa25b84450cbce60e38885b175af48ac7bf8a87",
+            "size": 1151615
           },
-          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】你接着说/gemini-preview/3_page2.png",
-          "source_sha256": "5c30025560f6ef6c192030acf3c160d26c878c10884ad9b95b383386fef7aae3",
+          "source": "社媒/小红书轮播图/【预览图】我在减肥/gemini-preview/3_page2.png",
+          "source_sha256": "c096b6e4419646c20c94acc69aa25b84450cbce60e38885b175af48ac7bf8a87",
           "web": {
             "format": "webp",
-            "path": "notes/01-你接着说/web/3_page2.webp",
+            "path": "notes/01-我在减肥/web/3_page2.webp",
             "quality": 82,
-            "sha256": "8d34bbd7d4209c4c1cc512d809742222dfa4145a64fa112298d5c158497e9049",
-            "size": 80900
+            "sha256": "cbea2a846a2b8479cd3a10d052fb59fe391f0e568f2ac9c435bf1f4007312354",
+            "size": 83298
           },
           "width": 1086
         },
         {
-          "alt": "帮对方接回原话",
+          "alt": "不想说得太直接",
           "filename": "4_page3.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-你接着说/original/4_page3.png",
-            "sha256": "e1636825124148d6e0d88703093dbaed7771e5f311e7056bb4434d404d8c7632",
-            "size": 1153744
+            "path": "notes/01-我在减肥/original/4_page3.png",
+            "sha256": "2aec75df3748af4b4c5190e182bb31192aab2f28ad1f913ba095caff7668f9cf",
+            "size": 1429636
           },
-          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】你接着说/gemini-preview/4_page3.png",
-          "source_sha256": "e1636825124148d6e0d88703093dbaed7771e5f311e7056bb4434d404d8c7632",
+          "source": "社媒/小红书轮播图/【预览图】我在减肥/gemini-preview/4_page3.png",
+          "source_sha256": "2aec75df3748af4b4c5190e182bb31192aab2f28ad1f913ba095caff7668f9cf",
           "web": {
             "format": "webp",
-            "path": "notes/01-你接着说/web/4_page3.webp",
+            "path": "notes/01-我在减肥/web/4_page3.webp",
             "quality": 82,
-            "sha256": "a61e2e0f5ced3867c6bfd3bc5794a3aa2cd4f166edb6044e7d0251b3393a9640",
-            "size": 89900
+            "sha256": "f341ccd2dd934a7ee0ddec981c61e1ed4e6c4b59467727e71d57de2c02e687e3",
+            "size": 85074
           },
           "width": 1086
         },
         {
-          "alt": "邀请对方继续说",
+          "alt": "礼貌地拒绝甜点",
           "filename": "5_page4.png",
           "height": 1448,
           "original": {
-            "path": "notes/01-你接着说/original/5_page4.png",
-            "sha256": "87575b73e5b164aae96c3635bc238d26a894e7c833de9eb11ae1d26c1d6b2637",
-            "size": 1429502
+            "path": "notes/01-我在减肥/original/5_page4.png",
+            "sha256": "4defc9688cc674f10699601e7b93c56555b301ca220dc6847af23344fe9fc57d",
+            "size": 1335695
           },
-          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】你接着说/gemini-preview/5_page4.png",
-          "source_sha256": "87575b73e5b164aae96c3635bc238d26a894e7c833de9eb11ae1d26c1d6b2637",
+          "source": "社媒/小红书轮播图/【预览图】我在减肥/gemini-preview/5_page4.png",
+          "source_sha256": "4defc9688cc674f10699601e7b93c56555b301ca220dc6847af23344fe9fc57d",
           "web": {
             "format": "webp",
-            "path": "notes/01-你接着说/web/5_page4.webp",
+            "path": "notes/01-我在减肥/web/5_page4.webp",
             "quality": 82,
-            "sha256": "5770596f4c1dcfda1205ab9d1e0842f47d52ed7c8bd54e4d547912d7cf6c29d3",
-            "size": 85680
+            "sha256": "95a0faddb9342425c98bda4ad3fb513127089af312c2190d84b7b6f946dbcae1",
+            "size": 80176
           },
           "width": 1086
         }
       ],
       "order": 1,
-      "source_note": "obsidian-notes/社媒/小红书轮播图/【预览图】你接着说/你接着说_xhs.md",
-      "source_note_sha256": "6658347479862f0bcb4b9ed696941bbda3dfdc639ae554cb0cd79b4fbb9d88b7",
-      "status": "待发布",
-      "style": "小黑纯手绘：白底留白，红色页标题、黑色英文与必要说明、蓝色中文、橙色动作提示，小黑承担核心动作。",
-      "title": "朋友话说一半，怎么说“你接着说”？"
+      "source_note": "社媒/小红书轮播图/【预览图】我在减肥/我在减肥_xhs.md",
+      "source_note_sha256": "78a569716a3962e692f757cffbaa505a2e0ef66a3d0a7ea12131a697979f1ec4",
+      "status": "未发布",
+      "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现“英文怎么说？”，并执行小黑人一致性审计。",
+      "title": "“我在减肥”英文怎么说？"
     }
   ],
-  "output_digest": "c752ff9fdfe6ab43991ac22c8b92e925acc2b23a936481b0b4fa12f8b8bcaae7",
+  "output_digest": "b40b627b0ab53aa8f514daa98f4469f1ef402bcf2d94c8af3603685707dd0816",
   "pruned_files": [
-    "notes/01-先听我说完/web/5_page4.webp",
-    "notes/01-先听我说完/web/4_page3.webp",
-    "notes/01-先听我说完/web/3_page2.webp",
-    "notes/01-先听我说完/web/2_page1.webp",
-    "notes/01-先听我说完/web/1_cover.webp",
-    "notes/01-先听我说完/original/5_page4.png",
-    "notes/01-先听我说完/original/4_page3.png",
-    "notes/01-先听我说完/original/3_page2.png",
-    "notes/01-先听我说完/original/2_page1.png",
-    "notes/01-先听我说完/original/1_cover.png"
+    "notes/01-你接着说/web/5_page4.webp",
+    "notes/01-你接着说/web/4_page3.webp",
+    "notes/01-你接着说/web/3_page2.webp",
+    "notes/01-你接着说/web/2_page1.webp",
+    "notes/01-你接着说/web/1_cover.webp",
+    "notes/01-你接着说/original/5_page4.png",
+    "notes/01-你接着说/original/4_page3.png",
+    "notes/01-你接着说/original/3_page2.png",
+    "notes/01-你接着说/original/2_page1.png",
+    "notes/01-你接着说/original/1_cover.png"
   ],
   "schema_version": 1,
   "site": {
@@ -174,15 +174,15 @@
     "access_gate": true,
     "pages_url": "https://passmetheplay.github.io/xhs-english-notes-deploy/",
     "repository_url": "https://github.com/passmetheplay/xhs-english-notes-deploy",
-    "subtitle": "最新笔记 · 2026-09-03",
+    "subtitle": "最新笔记 · 2026-09-04",
     "title": "小红书英语口语｜最新 1 篇"
   },
-  "source_root_hint": "code",
+  "source_root_hint": "obsidian-notes",
   "totals": {
     "images": 5,
     "notes": 1,
-    "original_bytes": 6038264,
-    "savings_percent": 93.2135792671536,
-    "webp_bytes": 409782
+    "original_bytes": 6445449,
+    "savings_percent": 93.82842064222369,
+    "webp_bytes": 397786
   }
 }
