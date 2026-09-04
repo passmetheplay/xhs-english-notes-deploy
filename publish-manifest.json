@@ -2,9 +2,9 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "063c780d577c486f102997803cdde77c470e7182f6a1fa9c480c90675ce2097b",
-    "publish-history.jsonl": "2bf0e8c1b59a20cbb0e52cf489e8f6d6c9dc8cce39ed0cad3f17573828fdd5bc",
-    "publish-report.md": "3323c10d981bc81faadb18499ff890ba0d73049a1013ef88fa133f51b4000290"
+    "index.html": "4d8dcd74f48c532c48038a9a57b27a817f83a7f4be2eb2b3d0b021f542556e5c",
+    "publish-history.jsonl": "51dc2b2b9e2ec18949a2eea2dad4fd329f0376ff981b840e1a77448865f3ca5b",
+    "publish-report.md": "7f51b57d4844966b891e0c67e87184d330f636141f4eb73434952c4711ae18bf"
   },
   "changes": {
     "added": [],
@@ -14,7 +14,7 @@
     "removed": [],
     "unchanged": []
   },
-  "generated_at": "2026-09-04T08:00:09Z",
+  "generated_at": "2026-09-04T08:01:51Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
@@ -38,11 +38,11 @@
   "notes": [
     {
       "account": "小帮英语",
-      "fingerprint": "12eb8efae090e596fee7a5b3aa247461dd344d300a5bc1a743c69fb48bc4f37d",
+      "fingerprint": "df70bbf61451f676273c4cc2cd105323379a2263498e2efea1d24561c47e63e1",
       "id": "01-我吃不下了",
       "images": [
         {
-          "alt": "1_cover",
+          "alt": "封面",
           "filename": "1_cover.png",
           "height": 1448,
           "original": {
@@ -62,7 +62,7 @@
           "width": 1086
         },
         {
-          "alt": "2_page1",
+          "alt": "I'm full.",
           "filename": "2_page1.png",
           "height": 1448,
           "original": {
@@ -82,7 +82,7 @@
           "width": 1086
         },
         {
-          "alt": "3_page2",
+          "alt": "I couldn't eat another bite.",
           "filename": "3_page2.png",
           "height": 1448,
           "original": {
@@ -102,7 +102,7 @@
           "width": 1086
         },
         {
-          "alt": "4_page3",
+          "alt": "I'm stuffed.",
           "filename": "4_page3.png",
           "height": 1448,
           "original": {
@@ -122,7 +122,7 @@
           "width": 1086
         },
         {
-          "alt": "5_page4",
+          "alt": "餐桌对话",
           "filename": "5_page4.png",
           "height": 1448,
           "original": {
@@ -144,13 +144,13 @@
       ],
       "order": 1,
       "source_note": "社媒/小红书轮播图/【预览图】我吃不下了/我吃不下了_xhs.md",
-      "source_note_sha256": "e1a27c4dff74254697e049378cd3bd836faeb5a04c0a71210b009d0354ccd5dd",
+      "source_note_sha256": "e75b17ec273f5523ac0d75cb2d27c5fb2cfbfdfef7dfcf6cbb4dc3a197e80861",
       "status": "未发布",
       "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现餐桌场景与“英文怎么说？”，并执行小黑人一致性审计。",
       "title": "“我吃不下了”英文怎么说？"
     }
   ],
-  "output_digest": "d6db8c6ee4c8ef6e27910674b0be31e87e7f6d8e6590dbf43a791e29dd0d6b08",
+  "output_digest": "45db54f482b20b062102dfec0f694f69f8da1b5cf12f668a3e3e1db06ca72f22",
   "pruned_files": [],
   "schema_version": 1,
   "site": {
