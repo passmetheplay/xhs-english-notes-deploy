@@ -2,9 +2,9 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "4d8dcd74f48c532c48038a9a57b27a817f83a7f4be2eb2b3d0b021f542556e5c",
-    "publish-history.jsonl": "51dc2b2b9e2ec18949a2eea2dad4fd329f0376ff981b840e1a77448865f3ca5b",
-    "publish-report.md": "7f51b57d4844966b891e0c67e87184d330f636141f4eb73434952c4711ae18bf"
+    "index.html": "c19447e245c2e860d19c79029d480ab9cfb5567be304df84c78cf8428dc535c9",
+    "publish-history.jsonl": "98185f5ce7a96a2ebd72436f53c42533efabacb8a06fce04aadb669f1bd67b1a",
+    "publish-report.md": "d00937839fc2239d480262a068a34aa6528fbbb4b68f2dc1467a1b982784017f"
   },
   "changes": {
     "added": [],
@@ -14,7 +14,7 @@
     "removed": [],
     "unchanged": []
   },
-  "generated_at": "2026-09-04T08:01:51Z",
+  "generated_at": "2026-09-05T02:59:33Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
@@ -38,7 +38,7 @@
   "notes": [
     {
       "account": "小帮英语",
-      "fingerprint": "df70bbf61451f676273c4cc2cd105323379a2263498e2efea1d24561c47e63e1",
+      "fingerprint": "46d4e02b1c6891feef9d14ed451c097e73d2ca71341c5dfc5e3f4d14461c8391",
       "id": "01-我吃不下了",
       "images": [
         {
@@ -144,13 +144,13 @@
       ],
       "order": 1,
       "source_note": "社媒/小红书轮播图/【预览图】我吃不下了/我吃不下了_xhs.md",
-      "source_note_sha256": "e75b17ec273f5523ac0d75cb2d27c5fb2cfbfdfef7dfcf6cbb4dc3a197e80861",
+      "source_note_sha256": "2096627d047298a0c548aff15aad5b0d4ba3fdafb84774af084f8c9611d6794d",
       "status": "未发布",
       "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现餐桌场景与“英文怎么说？”，并执行小黑人一致性审计。",
       "title": "“我吃不下了”英文怎么说？"
     }
   ],
-  "output_digest": "45db54f482b20b062102dfec0f694f69f8da1b5cf12f668a3e3e1db06ca72f22",
+  "output_digest": "6a86e13ee7747cc552e620a509bf944f5da058ad1d9f94e78d066effc74d5190",
   "pruned_files": [],
   "schema_version": 1,
   "site": {
@@ -161,7 +161,7 @@
     "access_gate": true,
     "pages_url": "https://passmetheplay.github.io/xhs-english-notes-deploy/",
     "repository_url": "https://github.com/passmetheplay/xhs-english-notes-deploy",
-    "subtitle": "最新笔记 · 2026-09-04",
+    "subtitle": "最新笔记 · 2026-09-05",
     "title": "小红书英语口语｜最新 1 篇"
   },
   "source_root_hint": "obsidian-notes",
