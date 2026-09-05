@@ -2,19 +2,22 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "c19447e245c2e860d19c79029d480ab9cfb5567be304df84c78cf8428dc535c9",
-    "publish-history.jsonl": "98185f5ce7a96a2ebd72436f53c42533efabacb8a06fce04aadb669f1bd67b1a",
-    "publish-report.md": "d00937839fc2239d480262a068a34aa6528fbbb4b68f2dc1467a1b982784017f"
+    "index.html": "9ef17423c537ff51d6f070ee3111cb5a4e42265368f8a0d516820dbcd141769c",
+    "publish-history.jsonl": "c9a68a2ecf963e92a3113d27b28712bcb204987e53fd5b4f39dd72d4da47b473",
+    "publish-report.md": "82457f7632d7376aae14cd4ba8ff1beede000e04778aaf56fbd3115103bcdacf"
   },
   "changes": {
-    "added": [],
-    "changed": [
-      "01-我吃不下了"
+    "added": [
+      "02-借过一下",
+      "03-我再考虑一下"
     ],
+    "changed": [],
     "removed": [],
-    "unchanged": []
+    "unchanged": [
+      "01-我吃不下了"
+    ]
   },
-  "generated_at": "2026-09-05T02:59:33Z",
+  "generated_at": "2026-09-05T03:32:21Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
@@ -29,6 +32,26 @@
     "notes/01-我吃不下了/web/3_page2.webp",
     "notes/01-我吃不下了/web/4_page3.webp",
     "notes/01-我吃不下了/web/5_page4.webp",
+    "notes/02-借过一下/original/1_cover.png",
+    "notes/02-借过一下/original/2_page1.png",
+    "notes/02-借过一下/original/3_page2.png",
+    "notes/02-借过一下/original/4_page3.png",
+    "notes/02-借过一下/original/5_page4.png",
+    "notes/02-借过一下/web/1_cover.webp",
+    "notes/02-借过一下/web/2_page1.webp",
+    "notes/02-借过一下/web/3_page2.webp",
+    "notes/02-借过一下/web/4_page3.webp",
+    "notes/02-借过一下/web/5_page4.webp",
+    "notes/03-我再考虑一下/original/1_cover.png",
+    "notes/03-我再考虑一下/original/2_page1.png",
+    "notes/03-我再考虑一下/original/3_page2.png",
+    "notes/03-我再考虑一下/original/4_page3.png",
+    "notes/03-我再考虑一下/original/5_page4.png",
+    "notes/03-我再考虑一下/web/1_cover.webp",
+    "notes/03-我再考虑一下/web/2_page1.webp",
+    "notes/03-我再考虑一下/web/3_page2.webp",
+    "notes/03-我再考虑一下/web/4_page3.webp",
+    "notes/03-我再考虑一下/web/5_page4.webp",
     "publish-history.jsonl",
     "publish-manifest.json",
     "publish-report.md"
@@ -148,9 +171,235 @@
       "status": "未发布",
       "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现餐桌场景与“英文怎么说？”，并执行小黑人一致性审计。",
       "title": "“我吃不下了”英文怎么说？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "0e28e338deef8dd019ceadce46d356370c681372a6ea20de77b2ca34c3f71ad8",
+      "id": "02-借过一下",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/02-借过一下/original/1_cover.png",
+            "sha256": "b8345e2cec77ecf35d2a4c82f2242d355019c72f0cc1d6c92cd00e7f243726fc",
+            "size": 1023503
+          },
+          "source": "社媒/小红书轮播图/【预览图】借过一下/gemini-preview/1_cover.png",
+          "source_sha256": "b8345e2cec77ecf35d2a4c82f2242d355019c72f0cc1d6c92cd00e7f243726fc",
+          "web": {
+            "format": "webp",
+            "path": "notes/02-借过一下/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "2bac285dea9d752d54e405029f3922dfa1db010692b5fc701da3103b5dc3d029",
+            "size": 75156
+          },
+          "width": 1086
+        },
+        {
+          "alt": "Excuse me, can I get past?",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/02-借过一下/original/2_page1.png",
+            "sha256": "51a805fdb39cf4cf86e280bc80f356b77365fa7b9a9b3f71b4bb767ad3935520",
+            "size": 1281472
+          },
+          "source": "社媒/小红书轮播图/【预览图】借过一下/gemini-preview/2_page1.png",
+          "source_sha256": "51a805fdb39cf4cf86e280bc80f356b77365fa7b9a9b3f71b4bb767ad3935520",
+          "web": {
+            "format": "webp",
+            "path": "notes/02-借过一下/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "c9a215b61f109adc095ef69e4876f49ae432377d2b618601c58f3b9c2997c49f",
+            "size": 115166
+          },
+          "width": 1086
+        },
+        {
+          "alt": "Could you let me through?",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/02-借过一下/original/3_page2.png",
+            "sha256": "f199ceb94f0784eff5d4d64e007a5b7a263ebd4c78cf42ba070c299e66550cb4",
+            "size": 1303410
+          },
+          "source": "社媒/小红书轮播图/【预览图】借过一下/gemini-preview/3_page2.png",
+          "source_sha256": "f199ceb94f0784eff5d4d64e007a5b7a263ebd4c78cf42ba070c299e66550cb4",
+          "web": {
+            "format": "webp",
+            "path": "notes/02-借过一下/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "727b9138937ad0d86538660ea9eebc1cde014b2fbffaac60ca40ca660b3cb85a",
+            "size": 107482
+          },
+          "width": 1086
+        },
+        {
+          "alt": "Can I squeeze by?",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/02-借过一下/original/4_page3.png",
+            "sha256": "d224a14c9f013bf582795abb6835c376f96a4d60cb8923260ba864e50172e793",
+            "size": 1216488
+          },
+          "source": "社媒/小红书轮播图/【预览图】借过一下/gemini-preview/4_page3.png",
+          "source_sha256": "d224a14c9f013bf582795abb6835c376f96a4d60cb8923260ba864e50172e793",
+          "web": {
+            "format": "webp",
+            "path": "notes/02-借过一下/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "5e050b5d2495218a484c7c0591c2149f35abe230b53cf00d745a69335419856c",
+            "size": 95030
+          },
+          "width": 1086
+        },
+        {
+          "alt": "让路对话",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/02-借过一下/original/5_page4.png",
+            "sha256": "ad3d796daca674ddd3b0bae7fb1251ee71769bac905a80b4c7525dd556098141",
+            "size": 1141276
+          },
+          "source": "社媒/小红书轮播图/【预览图】借过一下/gemini-preview/5_page4.png",
+          "source_sha256": "ad3d796daca674ddd3b0bae7fb1251ee71769bac905a80b4c7525dd556098141",
+          "web": {
+            "format": "webp",
+            "path": "notes/02-借过一下/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "fe3eb58f468c6f4ad7718055667a8bdab8bba55ad872022e2b42c3a70c668fc7",
+            "size": 83490
+          },
+          "width": 1086
+        }
+      ],
+      "order": 2,
+      "source_note": "社媒/小红书轮播图/【预览图】借过一下/借过一下_xhs.md",
+      "source_note_sha256": "e82b0c62deb82da486020af813dfe40fef7a5c1210e4294eb4d11be63fbb411c",
+      "status": "未发布",
+      "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现拥挤通道与“英文怎么说？”，并执行小黑人一致性审计。",
+      "title": "“借过一下”英文怎么说？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "0b30c3af90fbaaeb3b57e349fab9a08bbcabda3842f7142ed14de554466a66f2",
+      "id": "03-我再考虑一下",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/03-我再考虑一下/original/1_cover.png",
+            "sha256": "af7cf9bd8ee19158aaaf8ec4cefc693905ee716e010e3b9127aa2062043d689a",
+            "size": 1230630
+          },
+          "source": "社媒/小红书轮播图/【预览图】我再考虑一下/gemini-preview/1_cover.png",
+          "source_sha256": "af7cf9bd8ee19158aaaf8ec4cefc693905ee716e010e3b9127aa2062043d689a",
+          "web": {
+            "format": "webp",
+            "path": "notes/03-我再考虑一下/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "e27a60b582fae16d2ed880775afe62b8d31ae5c37f89dfa74eb3d6536840fde9",
+            "size": 105238
+          },
+          "width": 1086
+        },
+        {
+          "alt": "Let me think about it.",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/03-我再考虑一下/original/2_page1.png",
+            "sha256": "1b8fffeac50aeb3ad4809b7a3ae24471c78aa4e3e0736770aa4e837b720f3146",
+            "size": 1438765
+          },
+          "source": "社媒/小红书轮播图/【预览图】我再考虑一下/gemini-preview/2_page1.png",
+          "source_sha256": "1b8fffeac50aeb3ad4809b7a3ae24471c78aa4e3e0736770aa4e837b720f3146",
+          "web": {
+            "format": "webp",
+            "path": "notes/03-我再考虑一下/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "e8b2acc2bc088a6c78972015e1c2fa083a0076ace954e94b469881d67a0f7474",
+            "size": 93510
+          },
+          "width": 1086
+        },
+        {
+          "alt": "I'm still deciding.",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/03-我再考虑一下/original/3_page2.png",
+            "sha256": "962cfb207b3066422d36f8f283624ecbfc1f4b7ce8852d4b33691652064fdbe9",
+            "size": 1509912
+          },
+          "source": "社媒/小红书轮播图/【预览图】我再考虑一下/gemini-preview/3_page2.png",
+          "source_sha256": "962cfb207b3066422d36f8f283624ecbfc1f4b7ce8852d4b33691652064fdbe9",
+          "web": {
+            "format": "webp",
+            "path": "notes/03-我再考虑一下/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "a37fc07650deda16df944c875f0b3aea9d462bc50c69e1212cfb120d6688198b",
+            "size": 97712
+          },
+          "width": 1086
+        },
+        {
+          "alt": "I'll think it over.",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/03-我再考虑一下/original/4_page3.png",
+            "sha256": "a008e665deeb34a64190604eed71e8f1b730e98c092d9d008325d5804d33ba02",
+            "size": 1477077
+          },
+          "source": "社媒/小红书轮播图/【预览图】我再考虑一下/gemini-preview/4_page3.png",
+          "source_sha256": "a008e665deeb34a64190604eed71e8f1b730e98c092d9d008325d5804d33ba02",
+          "web": {
+            "format": "webp",
+            "path": "notes/03-我再考虑一下/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "a2af424665a9ba1fb6e2549e1a3058fad13a638d668dc0715020ac1ca643ebde",
+            "size": 101492
+          },
+          "width": 1086
+        },
+        {
+          "alt": "购买对话",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/03-我再考虑一下/original/5_page4.png",
+            "sha256": "5f9213d52533dacba258229d6f65a2b2b2c4d3600b9fa4444ce80499844679e0",
+            "size": 1434371
+          },
+          "source": "社媒/小红书轮播图/【预览图】我再考虑一下/gemini-preview/5_page4.png",
+          "source_sha256": "5f9213d52533dacba258229d6f65a2b2b2c4d3600b9fa4444ce80499844679e0",
+          "web": {
+            "format": "webp",
+            "path": "notes/03-我再考虑一下/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "29deac8c25ced3905f23f267137400c921eb25777abcac70a14373b7fbb6da2b",
+            "size": 106964
+          },
+          "width": 1086
+        }
+      ],
+      "order": 3,
+      "source_note": "社媒/小红书轮播图/【预览图】我再考虑一下/我再考虑一下_xhs.md",
+      "source_note_sha256": "6afea70c7507b91c88263535ea6f6647d9fe3156e3e5aa93816280ec57bf3982",
+      "status": "未发布",
+      "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现商品选择场景和“英文怎么说？”，并保持小黑人唯一黑色主角。",
+      "title": "“我再考虑一下”英文怎么说？"
     }
   ],
-  "output_digest": "6a86e13ee7747cc552e620a509bf944f5da058ad1d9f94e78d066effc74d5190",
+  "output_digest": "e541ef4b5308db2e11d77cb0412ba2d4c88af243989f5efdd364329e433166aa",
   "pruned_files": [],
   "schema_version": 1,
   "site": {
@@ -162,14 +411,14 @@
     "pages_url": "https://passmetheplay.github.io/xhs-english-notes-deploy/",
     "repository_url": "https://github.com/passmetheplay/xhs-english-notes-deploy",
     "subtitle": "最新笔记 · 2026-09-05",
-    "title": "小红书英语口语｜最新 1 篇"
+    "title": "小红书英语口语｜3篇"
   },
   "source_root_hint": "obsidian-notes",
   "totals": {
-    "images": 5,
-    "notes": 1,
-    "original_bytes": 6500918,
-    "savings_percent": 94.38423927205358,
-    "webp_bytes": 365076
+    "images": 15,
+    "notes": 3,
+    "original_bytes": 19557822,
+    "savings_percent": 93.11622735905868,
+    "webp_bytes": 1346316
   }
 }
