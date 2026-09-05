@@ -2,22 +2,25 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "9ef17423c537ff51d6f070ee3111cb5a4e42265368f8a0d516820dbcd141769c",
-    "publish-history.jsonl": "c9a68a2ecf963e92a3113d27b28712bcb204987e53fd5b4f39dd72d4da47b473",
-    "publish-report.md": "82457f7632d7376aae14cd4ba8ff1beede000e04778aaf56fbd3115103bcdacf"
+    "index.html": "8c3ff874b31fc65a88343104d5c254d22264d0a7f93c6d05d692fd3f48c63a3c",
+    "publish-history.jsonl": "c5e668799d5407890caab84a052903416b011b743a7ff94a2c9514ae3b946a84",
+    "publish-report.md": "41f0d5b1fe3d3d2b556a1966bd21019d5220720e19e3c6fb8ec6d26451bd055c"
   },
   "changes": {
-    "added": [
-      "02-借过一下",
-      "03-我再考虑一下"
-    ],
+    "added": [],
     "changed": [],
     "removed": [],
     "unchanged": [
-      "01-我吃不下了"
+      "01-我吃不下了",
+      "02-借过一下",
+      "03-我再考虑一下",
+      "04-电梯里等我一下",
+      "05-邮件发出后才发现没加附件-怎么补救",
+      "06-我们先确认目标",
+      "07-我忘回了"
     ]
   },
-  "generated_at": "2026-09-05T03:32:21Z",
+  "generated_at": "2026-09-05T09:14:20Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
@@ -52,6 +55,46 @@
     "notes/03-我再考虑一下/web/3_page2.webp",
     "notes/03-我再考虑一下/web/4_page3.webp",
     "notes/03-我再考虑一下/web/5_page4.webp",
+    "notes/04-电梯里等我一下/original/1_cover.png",
+    "notes/04-电梯里等我一下/original/2_page1.png",
+    "notes/04-电梯里等我一下/original/3_page2.png",
+    "notes/04-电梯里等我一下/original/4_page3.png",
+    "notes/04-电梯里等我一下/original/5_page4.png",
+    "notes/04-电梯里等我一下/web/1_cover.webp",
+    "notes/04-电梯里等我一下/web/2_page1.webp",
+    "notes/04-电梯里等我一下/web/3_page2.webp",
+    "notes/04-电梯里等我一下/web/4_page3.webp",
+    "notes/04-电梯里等我一下/web/5_page4.webp",
+    "notes/05-邮件发出后才发现没加附件-怎么补救/original/1_cover.png",
+    "notes/05-邮件发出后才发现没加附件-怎么补救/original/2_page1.png",
+    "notes/05-邮件发出后才发现没加附件-怎么补救/original/3_page2.png",
+    "notes/05-邮件发出后才发现没加附件-怎么补救/original/4_page3.png",
+    "notes/05-邮件发出后才发现没加附件-怎么补救/original/5_page4.png",
+    "notes/05-邮件发出后才发现没加附件-怎么补救/web/1_cover.webp",
+    "notes/05-邮件发出后才发现没加附件-怎么补救/web/2_page1.webp",
+    "notes/05-邮件发出后才发现没加附件-怎么补救/web/3_page2.webp",
+    "notes/05-邮件发出后才发现没加附件-怎么补救/web/4_page3.webp",
+    "notes/05-邮件发出后才发现没加附件-怎么补救/web/5_page4.webp",
+    "notes/06-我们先确认目标/original/1_cover.png",
+    "notes/06-我们先确认目标/original/2_page1.png",
+    "notes/06-我们先确认目标/original/3_page2.png",
+    "notes/06-我们先确认目标/original/4_page3.png",
+    "notes/06-我们先确认目标/original/5_page4.png",
+    "notes/06-我们先确认目标/web/1_cover.webp",
+    "notes/06-我们先确认目标/web/2_page1.webp",
+    "notes/06-我们先确认目标/web/3_page2.webp",
+    "notes/06-我们先确认目标/web/4_page3.webp",
+    "notes/06-我们先确认目标/web/5_page4.webp",
+    "notes/07-我忘回了/original/1_cover.png",
+    "notes/07-我忘回了/original/2_page1.png",
+    "notes/07-我忘回了/original/3_page2.png",
+    "notes/07-我忘回了/original/4_page3.png",
+    "notes/07-我忘回了/original/5_page4.png",
+    "notes/07-我忘回了/web/1_cover.webp",
+    "notes/07-我忘回了/web/2_page1.webp",
+    "notes/07-我忘回了/web/3_page2.webp",
+    "notes/07-我忘回了/web/4_page3.webp",
+    "notes/07-我忘回了/web/5_page4.webp",
     "publish-history.jsonl",
     "publish-manifest.json",
     "publish-report.md"
@@ -73,7 +116,7 @@
             "sha256": "746f964805331e7b6df920d518068674e41a2e7bd49ce88f8ee8c8964ec11c3a",
             "size": 1360418
           },
-          "source": "社媒/小红书轮播图/【预览图】我吃不下了/gemini-preview/1_cover.png",
+          "source": "【预览图】我吃不下了/gemini-preview/1_cover.png",
           "source_sha256": "746f964805331e7b6df920d518068674e41a2e7bd49ce88f8ee8c8964ec11c3a",
           "web": {
             "format": "webp",
@@ -93,7 +136,7 @@
             "sha256": "1f8fc4da305a5cd09e84e099d89bb3b5a2590dd425adf494e88f33b1ed94ba37",
             "size": 1325150
           },
-          "source": "社媒/小红书轮播图/【预览图】我吃不下了/gemini-preview/2_page1.png",
+          "source": "【预览图】我吃不下了/gemini-preview/2_page1.png",
           "source_sha256": "1f8fc4da305a5cd09e84e099d89bb3b5a2590dd425adf494e88f33b1ed94ba37",
           "web": {
             "format": "webp",
@@ -113,7 +156,7 @@
             "sha256": "9dc56d91ba9d1c721ddb008f252647f88032f7d106709dd4075cbc2f4caf5792",
             "size": 1161276
           },
-          "source": "社媒/小红书轮播图/【预览图】我吃不下了/gemini-preview/3_page2.png",
+          "source": "【预览图】我吃不下了/gemini-preview/3_page2.png",
           "source_sha256": "9dc56d91ba9d1c721ddb008f252647f88032f7d106709dd4075cbc2f4caf5792",
           "web": {
             "format": "webp",
@@ -133,7 +176,7 @@
             "sha256": "f5e5dc48179acb59a3bd4c6da57243b873aceaf35b2f174527267ebdd0386eae",
             "size": 1341423
           },
-          "source": "社媒/小红书轮播图/【预览图】我吃不下了/gemini-preview/4_page3.png",
+          "source": "【预览图】我吃不下了/gemini-preview/4_page3.png",
           "source_sha256": "f5e5dc48179acb59a3bd4c6da57243b873aceaf35b2f174527267ebdd0386eae",
           "web": {
             "format": "webp",
@@ -153,7 +196,7 @@
             "sha256": "d72b77edc9d6308d56962f5d3e85f1a0d172b383ad6428a8c2dd5499e65debcb",
             "size": 1312651
           },
-          "source": "社媒/小红书轮播图/【预览图】我吃不下了/gemini-preview/5_page4.png",
+          "source": "【预览图】我吃不下了/gemini-preview/5_page4.png",
           "source_sha256": "d72b77edc9d6308d56962f5d3e85f1a0d172b383ad6428a8c2dd5499e65debcb",
           "web": {
             "format": "webp",
@@ -166,7 +209,7 @@
         }
       ],
       "order": 1,
-      "source_note": "社媒/小红书轮播图/【预览图】我吃不下了/我吃不下了_xhs.md",
+      "source_note": "【预览图】我吃不下了/我吃不下了_xhs.md",
       "source_note_sha256": "2096627d047298a0c548aff15aad5b0d4ba3fdafb84774af084f8c9611d6794d",
       "status": "未发布",
       "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现餐桌场景与“英文怎么说？”，并执行小黑人一致性审计。",
@@ -186,7 +229,7 @@
             "sha256": "b8345e2cec77ecf35d2a4c82f2242d355019c72f0cc1d6c92cd00e7f243726fc",
             "size": 1023503
           },
-          "source": "社媒/小红书轮播图/【预览图】借过一下/gemini-preview/1_cover.png",
+          "source": "【预览图】借过一下/gemini-preview/1_cover.png",
           "source_sha256": "b8345e2cec77ecf35d2a4c82f2242d355019c72f0cc1d6c92cd00e7f243726fc",
           "web": {
             "format": "webp",
@@ -206,7 +249,7 @@
             "sha256": "51a805fdb39cf4cf86e280bc80f356b77365fa7b9a9b3f71b4bb767ad3935520",
             "size": 1281472
           },
-          "source": "社媒/小红书轮播图/【预览图】借过一下/gemini-preview/2_page1.png",
+          "source": "【预览图】借过一下/gemini-preview/2_page1.png",
           "source_sha256": "51a805fdb39cf4cf86e280bc80f356b77365fa7b9a9b3f71b4bb767ad3935520",
           "web": {
             "format": "webp",
@@ -226,7 +269,7 @@
             "sha256": "f199ceb94f0784eff5d4d64e007a5b7a263ebd4c78cf42ba070c299e66550cb4",
             "size": 1303410
           },
-          "source": "社媒/小红书轮播图/【预览图】借过一下/gemini-preview/3_page2.png",
+          "source": "【预览图】借过一下/gemini-preview/3_page2.png",
           "source_sha256": "f199ceb94f0784eff5d4d64e007a5b7a263ebd4c78cf42ba070c299e66550cb4",
           "web": {
             "format": "webp",
@@ -246,7 +289,7 @@
             "sha256": "d224a14c9f013bf582795abb6835c376f96a4d60cb8923260ba864e50172e793",
             "size": 1216488
           },
-          "source": "社媒/小红书轮播图/【预览图】借过一下/gemini-preview/4_page3.png",
+          "source": "【预览图】借过一下/gemini-preview/4_page3.png",
           "source_sha256": "d224a14c9f013bf582795abb6835c376f96a4d60cb8923260ba864e50172e793",
           "web": {
             "format": "webp",
@@ -266,7 +309,7 @@
             "sha256": "ad3d796daca674ddd3b0bae7fb1251ee71769bac905a80b4c7525dd556098141",
             "size": 1141276
           },
-          "source": "社媒/小红书轮播图/【预览图】借过一下/gemini-preview/5_page4.png",
+          "source": "【预览图】借过一下/gemini-preview/5_page4.png",
           "source_sha256": "ad3d796daca674ddd3b0bae7fb1251ee71769bac905a80b4c7525dd556098141",
           "web": {
             "format": "webp",
@@ -279,7 +322,7 @@
         }
       ],
       "order": 2,
-      "source_note": "社媒/小红书轮播图/【预览图】借过一下/借过一下_xhs.md",
+      "source_note": "【预览图】借过一下/借过一下_xhs.md",
       "source_note_sha256": "e82b0c62deb82da486020af813dfe40fef7a5c1210e4294eb4d11be63fbb411c",
       "status": "未发布",
       "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现拥挤通道与“英文怎么说？”，并执行小黑人一致性审计。",
@@ -299,7 +342,7 @@
             "sha256": "af7cf9bd8ee19158aaaf8ec4cefc693905ee716e010e3b9127aa2062043d689a",
             "size": 1230630
           },
-          "source": "社媒/小红书轮播图/【预览图】我再考虑一下/gemini-preview/1_cover.png",
+          "source": "【预览图】我再考虑一下/gemini-preview/1_cover.png",
           "source_sha256": "af7cf9bd8ee19158aaaf8ec4cefc693905ee716e010e3b9127aa2062043d689a",
           "web": {
             "format": "webp",
@@ -319,7 +362,7 @@
             "sha256": "1b8fffeac50aeb3ad4809b7a3ae24471c78aa4e3e0736770aa4e837b720f3146",
             "size": 1438765
           },
-          "source": "社媒/小红书轮播图/【预览图】我再考虑一下/gemini-preview/2_page1.png",
+          "source": "【预览图】我再考虑一下/gemini-preview/2_page1.png",
           "source_sha256": "1b8fffeac50aeb3ad4809b7a3ae24471c78aa4e3e0736770aa4e837b720f3146",
           "web": {
             "format": "webp",
@@ -339,7 +382,7 @@
             "sha256": "962cfb207b3066422d36f8f283624ecbfc1f4b7ce8852d4b33691652064fdbe9",
             "size": 1509912
           },
-          "source": "社媒/小红书轮播图/【预览图】我再考虑一下/gemini-preview/3_page2.png",
+          "source": "【预览图】我再考虑一下/gemini-preview/3_page2.png",
           "source_sha256": "962cfb207b3066422d36f8f283624ecbfc1f4b7ce8852d4b33691652064fdbe9",
           "web": {
             "format": "webp",
@@ -359,7 +402,7 @@
             "sha256": "a008e665deeb34a64190604eed71e8f1b730e98c092d9d008325d5804d33ba02",
             "size": 1477077
           },
-          "source": "社媒/小红书轮播图/【预览图】我再考虑一下/gemini-preview/4_page3.png",
+          "source": "【预览图】我再考虑一下/gemini-preview/4_page3.png",
           "source_sha256": "a008e665deeb34a64190604eed71e8f1b730e98c092d9d008325d5804d33ba02",
           "web": {
             "format": "webp",
@@ -379,7 +422,7 @@
             "sha256": "5f9213d52533dacba258229d6f65a2b2b2c4d3600b9fa4444ce80499844679e0",
             "size": 1434371
           },
-          "source": "社媒/小红书轮播图/【预览图】我再考虑一下/gemini-preview/5_page4.png",
+          "source": "【预览图】我再考虑一下/gemini-preview/5_page4.png",
           "source_sha256": "5f9213d52533dacba258229d6f65a2b2b2c4d3600b9fa4444ce80499844679e0",
           "web": {
             "format": "webp",
@@ -392,15 +435,466 @@
         }
       ],
       "order": 3,
-      "source_note": "社媒/小红书轮播图/【预览图】我再考虑一下/我再考虑一下_xhs.md",
+      "source_note": "【预览图】我再考虑一下/我再考虑一下_xhs.md",
       "source_note_sha256": "6afea70c7507b91c88263535ea6f6647d9fe3156e3e5aa93816280ec57bf3982",
       "status": "未发布",
       "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现商品选择场景和“英文怎么说？”，并保持小黑人唯一黑色主角。",
       "title": "“我再考虑一下”英文怎么说？"
+    },
+    {
+      "account": "小妙英语",
+      "fingerprint": "e269a4314ff865359511cb999da7edc224adb67c269c176891a61bd63bb61b08",
+      "id": "04-电梯里等我一下",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/04-电梯里等我一下/original/1_cover.png",
+            "sha256": "ad770c8d028334ab9bc92f6d27b4c92c0e22dbfe2a650bfa60b6b1bd77c31562",
+            "size": 1166378
+          },
+          "source": "【预览图】电梯里等我一下/gemini-preview/1_cover.png",
+          "source_sha256": "ad770c8d028334ab9bc92f6d27b4c92c0e22dbfe2a650bfa60b6b1bd77c31562",
+          "web": {
+            "format": "webp",
+            "path": "notes/04-电梯里等我一下/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "a27e0392ecbbbab4451fba374f48a8132c92651867ab80c05d6761a875a497b8",
+            "size": 57640
+          },
+          "width": 1086
+        },
+        {
+          "alt": "Could you hold the elevator?",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/04-电梯里等我一下/original/2_page1.png",
+            "sha256": "cc938e6132ecc457516c72a285405da692077d1402f9935aa53ce4e0f0cb6976",
+            "size": 1331087
+          },
+          "source": "【预览图】电梯里等我一下/gemini-preview/2_page1.png",
+          "source_sha256": "cc938e6132ecc457516c72a285405da692077d1402f9935aa53ce4e0f0cb6976",
+          "web": {
+            "format": "webp",
+            "path": "notes/04-电梯里等我一下/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "581d878e827c6cca1b12f8c0a9f41de26564fd4f6d9cef652e451c5d317589d8",
+            "size": 69568
+          },
+          "width": 1086
+        },
+        {
+          "alt": "Hold the elevator, please.",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/04-电梯里等我一下/original/3_page2.png",
+            "sha256": "161fdc68909d748c455d3971a8270ac9d8703e78c482207dd6056e5f5348b263",
+            "size": 1408977
+          },
+          "source": "【预览图】电梯里等我一下/gemini-preview/3_page2.png",
+          "source_sha256": "161fdc68909d748c455d3971a8270ac9d8703e78c482207dd6056e5f5348b263",
+          "web": {
+            "format": "webp",
+            "path": "notes/04-电梯里等我一下/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "f7eb6f376411ee1d5752f5fb9239d6aaac4cdbb06f51181986b69015cdc663ca",
+            "size": 72982
+          },
+          "width": 1086
+        },
+        {
+          "alt": "I'm coming!",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/04-电梯里等我一下/original/4_page3.png",
+            "sha256": "d14f8c32f9a1882b3d27ddfce4b45fbb7d16fdd927f64bdd5e154e52f29d74f6",
+            "size": 1315396
+          },
+          "source": "【预览图】电梯里等我一下/gemini-preview/4_page3.png",
+          "source_sha256": "d14f8c32f9a1882b3d27ddfce4b45fbb7d16fdd927f64bdd5e154e52f29d74f6",
+          "web": {
+            "format": "webp",
+            "path": "notes/04-电梯里等我一下/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "2445342b3b5284204c02e8f12c8e358917f351a3e9b8c3d9e472953ce89d0e19",
+            "size": 66366
+          },
+          "width": 1086
+        },
+        {
+          "alt": "电梯等待与回应对话",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/04-电梯里等我一下/original/5_page4.png",
+            "sha256": "34e73d11bba17f899458dfa0fa4a7afedb6bd6513954f8544ee3f853a54c207c",
+            "size": 1383224
+          },
+          "source": "【预览图】电梯里等我一下/gemini-preview/5_page4.png",
+          "source_sha256": "34e73d11bba17f899458dfa0fa4a7afedb6bd6513954f8544ee3f853a54c207c",
+          "web": {
+            "format": "webp",
+            "path": "notes/04-电梯里等我一下/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "83429d7d653530c83646ff89ac2bcd1a8b4f6b8832b84805cf0f3b9b10287f92",
+            "size": 73986
+          },
+          "width": 1086
+        }
+      ],
+      "order": 4,
+      "source_note": "【预览图】电梯里等我一下/电梯里等我一下_xhs.md",
+      "source_note_sha256": "1588473a40195fb5d2158297c28d79b29c07faacd7b2f706ccc52558267fc7af",
+      "status": "未发布",
+      "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示；黑色圆头小黑人执行赶电梯、按住开门键和礼貌请求动作，其他人物使用白底黑线稿。",
+      "title": "“电梯里等我一下”英文怎么说？"
+    },
+    {
+      "account": "卖煎饼的司机",
+      "fingerprint": "deae1e546cf0ac19d631cf6cc7fa7ecf277423fc6fb3aa7d947f2df65a00e376",
+      "id": "05-邮件发出后才发现没加附件-怎么补救",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/05-邮件发出后才发现没加附件-怎么补救/original/1_cover.png",
+            "sha256": "7d6ec10341fff123ed532066b1ebfea88da12437515a0d79b40bea51a15a44a8",
+            "size": 1059156
+          },
+          "source": "【预览图】邮件发出后才发现没加附件，怎么补救？/gemini-preview/1_cover.png",
+          "source_sha256": "7d6ec10341fff123ed532066b1ebfea88da12437515a0d79b40bea51a15a44a8",
+          "web": {
+            "format": "webp",
+            "path": "notes/05-邮件发出后才发现没加附件-怎么补救/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "8172ac41ea564ab131608daa9fe5e3300e7d2b5dd02732701e3d2488adffbdfd",
+            "size": 77516
+          },
+          "width": 1086
+        },
+        {
+          "alt": "I forgot to attach the file.",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/05-邮件发出后才发现没加附件-怎么补救/original/2_page1.png",
+            "sha256": "6ae8e7edbcc75a7a2d5b95932537b9445c005a43ebb425b3dfcaa254828420d1",
+            "size": 1312419
+          },
+          "source": "【预览图】邮件发出后才发现没加附件，怎么补救？/gemini-preview/2_page1.png",
+          "source_sha256": "6ae8e7edbcc75a7a2d5b95932537b9445c005a43ebb425b3dfcaa254828420d1",
+          "web": {
+            "format": "webp",
+            "path": "notes/05-邮件发出后才发现没加附件-怎么补救/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "0b833afcc2eb0e509900389bf1013eae2a317c195cac448666bdbd4c0dc536fc",
+            "size": 71612
+          },
+          "width": 1086
+        },
+        {
+          "alt": "I'll send it right away.",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/05-邮件发出后才发现没加附件-怎么补救/original/3_page2.png",
+            "sha256": "d4a6cc6e529b11fcfde5ecc3cdf2b5f0534fd073bd23d2abd69896c96c473c11",
+            "size": 1309712
+          },
+          "source": "【预览图】邮件发出后才发现没加附件，怎么补救？/gemini-preview/3_page2.png",
+          "source_sha256": "d4a6cc6e529b11fcfde5ecc3cdf2b5f0534fd073bd23d2abd69896c96c473c11",
+          "web": {
+            "format": "webp",
+            "path": "notes/05-邮件发出后才发现没加附件-怎么补救/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "a14db9d5706cf441023aa07bfa6bbf0daeb544f5921be7ccefe7dd5083dcf88a",
+            "size": 61374
+          },
+          "width": 1086
+        },
+        {
+          "alt": "Could you let me know if you received it?",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/05-邮件发出后才发现没加附件-怎么补救/original/4_page3.png",
+            "sha256": "e3be1714fe44fb6d13a2847f8505a286ea4d7d9a9df9b2e08de514466dd25e0e",
+            "size": 1144935
+          },
+          "source": "【预览图】邮件发出后才发现没加附件，怎么补救？/gemini-preview/4_page3.png",
+          "source_sha256": "e3be1714fe44fb6d13a2847f8505a286ea4d7d9a9df9b2e08de514466dd25e0e",
+          "web": {
+            "format": "webp",
+            "path": "notes/05-邮件发出后才发现没加附件-怎么补救/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "4ea00cf67b3627e59ad94468fc0f24b346c3887de4b2a21a1861b21c71538e1b",
+            "size": 80404
+          },
+          "width": 1086
+        },
+        {
+          "alt": "邮件补救对话",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/05-邮件发出后才发现没加附件-怎么补救/original/5_page4.png",
+            "sha256": "1a1fb678dc434022193848af09550f2c196e4d1cf8f8b0847abee04ef14e265b",
+            "size": 1435083
+          },
+          "source": "【预览图】邮件发出后才发现没加附件，怎么补救？/gemini-preview/5_page4.png",
+          "source_sha256": "1a1fb678dc434022193848af09550f2c196e4d1cf8f8b0847abee04ef14e265b",
+          "web": {
+            "format": "webp",
+            "path": "notes/05-邮件发出后才发现没加附件-怎么补救/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "3e367fb74d61f8caf488478529b0bc0950bf5b241bb7253644564417f6fb923f",
+            "size": 85658
+          },
+          "width": 1086
+        }
+      ],
+      "order": 5,
+      "source_note": "【预览图】邮件发出后才发现没加附件，怎么补救？/邮件发出后才发现没加附件，怎么补救？_xhs.md",
+      "source_note_sha256": "e736a33d43b577cbccb9eb2adc1ec39301e70f2bcc057ca9a53a39652750b3ae",
+      "status": "未发布",
+      "style": "",
+      "title": "邮件发出后才发现没加附件，怎么补救？"
+    },
+    {
+      "account": "卖煎饼的司机",
+      "fingerprint": "3bb3d8a25f569624044f4f28491958c0b132a6b4f86c718899d69847d969f147",
+      "id": "06-我们先确认目标",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/06-我们先确认目标/original/1_cover.png",
+            "sha256": "2d5282bdd91a4a97807778a5c1749f0307b3f5fe51730f84d81c0c16474f5633",
+            "size": 1122691
+          },
+          "source": "【预览图】我们先确认目标/gemini-preview/1_cover.png",
+          "source_sha256": "2d5282bdd91a4a97807778a5c1749f0307b3f5fe51730f84d81c0c16474f5633",
+          "web": {
+            "format": "webp",
+            "path": "notes/06-我们先确认目标/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "dd497c8ee82bf67c1ed47a68d6c5fcf4b1a4b25941bd1aac73ae95323a331c71",
+            "size": 75286
+          },
+          "width": 1086
+        },
+        {
+          "alt": "Let's clarify the goal first.",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/06-我们先确认目标/original/2_page1.png",
+            "sha256": "5481c331d8bd1a209d19b0c2fc6cc41f00052cb5a0aeb7c8c1b8e3c6d8fb84df",
+            "size": 1154434
+          },
+          "source": "【预览图】我们先确认目标/gemini-preview/2_page1.png",
+          "source_sha256": "5481c331d8bd1a209d19b0c2fc6cc41f00052cb5a0aeb7c8c1b8e3c6d8fb84df",
+          "web": {
+            "format": "webp",
+            "path": "notes/06-我们先确认目标/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "6b005aba3bf471f94d178b951b2e538168b2ccd9dcbdd772d57e52dcc3c1a37d",
+            "size": 78760
+          },
+          "width": 1086
+        },
+        {
+          "alt": "Are we all working toward the same goal?",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/06-我们先确认目标/original/3_page2.png",
+            "sha256": "171783a4db08142500a28f3b24117a9d1f2388bc589507e1f4a66e3b2e274b73",
+            "size": 1170568
+          },
+          "source": "【预览图】我们先确认目标/gemini-preview/3_page2.png",
+          "source_sha256": "171783a4db08142500a28f3b24117a9d1f2388bc589507e1f4a66e3b2e274b73",
+          "web": {
+            "format": "webp",
+            "path": "notes/06-我们先确认目标/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "ff9da75eb3ba4fb88d365f921c37687b018de7caf9f8c08cbcdca458240d1840",
+            "size": 80628
+          },
+          "width": 1086
+        },
+        {
+          "alt": "Let's get back to the main goal.",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/06-我们先确认目标/original/4_page3.png",
+            "sha256": "237d0a11830580eb59d978393f41f0b2a27b67e28ed55b2d765ad402a95e7f05",
+            "size": 1412524
+          },
+          "source": "【预览图】我们先确认目标/gemini-preview/4_page3.png",
+          "source_sha256": "237d0a11830580eb59d978393f41f0b2a27b67e28ed55b2d765ad402a95e7f05",
+          "web": {
+            "format": "webp",
+            "path": "notes/06-我们先确认目标/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "4b0e7203e2888cee2c90771e31851080950119c5997c3aaefaf4a6cde61f7b80",
+            "size": 74114
+          },
+          "width": 1086
+        },
+        {
+          "alt": "会议目标对话",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/06-我们先确认目标/original/5_page4.png",
+            "sha256": "90b1efd0b6ae7dec84983470fff15a75b646fc59310c9ae7b20aa7656ca241dd",
+            "size": 1512810
+          },
+          "source": "【预览图】我们先确认目标/gemini-preview/5_page4.png",
+          "source_sha256": "90b1efd0b6ae7dec84983470fff15a75b646fc59310c9ae7b20aa7656ca241dd",
+          "web": {
+            "format": "webp",
+            "path": "notes/06-我们先确认目标/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "9a42a4e5ca8308d49d047b37f74366238d29bf64d0b40a74377eef103ccd55b4",
+            "size": 102280
+          },
+          "width": 1086
+        }
+      ],
+      "order": 6,
+      "source_note": "【预览图】我们先确认目标/我们先确认目标_xhs.md",
+      "source_note_sha256": "09d448f2269ef842d1c5e4c4c03c070e7c475fc905921bb67f0568dbe3482640",
+      "status": "未发布",
+      "style": "",
+      "title": "“我们先确认目标”英文怎么说？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "b620702d0d3d9156b9cb82bdd6b4e4b7edd52843ca38863fd2e583bb04917b7e",
+      "id": "07-我忘回了",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/07-我忘回了/original/1_cover.png",
+            "sha256": "f0f1f0074bf536bfab9479776f59d83dcb9db19ccdb16589f209e2d4100ebdaa",
+            "size": 1361217
+          },
+          "source": "【预览图】我忘回了/gemini-preview/1_cover.png",
+          "source_sha256": "f0f1f0074bf536bfab9479776f59d83dcb9db19ccdb16589f209e2d4100ebdaa",
+          "web": {
+            "format": "webp",
+            "path": "notes/07-我忘回了/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "88d57094c4e32cb245c2c310a2741d52808c78d85e556e4e046056dd139b0200",
+            "size": 64840
+          },
+          "width": 1086
+        },
+        {
+          "alt": "I forgot to reply.",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/07-我忘回了/original/2_page1.png",
+            "sha256": "7b2db982ae74fad5135717f1afba5c91b137d79113e341bed4f850a49ad937b7",
+            "size": 1050356
+          },
+          "source": "【预览图】我忘回了/gemini-preview/2_page1.png",
+          "source_sha256": "7b2db982ae74fad5135717f1afba5c91b137d79113e341bed4f850a49ad937b7",
+          "web": {
+            "format": "webp",
+            "path": "notes/07-我忘回了/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "6e76db7b66e496666b2795c67547929f2222da34ab3d93422bb58f5f5c47f4c8",
+            "size": 61586
+          },
+          "width": 1086
+        },
+        {
+          "alt": "Sorry for the late reply.",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/07-我忘回了/original/3_page2.png",
+            "sha256": "a72f0cf1a1cf78e56c31c9b821f9f4300e6cb0d68ef9c200f2635bde207df3b2",
+            "size": 1175992
+          },
+          "source": "【预览图】我忘回了/gemini-preview/3_page2.png",
+          "source_sha256": "a72f0cf1a1cf78e56c31c9b821f9f4300e6cb0d68ef9c200f2635bde207df3b2",
+          "web": {
+            "format": "webp",
+            "path": "notes/07-我忘回了/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "47641ffbcf29ff5bd0e3f7f3d58c02e83c1cf40c9958a6f107984dcc2442427f",
+            "size": 72588
+          },
+          "width": 1086
+        },
+        {
+          "alt": "I just saw your message.",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/07-我忘回了/original/4_page3.png",
+            "sha256": "23a8a0cdac8826723fb463891a3989888fbb87b3a0a4e0284328abc7e2a371ad",
+            "size": 1369292
+          },
+          "source": "【预览图】我忘回了/gemini-preview/4_page3.png",
+          "source_sha256": "23a8a0cdac8826723fb463891a3989888fbb87b3a0a4e0284328abc7e2a371ad",
+          "web": {
+            "format": "webp",
+            "path": "notes/07-我忘回了/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "5bd2d4d1e8a5c9e52c0c4097a7a90fde1f62780e6f904f8f0932739b09e2a9d9",
+            "size": 64174
+          },
+          "width": 1086
+        },
+        {
+          "alt": "聊天回复对话",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/07-我忘回了/original/5_page4.png",
+            "sha256": "d89ffba74568b4324d5e1698f9198abe305123a538f18ba9389465d39a64beba",
+            "size": 1161335
+          },
+          "source": "【预览图】我忘回了/gemini-preview/5_page4.png",
+          "source_sha256": "d89ffba74568b4324d5e1698f9198abe305123a538f18ba9389465d39a64beba",
+          "web": {
+            "format": "webp",
+            "path": "notes/07-我忘回了/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "9a167ef263bc84639cac8b56f0517259eb141e87d13e935acba7422ebe7a43da",
+            "size": 78318
+          },
+          "width": 1086
+        }
+      ],
+      "order": 7,
+      "source_note": "【预览图】我忘回了/我忘回了_xhs.md",
+      "source_note_sha256": "e3efd365f4eb765b888cb12d6794681e8077826c6124740b6028507b60ca9c5f",
+      "status": "未发布",
+      "style": "",
+      "title": "“我忘回了”英文怎么说？"
     }
   ],
-  "output_digest": "e541ef4b5308db2e11d77cb0412ba2d4c88af243989f5efdd364329e433166aa",
-  "pruned_files": [],
+  "output_digest": "f51e8fa50ca56592adf2cf2beeedaa12de556858181f9b3505fa8d379f0ec3a4",
   "schema_version": 1,
   "site": {
     "accent": "#c44536",
@@ -411,14 +905,14 @@
     "pages_url": "https://passmetheplay.github.io/xhs-english-notes-deploy/",
     "repository_url": "https://github.com/passmetheplay/xhs-english-notes-deploy",
     "subtitle": "最新笔记 · 2026-09-05",
-    "title": "小红书英语口语｜3篇"
+    "title": "小红书英语口语｜7篇"
   },
-  "source_root_hint": "obsidian-notes",
+  "source_root_hint": "小红书轮播图",
   "totals": {
-    "images": 15,
-    "notes": 3,
-    "original_bytes": 19557822,
-    "savings_percent": 93.11622735905868,
-    "webp_bytes": 1346316
+    "images": 35,
+    "notes": 7,
+    "original_bytes": 44915408,
+    "savings_percent": 93.73044546316935,
+    "webp_bytes": 2815996
   }
 }
