@@ -2,15 +2,13 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "8c3ff874b31fc65a88343104d5c254d22264d0a7f93c6d05d692fd3f48c63a3c",
+    "index.html": "416663a0e3d46dcdd570b47897e5d26948dc44c1f6ebbb313791273f14a43913",
     "publish-history.jsonl": "c5e668799d5407890caab84a052903416b011b743a7ff94a2c9514ae3b946a84",
-    "publish-report.md": "41f0d5b1fe3d3d2b556a1966bd21019d5220720e19e3c6fb8ec6d26451bd055c"
+    "publish-report.md": "2418fdc46ad70402233272afc08fce8527215263f595de0f8ed51e231d8ee7f5"
   },
   "changes": {
     "added": [],
-    "changed": [],
-    "removed": [],
-    "unchanged": [
+    "changed": [
       "01-我吃不下了",
       "02-借过一下",
       "03-我再考虑一下",
@@ -18,9 +16,11 @@
       "05-邮件发出后才发现没加附件-怎么补救",
       "06-我们先确认目标",
       "07-我忘回了"
-    ]
+    ],
+    "removed": [],
+    "unchanged": []
   },
-  "generated_at": "2026-09-05T09:14:20Z",
+  "generated_at": "2026-09-09T08:13:13Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
@@ -100,11 +100,10 @@
     "publish-report.md"
   ],
   "generator_version": "1.0.0",
-  "history_record_appended": true,
   "notes": [
     {
       "account": "小帮英语",
-      "fingerprint": "46d4e02b1c6891feef9d14ed451c097e73d2ca71341c5dfc5e3f4d14461c8391",
+      "fingerprint": "7486b0e6b6dbdbdb8367e61d3ee4c558db96e84455d045f2c895c0f25a97858b",
       "id": "01-我吃不下了",
       "images": [
         {
@@ -113,17 +112,17 @@
           "height": 1448,
           "original": {
             "path": "notes/01-我吃不下了/original/1_cover.png",
-            "sha256": "746f964805331e7b6df920d518068674e41a2e7bd49ce88f8ee8c8964ec11c3a",
-            "size": 1360418
+            "sha256": "cff1619d0bd6e36ca0ac8e75900d82cc63e04f554b1436d2a861a8b4c944ed9c",
+            "size": 1407054
           },
           "source": "【预览图】我吃不下了/gemini-preview/1_cover.png",
-          "source_sha256": "746f964805331e7b6df920d518068674e41a2e7bd49ce88f8ee8c8964ec11c3a",
+          "source_sha256": "cff1619d0bd6e36ca0ac8e75900d82cc63e04f554b1436d2a861a8b4c944ed9c",
           "web": {
             "format": "webp",
             "path": "notes/01-我吃不下了/web/1_cover.webp",
             "quality": 82,
-            "sha256": "b7e01e66bb900056cb4af3d5059d9bd9a401f37b874be2342076500b987b850b",
-            "size": 68026
+            "sha256": "827386e2f34ddc36df9dc6af00538d0b8df5765213a8b29714ae216749f8df8a",
+            "size": 72438
           },
           "width": 1086
         },
@@ -133,17 +132,17 @@
           "height": 1448,
           "original": {
             "path": "notes/01-我吃不下了/original/2_page1.png",
-            "sha256": "1f8fc4da305a5cd09e84e099d89bb3b5a2590dd425adf494e88f33b1ed94ba37",
-            "size": 1325150
+            "sha256": "d6a75421ba4b76f1b6eb95e424c4d05afc0ae8f0b7efcef4ee2eb0cdeeb6ae78",
+            "size": 1300706
           },
           "source": "【预览图】我吃不下了/gemini-preview/2_page1.png",
-          "source_sha256": "1f8fc4da305a5cd09e84e099d89bb3b5a2590dd425adf494e88f33b1ed94ba37",
+          "source_sha256": "d6a75421ba4b76f1b6eb95e424c4d05afc0ae8f0b7efcef4ee2eb0cdeeb6ae78",
           "web": {
             "format": "webp",
             "path": "notes/01-我吃不下了/web/2_page1.webp",
             "quality": 82,
-            "sha256": "9cf84f1ce677ff0110e0e7d45861d681659f270678b30079e228a3f31e8fcb80",
-            "size": 71522
+            "sha256": "50193ced4e2e374123427e034dfb50be2567c02e113990f110e5e3be56829395",
+            "size": 76292
           },
           "width": 1086
         },
@@ -153,17 +152,17 @@
           "height": 1448,
           "original": {
             "path": "notes/01-我吃不下了/original/3_page2.png",
-            "sha256": "9dc56d91ba9d1c721ddb008f252647f88032f7d106709dd4075cbc2f4caf5792",
-            "size": 1161276
+            "sha256": "361960d89144c7a74bb0e3fcfefda760a6cac1d836e0fa8794ef7730692af75a",
+            "size": 1567296
           },
           "source": "【预览图】我吃不下了/gemini-preview/3_page2.png",
-          "source_sha256": "9dc56d91ba9d1c721ddb008f252647f88032f7d106709dd4075cbc2f4caf5792",
+          "source_sha256": "361960d89144c7a74bb0e3fcfefda760a6cac1d836e0fa8794ef7730692af75a",
           "web": {
             "format": "webp",
             "path": "notes/01-我吃不下了/web/3_page2.webp",
             "quality": 82,
-            "sha256": "0f05d620c0f39b201a7f19ee3fe8ff6696a0ddec40ac70926413dcd376b87d3a",
-            "size": 83138
+            "sha256": "5209b29156299fd73fed4fcafa7d4091e279fee1a081e8606014585327d52543",
+            "size": 110274
           },
           "width": 1086
         },
@@ -173,17 +172,17 @@
           "height": 1448,
           "original": {
             "path": "notes/01-我吃不下了/original/4_page3.png",
-            "sha256": "f5e5dc48179acb59a3bd4c6da57243b873aceaf35b2f174527267ebdd0386eae",
-            "size": 1341423
+            "sha256": "06fabf0ace8a26a5af258854995929e18279df5a1a8b5eb411cfa7e2191eb0c5",
+            "size": 1349778
           },
           "source": "【预览图】我吃不下了/gemini-preview/4_page3.png",
-          "source_sha256": "f5e5dc48179acb59a3bd4c6da57243b873aceaf35b2f174527267ebdd0386eae",
+          "source_sha256": "06fabf0ace8a26a5af258854995929e18279df5a1a8b5eb411cfa7e2191eb0c5",
           "web": {
             "format": "webp",
             "path": "notes/01-我吃不下了/web/4_page3.webp",
             "quality": 82,
-            "sha256": "49c4a3e403d805d2e75a45ebd879c5e8c387ec5640c836a813d2b2eafe69a19e",
-            "size": 76942
+            "sha256": "ff517f7cab29d18ad5a50477e80f37ad7c2870d99974c79b3fadc6141f2259b2",
+            "size": 80270
           },
           "width": 1086
         },
@@ -193,17 +192,17 @@
           "height": 1448,
           "original": {
             "path": "notes/01-我吃不下了/original/5_page4.png",
-            "sha256": "d72b77edc9d6308d56962f5d3e85f1a0d172b383ad6428a8c2dd5499e65debcb",
-            "size": 1312651
+            "sha256": "1caf9a4d403107e4fea3c0a20a910fc2faa539fac33076ccc24704dfd4602c12",
+            "size": 1466029
           },
           "source": "【预览图】我吃不下了/gemini-preview/5_page4.png",
-          "source_sha256": "d72b77edc9d6308d56962f5d3e85f1a0d172b383ad6428a8c2dd5499e65debcb",
+          "source_sha256": "1caf9a4d403107e4fea3c0a20a910fc2faa539fac33076ccc24704dfd4602c12",
           "web": {
             "format": "webp",
             "path": "notes/01-我吃不下了/web/5_page4.webp",
             "quality": 82,
-            "sha256": "a99ffe794747eab310a628661c3735033f37d97313c76d27941b312b2097f98f",
-            "size": 65448
+            "sha256": "e7b53039e17b6c274eac75707abea5b5968bdf5fdf5e46754da1ddeec1ea7b21",
+            "size": 111970
           },
           "width": 1086
         }
@@ -217,7 +216,7 @@
     },
     {
       "account": "小帮英语",
-      "fingerprint": "0e28e338deef8dd019ceadce46d356370c681372a6ea20de77b2ca34c3f71ad8",
+      "fingerprint": "389b2a5616418bd2066b202742e33856b90dca360c0590c21caa8f5fd0d3d13c",
       "id": "02-借过一下",
       "images": [
         {
@@ -226,17 +225,17 @@
           "height": 1448,
           "original": {
             "path": "notes/02-借过一下/original/1_cover.png",
-            "sha256": "b8345e2cec77ecf35d2a4c82f2242d355019c72f0cc1d6c92cd00e7f243726fc",
-            "size": 1023503
+            "sha256": "fd6aaf5c3dd5777f90982a414aec9ff3e86783db678388be972f8c543bdf6740",
+            "size": 1331287
           },
           "source": "【预览图】借过一下/gemini-preview/1_cover.png",
-          "source_sha256": "b8345e2cec77ecf35d2a4c82f2242d355019c72f0cc1d6c92cd00e7f243726fc",
+          "source_sha256": "fd6aaf5c3dd5777f90982a414aec9ff3e86783db678388be972f8c543bdf6740",
           "web": {
             "format": "webp",
             "path": "notes/02-借过一下/web/1_cover.webp",
             "quality": 82,
-            "sha256": "2bac285dea9d752d54e405029f3922dfa1db010692b5fc701da3103b5dc3d029",
-            "size": 75156
+            "sha256": "cd4ad610135828e81913130837a9ecf797dc2ad710178469b813f2f120ca4b8c",
+            "size": 64908
           },
           "width": 1086
         },
@@ -246,17 +245,17 @@
           "height": 1448,
           "original": {
             "path": "notes/02-借过一下/original/2_page1.png",
-            "sha256": "51a805fdb39cf4cf86e280bc80f356b77365fa7b9a9b3f71b4bb767ad3935520",
-            "size": 1281472
+            "sha256": "c8e6553fcf5855942147a24e4d57ad05a0c05b7414ae873b411a2dff1033fc35",
+            "size": 1381201
           },
           "source": "【预览图】借过一下/gemini-preview/2_page1.png",
-          "source_sha256": "51a805fdb39cf4cf86e280bc80f356b77365fa7b9a9b3f71b4bb767ad3935520",
+          "source_sha256": "c8e6553fcf5855942147a24e4d57ad05a0c05b7414ae873b411a2dff1033fc35",
           "web": {
             "format": "webp",
             "path": "notes/02-借过一下/web/2_page1.webp",
             "quality": 82,
-            "sha256": "c9a215b61f109adc095ef69e4876f49ae432377d2b618601c58f3b9c2997c49f",
-            "size": 115166
+            "sha256": "356719d406ff7e2efcc66a2858724d47bc3ad9ba0a3049b0c40744ffc46708fd",
+            "size": 76620
           },
           "width": 1086
         },
@@ -266,17 +265,17 @@
           "height": 1448,
           "original": {
             "path": "notes/02-借过一下/original/3_page2.png",
-            "sha256": "f199ceb94f0784eff5d4d64e007a5b7a263ebd4c78cf42ba070c299e66550cb4",
-            "size": 1303410
+            "sha256": "dd5d45b9724059ffdae70d81a9f60f3715096141604d5349f36f45a76fa65d4a",
+            "size": 1366272
           },
           "source": "【预览图】借过一下/gemini-preview/3_page2.png",
-          "source_sha256": "f199ceb94f0784eff5d4d64e007a5b7a263ebd4c78cf42ba070c299e66550cb4",
+          "source_sha256": "dd5d45b9724059ffdae70d81a9f60f3715096141604d5349f36f45a76fa65d4a",
           "web": {
             "format": "webp",
             "path": "notes/02-借过一下/web/3_page2.webp",
             "quality": 82,
-            "sha256": "727b9138937ad0d86538660ea9eebc1cde014b2fbffaac60ca40ca660b3cb85a",
-            "size": 107482
+            "sha256": "7abdb97ddd4550a9d3447983b9267f88a697e9651a23fe6425db0f3d51c94a4f",
+            "size": 67626
           },
           "width": 1086
         },
@@ -286,17 +285,17 @@
           "height": 1448,
           "original": {
             "path": "notes/02-借过一下/original/4_page3.png",
-            "sha256": "d224a14c9f013bf582795abb6835c376f96a4d60cb8923260ba864e50172e793",
-            "size": 1216488
+            "sha256": "70c1c0f0a80b54c84973dc34f32c667de4c479d813294c1eccd3647260d9a902",
+            "size": 1461658
           },
           "source": "【预览图】借过一下/gemini-preview/4_page3.png",
-          "source_sha256": "d224a14c9f013bf582795abb6835c376f96a4d60cb8923260ba864e50172e793",
+          "source_sha256": "70c1c0f0a80b54c84973dc34f32c667de4c479d813294c1eccd3647260d9a902",
           "web": {
             "format": "webp",
             "path": "notes/02-借过一下/web/4_page3.webp",
             "quality": 82,
-            "sha256": "5e050b5d2495218a484c7c0591c2149f35abe230b53cf00d745a69335419856c",
-            "size": 95030
+            "sha256": "4f8aa7e001786595b80b5cbdc9e96288c502996021473ce0670b0d19a2990e07",
+            "size": 97886
           },
           "width": 1086
         },
@@ -306,17 +305,17 @@
           "height": 1448,
           "original": {
             "path": "notes/02-借过一下/original/5_page4.png",
-            "sha256": "ad3d796daca674ddd3b0bae7fb1251ee71769bac905a80b4c7525dd556098141",
-            "size": 1141276
+            "sha256": "32ea06fc5abd0f645ebc208f280afcec858b82ef5fabdf2f091a00eb2e74a653",
+            "size": 1427869
           },
           "source": "【预览图】借过一下/gemini-preview/5_page4.png",
-          "source_sha256": "ad3d796daca674ddd3b0bae7fb1251ee71769bac905a80b4c7525dd556098141",
+          "source_sha256": "32ea06fc5abd0f645ebc208f280afcec858b82ef5fabdf2f091a00eb2e74a653",
           "web": {
             "format": "webp",
             "path": "notes/02-借过一下/web/5_page4.webp",
             "quality": 82,
-            "sha256": "fe3eb58f468c6f4ad7718055667a8bdab8bba55ad872022e2b42c3a70c668fc7",
-            "size": 83490
+            "sha256": "fa267da7291ea81f6d8a8ee8e14a156d381c89015ee002caf54df224f99c3eea",
+            "size": 99114
           },
           "width": 1086
         }
@@ -330,7 +329,7 @@
     },
     {
       "account": "小帮英语",
-      "fingerprint": "0b30c3af90fbaaeb3b57e349fab9a08bbcabda3842f7142ed14de554466a66f2",
+      "fingerprint": "207543b0d77de8e6536c00fd45970a42dee19bb229f8cc6e343e8c80219f06ca",
       "id": "03-我再考虑一下",
       "images": [
         {
@@ -339,17 +338,17 @@
           "height": 1448,
           "original": {
             "path": "notes/03-我再考虑一下/original/1_cover.png",
-            "sha256": "af7cf9bd8ee19158aaaf8ec4cefc693905ee716e010e3b9127aa2062043d689a",
-            "size": 1230630
+            "sha256": "e83fdc2a2e91bf8ac1027c977080cc39e31e165cd3fadabf49a68ab9a0879555",
+            "size": 1359713
           },
           "source": "【预览图】我再考虑一下/gemini-preview/1_cover.png",
-          "source_sha256": "af7cf9bd8ee19158aaaf8ec4cefc693905ee716e010e3b9127aa2062043d689a",
+          "source_sha256": "e83fdc2a2e91bf8ac1027c977080cc39e31e165cd3fadabf49a68ab9a0879555",
           "web": {
             "format": "webp",
             "path": "notes/03-我再考虑一下/web/1_cover.webp",
             "quality": 82,
-            "sha256": "e27a60b582fae16d2ed880775afe62b8d31ae5c37f89dfa74eb3d6536840fde9",
-            "size": 105238
+            "sha256": "1009592a00042b8b24e754cababafb31030ff10a4b4e9c8f7fa120d2b1bd8a58",
+            "size": 70430
           },
           "width": 1086
         },
@@ -359,17 +358,17 @@
           "height": 1448,
           "original": {
             "path": "notes/03-我再考虑一下/original/2_page1.png",
-            "sha256": "1b8fffeac50aeb3ad4809b7a3ae24471c78aa4e3e0736770aa4e837b720f3146",
-            "size": 1438765
+            "sha256": "d70d5c7230349bdcea8ae0332c607ba25f1590fe360f761bf5fdd19955f474be",
+            "size": 1311982
           },
           "source": "【预览图】我再考虑一下/gemini-preview/2_page1.png",
-          "source_sha256": "1b8fffeac50aeb3ad4809b7a3ae24471c78aa4e3e0736770aa4e837b720f3146",
+          "source_sha256": "d70d5c7230349bdcea8ae0332c607ba25f1590fe360f761bf5fdd19955f474be",
           "web": {
             "format": "webp",
             "path": "notes/03-我再考虑一下/web/2_page1.webp",
             "quality": 82,
-            "sha256": "e8b2acc2bc088a6c78972015e1c2fa083a0076ace954e94b469881d67a0f7474",
-            "size": 93510
+            "sha256": "0a6c33e24857580522a9671728396c5f180fe21160dd2549081c67b1e6bd8131",
+            "size": 71478
           },
           "width": 1086
         },
@@ -379,17 +378,17 @@
           "height": 1448,
           "original": {
             "path": "notes/03-我再考虑一下/original/3_page2.png",
-            "sha256": "962cfb207b3066422d36f8f283624ecbfc1f4b7ce8852d4b33691652064fdbe9",
-            "size": 1509912
+            "sha256": "8f0455853bfb4301fd93d2acdbe5cd1d4661de516f28c0ed113884dd9618ce85",
+            "size": 1309320
           },
           "source": "【预览图】我再考虑一下/gemini-preview/3_page2.png",
-          "source_sha256": "962cfb207b3066422d36f8f283624ecbfc1f4b7ce8852d4b33691652064fdbe9",
+          "source_sha256": "8f0455853bfb4301fd93d2acdbe5cd1d4661de516f28c0ed113884dd9618ce85",
           "web": {
             "format": "webp",
             "path": "notes/03-我再考虑一下/web/3_page2.webp",
             "quality": 82,
-            "sha256": "a37fc07650deda16df944c875f0b3aea9d462bc50c69e1212cfb120d6688198b",
-            "size": 97712
+            "sha256": "bb1a1822439497ba29a926334cda39423d3f0f6a8ca7ab305802e2983f73429d",
+            "size": 84844
           },
           "width": 1086
         },
@@ -399,17 +398,17 @@
           "height": 1448,
           "original": {
             "path": "notes/03-我再考虑一下/original/4_page3.png",
-            "sha256": "a008e665deeb34a64190604eed71e8f1b730e98c092d9d008325d5804d33ba02",
-            "size": 1477077
+            "sha256": "7b2c64f4f26c5e39ff66dc27c5af2a96efd19a6f033cdd7f7fa28d98029552f8",
+            "size": 1399953
           },
           "source": "【预览图】我再考虑一下/gemini-preview/4_page3.png",
-          "source_sha256": "a008e665deeb34a64190604eed71e8f1b730e98c092d9d008325d5804d33ba02",
+          "source_sha256": "7b2c64f4f26c5e39ff66dc27c5af2a96efd19a6f033cdd7f7fa28d98029552f8",
           "web": {
             "format": "webp",
             "path": "notes/03-我再考虑一下/web/4_page3.webp",
             "quality": 82,
-            "sha256": "a2af424665a9ba1fb6e2549e1a3058fad13a638d668dc0715020ac1ca643ebde",
-            "size": 101492
+            "sha256": "40f5eb9b2e56dd571562e7ea7a101ab285421777cd42bb2796e733c4530e65ab",
+            "size": 84812
           },
           "width": 1086
         },
@@ -419,17 +418,17 @@
           "height": 1448,
           "original": {
             "path": "notes/03-我再考虑一下/original/5_page4.png",
-            "sha256": "5f9213d52533dacba258229d6f65a2b2b2c4d3600b9fa4444ce80499844679e0",
-            "size": 1434371
+            "sha256": "190556a9bdb4882bfd0cd7cf017acf126b439d4caa82613919f15b18ae1f0839",
+            "size": 1412162
           },
           "source": "【预览图】我再考虑一下/gemini-preview/5_page4.png",
-          "source_sha256": "5f9213d52533dacba258229d6f65a2b2b2c4d3600b9fa4444ce80499844679e0",
+          "source_sha256": "190556a9bdb4882bfd0cd7cf017acf126b439d4caa82613919f15b18ae1f0839",
           "web": {
             "format": "webp",
             "path": "notes/03-我再考虑一下/web/5_page4.webp",
             "quality": 82,
-            "sha256": "29deac8c25ced3905f23f267137400c921eb25777abcac70a14373b7fbb6da2b",
-            "size": 106964
+            "sha256": "00db8b5385bd9456796b19873ca56e799cc5248c3bf0a3d59cdb2dbc7a6e422c",
+            "size": 85386
           },
           "width": 1086
         }
@@ -443,7 +442,7 @@
     },
     {
       "account": "小妙英语",
-      "fingerprint": "e269a4314ff865359511cb999da7edc224adb67c269c176891a61bd63bb61b08",
+      "fingerprint": "a1b2c9e6c805fb13a759bbfb3375c23741f0723b1d00af212a5a902b04f6fe11",
       "id": "04-电梯里等我一下",
       "images": [
         {
@@ -452,17 +451,17 @@
           "height": 1448,
           "original": {
             "path": "notes/04-电梯里等我一下/original/1_cover.png",
-            "sha256": "ad770c8d028334ab9bc92f6d27b4c92c0e22dbfe2a650bfa60b6b1bd77c31562",
-            "size": 1166378
+            "sha256": "840285cbe1f1bc5ae4b3096324e11bc9de63516b7ce97e44ffa34bb9474d5596",
+            "size": 1456579
           },
           "source": "【预览图】电梯里等我一下/gemini-preview/1_cover.png",
-          "source_sha256": "ad770c8d028334ab9bc92f6d27b4c92c0e22dbfe2a650bfa60b6b1bd77c31562",
+          "source_sha256": "840285cbe1f1bc5ae4b3096324e11bc9de63516b7ce97e44ffa34bb9474d5596",
           "web": {
             "format": "webp",
             "path": "notes/04-电梯里等我一下/web/1_cover.webp",
             "quality": 82,
-            "sha256": "a27e0392ecbbbab4451fba374f48a8132c92651867ab80c05d6761a875a497b8",
-            "size": 57640
+            "sha256": "995b187b316b7bb953e097468caba583291eb5dd98f6b509d7bc82aac8ced38d",
+            "size": 102896
           },
           "width": 1086
         },
@@ -472,17 +471,17 @@
           "height": 1448,
           "original": {
             "path": "notes/04-电梯里等我一下/original/2_page1.png",
-            "sha256": "cc938e6132ecc457516c72a285405da692077d1402f9935aa53ce4e0f0cb6976",
-            "size": 1331087
+            "sha256": "db1fd3d21c195ad2b00898d7af8e5ffcd8845209f0292c9f80c88d3b473820dc",
+            "size": 1367887
           },
           "source": "【预览图】电梯里等我一下/gemini-preview/2_page1.png",
-          "source_sha256": "cc938e6132ecc457516c72a285405da692077d1402f9935aa53ce4e0f0cb6976",
+          "source_sha256": "db1fd3d21c195ad2b00898d7af8e5ffcd8845209f0292c9f80c88d3b473820dc",
           "web": {
             "format": "webp",
             "path": "notes/04-电梯里等我一下/web/2_page1.webp",
             "quality": 82,
-            "sha256": "581d878e827c6cca1b12f8c0a9f41de26564fd4f6d9cef652e451c5d317589d8",
-            "size": 69568
+            "sha256": "d261ef1b2ef9f800c00efccf4047757f05b487b4234f394df30e5b170e7dd04e",
+            "size": 63028
           },
           "width": 1086
         },
@@ -492,17 +491,17 @@
           "height": 1448,
           "original": {
             "path": "notes/04-电梯里等我一下/original/3_page2.png",
-            "sha256": "161fdc68909d748c455d3971a8270ac9d8703e78c482207dd6056e5f5348b263",
-            "size": 1408977
+            "sha256": "843f7bd72d311e8ea8cad96507bbb4069a482f764df572b40d262fa5994b0186",
+            "size": 1395958
           },
           "source": "【预览图】电梯里等我一下/gemini-preview/3_page2.png",
-          "source_sha256": "161fdc68909d748c455d3971a8270ac9d8703e78c482207dd6056e5f5348b263",
+          "source_sha256": "843f7bd72d311e8ea8cad96507bbb4069a482f764df572b40d262fa5994b0186",
           "web": {
             "format": "webp",
             "path": "notes/04-电梯里等我一下/web/3_page2.webp",
             "quality": 82,
-            "sha256": "f7eb6f376411ee1d5752f5fb9239d6aaac4cdbb06f51181986b69015cdc663ca",
-            "size": 72982
+            "sha256": "3d19d86cb43644a564bd70ecfa0752895af3bdf40a0a538eecaa0831bb5f6ed9",
+            "size": 72990
           },
           "width": 1086
         },
@@ -512,17 +511,17 @@
           "height": 1448,
           "original": {
             "path": "notes/04-电梯里等我一下/original/4_page3.png",
-            "sha256": "d14f8c32f9a1882b3d27ddfce4b45fbb7d16fdd927f64bdd5e154e52f29d74f6",
-            "size": 1315396
+            "sha256": "861eb6c54f6245e08cbf69a094963c3b005b4b66d0c44cc5e4036fcd7208f207",
+            "size": 1441096
           },
           "source": "【预览图】电梯里等我一下/gemini-preview/4_page3.png",
-          "source_sha256": "d14f8c32f9a1882b3d27ddfce4b45fbb7d16fdd927f64bdd5e154e52f29d74f6",
+          "source_sha256": "861eb6c54f6245e08cbf69a094963c3b005b4b66d0c44cc5e4036fcd7208f207",
           "web": {
             "format": "webp",
             "path": "notes/04-电梯里等我一下/web/4_page3.webp",
             "quality": 82,
-            "sha256": "2445342b3b5284204c02e8f12c8e358917f351a3e9b8c3d9e472953ce89d0e19",
-            "size": 66366
+            "sha256": "e9a3175c9a81e6efe0ce42c26062fe3a5c456e79e98196f1745bed429fc12ab6",
+            "size": 81708
           },
           "width": 1086
         },
@@ -532,17 +531,17 @@
           "height": 1448,
           "original": {
             "path": "notes/04-电梯里等我一下/original/5_page4.png",
-            "sha256": "34e73d11bba17f899458dfa0fa4a7afedb6bd6513954f8544ee3f853a54c207c",
-            "size": 1383224
+            "sha256": "8eb8bfb30ce644fa2a3c04a753302358d2a2c95bb4e8e514775d1e292db47ed9",
+            "size": 1429806
           },
           "source": "【预览图】电梯里等我一下/gemini-preview/5_page4.png",
-          "source_sha256": "34e73d11bba17f899458dfa0fa4a7afedb6bd6513954f8544ee3f853a54c207c",
+          "source_sha256": "8eb8bfb30ce644fa2a3c04a753302358d2a2c95bb4e8e514775d1e292db47ed9",
           "web": {
             "format": "webp",
             "path": "notes/04-电梯里等我一下/web/5_page4.webp",
             "quality": 82,
-            "sha256": "83429d7d653530c83646ff89ac2bcd1a8b4f6b8832b84805cf0f3b9b10287f92",
-            "size": 73986
+            "sha256": "73cc8e71ed3703da1ce71700d945e0b1a20e9e4f61b4811ca3c256adc9228d07",
+            "size": 90570
           },
           "width": 1086
         }
@@ -556,7 +555,7 @@
     },
     {
       "account": "卖煎饼的司机",
-      "fingerprint": "deae1e546cf0ac19d631cf6cc7fa7ecf277423fc6fb3aa7d947f2df65a00e376",
+      "fingerprint": "7194eb4b0a4138438334add684dc06bd66172b4cb5ef05594dd6c27d363c228d",
       "id": "05-邮件发出后才发现没加附件-怎么补救",
       "images": [
         {
@@ -565,17 +564,17 @@
           "height": 1448,
           "original": {
             "path": "notes/05-邮件发出后才发现没加附件-怎么补救/original/1_cover.png",
-            "sha256": "7d6ec10341fff123ed532066b1ebfea88da12437515a0d79b40bea51a15a44a8",
-            "size": 1059156
+            "sha256": "86eba8c3d3d4dc57b99ac3d6f6147ec3ae82d1086adc119015e4b38090f4c773",
+            "size": 1399123
           },
-          "source": "【预览图】邮件发出后才发现没加附件，怎么补救？/gemini-preview/1_cover.png",
-          "source_sha256": "7d6ec10341fff123ed532066b1ebfea88da12437515a0d79b40bea51a15a44a8",
+          "source": "00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/gemini-preview/1_cover.png",
+          "source_sha256": "86eba8c3d3d4dc57b99ac3d6f6147ec3ae82d1086adc119015e4b38090f4c773",
           "web": {
             "format": "webp",
             "path": "notes/05-邮件发出后才发现没加附件-怎么补救/web/1_cover.webp",
             "quality": 82,
-            "sha256": "8172ac41ea564ab131608daa9fe5e3300e7d2b5dd02732701e3d2488adffbdfd",
-            "size": 77516
+            "sha256": "526ae196b308e7f3ca2f1c442bde952a9da232a352df41def942fdb138f953c4",
+            "size": 78086
           },
           "width": 1086
         },
@@ -585,17 +584,17 @@
           "height": 1448,
           "original": {
             "path": "notes/05-邮件发出后才发现没加附件-怎么补救/original/2_page1.png",
-            "sha256": "6ae8e7edbcc75a7a2d5b95932537b9445c005a43ebb425b3dfcaa254828420d1",
-            "size": 1312419
+            "sha256": "666279827f0af359b57afbd62fa9c4e42804fa772631da96e9707d6b788d7293",
+            "size": 1440668
           },
-          "source": "【预览图】邮件发出后才发现没加附件，怎么补救？/gemini-preview/2_page1.png",
-          "source_sha256": "6ae8e7edbcc75a7a2d5b95932537b9445c005a43ebb425b3dfcaa254828420d1",
+          "source": "00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/gemini-preview/2_page1.png",
+          "source_sha256": "666279827f0af359b57afbd62fa9c4e42804fa772631da96e9707d6b788d7293",
           "web": {
             "format": "webp",
             "path": "notes/05-邮件发出后才发现没加附件-怎么补救/web/2_page1.webp",
             "quality": 82,
-            "sha256": "0b833afcc2eb0e509900389bf1013eae2a317c195cac448666bdbd4c0dc536fc",
-            "size": 71612
+            "sha256": "a40e0894da7ab5c8407a9f9c1f5c6e03abe5c87b3fb2530291f57beaace3ab8d",
+            "size": 97270
           },
           "width": 1086
         },
@@ -605,17 +604,17 @@
           "height": 1448,
           "original": {
             "path": "notes/05-邮件发出后才发现没加附件-怎么补救/original/3_page2.png",
-            "sha256": "d4a6cc6e529b11fcfde5ecc3cdf2b5f0534fd073bd23d2abd69896c96c473c11",
-            "size": 1309712
+            "sha256": "c42229c628063ad43a7fe8a46963b9f046f8236ac2e9e6df9fc9ac3f61d27c4d",
+            "size": 1308913
           },
-          "source": "【预览图】邮件发出后才发现没加附件，怎么补救？/gemini-preview/3_page2.png",
-          "source_sha256": "d4a6cc6e529b11fcfde5ecc3cdf2b5f0534fd073bd23d2abd69896c96c473c11",
+          "source": "00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/gemini-preview/3_page2.png",
+          "source_sha256": "c42229c628063ad43a7fe8a46963b9f046f8236ac2e9e6df9fc9ac3f61d27c4d",
           "web": {
             "format": "webp",
             "path": "notes/05-邮件发出后才发现没加附件-怎么补救/web/3_page2.webp",
             "quality": 82,
-            "sha256": "a14db9d5706cf441023aa07bfa6bbf0daeb544f5921be7ccefe7dd5083dcf88a",
-            "size": 61374
+            "sha256": "d8ee23d623aa2d3c280006ce51508242eb6b4c84f173f63e3484316d266e384e",
+            "size": 68028
           },
           "width": 1086
         },
@@ -625,17 +624,17 @@
           "height": 1448,
           "original": {
             "path": "notes/05-邮件发出后才发现没加附件-怎么补救/original/4_page3.png",
-            "sha256": "e3be1714fe44fb6d13a2847f8505a286ea4d7d9a9df9b2e08de514466dd25e0e",
-            "size": 1144935
+            "sha256": "ab3d7c43cf5209a0e4fc0071f2fa453f3dfb8854f9be334e642c5b690c809879",
+            "size": 1370940
           },
-          "source": "【预览图】邮件发出后才发现没加附件，怎么补救？/gemini-preview/4_page3.png",
-          "source_sha256": "e3be1714fe44fb6d13a2847f8505a286ea4d7d9a9df9b2e08de514466dd25e0e",
+          "source": "00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/gemini-preview/4_page3.png",
+          "source_sha256": "ab3d7c43cf5209a0e4fc0071f2fa453f3dfb8854f9be334e642c5b690c809879",
           "web": {
             "format": "webp",
             "path": "notes/05-邮件发出后才发现没加附件-怎么补救/web/4_page3.webp",
             "quality": 82,
-            "sha256": "4ea00cf67b3627e59ad94468fc0f24b346c3887de4b2a21a1861b21c71538e1b",
-            "size": 80404
+            "sha256": "39f6bd0fcee69645d9520c877f35a84d50b492a6201fb5c40bed85620e0dbf93",
+            "size": 71054
           },
           "width": 1086
         },
@@ -645,31 +644,31 @@
           "height": 1448,
           "original": {
             "path": "notes/05-邮件发出后才发现没加附件-怎么补救/original/5_page4.png",
-            "sha256": "1a1fb678dc434022193848af09550f2c196e4d1cf8f8b0847abee04ef14e265b",
-            "size": 1435083
+            "sha256": "5f742a97d657630027922d9d73c56a64febb81d9f9ed436d2cc6a018ce102f81",
+            "size": 1391014
           },
-          "source": "【预览图】邮件发出后才发现没加附件，怎么补救？/gemini-preview/5_page4.png",
-          "source_sha256": "1a1fb678dc434022193848af09550f2c196e4d1cf8f8b0847abee04ef14e265b",
+          "source": "00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/gemini-preview/5_page4.png",
+          "source_sha256": "5f742a97d657630027922d9d73c56a64febb81d9f9ed436d2cc6a018ce102f81",
           "web": {
             "format": "webp",
             "path": "notes/05-邮件发出后才发现没加附件-怎么补救/web/5_page4.webp",
             "quality": 82,
-            "sha256": "3e367fb74d61f8caf488478529b0bc0950bf5b241bb7253644564417f6fb923f",
-            "size": 85658
+            "sha256": "0a598927c6a4f0f16ec9c446e9348df61482346dcb979dd425d98dc8a631a618",
+            "size": 70188
           },
           "width": 1086
         }
       ],
       "order": 5,
-      "source_note": "【预览图】邮件发出后才发现没加附件，怎么补救？/邮件发出后才发现没加附件，怎么补救？_xhs.md",
-      "source_note_sha256": "e736a33d43b577cbccb9eb2adc1ec39301e70f2bcc057ca9a53a39652750b3ae",
-      "status": "未发布",
+      "source_note": "00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/邮件发出后才发现没加附件，怎么补救？_xhs.md",
+      "source_note_sha256": "47c806b544b4329427f3faa8460a94e5bff47fd7863ba25d8188a48695a7398d",
+      "status": "已发布",
       "style": "",
       "title": "邮件发出后才发现没加附件，怎么补救？"
     },
     {
       "account": "卖煎饼的司机",
-      "fingerprint": "3bb3d8a25f569624044f4f28491958c0b132a6b4f86c718899d69847d969f147",
+      "fingerprint": "3c04527aa0bd2ba054baeb0c12046573a67b17206d2da4c9bf4ca6ecb361b98d",
       "id": "06-我们先确认目标",
       "images": [
         {
@@ -678,17 +677,17 @@
           "height": 1448,
           "original": {
             "path": "notes/06-我们先确认目标/original/1_cover.png",
-            "sha256": "2d5282bdd91a4a97807778a5c1749f0307b3f5fe51730f84d81c0c16474f5633",
-            "size": 1122691
+            "sha256": "892468130f266bceee298a1773c51a93155982f3cdb44e7d9d8b568e81c904a0",
+            "size": 1350462
           },
-          "source": "【预览图】我们先确认目标/gemini-preview/1_cover.png",
-          "source_sha256": "2d5282bdd91a4a97807778a5c1749f0307b3f5fe51730f84d81c0c16474f5633",
+          "source": "00_已发布/我们先确认目标_已发布/gemini-preview/1_cover.png",
+          "source_sha256": "892468130f266bceee298a1773c51a93155982f3cdb44e7d9d8b568e81c904a0",
           "web": {
             "format": "webp",
             "path": "notes/06-我们先确认目标/web/1_cover.webp",
             "quality": 82,
-            "sha256": "dd497c8ee82bf67c1ed47a68d6c5fcf4b1a4b25941bd1aac73ae95323a331c71",
-            "size": 75286
+            "sha256": "60607b1e7aae42d0aa4c073ada08544f95d830352546d444b788d651c3482d92",
+            "size": 75344
           },
           "width": 1086
         },
@@ -698,17 +697,17 @@
           "height": 1448,
           "original": {
             "path": "notes/06-我们先确认目标/original/2_page1.png",
-            "sha256": "5481c331d8bd1a209d19b0c2fc6cc41f00052cb5a0aeb7c8c1b8e3c6d8fb84df",
-            "size": 1154434
+            "sha256": "7f348ee65635d11f9ba70064389b80a2f6c69b83266f524636f34dae172083ed",
+            "size": 1386430
           },
-          "source": "【预览图】我们先确认目标/gemini-preview/2_page1.png",
-          "source_sha256": "5481c331d8bd1a209d19b0c2fc6cc41f00052cb5a0aeb7c8c1b8e3c6d8fb84df",
+          "source": "00_已发布/我们先确认目标_已发布/gemini-preview/2_page1.png",
+          "source_sha256": "7f348ee65635d11f9ba70064389b80a2f6c69b83266f524636f34dae172083ed",
           "web": {
             "format": "webp",
             "path": "notes/06-我们先确认目标/web/2_page1.webp",
             "quality": 82,
-            "sha256": "6b005aba3bf471f94d178b951b2e538168b2ccd9dcbdd772d57e52dcc3c1a37d",
-            "size": 78760
+            "sha256": "05fe8c50ed9183ecd7eba084107894669e4df21a741e9657f8ed842dc0947922",
+            "size": 78242
           },
           "width": 1086
         },
@@ -718,17 +717,17 @@
           "height": 1448,
           "original": {
             "path": "notes/06-我们先确认目标/original/3_page2.png",
-            "sha256": "171783a4db08142500a28f3b24117a9d1f2388bc589507e1f4a66e3b2e274b73",
-            "size": 1170568
+            "sha256": "ab610d97c6fd53d197a77f56f4d95d9176d393e19a6b49f18c8be5ead486e75a",
+            "size": 1484260
           },
-          "source": "【预览图】我们先确认目标/gemini-preview/3_page2.png",
-          "source_sha256": "171783a4db08142500a28f3b24117a9d1f2388bc589507e1f4a66e3b2e274b73",
+          "source": "00_已发布/我们先确认目标_已发布/gemini-preview/3_page2.png",
+          "source_sha256": "ab610d97c6fd53d197a77f56f4d95d9176d393e19a6b49f18c8be5ead486e75a",
           "web": {
             "format": "webp",
             "path": "notes/06-我们先确认目标/web/3_page2.webp",
             "quality": 82,
-            "sha256": "ff9da75eb3ba4fb88d365f921c37687b018de7caf9f8c08cbcdca458240d1840",
-            "size": 80628
+            "sha256": "3022f67e5984a91f40037f0d600eceb4d67173d0580176436af8c0afa247889a",
+            "size": 106054
           },
           "width": 1086
         },
@@ -738,17 +737,17 @@
           "height": 1448,
           "original": {
             "path": "notes/06-我们先确认目标/original/4_page3.png",
-            "sha256": "237d0a11830580eb59d978393f41f0b2a27b67e28ed55b2d765ad402a95e7f05",
-            "size": 1412524
+            "sha256": "5a835b86adbfde850e1087c4fb3b89b78c1b1f6e97a7bb49ec4ec730d42214b9",
+            "size": 1304347
           },
-          "source": "【预览图】我们先确认目标/gemini-preview/4_page3.png",
-          "source_sha256": "237d0a11830580eb59d978393f41f0b2a27b67e28ed55b2d765ad402a95e7f05",
+          "source": "00_已发布/我们先确认目标_已发布/gemini-preview/4_page3.png",
+          "source_sha256": "5a835b86adbfde850e1087c4fb3b89b78c1b1f6e97a7bb49ec4ec730d42214b9",
           "web": {
             "format": "webp",
             "path": "notes/06-我们先确认目标/web/4_page3.webp",
             "quality": 82,
-            "sha256": "4b0e7203e2888cee2c90771e31851080950119c5997c3aaefaf4a6cde61f7b80",
-            "size": 74114
+            "sha256": "27694f43b586e4e83366dd69778674fd8ca80df3543b272fec0bb713aa64b7ae",
+            "size": 65586
           },
           "width": 1086
         },
@@ -758,31 +757,31 @@
           "height": 1448,
           "original": {
             "path": "notes/06-我们先确认目标/original/5_page4.png",
-            "sha256": "90b1efd0b6ae7dec84983470fff15a75b646fc59310c9ae7b20aa7656ca241dd",
-            "size": 1512810
+            "sha256": "f44f4105e320c0394c8b026872e6ec7fc2a0c23627837a412db9da9fbc2cffd5",
+            "size": 1393959
           },
-          "source": "【预览图】我们先确认目标/gemini-preview/5_page4.png",
-          "source_sha256": "90b1efd0b6ae7dec84983470fff15a75b646fc59310c9ae7b20aa7656ca241dd",
+          "source": "00_已发布/我们先确认目标_已发布/gemini-preview/5_page4.png",
+          "source_sha256": "f44f4105e320c0394c8b026872e6ec7fc2a0c23627837a412db9da9fbc2cffd5",
           "web": {
             "format": "webp",
             "path": "notes/06-我们先确认目标/web/5_page4.webp",
             "quality": 82,
-            "sha256": "9a42a4e5ca8308d49d047b37f74366238d29bf64d0b40a74377eef103ccd55b4",
-            "size": 102280
+            "sha256": "fe4e722cff7ea5de2e95776c29dc7ad808610934bb3eb52d53d005457b45feb9",
+            "size": 76180
           },
           "width": 1086
         }
       ],
       "order": 6,
-      "source_note": "【预览图】我们先确认目标/我们先确认目标_xhs.md",
-      "source_note_sha256": "09d448f2269ef842d1c5e4c4c03c070e7c475fc905921bb67f0568dbe3482640",
-      "status": "未发布",
+      "source_note": "00_已发布/我们先确认目标_已发布/我们先确认目标_xhs.md",
+      "source_note_sha256": "883150f55f18b9e4b8b471b74cee1bc8cbee251d10b9205add5a366c5364d5ba",
+      "status": "已发布",
       "style": "",
       "title": "“我们先确认目标”英文怎么说？"
     },
     {
       "account": "小帮英语",
-      "fingerprint": "b620702d0d3d9156b9cb82bdd6b4e4b7edd52843ca38863fd2e583bb04917b7e",
+      "fingerprint": "17d58cd4c06007d3b4800f08985f944b648bbcdc81f6578a4a8d8f6f5b132f64",
       "id": "07-我忘回了",
       "images": [
         {
@@ -791,17 +790,17 @@
           "height": 1448,
           "original": {
             "path": "notes/07-我忘回了/original/1_cover.png",
-            "sha256": "f0f1f0074bf536bfab9479776f59d83dcb9db19ccdb16589f209e2d4100ebdaa",
-            "size": 1361217
+            "sha256": "777938d7fb2cfde3fb4553ecbff3eb7351fe438a44fda85b7aa5464a4974d857",
+            "size": 1365830
           },
           "source": "【预览图】我忘回了/gemini-preview/1_cover.png",
-          "source_sha256": "f0f1f0074bf536bfab9479776f59d83dcb9db19ccdb16589f209e2d4100ebdaa",
+          "source_sha256": "777938d7fb2cfde3fb4553ecbff3eb7351fe438a44fda85b7aa5464a4974d857",
           "web": {
             "format": "webp",
             "path": "notes/07-我忘回了/web/1_cover.webp",
             "quality": 82,
-            "sha256": "88d57094c4e32cb245c2c310a2741d52808c78d85e556e4e046056dd139b0200",
-            "size": 64840
+            "sha256": "65bd0a775d388c4645b89555035d66c83ebf849ef19bde358971b7d1d5b8696f",
+            "size": 76228
           },
           "width": 1086
         },
@@ -811,17 +810,17 @@
           "height": 1448,
           "original": {
             "path": "notes/07-我忘回了/original/2_page1.png",
-            "sha256": "7b2db982ae74fad5135717f1afba5c91b137d79113e341bed4f850a49ad937b7",
-            "size": 1050356
+            "sha256": "3084e5c38091e0e7ee873c1f2ec30d2d451c189c2cf657c82d97241842827992",
+            "size": 1569658
           },
           "source": "【预览图】我忘回了/gemini-preview/2_page1.png",
-          "source_sha256": "7b2db982ae74fad5135717f1afba5c91b137d79113e341bed4f850a49ad937b7",
+          "source_sha256": "3084e5c38091e0e7ee873c1f2ec30d2d451c189c2cf657c82d97241842827992",
           "web": {
             "format": "webp",
             "path": "notes/07-我忘回了/web/2_page1.webp",
             "quality": 82,
-            "sha256": "6e76db7b66e496666b2795c67547929f2222da34ab3d93422bb58f5f5c47f4c8",
-            "size": 61586
+            "sha256": "d8c6ba30a1a56ca1cce4187990363c73a6b83745083e2abbed92f91adf42fe8b",
+            "size": 123674
           },
           "width": 1086
         },
@@ -831,17 +830,17 @@
           "height": 1448,
           "original": {
             "path": "notes/07-我忘回了/original/3_page2.png",
-            "sha256": "a72f0cf1a1cf78e56c31c9b821f9f4300e6cb0d68ef9c200f2635bde207df3b2",
-            "size": 1175992
+            "sha256": "8c460a6d6b9f022a9e60b39c6adab35792132677b43afa54fed37cbbc952a449",
+            "size": 1437548
           },
           "source": "【预览图】我忘回了/gemini-preview/3_page2.png",
-          "source_sha256": "a72f0cf1a1cf78e56c31c9b821f9f4300e6cb0d68ef9c200f2635bde207df3b2",
+          "source_sha256": "8c460a6d6b9f022a9e60b39c6adab35792132677b43afa54fed37cbbc952a449",
           "web": {
             "format": "webp",
             "path": "notes/07-我忘回了/web/3_page2.webp",
             "quality": 82,
-            "sha256": "47641ffbcf29ff5bd0e3f7f3d58c02e83c1cf40c9958a6f107984dcc2442427f",
-            "size": 72588
+            "sha256": "1f7ef4f0fcbffe6200c1eaf3153029ce728d40f71303e687eeca7baf7718b6be",
+            "size": 82088
           },
           "width": 1086
         },
@@ -851,17 +850,17 @@
           "height": 1448,
           "original": {
             "path": "notes/07-我忘回了/original/4_page3.png",
-            "sha256": "23a8a0cdac8826723fb463891a3989888fbb87b3a0a4e0284328abc7e2a371ad",
-            "size": 1369292
+            "sha256": "c99f03c01f045db1532be835c2e37366c7c7bb535a4735b98b3f1f93461f4236",
+            "size": 1498254
           },
           "source": "【预览图】我忘回了/gemini-preview/4_page3.png",
-          "source_sha256": "23a8a0cdac8826723fb463891a3989888fbb87b3a0a4e0284328abc7e2a371ad",
+          "source_sha256": "c99f03c01f045db1532be835c2e37366c7c7bb535a4735b98b3f1f93461f4236",
           "web": {
             "format": "webp",
             "path": "notes/07-我忘回了/web/4_page3.webp",
             "quality": 82,
-            "sha256": "5bd2d4d1e8a5c9e52c0c4097a7a90fde1f62780e6f904f8f0932739b09e2a9d9",
-            "size": 64174
+            "sha256": "fec0162d382cadbb78c4e31311470d0188a34cd469d3b29ebdbb6166a5018264",
+            "size": 106606
           },
           "width": 1086
         },
@@ -871,17 +870,17 @@
           "height": 1448,
           "original": {
             "path": "notes/07-我忘回了/original/5_page4.png",
-            "sha256": "d89ffba74568b4324d5e1698f9198abe305123a538f18ba9389465d39a64beba",
-            "size": 1161335
+            "sha256": "e108f24d8f1cb950201414268f485c675284a206a0cd03ac5f391a794c6b4c77",
+            "size": 1388658
           },
           "source": "【预览图】我忘回了/gemini-preview/5_page4.png",
-          "source_sha256": "d89ffba74568b4324d5e1698f9198abe305123a538f18ba9389465d39a64beba",
+          "source_sha256": "e108f24d8f1cb950201414268f485c675284a206a0cd03ac5f391a794c6b4c77",
           "web": {
             "format": "webp",
             "path": "notes/07-我忘回了/web/5_page4.webp",
             "quality": 82,
-            "sha256": "9a167ef263bc84639cac8b56f0517259eb141e87d13e935acba7422ebe7a43da",
-            "size": 78318
+            "sha256": "6dc180c8d909e1d13c9f156624dfb9d358ba5f00a4050391b299087f48552ade",
+            "size": 76650
           },
           "width": 1086
         }
@@ -894,7 +893,7 @@
       "title": "“我忘回了”英文怎么说？"
     }
   ],
-  "output_digest": "f51e8fa50ca56592adf2cf2beeedaa12de556858181f9b3505fa8d379f0ec3a4",
+  "output_digest": "75a4296ebb3702465348a771823b559bbe4a7d33892cfad639328ebe93e04286",
   "schema_version": 1,
   "site": {
     "accent": "#c44536",
@@ -904,15 +903,15 @@
     "access_gate": true,
     "pages_url": "https://passmetheplay.github.io/xhs-english-notes-deploy/",
     "repository_url": "https://github.com/passmetheplay/xhs-english-notes-deploy",
-    "subtitle": "最新笔记 · 2026-09-05",
+    "subtitle": "最新笔记 · 2026-09-09",
     "title": "小红书英语口语｜7篇"
   },
   "source_root_hint": "小红书轮播图",
   "totals": {
     "images": 35,
     "notes": 7,
-    "original_bytes": 44915408,
-    "savings_percent": 93.73044546316935,
-    "webp_bytes": 2815996
+    "original_bytes": 49033670,
+    "savings_percent": 94.05139774363208,
+    "webp_bytes": 2916818
   }
 }
