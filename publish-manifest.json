@@ -2,13 +2,17 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "d65ba244bd678afdb85751cd81210f4e3cda9b4f6b3a96bd45f270d6b3432d01",
-    "publish-history.jsonl": "fc80213c0c51c94fc823f8980b4c91c4474ce6dc04109ddd1343f43b19e13bad",
-    "publish-report.md": "aa48031675127e36603d0bc47dc28daae80b6cdc2ac5116f3e642b339df93532"
+    "index.html": "ffce3a9041f480bc2f3bce611718f5048cc256ec5c1264faf06ae1484c245385",
+    "publish-history.jsonl": "aa3830fa71400080be7be52cd86601b1e98f9219539b9a883a047d97b14b8981",
+    "publish-report.md": "53f5e60d4902d489446397708a4b7cb8329bef92cfdb801c0cefecfc3a3de93e"
   },
   "changes": {
-    "added": [],
-    "changed": [
+    "added": [
+      "08-别插队"
+    ],
+    "changed": [],
+    "removed": [],
+    "unchanged": [
       "01-我吃不下了",
       "02-借过一下",
       "03-我再考虑一下",
@@ -16,11 +20,9 @@
       "05-邮件发出后才发现没加附件-怎么补救",
       "06-我们先确认目标",
       "07-我忘回了"
-    ],
-    "removed": [],
-    "unchanged": []
+    ]
   },
-  "generated_at": "2026-09-12T06:46:21Z",
+  "generated_at": "2026-09-12T15:07:44Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
@@ -95,6 +97,16 @@
     "notes/07-我忘回了/web/3_page2.webp",
     "notes/07-我忘回了/web/4_page3.webp",
     "notes/07-我忘回了/web/5_page4.webp",
+    "notes/08-别插队/original/1_cover.png",
+    "notes/08-别插队/original/2_page1.png",
+    "notes/08-别插队/original/3_page2.png",
+    "notes/08-别插队/original/4_page3.png",
+    "notes/08-别插队/original/5_page4.png",
+    "notes/08-别插队/web/1_cover.webp",
+    "notes/08-别插队/web/2_page1.webp",
+    "notes/08-别插队/web/3_page2.webp",
+    "notes/08-别插队/web/4_page3.webp",
+    "notes/08-别插队/web/5_page4.webp",
     "publish-history.jsonl",
     "publish-manifest.json",
     "publish-report.md"
@@ -892,9 +904,122 @@
       "status": "未发布",
       "style": "",
       "title": "“我忘回了”英文怎么说？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "6ccabbab3062f5b6a4b2da66d3fb3dac508fa909aa70328a0aaf9a90e45d2053",
+      "id": "08-别插队",
+      "images": [
+        {
+          "alt": "前面有人插队｜怎么礼貌提醒？",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/08-别插队/original/1_cover.png",
+            "sha256": "31a892d725c6abf644fb6fa7099b0cbff37d081b8d87267dc21a6053817d7718",
+            "size": 1344145
+          },
+          "source": "【预览图】别插队/gemini-preview/1_cover.png",
+          "source_sha256": "31a892d725c6abf644fb6fa7099b0cbff37d081b8d87267dc21a6053817d7718",
+          "web": {
+            "format": "webp",
+            "path": "notes/08-别插队/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "284d62d931be5aa00ab68d41148d5c99b64de9f248c376e54b44236c087d1b92",
+            "size": 75594
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说明队伍在哪",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/08-别插队/original/2_page1.png",
+            "sha256": "5764ab9116ac9149fc6c840a301b7c6a2c4cb21cda67b334e3e69ce71c30d4d3",
+            "size": 1187779
+          },
+          "source": "【预览图】别插队/gemini-preview/2_page1.png",
+          "source_sha256": "5764ab9116ac9149fc6c840a301b7c6a2c4cb21cda67b334e3e69ce71c30d4d3",
+          "web": {
+            "format": "webp",
+            "path": "notes/08-别插队/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "28246cd8f2f33ac35a9bd47bc40ea755042df8f58ff9bcce41a32bd2896a38ca",
+            "size": 69394
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先给对方台阶",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/08-别插队/original/3_page2.png",
+            "sha256": "5b353095d56929b0ff8c0c38a7bae4109a83c4f1191602c027cbc8bac5e18e1f",
+            "size": 1432856
+          },
+          "source": "【预览图】别插队/gemini-preview/3_page2.png",
+          "source_sha256": "5b353095d56929b0ff8c0c38a7bae4109a83c4f1191602c027cbc8bac5e18e1f",
+          "web": {
+            "format": "webp",
+            "path": "notes/08-别插队/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "25e43fddfe2f6c9633ef7fbd0e1112fd3951b2b4446b9b0f4f5452307bdc549a",
+            "size": 77916
+          },
+          "width": 1086
+        },
+        {
+          "alt": "对方还不排队",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/08-别插队/original/4_page3.png",
+            "sha256": "a2d0c574523db90d9ef0508f89aece2a757300992273cb316cf94ec76cec2d63",
+            "size": 1565553
+          },
+          "source": "【预览图】别插队/gemini-preview/4_page3.png",
+          "source_sha256": "a2d0c574523db90d9ef0508f89aece2a757300992273cb316cf94ec76cec2d63",
+          "web": {
+            "format": "webp",
+            "path": "notes/08-别插队/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "e37d0015c858df790f58667458d3a0c72f18ed5a04fb4b321f7c6c8f184e1ce6",
+            "size": 81956
+          },
+          "width": 1086
+        },
+        {
+          "alt": "小对话直接用",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/08-别插队/original/5_page4.png",
+            "sha256": "5572a6d0ef9e49534d810b417e68424cc3a501808537cb9645434a47da75c37a",
+            "size": 1207046
+          },
+          "source": "【预览图】别插队/gemini-preview/5_page4.png",
+          "source_sha256": "5572a6d0ef9e49534d810b417e68424cc3a501808537cb9645434a47da75c37a",
+          "web": {
+            "format": "webp",
+            "path": "notes/08-别插队/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "d4bdb6ccb1586a599dcbb148bd00d2bad7e1fec490cca28897ffceac9534f7a6",
+            "size": 102292
+          },
+          "width": 1086
+        }
+      ],
+      "order": 8,
+      "source_note": "【预览图】别插队/别插队_xhs.md",
+      "source_note_sha256": "7c462ae035a798a3e13af74a1f4e234ca1a88bb5882abe3a1007dba906e9f40a",
+      "status": "待发布",
+      "style": "Mixed：封面用小黑手绘呈现排队冲突，内页用 GoodNotes 拆解礼貌提醒和短对话。",
+      "title": "别插队，英语怎么礼貌说？"
     }
   ],
-  "output_digest": "904fa08540046facca30797b697481a73eb149afe5f3f9010020b2a33b06e159",
+  "output_digest": "015306cad222043e5f8bd3c7f6abec9d7fcf200f3e607e666a585c7f8a553f1e",
   "schema_version": 1,
   "site": {
     "accent": "#c44536",
@@ -904,15 +1029,15 @@
     "access_gate": true,
     "pages_url": "https://passmetheplay.github.io/xhs-english-notes-deploy/",
     "repository_url": "https://github.com/passmetheplay/xhs-english-notes-deploy",
-    "subtitle": "最新笔记 · 2026-09-09",
-    "title": "小红书英语口语｜7篇"
+    "subtitle": "最新笔记 · 2026-09-12",
+    "title": "小红书英语口语｜8篇"
   },
   "source_root_hint": "小红书轮播图",
   "totals": {
-    "images": 35,
-    "notes": 7,
-    "original_bytes": 49033670,
-    "savings_percent": 94.05139774363208,
-    "webp_bytes": 2916818
+    "images": 40,
+    "notes": 8,
+    "original_bytes": 55771049,
+    "savings_percent": 94.03997224438078,
+    "webp_bytes": 3323970
   }
 }
