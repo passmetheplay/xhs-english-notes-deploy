@@ -2,14 +2,12 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "ffce3a9041f480bc2f3bce611718f5048cc256ec5c1264faf06ae1484c245385",
-    "publish-history.jsonl": "aa3830fa71400080be7be52cd86601b1e98f9219539b9a883a047d97b14b8981",
-    "publish-report.md": "53f5e60d4902d489446397708a4b7cb8329bef92cfdb801c0cefecfc3a3de93e"
+    "index.html": "1b9c37a40a03e90e9d9891bf0dfeb4ce3b961afc9dd27b9b19aeae93cb59cdf2",
+    "publish-history.jsonl": "08d0569d7370758373b5f1535cb17ab37bd72736caa2968fc3000a05b9d8ff82",
+    "publish-report.md": "6aa2bdf585926489835a8e81014770e17f69f7733e653e06f8664265a4ba4bc7"
   },
   "changes": {
-    "added": [
-      "08-别插队"
-    ],
+    "added": [],
     "changed": [],
     "removed": [],
     "unchanged": [
@@ -19,10 +17,11 @@
       "04-电梯里等我一下",
       "05-邮件发出后才发现没加附件-怎么补救",
       "06-我们先确认目标",
-      "07-我忘回了"
+      "07-我忘回了",
+      "08-别插队"
     ]
   },
-  "generated_at": "2026-09-12T15:07:44Z",
+  "generated_at": "2026-09-13T04:16:10Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
@@ -116,7 +115,7 @@
   "notes": [
     {
       "account": "小帮英语",
-      "fingerprint": "df0e55ed2db56e50ac366a38a058493e9378e7a4e154040267f779aed8dce5cd",
+      "fingerprint": "6ec4a07805c1c3ac78080e0e0d3ce2884edf78807839808c41a5f9dea1fbf75d",
       "id": "01-我吃不下了",
       "images": [
         {
@@ -222,14 +221,14 @@
       ],
       "order": 1,
       "source_note": "【预览图】我吃不下了/我吃不下了_xhs.md",
-      "source_note_sha256": "2096627d047298a0c548aff15aad5b0d4ba3fdafb84774af084f8c9611d6794d",
+      "source_note_sha256": "1deb1304a5c72f8f1b8e263aa2a732cf2cef5db6f47dd82c12c851678292d8bc",
       "status": "未发布",
       "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现餐桌场景与“英文怎么说？”，并执行小黑人一致性审计。",
       "title": "“我吃不下了”英文怎么说？"
     },
     {
       "account": "小帮英语",
-      "fingerprint": "39215aa8f3944498e215299c3165ab4f9cceda8c08666d42c39cfb6d53efb278",
+      "fingerprint": "06211487271d2e59f4a1ad6f089fa3cd307b3e4c4b846eddf6e01e2dd6b8d02d",
       "id": "02-借过一下",
       "images": [
         {
@@ -335,14 +334,14 @@
       ],
       "order": 2,
       "source_note": "【预览图】借过一下/借过一下_xhs.md",
-      "source_note_sha256": "e82b0c62deb82da486020af813dfe40fef7a5c1210e4294eb4d11be63fbb411c",
+      "source_note_sha256": "6132fa64d7ce7c4e73997d9904f4babc2babf6d6e2ad9fa5c501cb0d5b071a63",
       "status": "未发布",
       "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现拥挤通道与“英文怎么说？”，并执行小黑人一致性审计。",
       "title": "“借过一下”英文怎么说？"
     },
     {
       "account": "小帮英语",
-      "fingerprint": "ab2d858f4477f3fdad399744fb9637f4400c4602113ff89b0df2a956a43a2db5",
+      "fingerprint": "a4da640b1d38684564bee24aa43fc4491250f31533b5696eb888a0249a2415c3",
       "id": "03-我再考虑一下",
       "images": [
         {
@@ -448,14 +447,14 @@
       ],
       "order": 3,
       "source_note": "【预览图】我再考虑一下/我再考虑一下_xhs.md",
-      "source_note_sha256": "6afea70c7507b91c88263535ea6f6647d9fe3156e3e5aa93816280ec57bf3982",
+      "source_note_sha256": "046e58045bd2c137317fa538ea99d44182a6f8661a1c5fdc5d2ca4bab3327bb8",
       "status": "未发布",
       "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现商品选择场景和“英文怎么说？”，并保持小黑人唯一黑色主角。",
       "title": "“我再考虑一下”英文怎么说？"
     },
     {
       "account": "小妙英语",
-      "fingerprint": "564b3ece4fbc30d92eb68962a57942f14583ac6b3cc39979e717adcf5434f1b8",
+      "fingerprint": "7901a705f2b79093b2f74c304cb74e29d6c6171bfbf33ac3f87870557191e599",
       "id": "04-电梯里等我一下",
       "images": [
         {
@@ -561,14 +560,14 @@
       ],
       "order": 4,
       "source_note": "【预览图】电梯里等我一下/电梯里等我一下_xhs.md",
-      "source_note_sha256": "1588473a40195fb5d2158297c28d79b29c07faacd7b2f706ccc52558267fc7af",
+      "source_note_sha256": "4ef279fbaae98cff1bc689305296f5fc3668979101ada670593ff1f750f66e1b",
       "status": "未发布",
       "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示；黑色圆头小黑人执行赶电梯、按住开门键和礼貌请求动作，其他人物使用白底黑线稿。",
       "title": "“电梯里等我一下”英文怎么说？"
     },
     {
       "account": "卖煎饼的司机",
-      "fingerprint": "48c19187ad54be7322dea52741d81175916abf50227706730bbe59bc76818a10",
+      "fingerprint": "e0d240667ffb3b2c3ba64b4bf0982218a0b9393be38f2ec689ee7394cb24ab32",
       "id": "05-邮件发出后才发现没加附件-怎么补救",
       "images": [
         {
@@ -674,14 +673,14 @@
       ],
       "order": 5,
       "source_note": "00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/邮件发出后才发现没加附件，怎么补救？_xhs.md",
-      "source_note_sha256": "47c806b544b4329427f3faa8460a94e5bff47fd7863ba25d8188a48695a7398d",
+      "source_note_sha256": "b27294f7b49354af7c9440683f3b4b91a0d613cbdc8cbf04e7d071fdd71e5366",
       "status": "已发布",
       "style": "",
       "title": "邮件发出后才发现没加附件，怎么补救？"
     },
     {
       "account": "卖煎饼的司机",
-      "fingerprint": "b452e5183bc215ee2ea80f6a6d088604b02b8a90756b286539157c2385c7f8e8",
+      "fingerprint": "bb06383e6d900980db289bdf56669607e6e3efbd9493787db7180d179d1644b4",
       "id": "06-我们先确认目标",
       "images": [
         {
@@ -787,14 +786,14 @@
       ],
       "order": 6,
       "source_note": "00_已发布/我们先确认目标_已发布/我们先确认目标_xhs.md",
-      "source_note_sha256": "883150f55f18b9e4b8b471b74cee1bc8cbee251d10b9205add5a366c5364d5ba",
+      "source_note_sha256": "8f00e086008a3240882b9099a1af0cc7d3d2dc12ee0fbdfa7565fba08cc11f4b",
       "status": "已发布",
       "style": "",
       "title": "“我们先确认目标”英文怎么说？"
     },
     {
       "account": "小帮英语",
-      "fingerprint": "4eb87795a9d878e5f643cea568753dfc764f0071dbf2b42c35a28b9fd52ba7a9",
+      "fingerprint": "a50c2f8874b73529d09a8c0de3538050392afb6b3385a00d5a73a97349d757ac",
       "id": "07-我忘回了",
       "images": [
         {
@@ -900,14 +899,14 @@
       ],
       "order": 7,
       "source_note": "【预览图】我忘回了/我忘回了_xhs.md",
-      "source_note_sha256": "e3efd365f4eb765b888cb12d6794681e8077826c6124740b6028507b60ca9c5f",
+      "source_note_sha256": "38ba96ab52a1b181706338a566760f10d2b1b7020c34327eb370b6807b603914",
       "status": "未发布",
       "style": "",
       "title": "“我忘回了”英文怎么说？"
     },
     {
       "account": "小帮英语",
-      "fingerprint": "6ccabbab3062f5b6a4b2da66d3fb3dac508fa909aa70328a0aaf9a90e45d2053",
+      "fingerprint": "2d6c50ccc96b1c5a2e10c19caa6143b9d2bc64c4987950edf71d6ca2c112fb62",
       "id": "08-别插队",
       "images": [
         {
@@ -1013,13 +1012,13 @@
       ],
       "order": 8,
       "source_note": "【预览图】别插队/别插队_xhs.md",
-      "source_note_sha256": "7c462ae035a798a3e13af74a1f4e234ca1a88bb5882abe3a1007dba906e9f40a",
+      "source_note_sha256": "9c7afa7537a3cd286d12c806fdc0c077c7145a957fce9edb5f9545d483c0e64e",
       "status": "待发布",
       "style": "Mixed：封面用小黑手绘呈现排队冲突，内页用 GoodNotes 拆解礼貌提醒和短对话。",
       "title": "别插队，英语怎么礼貌说？"
     }
   ],
-  "output_digest": "015306cad222043e5f8bd3c7f6abec9d7fcf200f3e607e666a585c7f8a553f1e",
+  "output_digest": "59718e194f8d832ee9e44d0e4b86848e49a7a32fea007931d1211004d941bbb8",
   "schema_version": 1,
   "site": {
     "accent": "#c44536",
