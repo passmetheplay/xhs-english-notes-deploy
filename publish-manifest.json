@@ -2,12 +2,25 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "1b9c37a40a03e90e9d9891bf0dfeb4ce3b961afc9dd27b9b19aeae93cb59cdf2",
-    "publish-history.jsonl": "08d0569d7370758373b5f1535cb17ab37bd72736caa2968fc3000a05b9d8ff82",
-    "publish-report.md": "6aa2bdf585926489835a8e81014770e17f69f7733e653e06f8664265a4ba4bc7"
+    "index.html": "888c0463fce09c5ba7020d74c0758bb503190bf793cd66d0a57e4bd6bafef155",
+    "publish-history.jsonl": "86e951996fe839312bb466c782396fedec4e2fb22f7743aeff86a3d2d45cf11b",
+    "publish-report.md": "04ad835db54e698527ece5f2599ef2c13c58f19d7906187b8cc469d610e89906"
   },
   "changes": {
-    "added": [],
+    "added": [
+      "09-01-鞋带开了",
+      "10-02-衣服还没干",
+      "11-03-这件衣服有点皱",
+      "12-04-我想喝口水",
+      "13-05-你先吃吧",
+      "14-06-菜快凉了",
+      "15-07-我去开门",
+      "16-08-进门先脱鞋",
+      "17-09-被子有点薄",
+      "18-10-我出门了",
+      "19-11-等我一起走",
+      "20-12-离这儿远吗"
+    ],
     "changed": [],
     "removed": [],
     "unchanged": [
@@ -21,7 +34,7 @@
       "08-别插队"
     ]
   },
-  "generated_at": "2026-09-13T04:16:10Z",
+  "generated_at": "2026-09-25T14:03:04Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
@@ -106,6 +119,126 @@
     "notes/08-别插队/web/3_page2.webp",
     "notes/08-别插队/web/4_page3.webp",
     "notes/08-别插队/web/5_page4.webp",
+    "notes/09-01-鞋带开了/original/1_cover.png",
+    "notes/09-01-鞋带开了/original/2_page1.png",
+    "notes/09-01-鞋带开了/original/3_page2.png",
+    "notes/09-01-鞋带开了/original/4_page3.png",
+    "notes/09-01-鞋带开了/original/5_page4.png",
+    "notes/09-01-鞋带开了/web/1_cover.webp",
+    "notes/09-01-鞋带开了/web/2_page1.webp",
+    "notes/09-01-鞋带开了/web/3_page2.webp",
+    "notes/09-01-鞋带开了/web/4_page3.webp",
+    "notes/09-01-鞋带开了/web/5_page4.webp",
+    "notes/10-02-衣服还没干/original/1_cover.png",
+    "notes/10-02-衣服还没干/original/2_page1.png",
+    "notes/10-02-衣服还没干/original/3_page2.png",
+    "notes/10-02-衣服还没干/original/4_page3.png",
+    "notes/10-02-衣服还没干/original/5_page4.png",
+    "notes/10-02-衣服还没干/web/1_cover.webp",
+    "notes/10-02-衣服还没干/web/2_page1.webp",
+    "notes/10-02-衣服还没干/web/3_page2.webp",
+    "notes/10-02-衣服还没干/web/4_page3.webp",
+    "notes/10-02-衣服还没干/web/5_page4.webp",
+    "notes/11-03-这件衣服有点皱/original/1_cover.png",
+    "notes/11-03-这件衣服有点皱/original/2_page1.png",
+    "notes/11-03-这件衣服有点皱/original/3_page2.png",
+    "notes/11-03-这件衣服有点皱/original/4_page3.png",
+    "notes/11-03-这件衣服有点皱/original/5_page4.png",
+    "notes/11-03-这件衣服有点皱/web/1_cover.webp",
+    "notes/11-03-这件衣服有点皱/web/2_page1.webp",
+    "notes/11-03-这件衣服有点皱/web/3_page2.webp",
+    "notes/11-03-这件衣服有点皱/web/4_page3.webp",
+    "notes/11-03-这件衣服有点皱/web/5_page4.webp",
+    "notes/12-04-我想喝口水/original/1_cover.png",
+    "notes/12-04-我想喝口水/original/2_page1.png",
+    "notes/12-04-我想喝口水/original/3_page2.png",
+    "notes/12-04-我想喝口水/original/4_page3.png",
+    "notes/12-04-我想喝口水/original/5_page4.png",
+    "notes/12-04-我想喝口水/web/1_cover.webp",
+    "notes/12-04-我想喝口水/web/2_page1.webp",
+    "notes/12-04-我想喝口水/web/3_page2.webp",
+    "notes/12-04-我想喝口水/web/4_page3.webp",
+    "notes/12-04-我想喝口水/web/5_page4.webp",
+    "notes/13-05-你先吃吧/original/1_cover.png",
+    "notes/13-05-你先吃吧/original/2_page1.png",
+    "notes/13-05-你先吃吧/original/3_page2.png",
+    "notes/13-05-你先吃吧/original/4_page3.png",
+    "notes/13-05-你先吃吧/original/5_page4.png",
+    "notes/13-05-你先吃吧/web/1_cover.webp",
+    "notes/13-05-你先吃吧/web/2_page1.webp",
+    "notes/13-05-你先吃吧/web/3_page2.webp",
+    "notes/13-05-你先吃吧/web/4_page3.webp",
+    "notes/13-05-你先吃吧/web/5_page4.webp",
+    "notes/14-06-菜快凉了/original/1_cover.png",
+    "notes/14-06-菜快凉了/original/2_page1.png",
+    "notes/14-06-菜快凉了/original/3_page2.png",
+    "notes/14-06-菜快凉了/original/4_page3.png",
+    "notes/14-06-菜快凉了/original/5_page4.png",
+    "notes/14-06-菜快凉了/web/1_cover.webp",
+    "notes/14-06-菜快凉了/web/2_page1.webp",
+    "notes/14-06-菜快凉了/web/3_page2.webp",
+    "notes/14-06-菜快凉了/web/4_page3.webp",
+    "notes/14-06-菜快凉了/web/5_page4.webp",
+    "notes/15-07-我去开门/original/1_cover.png",
+    "notes/15-07-我去开门/original/2_page1.png",
+    "notes/15-07-我去开门/original/3_page2.png",
+    "notes/15-07-我去开门/original/4_page3.png",
+    "notes/15-07-我去开门/original/5_page4.png",
+    "notes/15-07-我去开门/web/1_cover.webp",
+    "notes/15-07-我去开门/web/2_page1.webp",
+    "notes/15-07-我去开门/web/3_page2.webp",
+    "notes/15-07-我去开门/web/4_page3.webp",
+    "notes/15-07-我去开门/web/5_page4.webp",
+    "notes/16-08-进门先脱鞋/original/1_cover.png",
+    "notes/16-08-进门先脱鞋/original/2_page1.png",
+    "notes/16-08-进门先脱鞋/original/3_page2.png",
+    "notes/16-08-进门先脱鞋/original/4_page3.png",
+    "notes/16-08-进门先脱鞋/original/5_page4.png",
+    "notes/16-08-进门先脱鞋/web/1_cover.webp",
+    "notes/16-08-进门先脱鞋/web/2_page1.webp",
+    "notes/16-08-进门先脱鞋/web/3_page2.webp",
+    "notes/16-08-进门先脱鞋/web/4_page3.webp",
+    "notes/16-08-进门先脱鞋/web/5_page4.webp",
+    "notes/17-09-被子有点薄/original/1_cover.png",
+    "notes/17-09-被子有点薄/original/2_page1.png",
+    "notes/17-09-被子有点薄/original/3_page2.png",
+    "notes/17-09-被子有点薄/original/4_page3.png",
+    "notes/17-09-被子有点薄/original/5_page4.png",
+    "notes/17-09-被子有点薄/web/1_cover.webp",
+    "notes/17-09-被子有点薄/web/2_page1.webp",
+    "notes/17-09-被子有点薄/web/3_page2.webp",
+    "notes/17-09-被子有点薄/web/4_page3.webp",
+    "notes/17-09-被子有点薄/web/5_page4.webp",
+    "notes/18-10-我出门了/original/1_cover.png",
+    "notes/18-10-我出门了/original/2_page1.png",
+    "notes/18-10-我出门了/original/3_page2.png",
+    "notes/18-10-我出门了/original/4_page3.png",
+    "notes/18-10-我出门了/original/5_page4.png",
+    "notes/18-10-我出门了/web/1_cover.webp",
+    "notes/18-10-我出门了/web/2_page1.webp",
+    "notes/18-10-我出门了/web/3_page2.webp",
+    "notes/18-10-我出门了/web/4_page3.webp",
+    "notes/18-10-我出门了/web/5_page4.webp",
+    "notes/19-11-等我一起走/original/1_cover.png",
+    "notes/19-11-等我一起走/original/2_page1.png",
+    "notes/19-11-等我一起走/original/3_page2.png",
+    "notes/19-11-等我一起走/original/4_page3.png",
+    "notes/19-11-等我一起走/original/5_page4.png",
+    "notes/19-11-等我一起走/web/1_cover.webp",
+    "notes/19-11-等我一起走/web/2_page1.webp",
+    "notes/19-11-等我一起走/web/3_page2.webp",
+    "notes/19-11-等我一起走/web/4_page3.webp",
+    "notes/19-11-等我一起走/web/5_page4.webp",
+    "notes/20-12-离这儿远吗/original/1_cover.png",
+    "notes/20-12-离这儿远吗/original/2_page1.png",
+    "notes/20-12-离这儿远吗/original/3_page2.png",
+    "notes/20-12-离这儿远吗/original/4_page3.png",
+    "notes/20-12-离这儿远吗/original/5_page4.png",
+    "notes/20-12-离这儿远吗/web/1_cover.webp",
+    "notes/20-12-离这儿远吗/web/2_page1.webp",
+    "notes/20-12-离这儿远吗/web/3_page2.webp",
+    "notes/20-12-离这儿远吗/web/4_page3.webp",
+    "notes/20-12-离这儿远吗/web/5_page4.webp",
     "publish-history.jsonl",
     "publish-manifest.json",
     "publish-report.md"
@@ -127,7 +260,7 @@
             "sha256": "cff1619d0bd6e36ca0ac8e75900d82cc63e04f554b1436d2a861a8b4c944ed9c",
             "size": 1407054
           },
-          "source": "【预览图】我吃不下了/gemini-preview/1_cover.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】我吃不下了/gemini-preview/1_cover.png",
           "source_sha256": "cff1619d0bd6e36ca0ac8e75900d82cc63e04f554b1436d2a861a8b4c944ed9c",
           "web": {
             "format": "webp",
@@ -147,7 +280,7 @@
             "sha256": "c8e6553fcf5855942147a24e4d57ad05a0c05b7414ae873b411a2dff1033fc35",
             "size": 1381201
           },
-          "source": "【预览图】我吃不下了/gemini-preview/2_page1.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】我吃不下了/gemini-preview/2_page1.png",
           "source_sha256": "c8e6553fcf5855942147a24e4d57ad05a0c05b7414ae873b411a2dff1033fc35",
           "web": {
             "format": "webp",
@@ -167,7 +300,7 @@
             "sha256": "8f0455853bfb4301fd93d2acdbe5cd1d4661de516f28c0ed113884dd9618ce85",
             "size": 1309320
           },
-          "source": "【预览图】我吃不下了/gemini-preview/3_page2.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】我吃不下了/gemini-preview/3_page2.png",
           "source_sha256": "8f0455853bfb4301fd93d2acdbe5cd1d4661de516f28c0ed113884dd9618ce85",
           "web": {
             "format": "webp",
@@ -187,7 +320,7 @@
             "sha256": "861eb6c54f6245e08cbf69a094963c3b005b4b66d0c44cc5e4036fcd7208f207",
             "size": 1441096
           },
-          "source": "【预览图】我吃不下了/gemini-preview/4_page3.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】我吃不下了/gemini-preview/4_page3.png",
           "source_sha256": "861eb6c54f6245e08cbf69a094963c3b005b4b66d0c44cc5e4036fcd7208f207",
           "web": {
             "format": "webp",
@@ -207,7 +340,7 @@
             "sha256": "5f742a97d657630027922d9d73c56a64febb81d9f9ed436d2cc6a018ce102f81",
             "size": 1391014
           },
-          "source": "【预览图】我吃不下了/gemini-preview/5_page4.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】我吃不下了/gemini-preview/5_page4.png",
           "source_sha256": "5f742a97d657630027922d9d73c56a64febb81d9f9ed436d2cc6a018ce102f81",
           "web": {
             "format": "webp",
@@ -220,7 +353,7 @@
         }
       ],
       "order": 1,
-      "source_note": "【预览图】我吃不下了/我吃不下了_xhs.md",
+      "source_note": "obsidian-notes/社媒/小红书轮播图/【预览图】我吃不下了/我吃不下了_xhs.md",
       "source_note_sha256": "1deb1304a5c72f8f1b8e263aa2a732cf2cef5db6f47dd82c12c851678292d8bc",
       "status": "未发布",
       "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现餐桌场景与“英文怎么说？”，并执行小黑人一致性审计。",
@@ -240,7 +373,7 @@
             "sha256": "892468130f266bceee298a1773c51a93155982f3cdb44e7d9d8b568e81c904a0",
             "size": 1350462
           },
-          "source": "【预览图】借过一下/gemini-preview/1_cover.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】借过一下/gemini-preview/1_cover.png",
           "source_sha256": "892468130f266bceee298a1773c51a93155982f3cdb44e7d9d8b568e81c904a0",
           "web": {
             "format": "webp",
@@ -260,7 +393,7 @@
             "sha256": "3084e5c38091e0e7ee873c1f2ec30d2d451c189c2cf657c82d97241842827992",
             "size": 1569658
           },
-          "source": "【预览图】借过一下/gemini-preview/2_page1.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】借过一下/gemini-preview/2_page1.png",
           "source_sha256": "3084e5c38091e0e7ee873c1f2ec30d2d451c189c2cf657c82d97241842827992",
           "web": {
             "format": "webp",
@@ -280,7 +413,7 @@
             "sha256": "361960d89144c7a74bb0e3fcfefda760a6cac1d836e0fa8794ef7730692af75a",
             "size": 1567296
           },
-          "source": "【预览图】借过一下/gemini-preview/3_page2.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】借过一下/gemini-preview/3_page2.png",
           "source_sha256": "361960d89144c7a74bb0e3fcfefda760a6cac1d836e0fa8794ef7730692af75a",
           "web": {
             "format": "webp",
@@ -300,7 +433,7 @@
             "sha256": "70c1c0f0a80b54c84973dc34f32c667de4c479d813294c1eccd3647260d9a902",
             "size": 1461658
           },
-          "source": "【预览图】借过一下/gemini-preview/4_page3.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】借过一下/gemini-preview/4_page3.png",
           "source_sha256": "70c1c0f0a80b54c84973dc34f32c667de4c479d813294c1eccd3647260d9a902",
           "web": {
             "format": "webp",
@@ -320,7 +453,7 @@
             "sha256": "190556a9bdb4882bfd0cd7cf017acf126b439d4caa82613919f15b18ae1f0839",
             "size": 1412162
           },
-          "source": "【预览图】借过一下/gemini-preview/5_page4.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】借过一下/gemini-preview/5_page4.png",
           "source_sha256": "190556a9bdb4882bfd0cd7cf017acf126b439d4caa82613919f15b18ae1f0839",
           "web": {
             "format": "webp",
@@ -333,7 +466,7 @@
         }
       ],
       "order": 2,
-      "source_note": "【预览图】借过一下/借过一下_xhs.md",
+      "source_note": "obsidian-notes/社媒/小红书轮播图/【预览图】借过一下/借过一下_xhs.md",
       "source_note_sha256": "6132fa64d7ce7c4e73997d9904f4babc2babf6d6e2ad9fa5c501cb0d5b071a63",
       "status": "未发布",
       "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现拥挤通道与“英文怎么说？”，并执行小黑人一致性审计。",
@@ -353,7 +486,7 @@
             "sha256": "840285cbe1f1bc5ae4b3096324e11bc9de63516b7ce97e44ffa34bb9474d5596",
             "size": 1456579
           },
-          "source": "【预览图】我再考虑一下/gemini-preview/1_cover.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】我再考虑一下/gemini-preview/1_cover.png",
           "source_sha256": "840285cbe1f1bc5ae4b3096324e11bc9de63516b7ce97e44ffa34bb9474d5596",
           "web": {
             "format": "webp",
@@ -373,7 +506,7 @@
             "sha256": "666279827f0af359b57afbd62fa9c4e42804fa772631da96e9707d6b788d7293",
             "size": 1440668
           },
-          "source": "【预览图】我再考虑一下/gemini-preview/2_page1.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】我再考虑一下/gemini-preview/2_page1.png",
           "source_sha256": "666279827f0af359b57afbd62fa9c4e42804fa772631da96e9707d6b788d7293",
           "web": {
             "format": "webp",
@@ -393,7 +526,7 @@
             "sha256": "ab610d97c6fd53d197a77f56f4d95d9176d393e19a6b49f18c8be5ead486e75a",
             "size": 1484260
           },
-          "source": "【预览图】我再考虑一下/gemini-preview/3_page2.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】我再考虑一下/gemini-preview/3_page2.png",
           "source_sha256": "ab610d97c6fd53d197a77f56f4d95d9176d393e19a6b49f18c8be5ead486e75a",
           "web": {
             "format": "webp",
@@ -413,7 +546,7 @@
             "sha256": "c99f03c01f045db1532be835c2e37366c7c7bb535a4735b98b3f1f93461f4236",
             "size": 1498254
           },
-          "source": "【预览图】我再考虑一下/gemini-preview/4_page3.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】我再考虑一下/gemini-preview/4_page3.png",
           "source_sha256": "c99f03c01f045db1532be835c2e37366c7c7bb535a4735b98b3f1f93461f4236",
           "web": {
             "format": "webp",
@@ -433,7 +566,7 @@
             "sha256": "1caf9a4d403107e4fea3c0a20a910fc2faa539fac33076ccc24704dfd4602c12",
             "size": 1466029
           },
-          "source": "【预览图】我再考虑一下/gemini-preview/5_page4.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】我再考虑一下/gemini-preview/5_page4.png",
           "source_sha256": "1caf9a4d403107e4fea3c0a20a910fc2faa539fac33076ccc24704dfd4602c12",
           "web": {
             "format": "webp",
@@ -446,7 +579,7 @@
         }
       ],
       "order": 3,
-      "source_note": "【预览图】我再考虑一下/我再考虑一下_xhs.md",
+      "source_note": "obsidian-notes/社媒/小红书轮播图/【预览图】我再考虑一下/我再考虑一下_xhs.md",
       "source_note_sha256": "046e58045bd2c137317fa538ea99d44182a6f8661a1c5fdc5d2ca4bab3327bb8",
       "status": "未发布",
       "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示，小黑承担核心动作。封面明确出现商品选择场景和“英文怎么说？”，并保持小黑人唯一黑色主角。",
@@ -466,7 +599,7 @@
             "sha256": "fd6aaf5c3dd5777f90982a414aec9ff3e86783db678388be972f8c543bdf6740",
             "size": 1331287
           },
-          "source": "【预览图】电梯里等我一下/gemini-preview/1_cover.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】电梯里等我一下/gemini-preview/1_cover.png",
           "source_sha256": "fd6aaf5c3dd5777f90982a414aec9ff3e86783db678388be972f8c543bdf6740",
           "web": {
             "format": "webp",
@@ -486,7 +619,7 @@
             "sha256": "d70d5c7230349bdcea8ae0332c607ba25f1590fe360f761bf5fdd19955f474be",
             "size": 1311982
           },
-          "source": "【预览图】电梯里等我一下/gemini-preview/2_page1.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】电梯里等我一下/gemini-preview/2_page1.png",
           "source_sha256": "d70d5c7230349bdcea8ae0332c607ba25f1590fe360f761bf5fdd19955f474be",
           "web": {
             "format": "webp",
@@ -506,7 +639,7 @@
             "sha256": "843f7bd72d311e8ea8cad96507bbb4069a482f764df572b40d262fa5994b0186",
             "size": 1395958
           },
-          "source": "【预览图】电梯里等我一下/gemini-preview/3_page2.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】电梯里等我一下/gemini-preview/3_page2.png",
           "source_sha256": "843f7bd72d311e8ea8cad96507bbb4069a482f764df572b40d262fa5994b0186",
           "web": {
             "format": "webp",
@@ -526,7 +659,7 @@
             "sha256": "ab3d7c43cf5209a0e4fc0071f2fa453f3dfb8854f9be334e642c5b690c809879",
             "size": 1370940
           },
-          "source": "【预览图】电梯里等我一下/gemini-preview/4_page3.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】电梯里等我一下/gemini-preview/4_page3.png",
           "source_sha256": "ab3d7c43cf5209a0e4fc0071f2fa453f3dfb8854f9be334e642c5b690c809879",
           "web": {
             "format": "webp",
@@ -546,7 +679,7 @@
             "sha256": "f44f4105e320c0394c8b026872e6ec7fc2a0c23627837a412db9da9fbc2cffd5",
             "size": 1393959
           },
-          "source": "【预览图】电梯里等我一下/gemini-preview/5_page4.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】电梯里等我一下/gemini-preview/5_page4.png",
           "source_sha256": "f44f4105e320c0394c8b026872e6ec7fc2a0c23627837a412db9da9fbc2cffd5",
           "web": {
             "format": "webp",
@@ -559,7 +692,7 @@
         }
       ],
       "order": 4,
-      "source_note": "【预览图】电梯里等我一下/电梯里等我一下_xhs.md",
+      "source_note": "obsidian-notes/社媒/小红书轮播图/【预览图】电梯里等我一下/电梯里等我一下_xhs.md",
       "source_note_sha256": "4ef279fbaae98cff1bc689305296f5fc3668979101ada670593ff1f750f66e1b",
       "status": "未发布",
       "style": "小黑纯手绘：白底留白，红色页标题、黑色英文、蓝色中文、橙色动作提示；黑色圆头小黑人执行赶电梯、按住开门键和礼貌请求动作，其他人物使用白底黑线稿。",
@@ -579,7 +712,7 @@
             "sha256": "777938d7fb2cfde3fb4553ecbff3eb7351fe438a44fda85b7aa5464a4974d857",
             "size": 1365830
           },
-          "source": "00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/gemini-preview/1_cover.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/gemini-preview/1_cover.png",
           "source_sha256": "777938d7fb2cfde3fb4553ecbff3eb7351fe438a44fda85b7aa5464a4974d857",
           "web": {
             "format": "webp",
@@ -599,7 +732,7 @@
             "sha256": "d6a75421ba4b76f1b6eb95e424c4d05afc0ae8f0b7efcef4ee2eb0cdeeb6ae78",
             "size": 1300706
           },
-          "source": "00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/gemini-preview/2_page1.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/gemini-preview/2_page1.png",
           "source_sha256": "d6a75421ba4b76f1b6eb95e424c4d05afc0ae8f0b7efcef4ee2eb0cdeeb6ae78",
           "web": {
             "format": "webp",
@@ -619,7 +752,7 @@
             "sha256": "dd5d45b9724059ffdae70d81a9f60f3715096141604d5349f36f45a76fa65d4a",
             "size": 1366272
           },
-          "source": "00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/gemini-preview/3_page2.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/gemini-preview/3_page2.png",
           "source_sha256": "dd5d45b9724059ffdae70d81a9f60f3715096141604d5349f36f45a76fa65d4a",
           "web": {
             "format": "webp",
@@ -639,7 +772,7 @@
             "sha256": "7b2c64f4f26c5e39ff66dc27c5af2a96efd19a6f033cdd7f7fa28d98029552f8",
             "size": 1399953
           },
-          "source": "00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/gemini-preview/4_page3.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/gemini-preview/4_page3.png",
           "source_sha256": "7b2c64f4f26c5e39ff66dc27c5af2a96efd19a6f033cdd7f7fa28d98029552f8",
           "web": {
             "format": "webp",
@@ -659,7 +792,7 @@
             "sha256": "8eb8bfb30ce644fa2a3c04a753302358d2a2c95bb4e8e514775d1e292db47ed9",
             "size": 1429806
           },
-          "source": "00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/gemini-preview/5_page4.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/gemini-preview/5_page4.png",
           "source_sha256": "8eb8bfb30ce644fa2a3c04a753302358d2a2c95bb4e8e514775d1e292db47ed9",
           "web": {
             "format": "webp",
@@ -672,7 +805,7 @@
         }
       ],
       "order": 5,
-      "source_note": "00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/邮件发出后才发现没加附件，怎么补救？_xhs.md",
+      "source_note": "obsidian-notes/社媒/小红书轮播图/00_已发布/邮件发出后才发现没加附件，怎么补救？_已发布/邮件发出后才发现没加附件，怎么补救？_xhs.md",
       "source_note_sha256": "b27294f7b49354af7c9440683f3b4b91a0d613cbdc8cbf04e7d071fdd71e5366",
       "status": "已发布",
       "style": "",
@@ -692,7 +825,7 @@
             "sha256": "86eba8c3d3d4dc57b99ac3d6f6147ec3ae82d1086adc119015e4b38090f4c773",
             "size": 1399123
           },
-          "source": "00_已发布/我们先确认目标_已发布/gemini-preview/1_cover.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/00_已发布/我们先确认目标_已发布/gemini-preview/1_cover.png",
           "source_sha256": "86eba8c3d3d4dc57b99ac3d6f6147ec3ae82d1086adc119015e4b38090f4c773",
           "web": {
             "format": "webp",
@@ -712,7 +845,7 @@
             "sha256": "7f348ee65635d11f9ba70064389b80a2f6c69b83266f524636f34dae172083ed",
             "size": 1386430
           },
-          "source": "00_已发布/我们先确认目标_已发布/gemini-preview/2_page1.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/00_已发布/我们先确认目标_已发布/gemini-preview/2_page1.png",
           "source_sha256": "7f348ee65635d11f9ba70064389b80a2f6c69b83266f524636f34dae172083ed",
           "web": {
             "format": "webp",
@@ -732,7 +865,7 @@
             "sha256": "06fabf0ace8a26a5af258854995929e18279df5a1a8b5eb411cfa7e2191eb0c5",
             "size": 1349778
           },
-          "source": "00_已发布/我们先确认目标_已发布/gemini-preview/3_page2.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/00_已发布/我们先确认目标_已发布/gemini-preview/3_page2.png",
           "source_sha256": "06fabf0ace8a26a5af258854995929e18279df5a1a8b5eb411cfa7e2191eb0c5",
           "web": {
             "format": "webp",
@@ -752,7 +885,7 @@
             "sha256": "8c460a6d6b9f022a9e60b39c6adab35792132677b43afa54fed37cbbc952a449",
             "size": 1437548
           },
-          "source": "00_已发布/我们先确认目标_已发布/gemini-preview/4_page3.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/00_已发布/我们先确认目标_已发布/gemini-preview/4_page3.png",
           "source_sha256": "8c460a6d6b9f022a9e60b39c6adab35792132677b43afa54fed37cbbc952a449",
           "web": {
             "format": "webp",
@@ -772,7 +905,7 @@
             "sha256": "32ea06fc5abd0f645ebc208f280afcec858b82ef5fabdf2f091a00eb2e74a653",
             "size": 1427869
           },
-          "source": "00_已发布/我们先确认目标_已发布/gemini-preview/5_page4.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/00_已发布/我们先确认目标_已发布/gemini-preview/5_page4.png",
           "source_sha256": "32ea06fc5abd0f645ebc208f280afcec858b82ef5fabdf2f091a00eb2e74a653",
           "web": {
             "format": "webp",
@@ -785,7 +918,7 @@
         }
       ],
       "order": 6,
-      "source_note": "00_已发布/我们先确认目标_已发布/我们先确认目标_xhs.md",
+      "source_note": "obsidian-notes/社媒/小红书轮播图/00_已发布/我们先确认目标_已发布/我们先确认目标_xhs.md",
       "source_note_sha256": "8f00e086008a3240882b9099a1af0cc7d3d2dc12ee0fbdfa7565fba08cc11f4b",
       "status": "已发布",
       "style": "",
@@ -805,7 +938,7 @@
             "sha256": "e83fdc2a2e91bf8ac1027c977080cc39e31e165cd3fadabf49a68ab9a0879555",
             "size": 1359713
           },
-          "source": "【预览图】我忘回了/gemini-preview/1_cover.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】我忘回了/gemini-preview/1_cover.png",
           "source_sha256": "e83fdc2a2e91bf8ac1027c977080cc39e31e165cd3fadabf49a68ab9a0879555",
           "web": {
             "format": "webp",
@@ -825,7 +958,7 @@
             "sha256": "db1fd3d21c195ad2b00898d7af8e5ffcd8845209f0292c9f80c88d3b473820dc",
             "size": 1367887
           },
-          "source": "【预览图】我忘回了/gemini-preview/2_page1.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】我忘回了/gemini-preview/2_page1.png",
           "source_sha256": "db1fd3d21c195ad2b00898d7af8e5ffcd8845209f0292c9f80c88d3b473820dc",
           "web": {
             "format": "webp",
@@ -845,7 +978,7 @@
             "sha256": "c42229c628063ad43a7fe8a46963b9f046f8236ac2e9e6df9fc9ac3f61d27c4d",
             "size": 1308913
           },
-          "source": "【预览图】我忘回了/gemini-preview/3_page2.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】我忘回了/gemini-preview/3_page2.png",
           "source_sha256": "c42229c628063ad43a7fe8a46963b9f046f8236ac2e9e6df9fc9ac3f61d27c4d",
           "web": {
             "format": "webp",
@@ -865,7 +998,7 @@
             "sha256": "5a835b86adbfde850e1087c4fb3b89b78c1b1f6e97a7bb49ec4ec730d42214b9",
             "size": 1304347
           },
-          "source": "【预览图】我忘回了/gemini-preview/4_page3.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】我忘回了/gemini-preview/4_page3.png",
           "source_sha256": "5a835b86adbfde850e1087c4fb3b89b78c1b1f6e97a7bb49ec4ec730d42214b9",
           "web": {
             "format": "webp",
@@ -885,7 +1018,7 @@
             "sha256": "e108f24d8f1cb950201414268f485c675284a206a0cd03ac5f391a794c6b4c77",
             "size": 1388658
           },
-          "source": "【预览图】我忘回了/gemini-preview/5_page4.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】我忘回了/gemini-preview/5_page4.png",
           "source_sha256": "e108f24d8f1cb950201414268f485c675284a206a0cd03ac5f391a794c6b4c77",
           "web": {
             "format": "webp",
@@ -898,7 +1031,7 @@
         }
       ],
       "order": 7,
-      "source_note": "【预览图】我忘回了/我忘回了_xhs.md",
+      "source_note": "obsidian-notes/社媒/小红书轮播图/【预览图】我忘回了/我忘回了_xhs.md",
       "source_note_sha256": "38ba96ab52a1b181706338a566760f10d2b1b7020c34327eb370b6807b603914",
       "status": "未发布",
       "style": "",
@@ -918,7 +1051,7 @@
             "sha256": "31a892d725c6abf644fb6fa7099b0cbff37d081b8d87267dc21a6053817d7718",
             "size": 1344145
           },
-          "source": "【预览图】别插队/gemini-preview/1_cover.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】别插队/gemini-preview/1_cover.png",
           "source_sha256": "31a892d725c6abf644fb6fa7099b0cbff37d081b8d87267dc21a6053817d7718",
           "web": {
             "format": "webp",
@@ -938,7 +1071,7 @@
             "sha256": "5764ab9116ac9149fc6c840a301b7c6a2c4cb21cda67b334e3e69ce71c30d4d3",
             "size": 1187779
           },
-          "source": "【预览图】别插队/gemini-preview/2_page1.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】别插队/gemini-preview/2_page1.png",
           "source_sha256": "5764ab9116ac9149fc6c840a301b7c6a2c4cb21cda67b334e3e69ce71c30d4d3",
           "web": {
             "format": "webp",
@@ -958,7 +1091,7 @@
             "sha256": "5b353095d56929b0ff8c0c38a7bae4109a83c4f1191602c027cbc8bac5e18e1f",
             "size": 1432856
           },
-          "source": "【预览图】别插队/gemini-preview/3_page2.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】别插队/gemini-preview/3_page2.png",
           "source_sha256": "5b353095d56929b0ff8c0c38a7bae4109a83c4f1191602c027cbc8bac5e18e1f",
           "web": {
             "format": "webp",
@@ -978,7 +1111,7 @@
             "sha256": "a2d0c574523db90d9ef0508f89aece2a757300992273cb316cf94ec76cec2d63",
             "size": 1565553
           },
-          "source": "【预览图】别插队/gemini-preview/4_page3.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】别插队/gemini-preview/4_page3.png",
           "source_sha256": "a2d0c574523db90d9ef0508f89aece2a757300992273cb316cf94ec76cec2d63",
           "web": {
             "format": "webp",
@@ -998,7 +1131,7 @@
             "sha256": "5572a6d0ef9e49534d810b417e68424cc3a501808537cb9645434a47da75c37a",
             "size": 1207046
           },
-          "source": "【预览图】别插队/gemini-preview/5_page4.png",
+          "source": "obsidian-notes/社媒/小红书轮播图/【预览图】别插队/gemini-preview/5_page4.png",
           "source_sha256": "5572a6d0ef9e49534d810b417e68424cc3a501808537cb9645434a47da75c37a",
           "web": {
             "format": "webp",
@@ -1011,14 +1144,1370 @@
         }
       ],
       "order": 8,
-      "source_note": "【预览图】别插队/别插队_xhs.md",
+      "source_note": "obsidian-notes/社媒/小红书轮播图/【预览图】别插队/别插队_xhs.md",
       "source_note_sha256": "9c7afa7537a3cd286d12c806fdc0c077c7145a957fce9edb5f9545d483c0e64e",
       "status": "待发布",
       "style": "Mixed：封面用小黑手绘呈现排队冲突，内页用 GoodNotes 拆解礼貌提醒和短对话。",
       "title": "别插队，英语怎么礼貌说？"
+    },
+    {
+      "account": "",
+      "fingerprint": "6ce9c8c0031df007a66e39f3350b53fe78972b12126a6d26d2204345c24630d4",
+      "id": "09-01-鞋带开了",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/09-01-鞋带开了/original/1_cover.png",
+            "sha256": "6ea85ecb9e11f2f9797162707372ef498f91d4d088116617192eac50f0586256",
+            "size": 1286882
+          },
+          "source": "xhs-daily-english-notes/01-鞋带开了/1_cover.png",
+          "source_sha256": "6ea85ecb9e11f2f9797162707372ef498f91d4d088116617192eac50f0586256",
+          "web": {
+            "format": "webp",
+            "path": "notes/09-01-鞋带开了/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "92c7eb75fed4c0064b12c2070daf74de7278ddb4fd505dc5b39f6baa2c2235f7",
+            "size": 61036
+          },
+          "width": 1086
+        },
+        {
+          "alt": "提醒别人鞋带开了",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/09-01-鞋带开了/original/2_page1.png",
+            "sha256": "6d0e26f1d36209f3308d1f3b999cb7a3e75371c200cc39ee2c17dd58e286bd8c",
+            "size": 1095682
+          },
+          "source": "xhs-daily-english-notes/01-鞋带开了/2_page1.png",
+          "source_sha256": "6d0e26f1d36209f3308d1f3b999cb7a3e75371c200cc39ee2c17dd58e286bd8c",
+          "web": {
+            "format": "webp",
+            "path": "notes/09-01-鞋带开了/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "d8292f794382be86b4c9d03c86572c077ecf742b3740350bb2f9db1b3ae2ac70",
+            "size": 68314
+          },
+          "width": 1086
+        },
+        {
+          "alt": "说自己鞋带开了",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/09-01-鞋带开了/original/3_page2.png",
+            "sha256": "3b228d0dce518d5c80a99413000802151a86349ff27116a6573ef3d9d04ed778",
+            "size": 1233373
+          },
+          "source": "xhs-daily-english-notes/01-鞋带开了/3_page2.png",
+          "source_sha256": "3b228d0dce518d5c80a99413000802151a86349ff27116a6573ef3d9d04ed778",
+          "web": {
+            "format": "webp",
+            "path": "notes/09-01-鞋带开了/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "0a0e0feeeddf7b3445182338b06c05a22b4f254fd64f518c0cd3cfab08ba3196",
+            "size": 60136
+          },
+          "width": 1086
+        },
+        {
+          "alt": "停一下系好",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/09-01-鞋带开了/original/4_page3.png",
+            "sha256": "38bd022d1cf3f99d07f0b9393b1230c4e39b48532dff4e8d9c8afeaebb57e5f7",
+            "size": 988143
+          },
+          "source": "xhs-daily-english-notes/01-鞋带开了/4_page3.png",
+          "source_sha256": "38bd022d1cf3f99d07f0b9393b1230c4e39b48532dff4e8d9c8afeaebb57e5f7",
+          "web": {
+            "format": "webp",
+            "path": "notes/09-01-鞋带开了/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "91f3328a87ea000422b9097ac278abc2db96c08cb660e1416afa72aaf9e12d58",
+            "size": 47788
+          },
+          "width": 1086
+        },
+        {
+          "alt": "这样接一句",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/09-01-鞋带开了/original/5_page4.png",
+            "sha256": "c6ba6d1bc9a7413fe47409ab10c76cb867cb436a4c3c9240e25ef156aec47404",
+            "size": 1315350
+          },
+          "source": "xhs-daily-english-notes/01-鞋带开了/5_page4.png",
+          "source_sha256": "c6ba6d1bc9a7413fe47409ab10c76cb867cb436a4c3c9240e25ef156aec47404",
+          "web": {
+            "format": "webp",
+            "path": "notes/09-01-鞋带开了/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "ddfa3997542a76324a44e0a0e70aab0d527d30e445ba97d144a7d6559bb7808f",
+            "size": 72420
+          },
+          "width": 1086
+        }
+      ],
+      "order": 9,
+      "source_note": "xhs-daily-english-notes/01-鞋带开了/鞋带开了_xhs.md",
+      "source_note_sha256": "c906fc37e4eadd781d19157b83bc49dba3b49bd2861ae161a0605028b9f56477",
+      "status": "未发布",
+      "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文。",
+      "title": "鞋带开了，英文怎么说？"
+    },
+    {
+      "account": "",
+      "fingerprint": "72876650b3480bbac2faeaa1b82375247f370c5efb65d8800e4b7de3d27466b8",
+      "id": "10-02-衣服还没干",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/10-02-衣服还没干/original/1_cover.png",
+            "sha256": "b3a44ebcf93b2c15e9e4ddfabcb48b085350386da0c70b20efad045bf359f047",
+            "size": 1071744
+          },
+          "source": "xhs-daily-english-notes/02-衣服还没干/1_cover.png",
+          "source_sha256": "b3a44ebcf93b2c15e9e4ddfabcb48b085350386da0c70b20efad045bf359f047",
+          "web": {
+            "format": "webp",
+            "path": "notes/10-02-衣服还没干/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "21ae4370d693cd0766e4f6f358ba138a6eb97a82c942299c06835df1147a4bee",
+            "size": 73150
+          },
+          "width": 1086
+        },
+        {
+          "alt": "衣服还没干",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/10-02-衣服还没干/original/2_page1.png",
+            "sha256": "a7ad532d286668c3579aa2a6b80daef51e0737b38929a00820ea7eb0bf12ed6b",
+            "size": 1209264
+          },
+          "source": "xhs-daily-english-notes/02-衣服还没干/2_page1.png",
+          "source_sha256": "a7ad532d286668c3579aa2a6b80daef51e0737b38929a00820ea7eb0bf12ed6b",
+          "web": {
+            "format": "webp",
+            "path": "notes/10-02-衣服还没干/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "17e150fc673aa681ed6d64627c091965af420fc9105b69d9606fd693911f89bd",
+            "size": 68610
+          },
+          "width": 1086
+        },
+        {
+          "alt": "问干了没有",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/10-02-衣服还没干/original/3_page2.png",
+            "sha256": "31468e03d099730fdf3163d0002418229236a825dc286bb94cf8c79a9a3912ba",
+            "size": 1095918
+          },
+          "source": "xhs-daily-english-notes/02-衣服还没干/3_page2.png",
+          "source_sha256": "31468e03d099730fdf3163d0002418229236a825dc286bb94cf8c79a9a3912ba",
+          "web": {
+            "format": "webp",
+            "path": "notes/10-02-衣服还没干/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "8008b24f6fee6e2a9da6bbe39afc2dc6ba136a5248db6a49cd16945885e0ca75",
+            "size": 70546
+          },
+          "width": 1086
+        },
+        {
+          "alt": "再晾一会儿",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/10-02-衣服还没干/original/4_page3.png",
+            "sha256": "1f76cb67feb09e1ded754533ddd09e48eb761ebd50bf4e35d8fc3e9505784ac4",
+            "size": 1096139
+          },
+          "source": "xhs-daily-english-notes/02-衣服还没干/4_page3.png",
+          "source_sha256": "1f76cb67feb09e1ded754533ddd09e48eb761ebd50bf4e35d8fc3e9505784ac4",
+          "web": {
+            "format": "webp",
+            "path": "notes/10-02-衣服还没干/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "800cbf05bca8e15c5edf8dfedfe766dbab82d7b0f6e849139a66152cdef44b91",
+            "size": 69750
+          },
+          "width": 1086
+        },
+        {
+          "alt": "这样接一句",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/10-02-衣服还没干/original/5_page4.png",
+            "sha256": "3cf84fc92335a20b24bafe0ea2d23924931666acea02f331f3678dc85ff71416",
+            "size": 1391871
+          },
+          "source": "xhs-daily-english-notes/02-衣服还没干/5_page4.png",
+          "source_sha256": "3cf84fc92335a20b24bafe0ea2d23924931666acea02f331f3678dc85ff71416",
+          "web": {
+            "format": "webp",
+            "path": "notes/10-02-衣服还没干/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "b6f121421f01d25480811dd7b1570d80324dd37d28035424dd2f2e2116e34464",
+            "size": 83764
+          },
+          "width": 1086
+        }
+      ],
+      "order": 10,
+      "source_note": "xhs-daily-english-notes/02-衣服还没干/衣服还没干_xhs.md",
+      "source_note_sha256": "16054aa1f72954a4b419ba06f20480689644d6cc3b4b7c67943f445d9c194a3c",
+      "status": "未发布",
+      "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文。",
+      "title": "衣服还没干，英文怎么说？"
+    },
+    {
+      "account": "",
+      "fingerprint": "0c4d52d23dcfeed10ebb123c41954cf3939b1edd13a006dea3df337fa90909dd",
+      "id": "11-03-这件衣服有点皱",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/11-03-这件衣服有点皱/original/1_cover.png",
+            "sha256": "75ce4f4e84c6640188f543fe15bfb924f0229114ddf67e78583e5de4ef50d00d",
+            "size": 1072804
+          },
+          "source": "xhs-daily-english-notes/03-这件衣服有点皱/1_cover.png",
+          "source_sha256": "75ce4f4e84c6640188f543fe15bfb924f0229114ddf67e78583e5de4ef50d00d",
+          "web": {
+            "format": "webp",
+            "path": "notes/11-03-这件衣服有点皱/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "75a2d17c94b8be67d92a12efea5829e90e5c7874da7e25a47d5e80f70d29e98d",
+            "size": 69174
+          },
+          "width": 1086
+        },
+        {
+          "alt": "衣服有点皱",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/11-03-这件衣服有点皱/original/2_page1.png",
+            "sha256": "4f2e8546eccc0fd6f903cbc5ea03ca2059adb12136b2248fa2a56d7111675d81",
+            "size": 1104916
+          },
+          "source": "xhs-daily-english-notes/03-这件衣服有点皱/2_page1.png",
+          "source_sha256": "4f2e8546eccc0fd6f903cbc5ea03ca2059adb12136b2248fa2a56d7111675d81",
+          "web": {
+            "format": "webp",
+            "path": "notes/11-03-这件衣服有点皱/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "dc2c0de2ae777e68bae7f4d5d1a2452390f7825724b25f6f51156ffe5ab047c4",
+            "size": 70716
+          },
+          "width": 1086
+        },
+        {
+          "alt": "问有没有熨斗",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/11-03-这件衣服有点皱/original/3_page2.png",
+            "sha256": "7cf3a702ea0523c29308c3aa593392c73ebffbfc48a97262eb0fedd2b1fb801f",
+            "size": 1069405
+          },
+          "source": "xhs-daily-english-notes/03-这件衣服有点皱/3_page2.png",
+          "source_sha256": "7cf3a702ea0523c29308c3aa593392c73ebffbfc48a97262eb0fedd2b1fb801f",
+          "web": {
+            "format": "webp",
+            "path": "notes/11-03-这件衣服有点皱/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "3fdfc1276c7f7e5935e6cd846b73b49148e01c434f8f0cdc30eebc9082ab1a32",
+            "size": 68134
+          },
+          "width": 1086
+        },
+        {
+          "alt": "赶紧熨一下",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/11-03-这件衣服有点皱/original/4_page3.png",
+            "sha256": "b38a17fb0026c2b888446e7ae02b05dc096de38d4341ce217a54911df80ef9f9",
+            "size": 1291780
+          },
+          "source": "xhs-daily-english-notes/03-这件衣服有点皱/4_page3.png",
+          "source_sha256": "b38a17fb0026c2b888446e7ae02b05dc096de38d4341ce217a54911df80ef9f9",
+          "web": {
+            "format": "webp",
+            "path": "notes/11-03-这件衣服有点皱/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "527cf0768ab7897a39939b74d37b4770664bf489bffd470e4871c975859536ac",
+            "size": 65486
+          },
+          "width": 1086
+        },
+        {
+          "alt": "这样接一句",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/11-03-这件衣服有点皱/original/5_page4.png",
+            "sha256": "3fc5ec638ff0d0c89a638bc62bf3e84df7fdc381ea871d604226b81fba190fdf",
+            "size": 1371104
+          },
+          "source": "xhs-daily-english-notes/03-这件衣服有点皱/5_page4.png",
+          "source_sha256": "3fc5ec638ff0d0c89a638bc62bf3e84df7fdc381ea871d604226b81fba190fdf",
+          "web": {
+            "format": "webp",
+            "path": "notes/11-03-这件衣服有点皱/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "a8f95351e109c660763c03a1e3032ecc62a80ad6448d9f635f39217340bf9bf6",
+            "size": 84800
+          },
+          "width": 1086
+        }
+      ],
+      "order": 11,
+      "source_note": "xhs-daily-english-notes/03-这件衣服有点皱/这件衣服有点皱_xhs.md",
+      "source_note_sha256": "dce3623ce141ed620eba91c319ea5d0bcece072997399bf5d8f1e4195d1e657f",
+      "status": "未发布",
+      "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文。",
+      "title": "这件衣服有点皱，英文怎么说？"
+    },
+    {
+      "account": "",
+      "fingerprint": "d100839274f6c073e7669e7c0e138279f55ec07b74f38f039cc6d3636e4d2ffd",
+      "id": "12-04-我想喝口水",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/12-04-我想喝口水/original/1_cover.png",
+            "sha256": "f1008cad1556bfb0adc92356cc26481b290d2e1411cb1813c1b4f28d832cd133",
+            "size": 1015201
+          },
+          "source": "xhs-daily-english-notes/04-我想喝口水/1_cover.png",
+          "source_sha256": "f1008cad1556bfb0adc92356cc26481b290d2e1411cb1813c1b4f28d832cd133",
+          "web": {
+            "format": "webp",
+            "path": "notes/12-04-我想喝口水/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "83980e58fe7fc03441a1b7d59e7e9691392841de24d7ca89a989d988e6834f53",
+            "size": 59346
+          },
+          "width": 1086
+        },
+        {
+          "alt": "想喝一口水",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/12-04-我想喝口水/original/2_page1.png",
+            "sha256": "b783fa56ff2918f020918206112eb36d615bafbeb28a3e422a738978addd6553",
+            "size": 1021515
+          },
+          "source": "xhs-daily-english-notes/04-我想喝口水/2_page1.png",
+          "source_sha256": "b783fa56ff2918f020918206112eb36d615bafbeb28a3e422a738978addd6553",
+          "web": {
+            "format": "webp",
+            "path": "notes/12-04-我想喝口水/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "5f42ce144410ec7c2f7c8bbe5c8caeb66a3a3da7f6702d84e3b5a908e3b012d1",
+            "size": 56684
+          },
+          "width": 1086
+        },
+        {
+          "alt": "向别人要水",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/12-04-我想喝口水/original/3_page2.png",
+            "sha256": "1114cbe862dbf46e9fdf4b5dae990f906cce1265e30568204512da3a33f4e50f",
+            "size": 1351538
+          },
+          "source": "xhs-daily-english-notes/04-我想喝口水/3_page2.png",
+          "source_sha256": "1114cbe862dbf46e9fdf4b5dae990f906cce1265e30568204512da3a33f4e50f",
+          "web": {
+            "format": "webp",
+            "path": "notes/12-04-我想喝口水/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "d002ab78830b42462694a9f47f9c71db4462087f66ced7ecc8a2841539ee9b0e",
+            "size": 73038
+          },
+          "width": 1086
+        },
+        {
+          "alt": "自己去倒一杯",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/12-04-我想喝口水/original/4_page3.png",
+            "sha256": "616b1494dbf8d8d4b652b44f5e8a757c91d9bd32190f0cea44bc6e366424fbc1",
+            "size": 1048472
+          },
+          "source": "xhs-daily-english-notes/04-我想喝口水/4_page3.png",
+          "source_sha256": "616b1494dbf8d8d4b652b44f5e8a757c91d9bd32190f0cea44bc6e366424fbc1",
+          "web": {
+            "format": "webp",
+            "path": "notes/12-04-我想喝口水/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "094015be342fcf2a7090408d638799a0182dbd0395967865af0088c1df11dce3",
+            "size": 61264
+          },
+          "width": 1086
+        },
+        {
+          "alt": "这样接一句",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/12-04-我想喝口水/original/5_page4.png",
+            "sha256": "e8e731a6077842fe309a153ca4ff503745af00c5b906ce2f68c6e5e0a5d89c56",
+            "size": 1328407
+          },
+          "source": "xhs-daily-english-notes/04-我想喝口水/5_page4.png",
+          "source_sha256": "e8e731a6077842fe309a153ca4ff503745af00c5b906ce2f68c6e5e0a5d89c56",
+          "web": {
+            "format": "webp",
+            "path": "notes/12-04-我想喝口水/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "217733b9d13219db72a6d24c4ff2d70174b1d1403bb14e146bb30cdf4371463d",
+            "size": 77264
+          },
+          "width": 1086
+        }
+      ],
+      "order": 12,
+      "source_note": "xhs-daily-english-notes/04-我想喝口水/我想喝口水_xhs.md",
+      "source_note_sha256": "c5cbe618189800c44e9a96d61d663d370140d0aab3e9c4c838ab1bb632e2c119",
+      "status": "未发布",
+      "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文。",
+      "title": "我想喝口水，英文怎么说？"
+    },
+    {
+      "account": "",
+      "fingerprint": "70d48b8e65ec627647874918ecf556b6ad9114130581433a7d6225e76989e2ee",
+      "id": "13-05-你先吃吧",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/13-05-你先吃吧/original/1_cover.png",
+            "sha256": "aae1226ccfe4a026a904beedd98bec6526c4fe6e2b2e0715f65ad202d3bb02c9",
+            "size": 1069893
+          },
+          "source": "xhs-daily-english-notes/05-你先吃吧/1_cover.png",
+          "source_sha256": "aae1226ccfe4a026a904beedd98bec6526c4fe6e2b2e0715f65ad202d3bb02c9",
+          "web": {
+            "format": "webp",
+            "path": "notes/13-05-你先吃吧/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "b1abe5bf6b20e7126d42b0df3835b91b365d497a0185812cae21442c31e4aaf9",
+            "size": 74326
+          },
+          "width": 1086
+        },
+        {
+          "alt": "让对方先吃",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/13-05-你先吃吧/original/2_page1.png",
+            "sha256": "04d946832facec735ba425f699f6ccd5630fb64327ae3ab79a83b5759db91f72",
+            "size": 1077134
+          },
+          "source": "xhs-daily-english-notes/05-你先吃吧/2_page1.png",
+          "source_sha256": "04d946832facec735ba425f699f6ccd5630fb64327ae3ab79a83b5759db91f72",
+          "web": {
+            "format": "webp",
+            "path": "notes/13-05-你先吃吧/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "3024edf2a62f6f3d5a51c76a0f7de268cf4f68fac16ead4fbafe5226992c2a10",
+            "size": 67334
+          },
+          "width": 1086
+        },
+        {
+          "alt": "再补一句别等我",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/13-05-你先吃吧/original/3_page2.png",
+            "sha256": "65a801a823fe7c00ea2c457cc3c2752399a3a4de3e5af51b6b358792b6e80e3a",
+            "size": 1068968
+          },
+          "source": "xhs-daily-english-notes/05-你先吃吧/3_page2.png",
+          "source_sha256": "65a801a823fe7c00ea2c457cc3c2752399a3a4de3e5af51b6b358792b6e80e3a",
+          "web": {
+            "format": "webp",
+            "path": "notes/13-05-你先吃吧/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "5c13d1d0a4c9ba7ba209d8ceb9b7b44c1b48ada8b037ca7dfb8b6b4d19bb18cd",
+            "size": 70510
+          },
+          "width": 1086
+        },
+        {
+          "alt": "说自己很快过来",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/13-05-你先吃吧/original/4_page3.png",
+            "sha256": "7b0f579a9675e7a3f3bec0bdc954184d80eb5e74f012f9ac3cc2d5dedd8bace4",
+            "size": 1306164
+          },
+          "source": "xhs-daily-english-notes/05-你先吃吧/4_page3.png",
+          "source_sha256": "7b0f579a9675e7a3f3bec0bdc954184d80eb5e74f012f9ac3cc2d5dedd8bace4",
+          "web": {
+            "format": "webp",
+            "path": "notes/13-05-你先吃吧/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "e4edd40051179d6168e2bb6206067b5565736d8d8844402eaf2ab9610091cd0a",
+            "size": 72652
+          },
+          "width": 1086
+        },
+        {
+          "alt": "这样接一句",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/13-05-你先吃吧/original/5_page4.png",
+            "sha256": "783511e31c877e8d875e74df0bc1785badbc71167b40622491479b4d41bb8c29",
+            "size": 1190877
+          },
+          "source": "xhs-daily-english-notes/05-你先吃吧/5_page4.png",
+          "source_sha256": "783511e31c877e8d875e74df0bc1785badbc71167b40622491479b4d41bb8c29",
+          "web": {
+            "format": "webp",
+            "path": "notes/13-05-你先吃吧/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "080ca996fb84346fe7f49199339ff1a57ae6faae2c2f5e914b55234e30c2a8b8",
+            "size": 90336
+          },
+          "width": 1086
+        }
+      ],
+      "order": 13,
+      "source_note": "xhs-daily-english-notes/05-你先吃吧/你先吃吧_xhs.md",
+      "source_note_sha256": "8dc4dab76bee749d1d2ce7f7c9ba8122e5dc3aa888e6cc4a29485b9eeb9b5585",
+      "status": "未发布",
+      "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文。",
+      "title": "你先吃吧，英文怎么说？"
+    },
+    {
+      "account": "",
+      "fingerprint": "bd90e79d4bbdd7701c1606bf4b81ebdda3f89ac84711f20d851822d83bea493a",
+      "id": "14-06-菜快凉了",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/14-06-菜快凉了/original/1_cover.png",
+            "sha256": "d68b945182637f53429be8c825eaf0ea62ac78d9f7e19ea90f87cab05f33b86f",
+            "size": 1130955
+          },
+          "source": "xhs-daily-english-notes/06-菜快凉了/1_cover.png",
+          "source_sha256": "d68b945182637f53429be8c825eaf0ea62ac78d9f7e19ea90f87cab05f33b86f",
+          "web": {
+            "format": "webp",
+            "path": "notes/14-06-菜快凉了/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "6379929f14f49da6798f68caf1832178de08afecc6e694572145c70bf81c15f0",
+            "size": 67652
+          },
+          "width": 1086
+        },
+        {
+          "alt": "菜快凉了",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/14-06-菜快凉了/original/2_page1.png",
+            "sha256": "9965d0146835136a60cabdb3778af73731870908e7f3beb657dd166d81504316",
+            "size": 1067216
+          },
+          "source": "xhs-daily-english-notes/06-菜快凉了/2_page1.png",
+          "source_sha256": "9965d0146835136a60cabdb3778af73731870908e7f3beb657dd166d81504316",
+          "web": {
+            "format": "webp",
+            "path": "notes/14-06-菜快凉了/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "ada35a26f0827e38b176bea3d93ab0fae29d31a93bde645065c8df1a91a827e4",
+            "size": 66456
+          },
+          "width": 1086
+        },
+        {
+          "alt": "趁热吃吧",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/14-06-菜快凉了/original/3_page2.png",
+            "sha256": "e313d096213ebcb37affb54dac539b4f4199a25853e5a0993a999ab9040557b8",
+            "size": 1444701
+          },
+          "source": "xhs-daily-english-notes/06-菜快凉了/3_page2.png",
+          "source_sha256": "e313d096213ebcb37affb54dac539b4f4199a25853e5a0993a999ab9040557b8",
+          "web": {
+            "format": "webp",
+            "path": "notes/14-06-菜快凉了/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "c0a1bdd1b77805807c087a097f7da96eaa8532357ef7b15971848cdb8a685aa8",
+            "size": 90380
+          },
+          "width": 1086
+        },
+        {
+          "alt": "凉了就热一下",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/14-06-菜快凉了/original/4_page3.png",
+            "sha256": "92acb7009b27634e2db2825bf60897b8c5f4950d4cd390cced17fa976ef728f3",
+            "size": 1310338
+          },
+          "source": "xhs-daily-english-notes/06-菜快凉了/4_page3.png",
+          "source_sha256": "92acb7009b27634e2db2825bf60897b8c5f4950d4cd390cced17fa976ef728f3",
+          "web": {
+            "format": "webp",
+            "path": "notes/14-06-菜快凉了/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "99944f98e538bf73f59a52a4ec322ccbc480921cc71740beeb37759bc02c919c",
+            "size": 66358
+          },
+          "width": 1086
+        },
+        {
+          "alt": "这样接一句",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/14-06-菜快凉了/original/5_page4.png",
+            "sha256": "8c0ec320ebbb52296b037eb0516a41854fe92e3bb46cc04f334901e405210f1f",
+            "size": 1332009
+          },
+          "source": "xhs-daily-english-notes/06-菜快凉了/5_page4.png",
+          "source_sha256": "8c0ec320ebbb52296b037eb0516a41854fe92e3bb46cc04f334901e405210f1f",
+          "web": {
+            "format": "webp",
+            "path": "notes/14-06-菜快凉了/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "4613c7172a559e252030888c671a4f6198c31f055c5ce684c3aa75a9b1cce284",
+            "size": 84650
+          },
+          "width": 1086
+        }
+      ],
+      "order": 14,
+      "source_note": "xhs-daily-english-notes/06-菜快凉了/菜快凉了_xhs.md",
+      "source_note_sha256": "2c9149aa46eb20fd7a7181834650c51e6896bbba43c04bc2abed26e3d1674b4e",
+      "status": "未发布",
+      "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文。",
+      "title": "菜快凉了，英文怎么说？"
+    },
+    {
+      "account": "",
+      "fingerprint": "69718c03bdaec5e7ac6a430b0bc02658e734e50b4f184c8765eeca26b17bf4eb",
+      "id": "15-07-我去开门",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/15-07-我去开门/original/1_cover.png",
+            "sha256": "4e78e89bd86e98d81fbff487f4cd3ca8a11359af273628b615d9c79af00b6c24",
+            "size": 988404
+          },
+          "source": "xhs-daily-english-notes/07-我去开门/1_cover.png",
+          "source_sha256": "4e78e89bd86e98d81fbff487f4cd3ca8a11359af273628b615d9c79af00b6c24",
+          "web": {
+            "format": "webp",
+            "path": "notes/15-07-我去开门/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "f3b2c766aa4271718fda7e7b71b4ad5647d4b57798a28d0b48c70bb3fafce046",
+            "size": 52416
+          },
+          "width": 1086
+        },
+        {
+          "alt": "我去开门",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/15-07-我去开门/original/2_page1.png",
+            "sha256": "9588a7c2b32e04f0da84dc50d7ee36d91bf25d6c1aa76429d45ba8d0f496bc54",
+            "size": 984432
+          },
+          "source": "xhs-daily-english-notes/07-我去开门/2_page1.png",
+          "source_sha256": "9588a7c2b32e04f0da84dc50d7ee36d91bf25d6c1aa76429d45ba8d0f496bc54",
+          "web": {
+            "format": "webp",
+            "path": "notes/15-07-我去开门/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "131302d22721f66ea3c20bdb5abf6f0af546a79c81c9e74fa855915913048459",
+            "size": 49318
+          },
+          "width": 1086
+        },
+        {
+          "alt": "提醒有人在门口",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/15-07-我去开门/original/3_page2.png",
+            "sha256": "37fa1341e0806c0f5e8cf2a0700e944db4ad56fa9c20efe2b0ec2df9b6f9042d",
+            "size": 1004462
+          },
+          "source": "xhs-daily-english-notes/07-我去开门/3_page2.png",
+          "source_sha256": "37fa1341e0806c0f5e8cf2a0700e944db4ad56fa9c20efe2b0ec2df9b6f9042d",
+          "web": {
+            "format": "webp",
+            "path": "notes/15-07-我去开门/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "99f999c0d821abafae7f75922db230364700a8b878c0d1f54202ee4fa10e26d3",
+            "size": 54294
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请别人去开门",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/15-07-我去开门/original/4_page3.png",
+            "sha256": "78a21f23786eeebf01d577675cc991aad2952b782c3ffe7044fa1905955a242b",
+            "size": 1081075
+          },
+          "source": "xhs-daily-english-notes/07-我去开门/4_page3.png",
+          "source_sha256": "78a21f23786eeebf01d577675cc991aad2952b782c3ffe7044fa1905955a242b",
+          "web": {
+            "format": "webp",
+            "path": "notes/15-07-我去开门/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "5d05a604e3da03c8310833704b62b17246570773fadd45abbf2475fc5568b5ba",
+            "size": 64174
+          },
+          "width": 1086
+        },
+        {
+          "alt": "这样接一句",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/15-07-我去开门/original/5_page4.png",
+            "sha256": "51803eb242fd57a0c8661f80ffc988d60ff90c610a698e06fa8db4aaf0952f11",
+            "size": 1328489
+          },
+          "source": "xhs-daily-english-notes/07-我去开门/5_page4.png",
+          "source_sha256": "51803eb242fd57a0c8661f80ffc988d60ff90c610a698e06fa8db4aaf0952f11",
+          "web": {
+            "format": "webp",
+            "path": "notes/15-07-我去开门/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "e009fefb6e34769b833e22a75b6421db29a2b6bc146dedcd1364a82e9a95dc9e",
+            "size": 67330
+          },
+          "width": 1086
+        }
+      ],
+      "order": 15,
+      "source_note": "xhs-daily-english-notes/07-我去开门/我去开门_xhs.md",
+      "source_note_sha256": "45f2ce9508ee21ea6c3906b6bb55cf3977c3429b7447ddea17a80d33ab651a94",
+      "status": "未发布",
+      "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文。",
+      "title": "我去开门，英文怎么说？"
+    },
+    {
+      "account": "",
+      "fingerprint": "c6ad70a3021add3c3cb7ab514902f31b922a4bc132e358fb1e891819c99f4291",
+      "id": "16-08-进门先脱鞋",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/16-08-进门先脱鞋/original/1_cover.png",
+            "sha256": "9c26a19acd5f255bca273d26baf25e054926d73b0b940aa064d5dec8a57906a7",
+            "size": 1043977
+          },
+          "source": "xhs-daily-english-notes/08-进门先脱鞋/1_cover.png",
+          "source_sha256": "9c26a19acd5f255bca273d26baf25e054926d73b0b940aa064d5dec8a57906a7",
+          "web": {
+            "format": "webp",
+            "path": "notes/16-08-进门先脱鞋/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "6d0ffdcf9b47d8ebf5dafca8d9fb2b89f265e2eaae2055cd22648dffeb481caa",
+            "size": 68754
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请对方脱鞋",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/16-08-进门先脱鞋/original/2_page1.png",
+            "sha256": "51baa2215fb5765cf999232e72c6d6e6dfd95a978c39729717f91e6f5ae5aa87",
+            "size": 1092692
+          },
+          "source": "xhs-daily-english-notes/08-进门先脱鞋/2_page1.png",
+          "source_sha256": "51baa2215fb5765cf999232e72c6d6e6dfd95a978c39729717f91e6f5ae5aa87",
+          "web": {
+            "format": "webp",
+            "path": "notes/16-08-进门先脱鞋/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "3c6b8d875147723084c86ce456e456a64e7eb954c5aa694b0a9c96af9e53e04f",
+            "size": 71468
+          },
+          "width": 1086
+        },
+        {
+          "alt": "说明脱鞋的位置",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/16-08-进门先脱鞋/original/3_page2.png",
+            "sha256": "e242dea66220e514d46b55dd5e1833a74d1de6be9a4ce47bf4e7e02072b655b0",
+            "size": 1077250
+          },
+          "source": "xhs-daily-english-notes/08-进门先脱鞋/3_page2.png",
+          "source_sha256": "e242dea66220e514d46b55dd5e1833a74d1de6be9a4ce47bf4e7e02072b655b0",
+          "web": {
+            "format": "webp",
+            "path": "notes/16-08-进门先脱鞋/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "499ace4de87dfef6b969ea3b34f01f7154aebf08606f7edf6ac34c8cbff8b221",
+            "size": 67876
+          },
+          "width": 1086
+        },
+        {
+          "alt": "问能放这里吗",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/16-08-进门先脱鞋/original/4_page3.png",
+            "sha256": "7d2c66d74e9dc6e48c490d5277e244807bdf160ca3ecb6d6ab3e89366921422d",
+            "size": 1091172
+          },
+          "source": "xhs-daily-english-notes/08-进门先脱鞋/4_page3.png",
+          "source_sha256": "7d2c66d74e9dc6e48c490d5277e244807bdf160ca3ecb6d6ab3e89366921422d",
+          "web": {
+            "format": "webp",
+            "path": "notes/16-08-进门先脱鞋/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "4c4b80628109dd2f03f2176a936826e284dd35a8724e74959b2e378e8c07814a",
+            "size": 70544
+          },
+          "width": 1086
+        },
+        {
+          "alt": "这样接一句",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/16-08-进门先脱鞋/original/5_page4.png",
+            "sha256": "adff1d673c1057811f850d60c741a9348a185302937dacfe1317453d5d9175c4",
+            "size": 1358395
+          },
+          "source": "xhs-daily-english-notes/08-进门先脱鞋/5_page4.png",
+          "source_sha256": "adff1d673c1057811f850d60c741a9348a185302937dacfe1317453d5d9175c4",
+          "web": {
+            "format": "webp",
+            "path": "notes/16-08-进门先脱鞋/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "7d0a29e24a2721be630484a7e5113e172a2d5dda44a0addb87244022a8ddad76",
+            "size": 83814
+          },
+          "width": 1086
+        }
+      ],
+      "order": 16,
+      "source_note": "xhs-daily-english-notes/08-进门先脱鞋/进门先脱鞋_xhs.md",
+      "source_note_sha256": "c01dd789c1f5c3d5d14b7c9224aeaa6015a639525cfb4694a0a5c108e0bef816",
+      "status": "未发布",
+      "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文。",
+      "title": "进门先脱鞋，英文怎么说？"
+    },
+    {
+      "account": "",
+      "fingerprint": "a75469fe596c49e11b6e47af779093f86b960e973614672b9bc5eb97de2f2144",
+      "id": "17-09-被子有点薄",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/17-09-被子有点薄/original/1_cover.png",
+            "sha256": "29b340931e312ea4000ced26e8829750ca728679e5a8ba4128acb711abee24b1",
+            "size": 1098554
+          },
+          "source": "xhs-daily-english-notes/09-被子有点薄/1_cover.png",
+          "source_sha256": "29b340931e312ea4000ced26e8829750ca728679e5a8ba4128acb711abee24b1",
+          "web": {
+            "format": "webp",
+            "path": "notes/17-09-被子有点薄/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "f4a1aa8e98747be8bbac2238fcce7f9c506d32909214ebd0da26634414975f7e",
+            "size": 65678
+          },
+          "width": 1086
+        },
+        {
+          "alt": "被子有点薄",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/17-09-被子有点薄/original/2_page1.png",
+            "sha256": "08490a77daef62e366ed8ec45d4df86267cbce8a47c53bb56160deae3bd90547",
+            "size": 1090639
+          },
+          "source": "xhs-daily-english-notes/09-被子有点薄/2_page1.png",
+          "source_sha256": "08490a77daef62e366ed8ec45d4df86267cbce8a47c53bb56160deae3bd90547",
+          "web": {
+            "format": "webp",
+            "path": "notes/17-09-被子有点薄/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "5d8b74d4eb9e673c51398e09d0c725a516affad5bb917d7be5ff435310ae0b66",
+            "size": 69980
+          },
+          "width": 1086
+        },
+        {
+          "alt": "再要一条被子",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/17-09-被子有点薄/original/3_page2.png",
+            "sha256": "96819b76ffa7ac170c2ce7adba175989bd24d8e23548476df066c420a53aca4b",
+            "size": 1419161
+          },
+          "source": "xhs-daily-english-notes/09-被子有点薄/3_page2.png",
+          "source_sha256": "96819b76ffa7ac170c2ce7adba175989bd24d8e23548476df066c420a53aca4b",
+          "web": {
+            "format": "webp",
+            "path": "notes/17-09-被子有点薄/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "ba31efd1763302dd83d06e17896867e046e7c2aa0c30b319e71719ee7c7ba506",
+            "size": 83658
+          },
+          "width": 1086
+        },
+        {
+          "alt": "换条厚一点的",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/17-09-被子有点薄/original/4_page3.png",
+            "sha256": "a141c16010a42cb7eb293498b5701c43c77f070de5e1ce999b77fac57bf2621a",
+            "size": 1061357
+          },
+          "source": "xhs-daily-english-notes/09-被子有点薄/4_page3.png",
+          "source_sha256": "a141c16010a42cb7eb293498b5701c43c77f070de5e1ce999b77fac57bf2621a",
+          "web": {
+            "format": "webp",
+            "path": "notes/17-09-被子有点薄/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "587cdc1f6c420eb299b088c9a65cf65066a414fa8555ebdf4d5f6803f4d802af",
+            "size": 65494
+          },
+          "width": 1086
+        },
+        {
+          "alt": "这样接一句",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/17-09-被子有点薄/original/5_page4.png",
+            "sha256": "1b6b9244cfccf879a21b69b304a4c85adbc28d76a9bbc2e13e660d86903815c1",
+            "size": 1283887
+          },
+          "source": "xhs-daily-english-notes/09-被子有点薄/5_page4.png",
+          "source_sha256": "1b6b9244cfccf879a21b69b304a4c85adbc28d76a9bbc2e13e660d86903815c1",
+          "web": {
+            "format": "webp",
+            "path": "notes/17-09-被子有点薄/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "70eee982bc8ac4d60fc41782f0e9cdd208a1db1488b5b391064cef2c6ee743b8",
+            "size": 74558
+          },
+          "width": 1086
+        }
+      ],
+      "order": 17,
+      "source_note": "xhs-daily-english-notes/09-被子有点薄/被子有点薄_xhs.md",
+      "source_note_sha256": "375ada984213fdb1c58dbffee86a4c6271ed8643dc52c51b24c669fc189cd826",
+      "status": "未发布",
+      "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文。",
+      "title": "被子有点薄，英文怎么说？"
+    },
+    {
+      "account": "",
+      "fingerprint": "02f29ce17a094ac32b9459672223d85c6b21aa7ffc65c37b3d245c068eb5c30e",
+      "id": "18-10-我出门了",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/18-10-我出门了/original/1_cover.png",
+            "sha256": "e1cff8ed754a8c3da1990de1a22db8e2d4579b0a693c85698c64f8b72de96804",
+            "size": 1004475
+          },
+          "source": "xhs-daily-english-notes/10-我出门了/1_cover.png",
+          "source_sha256": "e1cff8ed754a8c3da1990de1a22db8e2d4579b0a693c85698c64f8b72de96804",
+          "web": {
+            "format": "webp",
+            "path": "notes/18-10-我出门了/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "23ed5497c85c9ca566b583c25a45846c1aa31a1eb0f7b68dfd5217daf09a5cb9",
+            "size": 51104
+          },
+          "width": 1086
+        },
+        {
+          "alt": "出门前说一声",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/18-10-我出门了/original/2_page1.png",
+            "sha256": "7f758b04c3bc7f43bc85f742ea502246c2be04689ba27c97fd1d11115b495a2f",
+            "size": 983537
+          },
+          "source": "xhs-daily-english-notes/10-我出门了/2_page1.png",
+          "source_sha256": "7f758b04c3bc7f43bc85f742ea502246c2be04689ba27c97fd1d11115b495a2f",
+          "web": {
+            "format": "webp",
+            "path": "notes/18-10-我出门了/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "42d3b1ef0b183170a5c9cec8e139b3d4015898962e0e36829ecb31b504ad6bf8",
+            "size": 49630
+          },
+          "width": 1086
+        },
+        {
+          "alt": "说自己很快回来",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/18-10-我出门了/original/3_page2.png",
+            "sha256": "ee5ddbd449b7c27c28c513ca22627c11b4309632fd12aafb4528d31f3f1dea59",
+            "size": 1075184
+          },
+          "source": "xhs-daily-english-notes/10-我出门了/3_page2.png",
+          "source_sha256": "ee5ddbd449b7c27c28c513ca22627c11b4309632fd12aafb4528d31f3f1dea59",
+          "web": {
+            "format": "webp",
+            "path": "notes/18-10-我出门了/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "911ba4291596e4eaa7a7a79b9f4a231931cc65b75b8472e0a59aa7631f3b6c23",
+            "size": 68546
+          },
+          "width": 1086
+        },
+        {
+          "alt": "轻松告个别",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/18-10-我出门了/original/4_page3.png",
+            "sha256": "22782aff89fb50c1f38b33e4b413256bdf2a778ba7cf05c69fab27ae534be846",
+            "size": 1172337
+          },
+          "source": "xhs-daily-english-notes/10-我出门了/4_page3.png",
+          "source_sha256": "22782aff89fb50c1f38b33e4b413256bdf2a778ba7cf05c69fab27ae534be846",
+          "web": {
+            "format": "webp",
+            "path": "notes/18-10-我出门了/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "c1d54eb83cd502b3de6597277d3845420314078523cb11bfe60d1e8b17c647f0",
+            "size": 47666
+          },
+          "width": 1086
+        },
+        {
+          "alt": "这样接一句",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/18-10-我出门了/original/5_page4.png",
+            "sha256": "c5861ca638972eca5e51637c1c451d4ed848444b65a855c9ddc7c3d95646bc0d",
+            "size": 1119073
+          },
+          "source": "xhs-daily-english-notes/10-我出门了/5_page4.png",
+          "source_sha256": "c5861ca638972eca5e51637c1c451d4ed848444b65a855c9ddc7c3d95646bc0d",
+          "web": {
+            "format": "webp",
+            "path": "notes/18-10-我出门了/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "aceec9de82178b584e6684f69be15992c2eb8706beb08ebd83e62711244f7040",
+            "size": 72882
+          },
+          "width": 1086
+        }
+      ],
+      "order": 18,
+      "source_note": "xhs-daily-english-notes/10-我出门了/我出门了_xhs.md",
+      "source_note_sha256": "0b2913d944486275412a393611e20faa627144196f00eaeb425cb1d138cf5970",
+      "status": "未发布",
+      "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文。",
+      "title": "我出门了，英文怎么说？"
+    },
+    {
+      "account": "",
+      "fingerprint": "0fdb9410e417337a95dde9b75154c39b4ff30898b0a222e20ddd1eee6cfd93c2",
+      "id": "19-11-等我一起走",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/19-11-等我一起走/original/1_cover.png",
+            "sha256": "48e2b2b9a72fa888d3de7743e885bf35fb524dbad796223f30921be825c06c7a",
+            "size": 1022027
+          },
+          "source": "xhs-daily-english-notes/11-等我一起走/1_cover.png",
+          "source_sha256": "48e2b2b9a72fa888d3de7743e885bf35fb524dbad796223f30921be825c06c7a",
+          "web": {
+            "format": "webp",
+            "path": "notes/19-11-等我一起走/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "ec1735ac9d1d265fbad4f8bb7e97e52e5a4806c630d2239b3f6539245986339b",
+            "size": 63648
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请朋友等一下",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/19-11-等我一起走/original/2_page1.png",
+            "sha256": "87b1851985d5050a62c86eef1a81b43d579ff0b6f20f9602315dc98225f70982",
+            "size": 1031285
+          },
+          "source": "xhs-daily-english-notes/11-等我一起走/2_page1.png",
+          "source_sha256": "87b1851985d5050a62c86eef1a81b43d579ff0b6f20f9602315dc98225f70982",
+          "web": {
+            "format": "webp",
+            "path": "notes/19-11-等我一起走/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "1fd84cbff7c403b78ed2d9bc53ab9eb73fbdb29a428ce49d0bb378b1ebe4ebec",
+            "size": 54316
+          },
+          "width": 1086
+        },
+        {
+          "alt": "说一起走",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/19-11-等我一起走/original/3_page2.png",
+            "sha256": "3af13ca8bdf9f76fdecd47ea03563e9dca7687e7778a41744aa372293107b6a1",
+            "size": 1045948
+          },
+          "source": "xhs-daily-english-notes/11-等我一起走/3_page2.png",
+          "source_sha256": "3af13ca8bdf9f76fdecd47ea03563e9dca7687e7778a41744aa372293107b6a1",
+          "web": {
+            "format": "webp",
+            "path": "notes/19-11-等我一起走/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "c298d5f73d75aa49415247b05fc20ab99246aa5a4d37391e380485ab30ebb029",
+            "size": 56636
+          },
+          "width": 1086
+        },
+        {
+          "alt": "告诉对方马上到",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/19-11-等我一起走/original/4_page3.png",
+            "sha256": "5579669284400804c1927178ce3679723e9494a6113c37b9fc60d1347fe31d2d",
+            "size": 1048856
+          },
+          "source": "xhs-daily-english-notes/11-等我一起走/4_page3.png",
+          "source_sha256": "5579669284400804c1927178ce3679723e9494a6113c37b9fc60d1347fe31d2d",
+          "web": {
+            "format": "webp",
+            "path": "notes/19-11-等我一起走/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "c3be615c1262326bfe9193a2b927309fab3bd03bb71e784144845006bb6ea667",
+            "size": 60304
+          },
+          "width": 1086
+        },
+        {
+          "alt": "这样接一句",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/19-11-等我一起走/original/5_page4.png",
+            "sha256": "cbfed5549586afe0417960d18a3b7b4f01946c0ab4808af42011dff59a5f5d16",
+            "size": 1096082
+          },
+          "source": "xhs-daily-english-notes/11-等我一起走/5_page4.png",
+          "source_sha256": "cbfed5549586afe0417960d18a3b7b4f01946c0ab4808af42011dff59a5f5d16",
+          "web": {
+            "format": "webp",
+            "path": "notes/19-11-等我一起走/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "f75d2626829cd5bf22445f160b70c0229b76793705c8d52a3122c1ccf552fa19",
+            "size": 69650
+          },
+          "width": 1086
+        }
+      ],
+      "order": 19,
+      "source_note": "xhs-daily-english-notes/11-等我一起走/等我一起走_xhs.md",
+      "source_note_sha256": "05c5c4518d3192fcb94acda0522c49bf8de1d43195bfac04449c984ceb8675e4",
+      "status": "未发布",
+      "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文。",
+      "title": "等我一起走，英文怎么说？"
+    },
+    {
+      "account": "",
+      "fingerprint": "e0b1468d3770ca0bea8703ee717f43d5303efcec6b9e6a0ff86c557a76b5f3cd",
+      "id": "20-12-离这儿远吗",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/20-12-离这儿远吗/original/1_cover.png",
+            "sha256": "3d29851ead406ece095b9fe45d951e4de75eacd4fd585973b11a3a5533150333",
+            "size": 1119634
+          },
+          "source": "xhs-daily-english-notes/12-离这儿远吗/1_cover.png",
+          "source_sha256": "3d29851ead406ece095b9fe45d951e4de75eacd4fd585973b11a3a5533150333",
+          "web": {
+            "format": "webp",
+            "path": "notes/20-12-离这儿远吗/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "f60a24a329183d08bb16856892bf20555671c083b79f39a573e7e2b6f2bb9a0b",
+            "size": 68820
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先问远不远",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/20-12-离这儿远吗/original/2_page1.png",
+            "sha256": "996f2d55b1645519104b340375809d539e5d647334ec629dc4e070970998f7b9",
+            "size": 1058724
+          },
+          "source": "xhs-daily-english-notes/12-离这儿远吗/2_page1.png",
+          "source_sha256": "996f2d55b1645519104b340375809d539e5d647334ec629dc4e070970998f7b9",
+          "web": {
+            "format": "webp",
+            "path": "notes/20-12-离这儿远吗/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "33e2d114120bfdd70c2f951f6ac69eb6bad827d30c94cb21c5cf505fca96abdd",
+            "size": 60422
+          },
+          "width": 1086
+        },
+        {
+          "alt": "再问步行多久",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/20-12-离这儿远吗/original/3_page2.png",
+            "sha256": "5283d1f7b3f186c0814940ac20d845c1d9f19063e1c51b09ba15b83bc8157734",
+            "size": 1083013
+          },
+          "source": "xhs-daily-english-notes/12-离这儿远吗/3_page2.png",
+          "source_sha256": "5283d1f7b3f186c0814940ac20d845c1d9f19063e1c51b09ba15b83bc8157734",
+          "web": {
+            "format": "webp",
+            "path": "notes/20-12-离这儿远吗/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "bed541b74c0132e09c025e4029b9beaff9c6078ea78391b38ec15c62e5352b11",
+            "size": 64942
+          },
+          "width": 1086
+        },
+        {
+          "alt": "听懂常见回答",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/20-12-离这儿远吗/original/4_page3.png",
+            "sha256": "e3bd72c8bcf95689a691d35e5987e1d347d52ac17c24068db61c8b5eef14ee36",
+            "size": 1125942
+          },
+          "source": "xhs-daily-english-notes/12-离这儿远吗/4_page3.png",
+          "source_sha256": "e3bd72c8bcf95689a691d35e5987e1d347d52ac17c24068db61c8b5eef14ee36",
+          "web": {
+            "format": "webp",
+            "path": "notes/20-12-离这儿远吗/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "33ef8e47b603c0793a97c1814fd2ec5abd514815c433cedc20c3e4135686e974",
+            "size": 73990
+          },
+          "width": 1086
+        },
+        {
+          "alt": "这样接一句",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/20-12-离这儿远吗/original/5_page4.png",
+            "sha256": "14e0978bfc75331b5d1c042e5d9858c5199979c366ef237fbb80087e0acb3727",
+            "size": 1360934
+          },
+          "source": "xhs-daily-english-notes/12-离这儿远吗/5_page4.png",
+          "source_sha256": "14e0978bfc75331b5d1c042e5d9858c5199979c366ef237fbb80087e0acb3727",
+          "web": {
+            "format": "webp",
+            "path": "notes/20-12-离这儿远吗/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "557daad66d836da06c7783754ffc7716588662aa9836ecb71c327c6cb8e716f3",
+            "size": 74646
+          },
+          "width": 1086
+        }
+      ],
+      "order": 20,
+      "source_note": "xhs-daily-english-notes/12-离这儿远吗/离这儿远吗_xhs.md",
+      "source_note_sha256": "4bb2f8386159b81d7abb0474ece926aec346c8317c2eb5cf033e16cbe1b79e54",
+      "status": "未发布",
+      "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文。",
+      "title": "离这儿远吗，英文怎么说？"
     }
   ],
-  "output_digest": "59718e194f8d832ee9e44d0e4b86848e49a7a32fea007931d1211004d941bbb8",
+  "output_digest": "4ea21f95b3a36466a46f1302b9e7d9b2d108731c69364c80982d8d29acbeac96",
   "schema_version": 1,
   "site": {
     "accent": "#c44536",
@@ -1028,15 +2517,15 @@
     "access_gate": true,
     "pages_url": "https://passmetheplay.github.io/xhs-english-notes-deploy/",
     "repository_url": "https://github.com/passmetheplay/xhs-english-notes-deploy",
-    "subtitle": "最新笔记 · 2026-09-12",
-    "title": "小红书英语口语｜8篇"
+    "subtitle": "日常口语 · 新增12篇",
+    "title": "小红书英语口语｜20篇"
   },
-  "source_root_hint": "小红书轮播图",
+  "source_root_hint": "code",
   "totals": {
-    "images": 40,
-    "notes": 8,
-    "original_bytes": 55771049,
-    "savings_percent": 94.03997224438078,
-    "webp_bytes": 3323970
+    "images": 100,
+    "notes": 20,
+    "original_bytes": 124579809,
+    "savings_percent": 94.07399797827591,
+    "webp_bytes": 7382602
   }
 }
