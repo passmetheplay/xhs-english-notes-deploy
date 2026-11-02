@@ -2,12 +2,27 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "888c0463fce09c5ba7020d74c0758bb503190bf793cd66d0a57e4bd6bafef155",
-    "publish-history.jsonl": "86e951996fe839312bb466c782396fedec4e2fb22f7743aeff86a3d2d45cf11b",
-    "publish-report.md": "04ad835db54e698527ece5f2599ef2c13c58f19d7906187b8cc469d610e89906"
+    "index.html": "e80b1693e5043fe3cd40d5e8ac8d3b5a59718b8c9a8031535f61cd64c8aeb4b4",
+    "publish-history.jsonl": "d39476edded3c27124ad25f2fd6c70ef2f75ff6328a7e2bd133db25ba21494ff",
+    "publish-report.md": "e0ee60a43bcbfd060fe13b690754fb193c23cc53554d787b9b3f2a4c8cbd3fd4"
   },
   "changes": {
     "added": [
+      "21-这不是我点的",
+      "22-房卡刷不开",
+      "23-文件打不开"
+    ],
+    "changed": [],
+    "removed": [],
+    "unchanged": [
+      "01-我吃不下了",
+      "02-借过一下",
+      "03-我再考虑一下",
+      "04-电梯里等我一下",
+      "05-邮件发出后才发现没加附件-怎么补救",
+      "06-我们先确认目标",
+      "07-我忘回了",
+      "08-别插队",
       "09-01-鞋带开了",
       "10-02-衣服还没干",
       "11-03-这件衣服有点皱",
@@ -20,21 +35,9 @@
       "18-10-我出门了",
       "19-11-等我一起走",
       "20-12-离这儿远吗"
-    ],
-    "changed": [],
-    "removed": [],
-    "unchanged": [
-      "01-我吃不下了",
-      "02-借过一下",
-      "03-我再考虑一下",
-      "04-电梯里等我一下",
-      "05-邮件发出后才发现没加附件-怎么补救",
-      "06-我们先确认目标",
-      "07-我忘回了",
-      "08-别插队"
     ]
   },
-  "generated_at": "2026-09-25T14:03:04Z",
+  "generated_at": "2026-11-02T07:15:19Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
@@ -239,6 +242,36 @@
     "notes/20-12-离这儿远吗/web/3_page2.webp",
     "notes/20-12-离这儿远吗/web/4_page3.webp",
     "notes/20-12-离这儿远吗/web/5_page4.webp",
+    "notes/21-这不是我点的/original/1_cover.png",
+    "notes/21-这不是我点的/original/2_page1.png",
+    "notes/21-这不是我点的/original/3_page2.png",
+    "notes/21-这不是我点的/original/4_page3.png",
+    "notes/21-这不是我点的/original/5_page4.png",
+    "notes/21-这不是我点的/web/1_cover.webp",
+    "notes/21-这不是我点的/web/2_page1.webp",
+    "notes/21-这不是我点的/web/3_page2.webp",
+    "notes/21-这不是我点的/web/4_page3.webp",
+    "notes/21-这不是我点的/web/5_page4.webp",
+    "notes/22-房卡刷不开/original/1_cover.png",
+    "notes/22-房卡刷不开/original/2_page1.png",
+    "notes/22-房卡刷不开/original/3_page2.png",
+    "notes/22-房卡刷不开/original/4_page3.png",
+    "notes/22-房卡刷不开/original/5_page4.png",
+    "notes/22-房卡刷不开/web/1_cover.webp",
+    "notes/22-房卡刷不开/web/2_page1.webp",
+    "notes/22-房卡刷不开/web/3_page2.webp",
+    "notes/22-房卡刷不开/web/4_page3.webp",
+    "notes/22-房卡刷不开/web/5_page4.webp",
+    "notes/23-文件打不开/original/1_cover.png",
+    "notes/23-文件打不开/original/2_page1.png",
+    "notes/23-文件打不开/original/3_page2.png",
+    "notes/23-文件打不开/original/4_page3.png",
+    "notes/23-文件打不开/original/5_page4.png",
+    "notes/23-文件打不开/web/1_cover.webp",
+    "notes/23-文件打不开/web/2_page1.webp",
+    "notes/23-文件打不开/web/3_page2.webp",
+    "notes/23-文件打不开/web/4_page3.webp",
+    "notes/23-文件打不开/web/5_page4.webp",
     "publish-history.jsonl",
     "publish-manifest.json",
     "publish-report.md"
@@ -2505,9 +2538,348 @@
       "status": "未发布",
       "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文。",
       "title": "离这儿远吗，英文怎么说？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "55ab96b7a7de5acd3d43c17eca2cf710a51dec464631c5bd83564bec98e1a989",
+      "id": "21-这不是我点的",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/21-这不是我点的/original/1_cover.png",
+            "sha256": "f945bcfe24868aab656f7cae792ca4852ddce48f51ba0eeffa1129b6c3a97c8d",
+            "size": 1355618
+          },
+          "source": "sources/2026-11-02/这不是我点的/1_cover.png",
+          "source_sha256": "f945bcfe24868aab656f7cae792ca4852ddce48f51ba0eeffa1129b6c3a97c8d",
+          "web": {
+            "format": "webp",
+            "path": "notes/21-这不是我点的/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "f6fbc183a1df99a9fa21e3b0f51125e858a73aaf9dc9bb19017e11ac05eac044",
+            "size": 88582
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说明上错了",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/21-这不是我点的/original/2_page1.png",
+            "sha256": "643f3d7fe67a84d44d46fcc6996d5ad7637931f62e973090f76f9607d6de4e2e",
+            "size": 1368260
+          },
+          "source": "sources/2026-11-02/这不是我点的/2_page1.png",
+          "source_sha256": "643f3d7fe67a84d44d46fcc6996d5ad7637931f62e973090f76f9607d6de4e2e",
+          "web": {
+            "format": "webp",
+            "path": "notes/21-这不是我点的/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "9f44abd522488afa054d679e43b9bcb9a2008963054418baa5534a97015737a2",
+            "size": 89996
+          },
+          "width": 1086
+        },
+        {
+          "alt": "说清你点了什么",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/21-这不是我点的/original/3_page2.png",
+            "sha256": "dc3cbc5c10a8dc6cf503849664524d9c448d63cf6516d9e651e9f508390eddba",
+            "size": 1380535
+          },
+          "source": "sources/2026-11-02/这不是我点的/3_page2.png",
+          "source_sha256": "dc3cbc5c10a8dc6cf503849664524d9c448d63cf6516d9e651e9f508390eddba",
+          "web": {
+            "format": "webp",
+            "path": "notes/21-这不是我点的/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "a0fe82b9706c734ca7e34f695789e4a1e70aab6bd807abe22a6887e54dea7c6c",
+            "size": 93992
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请换成正确的菜",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/21-这不是我点的/original/4_page3.png",
+            "sha256": "1a030e6c4dad387a40ac50c5fe53041076859a7a888291298d923abba1e72ac9",
+            "size": 1418133
+          },
+          "source": "sources/2026-11-02/这不是我点的/4_page3.png",
+          "source_sha256": "1a030e6c4dad387a40ac50c5fe53041076859a7a888291298d923abba1e72ac9",
+          "web": {
+            "format": "webp",
+            "path": "notes/21-这不是我点的/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "3c2096d18cf6ae9d036801dbd49106ae83e0ac6c1e5266f09316aa861f021ebd",
+            "size": 105872
+          },
+          "width": 1086
+        },
+        {
+          "alt": "这样换回正确的菜",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/21-这不是我点的/original/5_page4.png",
+            "sha256": "afaee617ff50f9836c7aec37168ffb16a9253fe4ba23e1629a003a9f14d0abea",
+            "size": 1490987
+          },
+          "source": "sources/2026-11-02/这不是我点的/5_page4.png",
+          "source_sha256": "afaee617ff50f9836c7aec37168ffb16a9253fe4ba23e1629a003a9f14d0abea",
+          "web": {
+            "format": "webp",
+            "path": "notes/21-这不是我点的/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "19c6ce9f5e0a879c48edc046995c7fcc9cbd386e0c7f2d2c47095d8da621e144",
+            "size": 114690
+          },
+          "width": 1086
+        }
+      ],
+      "order": 21,
+      "source_note": "sources/2026-11-02/这不是我点的/这不是我点的_xhs.md",
+      "source_note_sha256": "081ddf3fdfcbc0483f4bdf10f7dfb437ab9e2690b2ec7d424ceec1b299f74c23",
+      "status": "未发布",
+      "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文、橙色动作提示。",
+      "title": "这不是我点的，英文怎么说？"
+    },
+    {
+      "account": "小妙英语",
+      "fingerprint": "e3ee45691d3616340e15981b850ebbf2282f7b7879c865ada8ed7049929e457e",
+      "id": "22-房卡刷不开",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/22-房卡刷不开/original/1_cover.png",
+            "sha256": "9bc29b4a97ca7ada2465f70f89ead661e41999f6e15cb6a22dd01e7ad92e18a0",
+            "size": 1214417
+          },
+          "source": "sources/2026-11-02/房卡刷不开/1_cover.png",
+          "source_sha256": "9bc29b4a97ca7ada2465f70f89ead661e41999f6e15cb6a22dd01e7ad92e18a0",
+          "web": {
+            "format": "webp",
+            "path": "notes/22-房卡刷不开/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "da4e170d2dd5e2558939753378c68cbd4c5aae81bec07ad063e953d5d05046af",
+            "size": 59124
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说明房卡失效",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/22-房卡刷不开/original/2_page1.png",
+            "sha256": "a33bf45d2fb310b3d6b798089eb54a6e25fe48a8e19d04eed18d92c426d3333b",
+            "size": 1286778
+          },
+          "source": "sources/2026-11-02/房卡刷不开/2_page1.png",
+          "source_sha256": "a33bf45d2fb310b3d6b798089eb54a6e25fe48a8e19d04eed18d92c426d3333b",
+          "web": {
+            "format": "webp",
+            "path": "notes/22-房卡刷不开/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "a198e68c80292b20e6c64c2b214d40932d6a1877f529e405209733f002a3f3cf",
+            "size": 72996
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请前台帮忙检查",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/22-房卡刷不开/original/3_page2.png",
+            "sha256": "6bff87939e1866b640bf9b1bf43cf1ad53adcd259f9a14eef36856bb0c3f7b09",
+            "size": 1070005
+          },
+          "source": "sources/2026-11-02/房卡刷不开/3_page2.png",
+          "source_sha256": "6bff87939e1866b640bf9b1bf43cf1ad53adcd259f9a14eef36856bb0c3f7b09",
+          "web": {
+            "format": "webp",
+            "path": "notes/22-房卡刷不开/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "79162a0683c64a572aadb8d54f690fc112714c63b3a2f13097b1de02ae8c241d",
+            "size": 85492
+          },
+          "width": 1086
+        },
+        {
+          "alt": "需要时请换一张",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/22-房卡刷不开/original/4_page3.png",
+            "sha256": "afae86b0c64bf93108c6ddb77c36c3e38db40ea968b15def7a964be7411e82e6",
+            "size": 1323547
+          },
+          "source": "sources/2026-11-02/房卡刷不开/4_page3.png",
+          "source_sha256": "afae86b0c64bf93108c6ddb77c36c3e38db40ea968b15def7a964be7411e82e6",
+          "web": {
+            "format": "webp",
+            "path": "notes/22-房卡刷不开/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "3b56c8697caaaf36e6ef9d51644df8259b47473ac5acd2780648fe3475bab5d0",
+            "size": 83746
+          },
+          "width": 1086
+        },
+        {
+          "alt": "前台这样说清楚",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/22-房卡刷不开/original/5_page4.png",
+            "sha256": "17e2c494cdf05bfec9be4710293e16b970b0111ac73c2cffabd53597d447c907",
+            "size": 1145229
+          },
+          "source": "sources/2026-11-02/房卡刷不开/5_page4.png",
+          "source_sha256": "17e2c494cdf05bfec9be4710293e16b970b0111ac73c2cffabd53597d447c907",
+          "web": {
+            "format": "webp",
+            "path": "notes/22-房卡刷不开/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "09413a27c67ec15b2e1587fecdb626aa91179944ef4143900fe595bd2f18b7e6",
+            "size": 103566
+          },
+          "width": 1086
+        }
+      ],
+      "order": 22,
+      "source_note": "sources/2026-11-02/房卡刷不开/房卡刷不开_xhs.md",
+      "source_note_sha256": "ca562943f98b4e4209955978fe4ae52dde469f2532326c89c003c11476995828",
+      "status": "未发布",
+      "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文、橙色动作提示。",
+      "title": "房卡刷不开，英文怎么说？"
+    },
+    {
+      "account": "卖煎饼的司机",
+      "fingerprint": "32bfe75ace446a15ea97043821016e08b39f688aa5adad7e0d3fde1993d48702",
+      "id": "23-文件打不开",
+      "images": [
+        {
+          "alt": "封面",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/23-文件打不开/original/1_cover.png",
+            "sha256": "af896b070a307d418b75af3e6b14042728b8650b83101483cd01bacad4897734",
+            "size": 1295351
+          },
+          "source": "sources/2026-11-02/文件打不开/1_cover.png",
+          "source_sha256": "af896b070a307d418b75af3e6b14042728b8650b83101483cd01bacad4897734",
+          "web": {
+            "format": "webp",
+            "path": "notes/23-文件打不开/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "1b1bf5a071d554dfc022045840ad46ec0ef582417fe0f185b8d0c812eb46451c",
+            "size": 76066
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说明打不开",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/23-文件打不开/original/2_page1.png",
+            "sha256": "a0420e8d5a15ab92bd7e7a04d9f5a356cce9e92ff696621ea3af58ccc7d35e91",
+            "size": 1349558
+          },
+          "source": "sources/2026-11-02/文件打不开/2_page1.png",
+          "source_sha256": "a0420e8d5a15ab92bd7e7a04d9f5a356cce9e92ff696621ea3af58ccc7d35e91",
+          "web": {
+            "format": "webp",
+            "path": "notes/23-文件打不开/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "f4f20ac6857dd2591eb468ef61fcb57f3c0858a6aafb40faf0fa204cc0e769f6",
+            "size": 82524
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请对方重新发送",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/23-文件打不开/original/3_page2.png",
+            "sha256": "781b59ea2260d10c08c6f1dbc9046be06586c8781a251eed92ee8688c86ae496",
+            "size": 1287174
+          },
+          "source": "sources/2026-11-02/文件打不开/3_page2.png",
+          "source_sha256": "781b59ea2260d10c08c6f1dbc9046be06586c8781a251eed92ee8688c86ae496",
+          "web": {
+            "format": "webp",
+            "path": "notes/23-文件打不开/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "a62b8723dd6522dfdc5a8cd35664632ba8d0166819f85dd83dd7d0529e76f83c",
+            "size": 77082
+          },
+          "width": 1086
+        },
+        {
+          "alt": "换成通用格式",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/23-文件打不开/original/4_page3.png",
+            "sha256": "ecf344c966c909089457490b9e9c34185a0b04dec8fd596242a1009cd56bcbc5",
+            "size": 1301049
+          },
+          "source": "sources/2026-11-02/文件打不开/4_page3.png",
+          "source_sha256": "ecf344c966c909089457490b9e9c34185a0b04dec8fd596242a1009cd56bcbc5",
+          "web": {
+            "format": "webp",
+            "path": "notes/23-文件打不开/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "fbe4cfdcfd32e039bacfa60980faa4c814fe0c51ae4689ebe6c6515b068d0ed7",
+            "size": 75786
+          },
+          "width": 1086
+        },
+        {
+          "alt": "这样请同事重发",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/23-文件打不开/original/5_page4.png",
+            "sha256": "9314375d3f49c9476fa3ea29c7020cb975e24af9f021840db366b2586e0573d2",
+            "size": 1429362
+          },
+          "source": "sources/2026-11-02/文件打不开/5_page4.png",
+          "source_sha256": "9314375d3f49c9476fa3ea29c7020cb975e24af9f021840db366b2586e0573d2",
+          "web": {
+            "format": "webp",
+            "path": "notes/23-文件打不开/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "2ce152ee842cd364e7976ec81ca28fb359e9a9e05c71015fa93b43afeeb45fa5",
+            "size": 103952
+          },
+          "width": 1086
+        }
+      ],
+      "order": 23,
+      "source_note": "sources/2026-11-02/文件打不开/文件打不开_xhs.md",
+      "source_note_sha256": "a8f30e8e66b7ad8f6215828ec7cae4ea192564352f5d5fe818dd9fccff1899db",
+      "status": "未发布",
+      "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文、橙色动作提示。",
+      "title": "文件打不开，英文怎么说？"
     }
   ],
-  "output_digest": "4ea21f95b3a36466a46f1302b9e7d9b2d108731c69364c80982d8d29acbeac96",
+  "output_digest": "851489368b5067b730ffe69a84b68b18ad14769f059fed9a7ce9fe8711b4e075",
   "schema_version": 1,
   "site": {
     "accent": "#c44536",
@@ -2517,15 +2889,15 @@
     "access_gate": true,
     "pages_url": "https://passmetheplay.github.io/xhs-english-notes-deploy/",
     "repository_url": "https://github.com/passmetheplay/xhs-english-notes-deploy",
-    "subtitle": "日常口语 · 新增12篇",
-    "title": "小红书英语口语｜20篇"
+    "subtitle": "小黑人场景英语 · 新增3篇 · 2026-11-02",
+    "title": "小红书英语口语｜23篇"
   },
-  "source_root_hint": "code",
+  "source_root_hint": "sources",
   "totals": {
-    "images": 100,
-    "notes": 20,
-    "original_bytes": 124579809,
-    "savings_percent": 94.07399797827591,
-    "webp_bytes": 7382602
+    "images": 115,
+    "notes": 23,
+    "original_bytes": 144295812,
+    "savings_percent": 93.9734439416717,
+    "webp_bytes": 8696068
   }
 }

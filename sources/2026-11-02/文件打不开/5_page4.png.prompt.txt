@@ -1,0 +1,12 @@
+Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.
+DIALOGUE page: large RED heading「这样请同事重发」at top same visual size as other pages; then this BLACK six-turn conversation in comfortable evenly spaced rows, wrapping only where needed:
+A: I can't open the file.
+B: I'll send it again.
+A: Could you send it as a PDF?
+B: Sure. Try this one.
+A: It opens now.
+B: Great.
+Under conversation one BLUE summary line: 说明问题 → 请求重发 → 确认能打开
+Small but clear illustration in bottom 25%. NO speech-bubble text or additional translations; the lines above are all allowed text.
+Scene/action (no text on props): 小黑与白色线稿同事并排看电脑，屏幕只有打开的无文字文档与橙色成功短线. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content.
+Make all dish objects black/white outlines; orange accents only for motion marks, no green garnish. Keep heading letter-size consistent with the reference content page, about 95px.

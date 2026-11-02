@@ -1,0 +1,140 @@
+{
+  "title": "这不是我点的，英文怎么说？",
+  "focus": "这不是我点的",
+  "question": "英文怎么说？",
+  "subheadline": "餐厅上错菜",
+  "account": "小帮英语",
+  "visual_style": "xiaohei",
+  "canvas": [
+    1086,
+    1448
+  ],
+  "source": "原创教学对话，无外部原声素材",
+  "topic_audit": {
+    "mode": "问题场景",
+    "admission": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "admission_total": 10,
+    "attractiveness": [
+      20,
+      15,
+      20,
+      20,
+      20
+    ],
+    "total": 95,
+    "grade": "A",
+    "dedup": "已核对线上20篇标题与沟通目的；无重复。更广的Obsidian内容库与飞书配置在当前机器缺失，未声称完成全库查重。"
+  },
+  "pages": [
+    {
+      "filename": "1_cover.png",
+      "page_title": "这不是我点的",
+      "texts": [
+        "这不是我点的",
+        "英文怎么说？",
+        "餐厅上错菜"
+      ],
+      "scene": "小黑坐在餐桌旁，看着面前不对的鱼盘，举手向白色线稿服务员示意；菜单只有鸡腿图标，没有文字",
+      "kind": "cover",
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCOVER layout: large red Chinese focus in top 20%, large BLACK question directly underneath, blue short subtitle below, scene illustration in bottom 40%. Only these three text blocks, copied exactly: red「这不是我点的」; black「英文怎么说？」; blue「餐厅上错菜」. Do not put English answer on cover.\nScene/action (no text on props): 小黑坐在餐桌旁，看着面前不对的鱼盘，举手向白色线稿服务员示意；菜单只有鸡腿图标，没有文字. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content."
+    },
+    {
+      "filename": "2_page1.png",
+      "page_title": "先说明上错了",
+      "english": "This isn't what I ordered.",
+      "meaning": "这不是我点的。",
+      "usage": "先说情况，不指责对方",
+      "scene": "小黑坐在餐桌旁，指向面前一盘鱼；白色线稿服务员侧耳倾听",
+      "kind": "lesson",
+      "texts": [
+        "先说明上错了",
+        "This isn't what I ordered.",
+        "这不是我点的。",
+        "先说情况，不指责对方"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nLESSON layout: red large heading at top, black large English centered and naturally wrapped in upper-middle, blue translation underneath, smaller black one-line usage, illustration below. Copy text exactly:\nRED heading: 先说明上错了\nBLACK English: This isn't what I ordered.\nBLUE translation: 这不是我点的。\nBLACK smaller usage: 先说情况，不指责对方\nKeep English readable with ample spacing.\nScene/action (no text on props): 小黑坐在餐桌旁，指向面前一盘鱼；白色线稿服务员侧耳倾听. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content.\nMake all dish objects black/white outlines; orange accents only for motion marks, no green garnish. Keep heading letter-size consistent with the reference content page, about 95px."
+    },
+    {
+      "filename": "3_page2.png",
+      "page_title": "说清你点了什么",
+      "english": "I ordered the chicken.",
+      "meaning": "我点的是鸡肉。",
+      "usage": "说出原单，方便核对",
+      "scene": "小黑指向无文字菜单上的鸡腿小图，对照桌上的鱼",
+      "kind": "lesson",
+      "texts": [
+        "说清你点了什么",
+        "I ordered the chicken.",
+        "我点的是鸡肉。",
+        "说出原单，方便核对"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nLESSON layout: red large heading at top, black large English centered and naturally wrapped in upper-middle, blue translation underneath, smaller black one-line usage, illustration below. Copy text exactly:\nRED heading: 说清你点了什么\nBLACK English: I ordered the chicken.\nBLUE translation: 我点的是鸡肉。\nBLACK smaller usage: 说出原单，方便核对\nKeep English readable with ample spacing.\nScene/action (no text on props): 小黑指向无文字菜单上的鸡腿小图，对照桌上的鱼. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content.\nMake all dish objects black/white outlines; orange accents only for motion marks, no green garnish. Keep heading letter-size consistent with the reference content page, about 95px."
+    },
+    {
+      "filename": "4_page3.png",
+      "page_title": "请换成正确的菜",
+      "english": "Could you bring the right dish?",
+      "meaning": "可以帮我换成正确的菜吗？",
+      "usage": "明确请求对方更换",
+      "scene": "小黑礼貌示意，服务员端走鱼盘并送来鸡肉盘",
+      "kind": "lesson",
+      "texts": [
+        "请换成正确的菜",
+        "Could you bring the right dish?",
+        "可以帮我换成正确的菜吗？",
+        "明确请求对方更换"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nLESSON layout: red large heading at top, black large English centered and naturally wrapped in upper-middle, blue translation underneath, smaller black one-line usage, illustration below. Copy text exactly:\nRED heading: 请换成正确的菜\nBLACK English: Could you bring the right dish?\nBLUE translation: 可以帮我换成正确的菜吗？\nBLACK smaller usage: 明确请求对方更换\nKeep English readable with ample spacing.\nScene/action (no text on props): 小黑礼貌示意，服务员端走鱼盘并送来鸡肉盘. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content.\nMake all dish objects black/white outlines; orange accents only for motion marks, no green garnish. Keep heading letter-size consistent with the reference content page, about 95px."
+    },
+    {
+      "filename": "5_page4.png",
+      "page_title": "这样换回正确的菜",
+      "english": "A: This isn't what I ordered.\nB: What did you order?\nA: I ordered the chicken.\nB: I'll check your order.\nA: Could you bring the right dish?\nB: Of course.",
+      "meaning": "说明上错 → 说清原单 → 请对方更换",
+      "usage": "",
+      "scene": "小黑与服务员核对餐盘，桌上是一盘鸡肉",
+      "kind": "dialogue",
+      "texts": [
+        "这样换回正确的菜",
+        "A: This isn't what I ordered.\nB: What did you order?\nA: I ordered the chicken.\nB: I'll check your order.\nA: Could you bring the right dish?\nB: Of course.",
+        "说明上错 → 说清原单 → 请对方更换"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nDIALOGUE page: large RED heading「这样换回正确的菜」at top same visual size as other pages; then this BLACK six-turn conversation in comfortable evenly spaced rows, wrapping only where needed:\nA: This isn't what I ordered.\nB: What did you order?\nA: I ordered the chicken.\nB: I'll check your order.\nA: Could you bring the right dish?\nB: Of course.\nUnder conversation one BLUE summary line: 说明上错 → 说清原单 → 请对方更换\nSmall but clear illustration in bottom 25%. NO speech-bubble text or additional translations; the lines above are all allowed text.\nScene/action (no text on props): 小黑与服务员核对餐盘，桌上是一盘鸡肉. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content.\nMake all dish objects black/white outlines; orange accents only for motion marks, no green garnish. Keep heading letter-size consistent with the reference content page, about 95px."
+    }
+  ],
+  "expressions": [
+    {
+      "term": "This isn't what I ordered.",
+      "meaning": "这不是我点的。",
+      "example_en": "This isn't what I ordered.",
+      "example_zh": "这不是我点的。"
+    },
+    {
+      "term": "I ordered the chicken.",
+      "meaning": "我点的是鸡肉。",
+      "example_en": "I ordered the chicken.",
+      "example_zh": "我点的是鸡肉。"
+    },
+    {
+      "term": "Could you bring the right dish?",
+      "meaning": "可以帮我换成正确的菜吗？",
+      "example_en": "Could you bring the right dish?",
+      "example_zh": "可以帮我换成正确的菜吗？"
+    }
+  ],
+  "generation": {
+    "tool": "Codex built-in image_gen",
+    "reference_role": "style and character only",
+    "references": [
+      "notes/20-12-离这儿远吗/original/1_cover.png",
+      "notes/20-12-离这儿远吗/original/2_page1.png"
+    ],
+    "canvas_export": "Final PNG canvas must be 1086x1448; original generated files are retained by the image tool."
+  }
+}

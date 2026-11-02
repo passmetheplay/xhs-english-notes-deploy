@@ -1,0 +1,140 @@
+{
+  "title": "房卡刷不开，英文怎么说？",
+  "focus": "房卡刷不开",
+  "question": "英文怎么说？",
+  "subheadline": "回到房间",
+  "account": "小妙英语",
+  "visual_style": "xiaohei",
+  "canvas": [
+    1086,
+    1448
+  ],
+  "source": "原创教学对话，无外部原声素材",
+  "topic_audit": {
+    "mode": "问题场景",
+    "admission": [
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "admission_total": 9,
+    "attractiveness": [
+      15,
+      15,
+      20,
+      20,
+      20
+    ],
+    "total": 90,
+    "grade": "A",
+    "dedup": "已核对线上20篇标题与沟通目的；无重复。更广的Obsidian内容库与飞书配置在当前机器缺失，未声称完成全库查重。"
+  },
+  "pages": [
+    {
+      "filename": "1_cover.png",
+      "page_title": "房卡刷不开",
+      "texts": [
+        "房卡刷不开",
+        "英文怎么说？",
+        "回到房间"
+      ],
+      "scene": "小黑拿着房卡站在关闭的酒店房门前，用房卡贴感应器，另一只手轻轻推门，橙色短线表示刷卡无响应",
+      "kind": "cover",
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCOVER layout: large red Chinese focus in top 20%, large BLACK question directly underneath, blue short subtitle below, scene illustration in bottom 40%. Only these three text blocks, copied exactly: red「房卡刷不开」; black「英文怎么说？」; blue「回到房间」. Do not put English answer on cover.\nScene/action (no text on props): 小黑拿着房卡站在关闭的酒店房门前，用房卡贴感应器，另一只手轻轻推门，橙色短线表示刷卡无响应. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content."
+    },
+    {
+      "filename": "2_page1.png",
+      "page_title": "先说明房卡失效",
+      "english": "My key card isn't working.",
+      "meaning": "我的房卡用不了了。",
+      "usage": "到酒店前台说明问题",
+      "scene": "小黑拿房卡贴近酒店房门感应器，门仍关闭，橙色短线强调无响应",
+      "kind": "lesson",
+      "texts": [
+        "先说明房卡失效",
+        "My key card isn't working.",
+        "我的房卡用不了了。",
+        "到酒店前台说明问题"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nLESSON layout: red large heading at top, black large English centered and naturally wrapped in upper-middle, blue translation underneath, smaller black one-line usage, illustration below. Copy text exactly:\nRED heading: 先说明房卡失效\nBLACK English: My key card isn't working.\nBLUE translation: 我的房卡用不了了。\nBLACK smaller usage: 到酒店前台说明问题\nKeep English readable with ample spacing.\nScene/action (no text on props): 小黑拿房卡贴近酒店房门感应器，门仍关闭，橙色短线强调无响应. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content.\nMake all dish objects black/white outlines; orange accents only for motion marks, no green garnish. Keep heading letter-size consistent with the reference content page, about 95px."
+    },
+    {
+      "filename": "3_page2.png",
+      "page_title": "请前台帮忙检查",
+      "english": "Could you check it for me?",
+      "meaning": "可以帮我检查一下吗？",
+      "usage": "把房卡交给前台",
+      "scene": "小黑在简洁酒店前台递上房卡，白色线稿接待员接卡检查",
+      "kind": "lesson",
+      "texts": [
+        "请前台帮忙检查",
+        "Could you check it for me?",
+        "可以帮我检查一下吗？",
+        "把房卡交给前台"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nLESSON layout: red large heading at top, black large English centered and naturally wrapped in upper-middle, blue translation underneath, smaller black one-line usage, illustration below. Copy text exactly:\nRED heading: 请前台帮忙检查\nBLACK English: Could you check it for me?\nBLUE translation: 可以帮我检查一下吗？\nBLACK smaller usage: 把房卡交给前台\nKeep English readable with ample spacing.\nScene/action (no text on props): 小黑在简洁酒店前台递上房卡，白色线稿接待员接卡检查. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content.\nMake all dish objects black/white outlines; orange accents only for motion marks, no green garnish. Keep heading letter-size consistent with the reference content page, about 95px."
+    },
+    {
+      "filename": "4_page3.png",
+      "page_title": "需要时请换一张",
+      "english": "Could I get a new key card?",
+      "meaning": "可以给我换一张房卡吗？",
+      "usage": "旧卡无法使用时再问",
+      "scene": "前台接待员把一张新房卡递给小黑，小黑伸手接过",
+      "kind": "lesson",
+      "texts": [
+        "需要时请换一张",
+        "Could I get a new key card?",
+        "可以给我换一张房卡吗？",
+        "旧卡无法使用时再问"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nLESSON layout: red large heading at top, black large English centered and naturally wrapped in upper-middle, blue translation underneath, smaller black one-line usage, illustration below. Copy text exactly:\nRED heading: 需要时请换一张\nBLACK English: Could I get a new key card?\nBLUE translation: 可以给我换一张房卡吗？\nBLACK smaller usage: 旧卡无法使用时再问\nKeep English readable with ample spacing.\nScene/action (no text on props): 前台接待员把一张新房卡递给小黑，小黑伸手接过. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content.\nMake all dish objects black/white outlines; orange accents only for motion marks, no green garnish. Keep heading letter-size consistent with the reference content page, about 95px."
+    },
+    {
+      "filename": "5_page4.png",
+      "page_title": "前台这样说清楚",
+      "english": "A: My key card isn't working.\nB: What room are you in?\nA: Room 208.\nB: May I see your ID?\nA: Sure. Here it is.\nB: I'll check your card.",
+      "meaning": "说明问题 → 报房号 → 配合核验",
+      "usage": "",
+      "scene": "小黑在前台递上无文字证件与房卡，接待员帮忙处理",
+      "kind": "dialogue",
+      "texts": [
+        "前台这样说清楚",
+        "A: My key card isn't working.\nB: What room are you in?\nA: Room 208.\nB: May I see your ID?\nA: Sure. Here it is.\nB: I'll check your card.",
+        "说明问题 → 报房号 → 配合核验"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nDIALOGUE page: large RED heading「前台这样说清楚」at top same visual size as other pages; then this BLACK six-turn conversation in comfortable evenly spaced rows, wrapping only where needed:\nA: My key card isn't working.\nB: What room are you in?\nA: Room 208.\nB: May I see your ID?\nA: Sure. Here it is.\nB: I'll check your card.\nUnder conversation one BLUE summary line: 说明问题 → 报房号 → 配合核验\nSmall but clear illustration in bottom 25%. NO speech-bubble text or additional translations; the lines above are all allowed text.\nScene/action (no text on props): 小黑在前台递上无文字证件与房卡，接待员帮忙处理. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content.\nMake all dish objects black/white outlines; orange accents only for motion marks, no green garnish. Keep heading letter-size consistent with the reference content page, about 95px."
+    }
+  ],
+  "expressions": [
+    {
+      "term": "My key card isn't working.",
+      "meaning": "我的房卡用不了了。",
+      "example_en": "My key card isn't working.",
+      "example_zh": "我的房卡用不了了。"
+    },
+    {
+      "term": "Could you check it for me?",
+      "meaning": "可以帮我检查一下吗？",
+      "example_en": "Could you check it for me?",
+      "example_zh": "可以帮我检查一下吗？"
+    },
+    {
+      "term": "Could I get a new key card?",
+      "meaning": "可以给我换一张房卡吗？",
+      "example_en": "Could I get a new key card?",
+      "example_zh": "可以给我换一张房卡吗？"
+    }
+  ],
+  "generation": {
+    "tool": "Codex built-in image_gen",
+    "reference_role": "style and character only",
+    "references": [
+      "notes/20-12-离这儿远吗/original/1_cover.png",
+      "notes/20-12-离这儿远吗/original/2_page1.png"
+    ],
+    "canvas_export": "Final PNG canvas must be 1086x1448; original generated files are retained by the image tool."
+  }
+}

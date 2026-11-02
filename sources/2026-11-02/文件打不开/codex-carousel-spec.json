@@ -1,0 +1,140 @@
+{
+  "title": "文件打不开，英文怎么说？",
+  "focus": "文件打不开",
+  "question": "英文怎么说？",
+  "subheadline": "同事发来附件",
+  "account": "卖煎饼的司机",
+  "visual_style": "xiaohei",
+  "canvas": [
+    1086,
+    1448
+  ],
+  "source": "原创教学对话，无外部原声素材",
+  "topic_audit": {
+    "mode": "问题场景",
+    "admission": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "admission_total": 10,
+    "attractiveness": [
+      20,
+      15,
+      20,
+      20,
+      20
+    ],
+    "total": 95,
+    "grade": "A",
+    "dedup": "已核对线上20篇标题与沟通目的；无重复。更广的Obsidian内容库与飞书配置在当前机器缺失，未声称完成全库查重。"
+  },
+  "pages": [
+    {
+      "filename": "1_cover.png",
+      "page_title": "文件打不开",
+      "texts": [
+        "文件打不开",
+        "英文怎么说？",
+        "同事发来附件"
+      ],
+      "scene": "小黑坐在笔记本电脑前，指向屏幕上的无文字文件图标，旁边白色线稿同事准备帮忙",
+      "kind": "cover",
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCOVER layout: large red Chinese focus in top 20%, large BLACK question directly underneath, blue short subtitle below, scene illustration in bottom 40%. Only these three text blocks, copied exactly: red「文件打不开」; black「英文怎么说？」; blue「同事发来附件」. Do not put English answer on cover.\nScene/action (no text on props): 小黑坐在笔记本电脑前，指向屏幕上的无文字文件图标，旁边白色线稿同事准备帮忙. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content."
+    },
+    {
+      "filename": "2_page1.png",
+      "page_title": "先说明打不开",
+      "english": "I can't open the file.",
+      "meaning": "我打不开这个文件。",
+      "usage": "告诉同事具体遇到的问题",
+      "scene": "小黑坐在笔记本电脑前，屏幕是无文字文件图标与裂纹，手指屏幕",
+      "kind": "lesson",
+      "texts": [
+        "先说明打不开",
+        "I can't open the file.",
+        "我打不开这个文件。",
+        "告诉同事具体遇到的问题"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nLESSON layout: red large heading at top, black large English centered and naturally wrapped in upper-middle, blue translation underneath, smaller black one-line usage, illustration below. Copy text exactly:\nRED heading: 先说明打不开\nBLACK English: I can't open the file.\nBLUE translation: 我打不开这个文件。\nBLACK smaller usage: 告诉同事具体遇到的问题\nKeep English readable with ample spacing.\nScene/action (no text on props): 小黑坐在笔记本电脑前，屏幕是无文字文件图标与裂纹，手指屏幕. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content.\nMake all dish objects black/white outlines; orange accents only for motion marks, no green garnish. Keep heading letter-size consistent with the reference content page, about 95px."
+    },
+    {
+      "filename": "3_page2.png",
+      "page_title": "请对方重新发送",
+      "english": "Could you send it again?",
+      "meaning": "可以再发一次吗？",
+      "usage": "先请对方重发同一份文件",
+      "scene": "小黑将无文字文件信封交给白色线稿同事，同事用手势回应重新发送",
+      "kind": "lesson",
+      "texts": [
+        "请对方重新发送",
+        "Could you send it again?",
+        "可以再发一次吗？",
+        "先请对方重发同一份文件"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nLESSON layout: red large heading at top, black large English centered and naturally wrapped in upper-middle, blue translation underneath, smaller black one-line usage, illustration below. Copy text exactly:\nRED heading: 请对方重新发送\nBLACK English: Could you send it again?\nBLUE translation: 可以再发一次吗？\nBLACK smaller usage: 先请对方重发同一份文件\nKeep English readable with ample spacing.\nScene/action (no text on props): 小黑将无文字文件信封交给白色线稿同事，同事用手势回应重新发送. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content.\nMake all dish objects black/white outlines; orange accents only for motion marks, no green garnish. Keep heading letter-size consistent with the reference content page, about 95px."
+    },
+    {
+      "filename": "4_page3.png",
+      "page_title": "换成通用格式",
+      "english": "Could you send it as a PDF?",
+      "meaning": "可以发一份 PDF 格式的吗？",
+      "usage": "文档仍打不开时再问",
+      "scene": "白色线稿同事将一个文件形状转换成另一张更简单纸页，小黑接过查看；物件均无文字",
+      "kind": "lesson",
+      "texts": [
+        "换成通用格式",
+        "Could you send it as a PDF?",
+        "可以发一份 PDF 格式的吗？",
+        "文档仍打不开时再问"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nLESSON layout: red large heading at top, black large English centered and naturally wrapped in upper-middle, blue translation underneath, smaller black one-line usage, illustration below. Copy text exactly:\nRED heading: 换成通用格式\nBLACK English: Could you send it as a PDF?\nBLUE translation: 可以发一份 PDF 格式的吗？\nBLACK smaller usage: 文档仍打不开时再问\nKeep English readable with ample spacing.\nScene/action (no text on props): 白色线稿同事将一个文件形状转换成另一张更简单纸页，小黑接过查看；物件均无文字. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content.\nMake all dish objects black/white outlines; orange accents only for motion marks, no green garnish. Keep heading letter-size consistent with the reference content page, about 95px."
+    },
+    {
+      "filename": "5_page4.png",
+      "page_title": "这样请同事重发",
+      "english": "A: I can't open the file.\nB: I'll send it again.\nA: Could you send it as a PDF?\nB: Sure. Try this one.\nA: It opens now.\nB: Great.",
+      "meaning": "说明问题 → 请求重发 → 确认能打开",
+      "usage": "",
+      "scene": "小黑与白色线稿同事并排看电脑，屏幕只有打开的无文字文档与橙色成功短线",
+      "kind": "dialogue",
+      "texts": [
+        "这样请同事重发",
+        "A: I can't open the file.\nB: I'll send it again.\nA: Could you send it as a PDF?\nB: Sure. Try this one.\nA: It opens now.\nB: Great.",
+        "说明问题 → 请求重发 → 确认能打开"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nDIALOGUE page: large RED heading「这样请同事重发」at top same visual size as other pages; then this BLACK six-turn conversation in comfortable evenly spaced rows, wrapping only where needed:\nA: I can't open the file.\nB: I'll send it again.\nA: Could you send it as a PDF?\nB: Sure. Try this one.\nA: It opens now.\nB: Great.\nUnder conversation one BLUE summary line: 说明问题 → 请求重发 → 确认能打开\nSmall but clear illustration in bottom 25%. NO speech-bubble text or additional translations; the lines above are all allowed text.\nScene/action (no text on props): 小黑与白色线稿同事并排看电脑，屏幕只有打开的无文字文档与橙色成功短线. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content.\nMake all dish objects black/white outlines; orange accents only for motion marks, no green garnish. Keep heading letter-size consistent with the reference content page, about 95px."
+    }
+  ],
+  "expressions": [
+    {
+      "term": "I can't open the file.",
+      "meaning": "我打不开这个文件。",
+      "example_en": "I can't open the file.",
+      "example_zh": "我打不开这个文件。"
+    },
+    {
+      "term": "Could you send it again?",
+      "meaning": "可以再发一次吗？",
+      "example_en": "Could you send it again?",
+      "example_zh": "可以再发一次吗？"
+    },
+    {
+      "term": "Could you send it as a PDF?",
+      "meaning": "可以发一份 PDF 格式的吗？",
+      "example_en": "Could you send it as a PDF?",
+      "example_zh": "可以发一份 PDF 格式的吗？"
+    }
+  ],
+  "generation": {
+    "tool": "Codex built-in image_gen",
+    "reference_role": "style and character only",
+    "references": [
+      "notes/20-12-离这儿远吗/original/1_cover.png",
+      "notes/20-12-离这儿远吗/original/2_page1.png"
+    ],
+    "canvas_export": "Final PNG canvas must be 1086x1448; original generated files are retained by the image tool."
+  }
+}

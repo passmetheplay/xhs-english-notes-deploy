@@ -1,0 +1,9 @@
+Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.
+LESSON layout: red large heading at top, black large English centered and naturally wrapped in upper-middle, blue translation underneath, smaller black one-line usage, illustration below. Copy text exactly:
+RED heading: 说清你点了什么
+BLACK English: I ordered the chicken.
+BLUE translation: 我点的是鸡肉。
+BLACK smaller usage: 说出原单，方便核对
+Keep English readable with ample spacing.
+Scene/action (no text on props): 小黑指向无文字菜单上的鸡腿小图，对照桌上的鱼. Keep the character actively doing the communication action. Reference images are STYLE and CHARACTER guides only; create the new subject and text above, do not copy their content.
+Make all dish objects black/white outlines; orange accents only for motion marks, no green garnish. Keep heading letter-size consistent with the reference content page, about 95px.
