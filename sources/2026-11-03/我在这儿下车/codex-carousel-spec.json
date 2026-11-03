@@ -1,0 +1,73 @@
+{
+  "title": "我在这儿下车，英文怎么说？",
+  "focus": "我在这儿下车",
+  "account": "小妙英语",
+  "visual_style": "xiaohei",
+  "canvas": [
+    1086,
+    1448
+  ],
+  "source": "原创情景英语",
+  "topic_audit": {
+    "admission_total": 10,
+    "grade": "A",
+    "dedup": "与现有23篇按沟通目的核对，未重复。"
+  },
+  "pages": [
+    {
+      "filename": "1_cover.png",
+      "page_title": "我在这儿下车",
+      "kind": "cover",
+      "texts": [
+        "我在这儿下车",
+        "英文怎么说？",
+        "提醒司机停车"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCover with exactly three text blocks: large red 我在这儿下车, large black 英文怎么说？, blue 提醒司机停车. Lower scene: 坐在车后座的小黑指向车窗外的安全停车点，司机转头听. All props monochrome and without words, tiny orange gesture accents."
+    },
+    {
+      "filename": "2_page1.png",
+      "page_title": "先说想在哪下",
+      "kind": "lesson",
+      "texts": [
+        "先说想在哪下",
+        "Could you drop me off here?",
+        "能让我在这儿下车吗？"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 先说想在哪下\nBLACK English: Could you drop me off here?\nBLUE Chinese: 能让我在这儿下车吗？\nBelow the text, draw this scene: 小黑坐在出租车后排指向窗外. No lettering on props. Dialogue stays left aligned. No additional words."
+    },
+    {
+      "filename": "3_page2.png",
+      "page_title": "指一个停车点",
+      "kind": "lesson",
+      "texts": [
+        "指一个停车点",
+        "By the corner, please.",
+        "请在拐角那边停车。"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 指一个停车点\nBLACK English: By the corner, please.\nBLUE Chinese: 请在拐角那边停车。\nBelow the text, draw this scene: 小黑指向车窗外人行道的拐角. No lettering on props. Dialogue stays left aligned. No additional words."
+    },
+    {
+      "filename": "4_page3.png",
+      "page_title": "这里不能停时",
+      "kind": "lesson",
+      "texts": [
+        "这里不能停时",
+        "A little farther is fine.",
+        "再往前一点也行。"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 这里不能停时\nBLACK English: A little farther is fine.\nBLUE Chinese: 再往前一点也行。\nBelow the text, draw this scene: 小黑指向前方空着的停车位置. No lettering on props. Dialogue stays left aligned. No additional words."
+    },
+    {
+      "filename": "5_page4.png",
+      "page_title": "车上这样接话",
+      "kind": "dialogue",
+      "texts": [
+        "车上这样接话",
+        "A: Could you drop me off here?\nB: I can't stop here.\nA: A little farther is fine.\nB: By the corner?\nA: Yes, please.\nB: Sure.",
+        "提出下车 → 确认停靠点"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 车上这样接话\nBLACK English: A: Could you drop me off here?\nB: I can't stop here.\nA: A little farther is fine.\nB: By the corner?\nA: Yes, please.\nB: Sure.\nBLUE Chinese: 提出下车 → 确认停靠点\nBelow the text, draw this scene: 小黑在后座指向车窗外拐角，司机点头. No lettering on props. Dialogue stays left aligned. No additional words."
+    }
+  ]
+}

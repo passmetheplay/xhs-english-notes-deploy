@@ -7,6 +7,7 @@ No old source content or provenance is reconstructed or overwritten.
 """
 import argparse
 import copy
+from datetime import datetime, timedelta, timezone
 import importlib.util
 import json
 import re
@@ -80,8 +81,12 @@ def main():
             'images': images})
     notes += new_notes
     site = copy.deepcopy(baseline['site'])
-    site.update(title=f'小红书英语口语｜{len(notes)}篇', subtitle=f'小黑人场景英语 · 新增{len(new_notes)}篇 · 2026-11-02')
     generated_at = exporter.utc_now()
+    local_date = datetime.fromisoformat(generated_at.replace('Z', '+00:00')).astimezone(
+        timezone(timedelta(hours=8))
+    ).date()
+    site.update(title=f'小红书英语口语｜{len(notes)}篇',
+                subtitle=f'小黑人场景英语 · 新增{len(new_notes)}篇 · {local_date}')
     new_html = exporter.render_site(site, notes, records, generated_at)
     rendered = dict(re.findall(r'<section class="note" id="([^"]+)">(.*?)</section>', new_html, re.S))
     for key, section in sections.items():

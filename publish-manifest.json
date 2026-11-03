@@ -2,15 +2,15 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "e80b1693e5043fe3cd40d5e8ac8d3b5a59718b8c9a8031535f61cd64c8aeb4b4",
-    "publish-history.jsonl": "d39476edded3c27124ad25f2fd6c70ef2f75ff6328a7e2bd133db25ba21494ff",
-    "publish-report.md": "e0ee60a43bcbfd060fe13b690754fb193c23cc53554d787b9b3f2a4c8cbd3fd4"
+    "index.html": "f890416dd2165950200a8f8b6003046b77f84dcaab15b0774e75c54e3b813553",
+    "publish-history.jsonl": "e65c5c3776a12fbbcf4e8557bd0d8e93f015b2914857fdb6568711d78ed8bc2c",
+    "publish-report.md": "4fa8a421de2be28fdb393b4cb2bed330c801e485651cf01458a8fb2adceb4fec"
   },
   "changes": {
     "added": [
-      "21-这不是我点的",
-      "22-房卡刷不开",
-      "23-文件打不开"
+      "24-扣了两次款",
+      "25-我在这儿下车",
+      "26-能晚点交吗"
     ],
     "changed": [],
     "removed": [],
@@ -34,10 +34,13 @@
       "17-09-被子有点薄",
       "18-10-我出门了",
       "19-11-等我一起走",
-      "20-12-离这儿远吗"
+      "20-12-离这儿远吗",
+      "21-这不是我点的",
+      "22-房卡刷不开",
+      "23-文件打不开"
     ]
   },
-  "generated_at": "2026-11-02T07:15:19Z",
+  "generated_at": "2026-11-03T02:36:43Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
@@ -272,6 +275,36 @@
     "notes/23-文件打不开/web/3_page2.webp",
     "notes/23-文件打不开/web/4_page3.webp",
     "notes/23-文件打不开/web/5_page4.webp",
+    "notes/24-扣了两次款/original/1_cover.png",
+    "notes/24-扣了两次款/original/2_page1.png",
+    "notes/24-扣了两次款/original/3_page2.png",
+    "notes/24-扣了两次款/original/4_page3.png",
+    "notes/24-扣了两次款/original/5_page4.png",
+    "notes/24-扣了两次款/web/1_cover.webp",
+    "notes/24-扣了两次款/web/2_page1.webp",
+    "notes/24-扣了两次款/web/3_page2.webp",
+    "notes/24-扣了两次款/web/4_page3.webp",
+    "notes/24-扣了两次款/web/5_page4.webp",
+    "notes/25-我在这儿下车/original/1_cover.png",
+    "notes/25-我在这儿下车/original/2_page1.png",
+    "notes/25-我在这儿下车/original/3_page2.png",
+    "notes/25-我在这儿下车/original/4_page3.png",
+    "notes/25-我在这儿下车/original/5_page4.png",
+    "notes/25-我在这儿下车/web/1_cover.webp",
+    "notes/25-我在这儿下车/web/2_page1.webp",
+    "notes/25-我在这儿下车/web/3_page2.webp",
+    "notes/25-我在这儿下车/web/4_page3.webp",
+    "notes/25-我在这儿下车/web/5_page4.webp",
+    "notes/26-能晚点交吗/original/1_cover.png",
+    "notes/26-能晚点交吗/original/2_page1.png",
+    "notes/26-能晚点交吗/original/3_page2.png",
+    "notes/26-能晚点交吗/original/4_page3.png",
+    "notes/26-能晚点交吗/original/5_page4.png",
+    "notes/26-能晚点交吗/web/1_cover.webp",
+    "notes/26-能晚点交吗/web/2_page1.webp",
+    "notes/26-能晚点交吗/web/3_page2.webp",
+    "notes/26-能晚点交吗/web/4_page3.webp",
+    "notes/26-能晚点交吗/web/5_page4.webp",
     "publish-history.jsonl",
     "publish-manifest.json",
     "publish-report.md"
@@ -2877,9 +2910,348 @@
       "status": "未发布",
       "style": "白底小黑手绘：红色标题、黑色英文、蓝色中文、橙色动作提示。",
       "title": "文件打不开，英文怎么说？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "92e74e50065a8ae780475a38f4b51c9a1ed46d56b0e58f4930e828db72017f02",
+      "id": "24-扣了两次款",
+      "images": [
+        {
+          "alt": "扣了两次款",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/24-扣了两次款/original/1_cover.png",
+            "sha256": "47b8461a034f037735316578a7e613859d929ebea07413570c9285fe3a08f5b2",
+            "size": 1240159
+          },
+          "source": "sources/2026-11-03/扣了两次款/1_cover.png",
+          "source_sha256": "47b8461a034f037735316578a7e613859d929ebea07413570c9285fe3a08f5b2",
+          "web": {
+            "format": "webp",
+            "path": "notes/24-扣了两次款/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "3c8b8983f4016858104541ba06ea780d0fea42a5f7a6c2a1df6fb510b1aaeff7",
+            "size": 72008
+          },
+          "width": 1086
+        },
+        {
+          "alt": "说明重复扣款",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/24-扣了两次款/original/2_page1.png",
+            "sha256": "e9fc894e10d51a730ec8565bb56d2d296615735fe8c37ae2e4acd274bd562bdc",
+            "size": 1206137
+          },
+          "source": "sources/2026-11-03/扣了两次款/2_page1.png",
+          "source_sha256": "e9fc894e10d51a730ec8565bb56d2d296615735fe8c37ae2e4acd274bd562bdc",
+          "web": {
+            "format": "webp",
+            "path": "notes/24-扣了两次款/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "640d488edddbf80759fdff78ce7c8023d1abf8cf0136e40154b0148ced6409df",
+            "size": 70676
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请对方查一下",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/24-扣了两次款/original/3_page2.png",
+            "sha256": "9199e988f0c7b50a4d79cb7b193e3a1557b34ca8304083503e4f7754caea5cfe",
+            "size": 1243241
+          },
+          "source": "sources/2026-11-03/扣了两次款/3_page2.png",
+          "source_sha256": "9199e988f0c7b50a4d79cb7b193e3a1557b34ca8304083503e4f7754caea5cfe",
+          "web": {
+            "format": "webp",
+            "path": "notes/24-扣了两次款/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "f134c0cf4053d0136fed22eb529ffe586669b3a810e12a13dd0980fe5d4db2ca",
+            "size": 73314
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请退掉重复款",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/24-扣了两次款/original/4_page3.png",
+            "sha256": "0ab82a662887be4eef7e02350d206bf0ebd2c7ccf269ec808febc8e18ab1ca6a",
+            "size": 1273351
+          },
+          "source": "sources/2026-11-03/扣了两次款/4_page3.png",
+          "source_sha256": "0ab82a662887be4eef7e02350d206bf0ebd2c7ccf269ec808febc8e18ab1ca6a",
+          "web": {
+            "format": "webp",
+            "path": "notes/24-扣了两次款/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "1db17428d556e8d1c12b70aa81c92f34c395e28beae590568bc78d72affe397a",
+            "size": 81096
+          },
+          "width": 1086
+        },
+        {
+          "alt": "柜台上这样说",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/24-扣了两次款/original/5_page4.png",
+            "sha256": "988e75c18a881562056cb2344c70c0ff03787f8f94b8fda4dc70a5a0871b04a7",
+            "size": 1344601
+          },
+          "source": "sources/2026-11-03/扣了两次款/5_page4.png",
+          "source_sha256": "988e75c18a881562056cb2344c70c0ff03787f8f94b8fda4dc70a5a0871b04a7",
+          "web": {
+            "format": "webp",
+            "path": "notes/24-扣了两次款/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "e4954963a1e35a036ded36122c26c97715fafce3272fe7287bcde9e32814f6eb",
+            "size": 92518
+          },
+          "width": 1086
+        }
+      ],
+      "order": 24,
+      "source_note": "sources/2026-11-03/扣了两次款/扣了两次款_xhs.md",
+      "source_note_sha256": "aac2a1347eae9f236136adc4b28db5f0123e81659eac0af4697c277bfc941e15",
+      "status": "未发布",
+      "style": "白底小黑手绘，红黑蓝橙。",
+      "title": "扣了两次款，英文怎么说？"
+    },
+    {
+      "account": "小妙英语",
+      "fingerprint": "81f23128a69569c6a7af3edd12b72a567563a9a39ab084b36e5b632803bc2632",
+      "id": "25-我在这儿下车",
+      "images": [
+        {
+          "alt": "我在这儿下车",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/25-我在这儿下车/original/1_cover.png",
+            "sha256": "3e7d65f72421f396adf43022c786adcfc3e816c3cb905b6028a53ead2bf5694d",
+            "size": 1318815
+          },
+          "source": "sources/2026-11-03/我在这儿下车/1_cover.png",
+          "source_sha256": "3e7d65f72421f396adf43022c786adcfc3e816c3cb905b6028a53ead2bf5694d",
+          "web": {
+            "format": "webp",
+            "path": "notes/25-我在这儿下车/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "d86c368c86de5a5925ad4b1971dfda03119f64656eb36601663f2e7e5336a80d",
+            "size": 83520
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说想在哪下",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/25-我在这儿下车/original/2_page1.png",
+            "sha256": "5835d3e71ae854918251d1dad61556aa01111a8a6541f57e1f335c58b552e5fd",
+            "size": 1326824
+          },
+          "source": "sources/2026-11-03/我在这儿下车/2_page1.png",
+          "source_sha256": "5835d3e71ae854918251d1dad61556aa01111a8a6541f57e1f335c58b552e5fd",
+          "web": {
+            "format": "webp",
+            "path": "notes/25-我在这儿下车/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "79411281409a4cc650a6ef13970b92ef19d3983b57b88fc8b1790ce0d86813e6",
+            "size": 84932
+          },
+          "width": 1086
+        },
+        {
+          "alt": "指一个停车点",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/25-我在这儿下车/original/3_page2.png",
+            "sha256": "f2fe3b57f9ea10918c4f7629ffd9a47c4d0ae7b6ddfabb19942833c78303f457",
+            "size": 1307730
+          },
+          "source": "sources/2026-11-03/我在这儿下车/3_page2.png",
+          "source_sha256": "f2fe3b57f9ea10918c4f7629ffd9a47c4d0ae7b6ddfabb19942833c78303f457",
+          "web": {
+            "format": "webp",
+            "path": "notes/25-我在这儿下车/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "ea224c61d8581fadc189e51ce377c924526fcb58492c27bd7de6ee2f4a3b9d14",
+            "size": 86270
+          },
+          "width": 1086
+        },
+        {
+          "alt": "这里不能停时",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/25-我在这儿下车/original/4_page3.png",
+            "sha256": "67397bd17b740dbb4df02a6bad6e9370397f828a1ad2bee9289ca6b7a130d542",
+            "size": 1229405
+          },
+          "source": "sources/2026-11-03/我在这儿下车/4_page3.png",
+          "source_sha256": "67397bd17b740dbb4df02a6bad6e9370397f828a1ad2bee9289ca6b7a130d542",
+          "web": {
+            "format": "webp",
+            "path": "notes/25-我在这儿下车/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "69a5623771d2559283d302ab87f83cb7aaa7d83f92e4fb5c39f6b943aff9a2ca",
+            "size": 68326
+          },
+          "width": 1086
+        },
+        {
+          "alt": "车上这样接话",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/25-我在这儿下车/original/5_page4.png",
+            "sha256": "357e2abb3cd72d68c944b7275c285289e076875bee0983bcbdc20ec790a10f14",
+            "size": 1413446
+          },
+          "source": "sources/2026-11-03/我在这儿下车/5_page4.png",
+          "source_sha256": "357e2abb3cd72d68c944b7275c285289e076875bee0983bcbdc20ec790a10f14",
+          "web": {
+            "format": "webp",
+            "path": "notes/25-我在这儿下车/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "815f3e0e9932ecdeaf2bf1ee8595262b53d1ea7a13e3ac793c5f1c0dc07b4a34",
+            "size": 103818
+          },
+          "width": 1086
+        }
+      ],
+      "order": 25,
+      "source_note": "sources/2026-11-03/我在这儿下车/我在这儿下车_xhs.md",
+      "source_note_sha256": "a870464c4b3868ee7e53bb706f4dcc08484721d53ece10b959030e556b7488b8",
+      "status": "未发布",
+      "style": "白底小黑手绘，红黑蓝橙。",
+      "title": "我在这儿下车，英文怎么说？"
+    },
+    {
+      "account": "卖煎饼的司机",
+      "fingerprint": "c9841d681493eb7541fc9e8432afc8219d9b130edb6f8914dad38eb215ae0cc2",
+      "id": "26-能晚点交吗",
+      "images": [
+        {
+          "alt": "能晚点交吗",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/26-能晚点交吗/original/1_cover.png",
+            "sha256": "e9a7e51e8f322a787ab0e4df6f9ce8ea4a417a4e9f73a941fe791501cbc9d098",
+            "size": 1275148
+          },
+          "source": "sources/2026-11-03/能晚点交吗/1_cover.png",
+          "source_sha256": "e9a7e51e8f322a787ab0e4df6f9ce8ea4a417a4e9f73a941fe791501cbc9d098",
+          "web": {
+            "format": "webp",
+            "path": "notes/26-能晚点交吗/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "98538a108ae89d4350c1e0fdd8060f502a0ac3c59e0af54b5668216856b27f32",
+            "size": 81202
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先提出延期",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/26-能晚点交吗/original/2_page1.png",
+            "sha256": "efe64322c82be1146de0cc62e93c248fd31461fd545b50a42219197516fceafc",
+            "size": 1222410
+          },
+          "source": "sources/2026-11-03/能晚点交吗/2_page1.png",
+          "source_sha256": "efe64322c82be1146de0cc62e93c248fd31461fd545b50a42219197516fceafc",
+          "web": {
+            "format": "webp",
+            "path": "notes/26-能晚点交吗/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "18a052b0cdeca4385deca607e74e52a1afebf6a56a0cbd2b7653b304fb9cc415",
+            "size": 75138
+          },
+          "width": 1086
+        },
+        {
+          "alt": "给出新时间",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/26-能晚点交吗/original/3_page2.png",
+            "sha256": "c67b449790609b07dd289065ee0f068c8f42fe6adf231f4c174a5722d329feb2",
+            "size": 1205940
+          },
+          "source": "sources/2026-11-03/能晚点交吗/3_page2.png",
+          "source_sha256": "c67b449790609b07dd289065ee0f068c8f42fe6adf231f4c174a5722d329feb2",
+          "web": {
+            "format": "webp",
+            "path": "notes/26-能晚点交吗/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "668e21097cade8b0016ec7eaac9d5e2cf753fa07b4699aac324246497d77e11a",
+            "size": 70592
+          },
+          "width": 1086
+        },
+        {
+          "alt": "确认具体时刻",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/26-能晚点交吗/original/4_page3.png",
+            "sha256": "9c1a938a7e5be699d29ff406e71eb57f5983cc755f801a6366c751bd46574f6c",
+            "size": 1191373
+          },
+          "source": "sources/2026-11-03/能晚点交吗/4_page3.png",
+          "source_sha256": "9c1a938a7e5be699d29ff406e71eb57f5983cc755f801a6366c751bd46574f6c",
+          "web": {
+            "format": "webp",
+            "path": "notes/26-能晚点交吗/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "f6b858159b77bcfa5672ea72ed56afea4c0f512a090c4376bfe1b47f3c5688ef",
+            "size": 63830
+          },
+          "width": 1086
+        },
+        {
+          "alt": "商量新的期限",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/26-能晚点交吗/original/5_page4.png",
+            "sha256": "908c5d9350b668dfd64bee7f30d726240dba77f42a8f9053a3d042fa67ecad39",
+            "size": 1392620
+          },
+          "source": "sources/2026-11-03/能晚点交吗/5_page4.png",
+          "source_sha256": "908c5d9350b668dfd64bee7f30d726240dba77f42a8f9053a3d042fa67ecad39",
+          "web": {
+            "format": "webp",
+            "path": "notes/26-能晚点交吗/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "1c74475f2d1e40cf40bf799445ec09c656a127b1457c304af8ec52280a350dbd",
+            "size": 104630
+          },
+          "width": 1086
+        }
+      ],
+      "order": 26,
+      "source_note": "sources/2026-11-03/能晚点交吗/能晚点交吗_xhs.md",
+      "source_note_sha256": "f77c3d7f61ee7b4ff3a887d679536171f09c029e7c88b061a673475eabb4f62c",
+      "status": "未发布",
+      "style": "白底小黑手绘，红黑蓝橙。",
+      "title": "能晚点交吗，英文怎么说？"
     }
   ],
-  "output_digest": "851489368b5067b730ffe69a84b68b18ad14769f059fed9a7ce9fe8711b4e075",
+  "output_digest": "deefd9beba2f33849da5ab9d34c49b0ab22522e9b107f1e54c46a958a1531efc",
   "schema_version": 1,
   "site": {
     "accent": "#c44536",
@@ -2889,15 +3261,15 @@
     "access_gate": true,
     "pages_url": "https://passmetheplay.github.io/xhs-english-notes-deploy/",
     "repository_url": "https://github.com/passmetheplay/xhs-english-notes-deploy",
-    "subtitle": "小黑人场景英语 · 新增3篇 · 2026-11-02",
-    "title": "小红书英语口语｜23篇"
+    "subtitle": "小黑人场景英语 · 新增3篇 · 2026-11-03",
+    "title": "小红书英语口语｜26篇"
   },
   "source_root_hint": "sources",
   "totals": {
-    "images": 115,
-    "notes": 23,
-    "original_bytes": 144295812,
-    "savings_percent": 93.9734439416717,
-    "webp_bytes": 8696068
+    "images": 130,
+    "notes": 26,
+    "original_bytes": 163487012,
+    "savings_percent": 93.93961766210516,
+    "webp_bytes": 9907938
   }
 }

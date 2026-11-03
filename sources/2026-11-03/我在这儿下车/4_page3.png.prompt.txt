@@ -1,0 +1,5 @@
+Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.
+Copy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 这里不能停时
+BLACK English: A little farther is fine.
+BLUE Chinese: 再往前一点也行。
+Below the text, draw this scene: 小黑指向前方空着的停车位置. No lettering on props. Dialogue stays left aligned. No additional words.

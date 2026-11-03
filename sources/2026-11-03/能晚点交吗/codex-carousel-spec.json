@@ -1,0 +1,73 @@
+{
+  "title": "能晚点交吗，英文怎么说？",
+  "focus": "能晚点交吗",
+  "account": "卖煎饼的司机",
+  "visual_style": "xiaohei",
+  "canvas": [
+    1086,
+    1448
+  ],
+  "source": "原创情景英语",
+  "topic_audit": {
+    "admission_total": 10,
+    "grade": "A",
+    "dedup": "与现有23篇按沟通目的核对，未重复。"
+  },
+  "pages": [
+    {
+      "filename": "1_cover.png",
+      "page_title": "能晚点交吗",
+      "kind": "cover",
+      "texts": [
+        "能晚点交吗",
+        "英文怎么说？",
+        "跟同事改期限"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCover with exactly three text blocks: large red 能晚点交吗, large black 英文怎么说？, blue 跟同事改期限. Lower scene: 小黑拿着没写完的报告，在桌边指向无数字的时钟与白色线稿同事商量. All props monochrome and without words, tiny orange gesture accents."
+    },
+    {
+      "filename": "2_page1.png",
+      "page_title": "先提出延期",
+      "kind": "lesson",
+      "texts": [
+        "先提出延期",
+        "Could I have more time?",
+        "能多给我一点时间吗？"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 先提出延期\nBLACK English: Could I have more time?\nBLUE Chinese: 能多给我一点时间吗？\nBelow the text, draw this scene: 小黑拿起未完成的报告向同事示意. No lettering on props. Dialogue stays left aligned. No additional words."
+    },
+    {
+      "filename": "3_page2.png",
+      "page_title": "给出新时间",
+      "kind": "lesson",
+      "texts": [
+        "给出新时间",
+        "Can I send it tomorrow?",
+        "我能明天发给你吗？"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 给出新时间\nBLACK English: Can I send it tomorrow?\nBLUE Chinese: 我能明天发给你吗？\nBelow the text, draw this scene: 小黑指着两格无字日历的下一格. No lettering on props. Dialogue stays left aligned. No additional words."
+    },
+    {
+      "filename": "4_page3.png",
+      "page_title": "确认具体时刻",
+      "kind": "lesson",
+      "texts": [
+        "确认具体时刻",
+        "I can send it by noon.",
+        "我能在中午前发给你。"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 确认具体时刻\nBLACK English: I can send it by noon.\nBLUE Chinese: 我能在中午前发给你。\nBelow the text, draw this scene: 小黑指着十二点的无数字钟表. No lettering on props. Dialogue stays left aligned. No additional words."
+    },
+    {
+      "filename": "5_page4.png",
+      "page_title": "商量新的期限",
+      "kind": "dialogue",
+      "texts": [
+        "商量新的期限",
+        "A: Could I have more time?\nB: When can you send it?\nA: Tomorrow by noon.\nB: Will you need any help?\nA: I think I'm good. Thanks.\nB: Okay, noon works.",
+        "提出延期 → 给出时间 → 确认"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 商量新的期限\nBLACK English: A: Could I have more time?\nB: When can you send it?\nA: Tomorrow by noon.\nB: Will you need any help?\nA: I think I'm good. Thanks.\nB: Okay, noon works.\nBLUE Chinese: 提出延期 → 给出时间 → 确认\nBelow the text, draw this scene: 小黑与同事在桌边一起确认日历，旁边有无字报告. No lettering on props. Dialogue stays left aligned. No additional words."
+    }
+  ]
+}
