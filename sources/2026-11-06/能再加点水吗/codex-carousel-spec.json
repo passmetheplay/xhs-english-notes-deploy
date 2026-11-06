@@ -1,0 +1,73 @@
+{
+  "title": "能再加点水吗，英文怎么说？",
+  "focus": "能再加点水吗",
+  "account": "小帮英语",
+  "visual_style": "xiaohei",
+  "canvas": [
+    1086,
+    1448
+  ],
+  "source": "原创情景英语",
+  "topic_audit": {
+    "admission_total": 10,
+    "grade": "A",
+    "dedup": "与现有26篇按沟通目的核对，未重复。"
+  },
+  "pages": [
+    {
+      "filename": "1_cover.png",
+      "page_title": "能再加点水吗",
+      "kind": "cover",
+      "texts": [
+        "能再加点水吗",
+        "英文怎么说？",
+        "杯子空了就问"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCover with exactly three text blocks: large red 能再加点水吗, large black 英文怎么说？, blue 杯子空了就问. Lower scene: 小黑坐在简洁的餐桌边，向白色线稿服务员举起空水杯，店员拿一壶白水. All props monochrome and without words, tiny orange gesture accents."
+    },
+    {
+      "filename": "2_page1.png",
+      "page_title": "先说还想喝水",
+      "kind": "lesson",
+      "texts": [
+        "先说还想喝水",
+        "Could I get some more water?",
+        "可以再给我点水吗？"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 先说还想喝水\nBLACK English: Could I get some more water?\nBLUE Chinese: 可以再给我点水吗？\nBelow the text, draw this scene: 小黑举起空杯向服务员示意. No lettering on props. Dialogue stays left aligned. No additional words. Refer to the supplied examples for style and character identity. Never copy reference text."
+    },
+    {
+      "filename": "3_page2.png",
+      "page_title": "请加在原杯里",
+      "kind": "lesson",
+      "texts": [
+        "请加在原杯里",
+        "Could you refill my glass?",
+        "能帮我把这杯水加满吗？"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 请加在原杯里\nBLACK English: Could you refill my glass?\nBLUE Chinese: 能帮我把这杯水加满吗？\nBelow the text, draw this scene: 小黑把空杯放在桌面，店员用一壶水往杯中倒水. No lettering on props. Dialogue stays left aligned. No additional words. Refer to the supplied examples for style and character identity. Never copy reference text."
+    },
+    {
+      "filename": "4_page3.png",
+      "page_title": "不想加冰就说",
+      "kind": "lesson",
+      "texts": [
+        "不想加冰就说",
+        "No ice, please.",
+        "请不要加冰。"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 不想加冰就说\nBLACK English: No ice, please.\nBLUE Chinese: 请不要加冰。\nBelow the text, draw this scene: 店员拿着杯子和冰块夹，小黑轻轻摆手. No lettering on props. Dialogue stays left aligned. No additional words. Refer to the supplied examples for style and character identity. Never copy reference text."
+    },
+    {
+      "filename": "5_page4.png",
+      "page_title": "餐桌上这样接",
+      "kind": "dialogue",
+      "texts": [
+        "餐桌上这样接",
+        "A: Could I get some more water?\nB: Sure. With ice?\nA: No ice, please.\nB: Here you go.\nA: Thank you!",
+        "请加水 → 说明要不要冰"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 餐桌上这样接\nBLACK English: A: Could I get some more water?\nB: Sure. With ice?\nA: No ice, please.\nB: Here you go.\nA: Thank you!\nBLUE Chinese: 请加水 → 说明要不要冰\nBelow the text, draw this scene: 服务员把装水的杯子放到小黑面前，小黑点头. No lettering on props. Dialogue stays left aligned. No additional words. Refer to the supplied examples for style and character identity. Never copy reference text."
+    }
+  ]
+}

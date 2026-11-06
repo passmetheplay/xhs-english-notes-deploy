@@ -2,15 +2,16 @@
   "artifacts": {
     "assets/site.css": "7bb404db1c1a501b62ec5fae0eca1bd38091f0314a5a12f57b61f0b2dd0a3f25",
     "assets/site.js": "9921c6e062e9dfae952b62a678aff499880a4a0a9c26644e7c223068b3a554c3",
-    "index.html": "f890416dd2165950200a8f8b6003046b77f84dcaab15b0774e75c54e3b813553",
-    "publish-history.jsonl": "e65c5c3776a12fbbcf4e8557bd0d8e93f015b2914857fdb6568711d78ed8bc2c",
-    "publish-report.md": "4fa8a421de2be28fdb393b4cb2bed330c801e485651cf01458a8fb2adceb4fec"
+    "index.html": "2fb4b7960ed13cea80ebba8c5d98d20a8c2515890b6044d1aa8588bd5b576de7",
+    "publish-history.jsonl": "ade5eeea8a3008433695dae31407539f0f18d05d064774ef2ad3b1031b6fc65c",
+    "publish-report.md": "0dba3ca5be19ba27698561c2b7d6e925b36508f6a5053dfe781a025f61a167d2"
   },
   "changes": {
     "added": [
-      "24-扣了两次款",
-      "25-我在这儿下车",
-      "26-能晚点交吗"
+      "27-别放香菜",
+      "28-能再加点水吗",
+      "29-洗手间在哪儿",
+      "30-厕所没纸了"
     ],
     "changed": [],
     "removed": [],
@@ -37,10 +38,13 @@
       "20-12-离这儿远吗",
       "21-这不是我点的",
       "22-房卡刷不开",
-      "23-文件打不开"
+      "23-文件打不开",
+      "24-扣了两次款",
+      "25-我在这儿下车",
+      "26-能晚点交吗"
     ]
   },
-  "generated_at": "2026-11-03T02:36:43Z",
+  "generated_at": "2026-11-06T04:27:50Z",
   "generated_files": [
     "assets/site.css",
     "assets/site.js",
@@ -305,6 +309,46 @@
     "notes/26-能晚点交吗/web/3_page2.webp",
     "notes/26-能晚点交吗/web/4_page3.webp",
     "notes/26-能晚点交吗/web/5_page4.webp",
+    "notes/27-别放香菜/original/1_cover.png",
+    "notes/27-别放香菜/original/2_page1.png",
+    "notes/27-别放香菜/original/3_page2.png",
+    "notes/27-别放香菜/original/4_page3.png",
+    "notes/27-别放香菜/original/5_page4.png",
+    "notes/27-别放香菜/web/1_cover.webp",
+    "notes/27-别放香菜/web/2_page1.webp",
+    "notes/27-别放香菜/web/3_page2.webp",
+    "notes/27-别放香菜/web/4_page3.webp",
+    "notes/27-别放香菜/web/5_page4.webp",
+    "notes/28-能再加点水吗/original/1_cover.png",
+    "notes/28-能再加点水吗/original/2_page1.png",
+    "notes/28-能再加点水吗/original/3_page2.png",
+    "notes/28-能再加点水吗/original/4_page3.png",
+    "notes/28-能再加点水吗/original/5_page4.png",
+    "notes/28-能再加点水吗/web/1_cover.webp",
+    "notes/28-能再加点水吗/web/2_page1.webp",
+    "notes/28-能再加点水吗/web/3_page2.webp",
+    "notes/28-能再加点水吗/web/4_page3.webp",
+    "notes/28-能再加点水吗/web/5_page4.webp",
+    "notes/29-洗手间在哪儿/original/1_cover.png",
+    "notes/29-洗手间在哪儿/original/2_page1.png",
+    "notes/29-洗手间在哪儿/original/3_page2.png",
+    "notes/29-洗手间在哪儿/original/4_page3.png",
+    "notes/29-洗手间在哪儿/original/5_page4.png",
+    "notes/29-洗手间在哪儿/web/1_cover.webp",
+    "notes/29-洗手间在哪儿/web/2_page1.webp",
+    "notes/29-洗手间在哪儿/web/3_page2.webp",
+    "notes/29-洗手间在哪儿/web/4_page3.webp",
+    "notes/29-洗手间在哪儿/web/5_page4.webp",
+    "notes/30-厕所没纸了/original/1_cover.png",
+    "notes/30-厕所没纸了/original/2_page1.png",
+    "notes/30-厕所没纸了/original/3_page2.png",
+    "notes/30-厕所没纸了/original/4_page3.png",
+    "notes/30-厕所没纸了/original/5_page4.png",
+    "notes/30-厕所没纸了/web/1_cover.webp",
+    "notes/30-厕所没纸了/web/2_page1.webp",
+    "notes/30-厕所没纸了/web/3_page2.webp",
+    "notes/30-厕所没纸了/web/4_page3.webp",
+    "notes/30-厕所没纸了/web/5_page4.webp",
     "publish-history.jsonl",
     "publish-manifest.json",
     "publish-report.md"
@@ -3249,9 +3293,461 @@
       "status": "未发布",
       "style": "白底小黑手绘，红黑蓝橙。",
       "title": "能晚点交吗，英文怎么说？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "459e9d7bfd0f859b5263f04dff837a65925a1a4811e3879483eeb80036e70a5b",
+      "id": "27-别放香菜",
+      "images": [
+        {
+          "alt": "别放香菜",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/27-别放香菜/original/1_cover.png",
+            "sha256": "c2ac8de8be9c6c76dd8cc6b56ce2bf9608b3acc9d2f78b6adb63310872588378",
+            "size": 1325567
+          },
+          "source": "sources/2026-11-06/别放香菜/1_cover.png",
+          "source_sha256": "c2ac8de8be9c6c76dd8cc6b56ce2bf9608b3acc9d2f78b6adb63310872588378",
+          "web": {
+            "format": "webp",
+            "path": "notes/27-别放香菜/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "bf20c5ffe790a55c37cc7843e807899c43aef3caa1e5404929462af18d881a89",
+            "size": 85416
+          },
+          "width": 1086
+        },
+        {
+          "alt": "点单时先说明",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/27-别放香菜/original/2_page1.png",
+            "sha256": "02dc58e35f53a072b0f8698ff9c933c35429db7aa08bd2c9a0b1bd4acfc7770e",
+            "size": 1296784
+          },
+          "source": "sources/2026-11-06/别放香菜/2_page1.png",
+          "source_sha256": "02dc58e35f53a072b0f8698ff9c933c35429db7aa08bd2c9a0b1bd4acfc7770e",
+          "web": {
+            "format": "webp",
+            "path": "notes/27-别放香菜/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "8854a3b8d0cb413bdb1e6bb1eb95d4eb936e8b23f1f2df6b9cc6eb0e54f3aefe",
+            "size": 82342
+          },
+          "width": 1086
+        },
+        {
+          "alt": "问能不能去掉",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/27-别放香菜/original/3_page2.png",
+            "sha256": "b5ee6dd49d906ba779c1227de54f35243e7962dc24831f22132f852def236bc6",
+            "size": 1326742
+          },
+          "source": "sources/2026-11-06/别放香菜/3_page2.png",
+          "source_sha256": "b5ee6dd49d906ba779c1227de54f35243e7962dc24831f22132f852def236bc6",
+          "web": {
+            "format": "webp",
+            "path": "notes/27-别放香菜/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "fa3d2d535b908b3953ef51c1ff2fca0ab50aeab8e14dfe22ea2a67a22265c39b",
+            "size": 87642
+          },
+          "width": 1086
+        },
+        {
+          "alt": "端上来才发现",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/27-别放香菜/original/4_page3.png",
+            "sha256": "14ba6527b83214d1aa09fef133c024a15d558dd50d0ecb13fd35dcad2059e487",
+            "size": 1340466
+          },
+          "source": "sources/2026-11-06/别放香菜/4_page3.png",
+          "source_sha256": "14ba6527b83214d1aa09fef133c024a15d558dd50d0ecb13fd35dcad2059e487",
+          "web": {
+            "format": "webp",
+            "path": "notes/27-别放香菜/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "71d934ec15f71fa6de0dd0c53ad6bdaab178ebf0aa704526eef35ea8473c1166",
+            "size": 90738
+          },
+          "width": 1086
+        },
+        {
+          "alt": "点面时这样说",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/27-别放香菜/original/5_page4.png",
+            "sha256": "ac63eaa04897a317315009f5aaa4f7ab5edcacf40b6166f9ed07b4f358894fd5",
+            "size": 1396836
+          },
+          "source": "sources/2026-11-06/别放香菜/5_page4.png",
+          "source_sha256": "ac63eaa04897a317315009f5aaa4f7ab5edcacf40b6166f9ed07b4f358894fd5",
+          "web": {
+            "format": "webp",
+            "path": "notes/27-别放香菜/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "f64fb05da39291360b23cef73c0da0e6b5ba1378a1d1e2f86a432ba437fb9944",
+            "size": 95730
+          },
+          "width": 1086
+        }
+      ],
+      "order": 27,
+      "source_note": "sources/2026-11-06/别放香菜/别放香菜_xhs.md",
+      "source_note_sha256": "6336f65a924bee221f234b6122296f7d7c29de22ebbdb60d3ff69f1b0eb6e1d0",
+      "status": "未发布",
+      "style": "白底小黑手绘，红黑蓝橙。",
+      "title": "别放香菜，英文怎么说？"
+    },
+    {
+      "account": "小帮英语",
+      "fingerprint": "4d0bde1c2d435a2baaeda5d909ea71406b7b42495f58a12e06ed68d608f21dfd",
+      "id": "28-能再加点水吗",
+      "images": [
+        {
+          "alt": "能再加点水吗",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/28-能再加点水吗/original/1_cover.png",
+            "sha256": "381c1af7624e631a3801031c700e1b9ef95f95be179419501840e9a0e6e18b1d",
+            "size": 1276729
+          },
+          "source": "sources/2026-11-06/能再加点水吗/1_cover.png",
+          "source_sha256": "381c1af7624e631a3801031c700e1b9ef95f95be179419501840e9a0e6e18b1d",
+          "web": {
+            "format": "webp",
+            "path": "notes/28-能再加点水吗/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "30048d3e86c51fe26d4c6bb4610d0d1a8696a8413716ef288878db45c4999ccf",
+            "size": 74780
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说还想喝水",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/28-能再加点水吗/original/2_page1.png",
+            "sha256": "f79aed7182bfb1849bf184aae793455807cfc1476b5388b7a3390431c6346aaa",
+            "size": 1302516
+          },
+          "source": "sources/2026-11-06/能再加点水吗/2_page1.png",
+          "source_sha256": "f79aed7182bfb1849bf184aae793455807cfc1476b5388b7a3390431c6346aaa",
+          "web": {
+            "format": "webp",
+            "path": "notes/28-能再加点水吗/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "4bfd04aceb71bdae48af7c8c1373929fb2a8b4e5e0f8a49e035231926757db5f",
+            "size": 84388
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请加在原杯里",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/28-能再加点水吗/original/3_page2.png",
+            "sha256": "6004ec567ce8482bb303ab77071bf367810ae43406d513d2886ea9c468a911b2",
+            "size": 1294200
+          },
+          "source": "sources/2026-11-06/能再加点水吗/3_page2.png",
+          "source_sha256": "6004ec567ce8482bb303ab77071bf367810ae43406d513d2886ea9c468a911b2",
+          "web": {
+            "format": "webp",
+            "path": "notes/28-能再加点水吗/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "5f032b35f6c24797d1fed576032ae34fc575204bb02605f9222026b7c67a495c",
+            "size": 81678
+          },
+          "width": 1086
+        },
+        {
+          "alt": "不想加冰就说",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/28-能再加点水吗/original/4_page3.png",
+            "sha256": "333252602f533b5e108034683e17b56ee3f230f5454f976ad96ab834785c8241",
+            "size": 1245980
+          },
+          "source": "sources/2026-11-06/能再加点水吗/4_page3.png",
+          "source_sha256": "333252602f533b5e108034683e17b56ee3f230f5454f976ad96ab834785c8241",
+          "web": {
+            "format": "webp",
+            "path": "notes/28-能再加点水吗/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "2c492a5f43040861b676b680dc26f8062fb015bda0f6f410e3e3992f7e9e957b",
+            "size": 70266
+          },
+          "width": 1086
+        },
+        {
+          "alt": "餐桌上这样接",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/28-能再加点水吗/original/5_page4.png",
+            "sha256": "e6f58daa0357affc7ba74207e59b53de0d54462356db4341224b398c3e527e2b",
+            "size": 1338726
+          },
+          "source": "sources/2026-11-06/能再加点水吗/5_page4.png",
+          "source_sha256": "e6f58daa0357affc7ba74207e59b53de0d54462356db4341224b398c3e527e2b",
+          "web": {
+            "format": "webp",
+            "path": "notes/28-能再加点水吗/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "e0115b85d6f498fccaa4312e54b6012f445a8d52a86008aff6cfd2be3f032713",
+            "size": 88330
+          },
+          "width": 1086
+        }
+      ],
+      "order": 28,
+      "source_note": "sources/2026-11-06/能再加点水吗/能再加点水吗_xhs.md",
+      "source_note_sha256": "52d0539f591a2ca5cd21f93c10da2c772a53fcf719b9aadd7ff3c5ffaf2b7ee3",
+      "status": "未发布",
+      "style": "白底小黑手绘，红黑蓝橙。",
+      "title": "能再加点水吗，英文怎么说？"
+    },
+    {
+      "account": "小妙英语",
+      "fingerprint": "211e8da57488d66c370da95263413d635c96ab1fcdda6abfc1199645ad3092cb",
+      "id": "29-洗手间在哪儿",
+      "images": [
+        {
+          "alt": "洗手间在哪儿",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/29-洗手间在哪儿/original/1_cover.png",
+            "sha256": "f58cc1cad250bcc859ed34433e4dee26dbf1c628b1a5ff2db960bd0886cc0d08",
+            "size": 1314866
+          },
+          "source": "sources/2026-11-06/洗手间在哪儿/1_cover.png",
+          "source_sha256": "f58cc1cad250bcc859ed34433e4dee26dbf1c628b1a5ff2db960bd0886cc0d08",
+          "web": {
+            "format": "webp",
+            "path": "notes/29-洗手间在哪儿/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "f75708f410b9563a237b0d116e79c46cee87b1a8b818e99dcc099f6e04e9bc98",
+            "size": 83382
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先问洗手间在哪",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/29-洗手间在哪儿/original/2_page1.png",
+            "sha256": "201869664c97ae164344c6731f193389912434e189763cbe7a7c4a37dc77dd50",
+            "size": 1302151
+          },
+          "source": "sources/2026-11-06/洗手间在哪儿/2_page1.png",
+          "source_sha256": "201869664c97ae164344c6731f193389912434e189763cbe7a7c4a37dc77dd50",
+          "web": {
+            "format": "webp",
+            "path": "notes/29-洗手间在哪儿/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "8bff8cb5216dfa9b74945a7d71467c1af4e204a9244908afa8a67cca054545fe",
+            "size": 81092
+          },
+          "width": 1086
+        },
+        {
+          "alt": "确认在不在这层",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/29-洗手间在哪儿/original/3_page2.png",
+            "sha256": "4c615bbc958d6e306883f2adde7c9615fda6c7c7047575ff4f808e535110dba4",
+            "size": 1254571
+          },
+          "source": "sources/2026-11-06/洗手间在哪儿/3_page2.png",
+          "source_sha256": "4c615bbc958d6e306883f2adde7c9615fda6c7c7047575ff4f808e535110dba4",
+          "web": {
+            "format": "webp",
+            "path": "notes/29-洗手间在哪儿/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "e12e2451c3b6d363a7ec2d120e29852dd0edeb633a06a43ef5b60c561d3aed94",
+            "size": 69912
+          },
+          "width": 1086
+        },
+        {
+          "alt": "听懂怎么走",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/29-洗手间在哪儿/original/4_page3.png",
+            "sha256": "70d99867c900792d267f99bab9b0f1704eab493dd9a614a4867c49d2c5caa660",
+            "size": 1236251
+          },
+          "source": "sources/2026-11-06/洗手间在哪儿/4_page3.png",
+          "source_sha256": "70d99867c900792d267f99bab9b0f1704eab493dd9a614a4867c49d2c5caa660",
+          "web": {
+            "format": "webp",
+            "path": "notes/29-洗手间在哪儿/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "363102d458be67b53981a5d2c0be2843a1689fb98fffd2c7396371a6f9d12436",
+            "size": 71852
+          },
+          "width": 1086
+        },
+        {
+          "alt": "问路时这样说",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/29-洗手间在哪儿/original/5_page4.png",
+            "sha256": "a49a0823af9a0274c6ac9b50539077dffaeafe3a4d19b55051bcfd64defa2f89",
+            "size": 1362815
+          },
+          "source": "sources/2026-11-06/洗手间在哪儿/5_page4.png",
+          "source_sha256": "a49a0823af9a0274c6ac9b50539077dffaeafe3a4d19b55051bcfd64defa2f89",
+          "web": {
+            "format": "webp",
+            "path": "notes/29-洗手间在哪儿/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "52d1d871efe10efdcb7299126c6e77e469cf1d38cf738076ff00d000ee4bdd76",
+            "size": 84736
+          },
+          "width": 1086
+        }
+      ],
+      "order": 29,
+      "source_note": "sources/2026-11-06/洗手间在哪儿/洗手间在哪儿_xhs.md",
+      "source_note_sha256": "c5063992c8898832c41e03dcb7ae118972720aff47ba955ff5343470191be765",
+      "status": "未发布",
+      "style": "白底小黑手绘，红黑蓝橙。",
+      "title": "洗手间在哪儿，英文怎么说？"
+    },
+    {
+      "account": "小妙英语",
+      "fingerprint": "5d18c2fa30e42c33a350579169584d49cfdd044c347451b28e71a5114955805b",
+      "id": "30-厕所没纸了",
+      "images": [
+        {
+          "alt": "厕所没纸了",
+          "filename": "1_cover.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/30-厕所没纸了/original/1_cover.png",
+            "sha256": "1ae5fbd92585d28ea6ce9fd02676409e076220eb7ea9a0aa9843c0a0db437f72",
+            "size": 1211935
+          },
+          "source": "sources/2026-11-06/厕所没纸了/1_cover.png",
+          "source_sha256": "1ae5fbd92585d28ea6ce9fd02676409e076220eb7ea9a0aa9843c0a0db437f72",
+          "web": {
+            "format": "webp",
+            "path": "notes/30-厕所没纸了/web/1_cover.webp",
+            "quality": 82,
+            "sha256": "9bf62bf1fd20732413f06798fbce8b18fc44543caa7116368df359b884c6f561",
+            "size": 68204
+          },
+          "width": 1086
+        },
+        {
+          "alt": "先说隔间没纸",
+          "filename": "2_page1.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/30-厕所没纸了/original/2_page1.png",
+            "sha256": "d80cb36d758e5de129228f562875424ffaacd769e78ca88f50cf6d319aa98349",
+            "size": 1204746
+          },
+          "source": "sources/2026-11-06/厕所没纸了/2_page1.png",
+          "source_sha256": "d80cb36d758e5de129228f562875424ffaacd769e78ca88f50cf6d319aa98349",
+          "web": {
+            "format": "webp",
+            "path": "notes/30-厕所没纸了/web/2_page1.webp",
+            "quality": 82,
+            "sha256": "791c33479f9781e869b4f700805d42e38d41fd7f51b5b8d68314f4c4856e92c2",
+            "size": 68952
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请朋友拿一卷",
+          "filename": "3_page2.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/30-厕所没纸了/original/3_page2.png",
+            "sha256": "94b0e2538651bb19c503279dd8e96036c1ebff5643c337935b0bfda72bbc6cb4",
+            "size": 1232435
+          },
+          "source": "sources/2026-11-06/厕所没纸了/3_page2.png",
+          "source_sha256": "94b0e2538651bb19c503279dd8e96036c1ebff5643c337935b0bfda72bbc6cb4",
+          "web": {
+            "format": "webp",
+            "path": "notes/30-厕所没纸了/web/3_page2.webp",
+            "quality": 82,
+            "sha256": "1a5f7ed3910fa9900d98a3f27f1038a08d0fa11328d93a7d0ec158b4c4a894d2",
+            "size": 70080
+          },
+          "width": 1086
+        },
+        {
+          "alt": "请从门底下递",
+          "filename": "4_page3.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/30-厕所没纸了/original/4_page3.png",
+            "sha256": "147c5c7a95aabaa8d6d5bba2992ee192350782e2b7606eb859767188f7e9f0cb",
+            "size": 1255037
+          },
+          "source": "sources/2026-11-06/厕所没纸了/4_page3.png",
+          "source_sha256": "147c5c7a95aabaa8d6d5bba2992ee192350782e2b7606eb859767188f7e9f0cb",
+          "web": {
+            "format": "webp",
+            "path": "notes/30-厕所没纸了/web/4_page3.webp",
+            "quality": 82,
+            "sha256": "aee079c7324054eada2d5fd13720b20e4c4285f8cb0addea52e7c08f5a82f143",
+            "size": 73848
+          },
+          "width": 1086
+        },
+        {
+          "alt": "隔着门这样说",
+          "filename": "5_page4.png",
+          "height": 1448,
+          "original": {
+            "path": "notes/30-厕所没纸了/original/5_page4.png",
+            "sha256": "c90b71320eb467bbef906dcaadb93b8841f02c40c1137c306754111e1c96109b",
+            "size": 1322543
+          },
+          "source": "sources/2026-11-06/厕所没纸了/5_page4.png",
+          "source_sha256": "c90b71320eb467bbef906dcaadb93b8841f02c40c1137c306754111e1c96109b",
+          "web": {
+            "format": "webp",
+            "path": "notes/30-厕所没纸了/web/5_page4.webp",
+            "quality": 82,
+            "sha256": "2dffe1ba7b69666cb923474e5dc2d14073866b8adc619a2b924ab2d8cd7d1da4",
+            "size": 85362
+          },
+          "width": 1086
+        }
+      ],
+      "order": 30,
+      "source_note": "sources/2026-11-06/厕所没纸了/厕所没纸了_xhs.md",
+      "source_note_sha256": "58000dc37a23104e399f3bd8d39cbee0038886e64becdee3ba090d728395c8f8",
+      "status": "未发布",
+      "style": "白底小黑手绘，红黑蓝橙。",
+      "title": "厕所没纸了，英文怎么说？"
     }
   ],
-  "output_digest": "deefd9beba2f33849da5ab9d34c49b0ab22522e9b107f1e54c46a958a1531efc",
+  "output_digest": "867e0bca268bfdf301e2d3fbc95976c29c99c097ff08e5586c0d9169555873d0",
   "schema_version": 1,
   "site": {
     "accent": "#c44536",
@@ -3261,15 +3757,15 @@
     "access_gate": true,
     "pages_url": "https://passmetheplay.github.io/xhs-english-notes-deploy/",
     "repository_url": "https://github.com/passmetheplay/xhs-english-notes-deploy",
-    "subtitle": "小黑人场景英语 · 新增3篇 · 2026-11-03",
-    "title": "小红书英语口语｜26篇"
+    "subtitle": "小黑人场景英语 · 新增4篇 · 2026-11-06",
+    "title": "小红书英语口语｜30篇"
   },
   "source_root_hint": "sources",
   "totals": {
-    "images": 130,
-    "notes": 26,
-    "original_bytes": 163487012,
-    "savings_percent": 93.93961766210516,
-    "webp_bytes": 9907938
+    "images": 150,
+    "notes": 30,
+    "original_bytes": 189328908,
+    "savings_percent": 93.92239245366586,
+    "webp_bytes": 11506668
   }
 }

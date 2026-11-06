@@ -1,0 +1,73 @@
+{
+  "title": "厕所没纸了，英文怎么说？",
+  "focus": "厕所没纸了",
+  "account": "小妙英语",
+  "visual_style": "xiaohei",
+  "canvas": [
+    1086,
+    1448
+  ],
+  "source": "原创情景英语",
+  "topic_audit": {
+    "admission_total": 10,
+    "grade": "A",
+    "dedup": "与现有26篇按沟通目的核对，未重复。"
+  },
+  "pages": [
+    {
+      "filename": "1_cover.png",
+      "page_title": "厕所没纸了",
+      "kind": "cover",
+      "texts": [
+        "厕所没纸了",
+        "英文怎么说？",
+        "隔间没纸求助"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCover with exactly three text blocks: large red 厕所没纸了, large black 英文怎么说？, blue 隔间没纸求助. Lower scene: 卫生间内关着门的独立隔间，门下只露出小黑穿鞋的脚，门外白色线稿朋友拿着一卷卫生纸，无身体暴露. All props monochrome and without words, tiny orange gesture accents."
+    },
+    {
+      "filename": "2_page1.png",
+      "page_title": "先说隔间没纸",
+      "kind": "lesson",
+      "texts": [
+        "先说隔间没纸",
+        "This stall is out of toilet paper.",
+        "这个隔间没卫生纸了。"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 先说隔间没纸\nBLACK English: This stall is out of toilet paper.\nBLUE Chinese: 这个隔间没卫生纸了。\nBelow the text, draw this scene: 小黑站在关着门的卫生间隔间内，穿着整齐，无身体暴露，指向空的厕纸架. No lettering on props. Dialogue stays left aligned. No additional words. Refer to the supplied examples for style and character identity. Never copy reference text."
+    },
+    {
+      "filename": "3_page2.png",
+      "page_title": "请朋友拿一卷",
+      "kind": "lesson",
+      "texts": [
+        "请朋友拿一卷",
+        "Could you bring me a roll?",
+        "能帮我拿一卷纸吗？"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 请朋友拿一卷\nBLACK English: Could you bring me a roll?\nBLUE Chinese: 能帮我拿一卷纸吗？\nBelow the text, draw this scene: 关着门的卫生间隔间，门外的白色线稿朋友手拿一卷卫生纸回应，门下只可见小黑穿鞋的脚. No lettering on props. Dialogue stays left aligned. No additional words. Refer to the supplied examples for style and character identity. Never copy reference text."
+    },
+    {
+      "filename": "4_page3.png",
+      "page_title": "请从门底下递",
+      "kind": "lesson",
+      "texts": [
+        "请从门底下递",
+        "Could you pass it under the door?",
+        "能从门底下递给我吗？"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 请从门底下递\nBLACK English: Could you pass it under the door?\nBLUE Chinese: 能从门底下递给我吗？\nBelow the text, draw this scene: 白色线稿朋友弯腰从关着的隔间门底下递卫生纸，只露出小黑一只接纸的手. No lettering on props. Dialogue stays left aligned. No additional words. Refer to the supplied examples for style and character identity. Never copy reference text."
+    },
+    {
+      "filename": "5_page4.png",
+      "page_title": "隔着门这样说",
+      "kind": "dialogue",
+      "texts": [
+        "隔着门这样说",
+        "A: This stall is out of toilet paper.\nB: I have a roll.\nA: Could you pass it under the door?\nB: Sure. Here you go.\nA: Thanks!",
+        "说明没纸 → 请对方递纸"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 隔着门这样说\nBLACK English: A: This stall is out of toilet paper.\nB: I have a roll.\nA: Could you pass it under the door?\nB: Sure. Here you go.\nA: Thanks!\nBLUE Chinese: 说明没纸 → 请对方递纸\nBelow the text, draw this scene: 卫生间隔间门关着，朋友从门底下递一卷卫生纸，小黑伸出一只黑色线稿手接纸. No lettering on props. Dialogue stays left aligned. No additional words. Refer to the supplied examples for style and character identity. Never copy reference text."
+    }
+  ]
+}

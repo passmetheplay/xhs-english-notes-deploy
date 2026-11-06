@@ -1,0 +1,73 @@
+{
+  "title": "洗手间在哪儿，英文怎么说？",
+  "focus": "洗手间在哪儿",
+  "account": "小妙英语",
+  "visual_style": "xiaohei",
+  "canvas": [
+    1086,
+    1448
+  ],
+  "source": "原创情景英语",
+  "topic_audit": {
+    "admission_total": 10,
+    "grade": "A",
+    "dedup": "与现有26篇按沟通目的核对，未重复。"
+  },
+  "pages": [
+    {
+      "filename": "1_cover.png",
+      "page_title": "洗手间在哪儿",
+      "kind": "cover",
+      "texts": [
+        "洗手间在哪儿",
+        "英文怎么说？",
+        "着急时直接问"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCover with exactly three text blocks: large red 洗手间在哪儿, large black 英文怎么说？, blue 着急时直接问. Lower scene: 在商场走廊，小黑向白色线稿工作人员问路，墙上是无字的通用厕所男女图标路标. All props monochrome and without words, tiny orange gesture accents."
+    },
+    {
+      "filename": "2_page1.png",
+      "page_title": "先问洗手间在哪",
+      "kind": "lesson",
+      "texts": [
+        "先问洗手间在哪",
+        "Where’s the restroom?",
+        "洗手间在哪儿？"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 先问洗手间在哪\nBLACK English: Where’s the restroom?\nBLUE Chinese: 洗手间在哪儿？\nBelow the text, draw this scene: 小黑向工作人员问路，墙上有不带字的通用厕所图标. No lettering on props. Dialogue stays left aligned. No additional words. Refer to the supplied examples for style and character identity. Never copy reference text."
+    },
+    {
+      "filename": "3_page2.png",
+      "page_title": "确认在不在这层",
+      "kind": "lesson",
+      "texts": [
+        "确认在不在这层",
+        "Is it on this floor?",
+        "是在这一层吗？"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 确认在不在这层\nBLACK English: Is it on this floor?\nBLUE Chinese: 是在这一层吗？\nBelow the text, draw this scene: 小黑指向眼前走廊，背景有楼梯和通用厕所图标. No lettering on props. Dialogue stays left aligned. No additional words. Refer to the supplied examples for style and character identity. Never copy reference text."
+    },
+    {
+      "filename": "4_page3.png",
+      "page_title": "听懂怎么走",
+      "kind": "lesson",
+      "texts": [
+        "听懂怎么走",
+        "It’s down the hall on the left.",
+        "沿走廊往前走，在左边。"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 听懂怎么走\nBLACK English: It’s down the hall on the left.\nBLUE Chinese: 沿走廊往前走，在左边。\nBelow the text, draw this scene: 小黑沿着走廊看向左侧门上的通用厕所图标，有橙色左转箭头. No lettering on props. Dialogue stays left aligned. No additional words. Refer to the supplied examples for style and character identity. Never copy reference text."
+    },
+    {
+      "filename": "5_page4.png",
+      "page_title": "问路时这样说",
+      "kind": "dialogue",
+      "texts": [
+        "问路时这样说",
+        "A: Where’s the restroom?\nB: It’s on this floor.\nA: Which way?\nB: Down the hall, on the left.\nA: Thanks!",
+        "问位置 → 确认方向"
+      ],
+      "prompt": "Use case: scientific-educational. Generate ONE complete independent 1086×1448 PNG (3:4 portrait) Xiaohongshu English-learning carousel page, not a sheet of pages. Pure clean white background, large clear handwritten lettering, generous empty space and 8% safe margin. Match the reference's black round-headed stick character: black circular head, two white oval eyes with black pupils, thin black line body and limbs, black oval feet. A white outline supporting person is allowed. No bean bodies, no 3D, no gradients, no patterned paper. Red page heading, black English, blue Chinese translation, orange ONLY for a few motion strokes. No boxes/cards, no branding, no page numbers, no watermark, no extra text.\nCopy precisely these three text blocks, with natural wraps and ample side margins. Large RED heading: 问路时这样说\nBLACK English: A: Where’s the restroom?\nB: It’s on this floor.\nA: Which way?\nB: Down the hall, on the left.\nA: Thanks!\nBLUE Chinese: 问位置 → 确认方向\nBelow the text, draw this scene: 工作人员用手指向走廊左边，小黑顺着方向看. No lettering on props. Dialogue stays left aligned. No additional words. Refer to the supplied examples for style and character identity. Never copy reference text."
+    }
+  ]
+}
